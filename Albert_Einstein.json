@@ -1,0 +1,23 @@
+{
+  "thinkerName": "Albert Einstein",
+  "thinkerImage": "",
+  "indexLetter": "E",
+  "nationality": "German-Swiss-American",
+  "occupation": "Theoretical Physicist",
+  "school": "Relativity",
+  "born": "14 March 1879",
+  "died": "18 April 1955",
+  "knownFor": [
+    "Theory of Relativity",
+    "E=mc²",
+    "Photoelectric Effect",
+    "Nobel Prize in Physics"
+  ],
+  "legacy": "Widely regarded as one of the greatest scientists in history.",
+  "thinkerDescription": "Albert Einstein was a theoretical physicist who transformed our understanding of space, time, gravity, and energy.",
+  "quotes": [
+    "Imagination is more important than knowledge.",
+    "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "Try not to become a person of success, but rather try to become a person of value."
+  ]
+}
