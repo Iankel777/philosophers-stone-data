@@ -1,147 +1,54 @@
 {
   "thinkerName": "Albert Einstein",
-  "thinkerImage": "https://tse2.mm.bing.net/th/id/OIP.hBTGHbs21HmZEiG9XnkQ_QHaLH?pid=Api&h=220&P=0",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
   "indexLetter": "A",
   "nationality": "German-Swiss-American",
   "occupation": "Theoretical Physicist",
   "school": "Relativity",
   "born": "14 March 1879",
   "died": "18 April 1955",
+
   "knownFor": [
     "Theory of Relativity",
     "E=mc²",
     "Photoelectric Effect",
-    "Nobel Prize in Physics"
+    "Brownian Motion",
+    "General Relativity",
+    "Nobel Prize in Physics (1921)"
   ],
-  "legacy": "Widely regarded as one of the greatest scientists in history.",
-  "thinkerDescription": "Albert Einstein was a German‑born theoretical physicist whose work reshaped modern science. He developed special and general relativity, explained the photoelectric effect, and introduced concepts that became foundations of quantum mechanics. 
 
-🧬 Early Life
-Einstein was born on 14 March 1879 in Ulm, Germany, and grew up in Munich in a secular Jewish family. He showed early curiosity for mathematics and science, especially geometry. After leaving Germany, he studied in Switzerland and graduated from the Swiss Federal Polytechnic School in Zurich in 1900. 
+  "legacy": "Albert Einstein fundamentally transformed modern physics and became one of the most influential scientists in history. His theories reshaped humanity's understanding of space, time, gravity, mass and energy. His work continues to influence physics, cosmology, technology and scientific thought around the world.",
 
-Key early milestones:
+  "earlyLife": "Albert Einstein was born on 14 March 1879 in Ulm, Germany. He grew up in Munich and displayed an early fascination with mathematics, geometry and science. After leaving Germany he studied in Switzerland and graduated from the Swiss Federal Polytechnic School in Zurich.",
 
-Quit German high school at 15 due to rigid teaching.
+  "scientificField": "Einstein worked primarily in theoretical physics. His major areas of study included relativity, quantum theory, statistical mechanics, cosmology, gravitation and unified field theories.",
 
-Studied in Aarau, Switzerland, then entered ETH Zurich.
+  "majorContributions": "Einstein developed the Special Theory of Relativity in 1905, introducing the idea that space and time are interconnected. He formulated the mass-energy equivalence equation E=mc². His explanation of the photoelectric effect established important foundations of quantum physics and earned him the Nobel Prize in Physics. In 1915 he completed the General Theory of Relativity, describing gravity as the curvature of spacetime.",
 
-Worked as a patent clerk in Bern, where he developed many of his groundbreaking ideas. 
+  "laterLife": "Einstein emigrated to the United States in 1933 to escape Nazi Germany. He joined the Institute for Advanced Study in Princeton and became a United States citizen in 1940. During his later years he remained active in science, education, humanitarian causes and international peace efforts.",
 
-🧪 Scientific Field
-Einstein’s field was theoretical physics, with major contributions to:
+  "whyImportant": "Einstein's work revolutionized humanity's understanding of the universe. His discoveries helped establish modern cosmology, GPS technology, nuclear energy research, astrophysics and many fields of modern science. He remains a universal symbol of intelligence, creativity and scientific curiosity.",
 
-Relativity (special and general)
-
-Quantum theory
-
-Statistical mechanics
-
-Cosmology
-
-Unified field theory (later in life) 
-
-🚀 Major Contributions
-Einstein’s work transformed physics in the 20th century. His most important contributions include:
-
-Special Theory of Relativity (1905)  
-Reconciled mechanics with electromagnetism; introduced the idea that space and time are linked. 
-
-E = mc²  
-Demonstrated mass–energy equivalence, one of the most famous equations in history. 
-
-Photoelectric Effect  
-Showed that light behaves as particles (photons), earning him the 1921 Nobel Prize in Physics. 
-
-Brownian Motion Explanation  
-Provided evidence for the existence of atoms. 
-
-General Theory of Relativity (1915)  
-Recast gravity as the curvature of spacetime. Confirmed experimentally during the 1919 solar eclipse. 
-
-Cosmological Constant & Early Cosmology  
-Introduced concepts that later became central to modern cosmology. 
-
-Unified Field Theory Attempts  
-Spent decades trying to unify electromagnetism and gravity. 
-
-🌍 Later Life & Influence
-Einstein moved to the U.S. in 1933, joining the Institute for Advanced Study in Princeton. He became a U.S. citizen in 1940. Though a pacifist, he warned President Roosevelt about nuclear research, influencing the start of the Manhattan Project. 
-
-He remained active in humanitarian and political causes, including world peace and Jewish cultural institutions. He died on 18 April 1955 in Princeton, New Jersey. 
-
-⭐ Why Einstein Matters
-Einstein’s theories revolutionized our understanding of:
-
-Space and time
-
-Gravity
-
-Light
-
-Energy
-
-The structure of the universe
-
-His work laid the foundation for technologies such as GPS, lasers, nuclear energy, and modern astrophysics.",
   "quotes": [
-“Imagination is more important than knowledge.”
-
-“Life is like riding a bicycle. To keep your balance, you must keep moving.”
-
-“Strive not to be a success, but rather to be of value.”
-
-“The important thing is not to stop questioning.”
-
-“Weakness of attitude becomes weakness of character.”
-
-“In the middle of difficulty lies opportunity.”
-
-“A person who never made a mistake never tried anything new.”
-
-“I have no special talent. I am only passionately curious.”
-
-“Peace cannot be kept by force; it can only be achieved by understanding.”
-
-“Logic will get you from A to B. Imagination will take you everywhere.”
-
-“The true sign of intelligence is not knowledge but imagination.”
-
-“If you can’t explain it simply, you don’t understand it well enough.”
-
-“Only a life lived for others is a life worthwhile.”
-
-“Reality is merely an illusion, albeit a very persistent one.”
-
-“It is not that I’m so smart. But I stay with the questions much longer.”
-
-“Education is what remains after one has forgotten what one has learned in school.”
-
-“The difference between stupidity and genius is that genius has its limits.”
-
-“Not everything that can be counted counts, and not everything that counts can be counted.”
-
-“The only source of knowledge is experience.”
-
-“Anyone who has never made a mistake has never tried anything new.”
-
-“Information is not knowledge.”
-
-“The measure of intelligence is the ability to change.”
-
-“A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness.”
-
-“The monotony and solitude of a quiet life stimulates the creative mind.”
-
-“Great spirits have always encountered violent opposition from mediocre minds.”
-
-“Small is the number of people who see with their eyes and think with their minds.”
-
-“The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing.”
-
-“You never fail until you stop trying.”
-
-“Once you stop learning, you start dying.”
-
-“Imagination is everything. It is the preview of life’s coming attractions.”
+    "1. Imagination is more important than knowledge.",
+    "2. Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "3. Try not to become a person of success, but rather a person of value.",
+    "4. The important thing is not to stop questioning.",
+    "5. In the middle of difficulty lies opportunity.",
+    "6. A person who never made a mistake never tried anything new.",
+    "7. I have no special talents. I am only passionately curious.",
+    "8. Peace cannot be kept by force; it can only be achieved by understanding.",
+    "9. Logic will get you from A to B. Imagination will take you everywhere.",
+    "10. The true sign of intelligence is not knowledge but imagination.",
+    "11. If you can't explain it simply, you don't understand it well enough.",
+    "12. Reality is merely an illusion, albeit a very persistent one.",
+    "13. Only a life lived for others is a life worthwhile.",
+    "14. Education is what remains after one has forgotten what one has learned in school.",
+    "15. The measure of intelligence is the ability to change.",
+    "16. Learn from yesterday, live for today, hope for tomorrow.",
+    "17. The only source of knowledge is experience.",
+    "18. Curiosity has its own reason for existing.",
+    "19. The value of a man should be seen in what he gives and not in what he is able to receive.",
+    "20. Great spirits have always encountered violent opposition from mediocre minds."
   ]
 }
