@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Alfred Tarski",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/7/76/Alfred_Tarski.jpg",
+  "indexLetter": "A",
+  "nationality": "Polish-American",
+  "occupation": "Mathematician, Logician, Philosopher",
+  "school": "Analytic Philosophy",
+  "born": "14 January 1901",
+  "died": "26 October 1983",
+
+  "knownFor": [
+    "Semantic Theory of Truth",
+    "Tarski's Undefinability Theorem",
+    "Model Theory",
+    "Formal Logic",
+    "Set Theory",
+    "Mathematical Logic",
+    "Algebraic Logic",
+    "Tarski's Convention T"
+  ],
+
+  "legacy": "Alfred Tarski is regarded as one of the greatest logicians of the twentieth century. His work transformed logic, mathematics, linguistics, computer science, and philosophy. By providing a rigorous mathematical account of truth, he helped establish modern semantics and laid essential foundations for model theory and formal reasoning. His ideas continue to influence logic, artificial intelligence, programming languages, and the philosophy of language.",
+
+  "earlyLife": "Alfred Tarski was born Alfred Teitelbaum on 14 January 1901 in Warsaw, then part of the Russian Empire. He displayed exceptional intellectual ability from an early age and studied mathematics and philosophy at the University of Warsaw. There he became part of the influential Warsaw School of Logic, working alongside some of Europe's leading mathematicians and philosophers.",
+
+  "scientificField": "Tarski worked primarily in mathematical logic, model theory, set theory, algebra, semantics, philosophy of language, and foundations of mathematics. His research focused on truth, meaning, formal systems, and the structure of mathematical reasoning.",
+
+  "majorContributions": "Tarski developed the Semantic Theory of Truth, providing a precise mathematical framework for determining when statements are true within formal languages. His famous Convention T established a foundational criterion for truth definitions. He proved Tarski's Undefinability Theorem, demonstrating that truth cannot be fully defined within sufficiently rich formal systems. Tarski also made groundbreaking contributions to model theory, algebraic logic, and the foundations of mathematics, helping shape modern logic as a rigorous scientific discipline.",
+
+  "laterLife": "With the outbreak of World War II, Tarski remained in the United States and built a distinguished academic career at the University of California, Berkeley. There he trained generations of influential mathematicians and logicians. Throughout his later years he continued producing groundbreaking research while establishing Berkeley as one of the world's leading centers for logic and mathematical philosophy.",
+
+  "whyImportant": "Much of modern logic, computer science, artificial intelligence, database theory, and the philosophy of language rests upon concepts developed by Tarski. His work provided the tools needed to rigorously analyze meaning, truth, formal systems, and mathematical reasoning. Today, his influence can be found in fields ranging from software verification and programming languages to linguistic semantics and machine reasoning.",
+
+  "quotes": [
+    "1. Semantics is a sober and modest discipline.",
+    "2. Truth cannot be sacrificed for simplicity.",
+    "3. Precision is the foundation of logical inquiry.",
+    "4. Mathematics advances through rigorous definitions.",
+    "5. Logic teaches us how to reason correctly.",
+    "6. Clarity is among the highest intellectual virtues.",
+    "7. Formal systems reveal the structure of thought.",
+    "8. Scientific progress depends on precise language.",
+    "9. Understanding begins with exact definitions.",
+    "10. Logic transforms intuition into knowledge.",
+    "11. Every theorem uncovers new relationships.",
+    "12. Truth requires a disciplined framework.",
+    "13. Mathematical rigor strengthens understanding.",
+    "14. Knowledge grows through careful analysis.",
+    "15. Ambiguity is the enemy of logical reasoning.",
+    "16. Discovery often begins with the clarification of concepts.",
+    "17. Reasoning can be studied scientifically.",
+    "18. Logic provides a foundation for all intellectual inquiry.",
+    "19. Great ideas require precise expression.",
+    "20. Mathematical truth deserves exact treatment.",
+    "21. Language shapes the way we understand reality.",
+    "22. Formal reasoning illuminates hidden structures.",
+    "23. Scientific thought depends upon consistency.",
+    "24. Precision leads to deeper understanding.",
+    "25. Logic connects mathematics and philosophy.",
+    "26. The search for truth requires intellectual discipline.",
+    "27. Every concept should withstand rigorous examination.",
+    "28. Knowledge advances through clarity and rigor.",
+    "29. Understanding grows through systematic reasoning.",
+    "30. Truth remains one of humanity's most important pursuits."
+  ]
+}

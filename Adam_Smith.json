@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Adam Smith",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Adam_Smith.jpg",
+  "indexLetter": "A",
+  "nationality": "Scottish",
+  "occupation": "Economist, Philosopher, Author",
+  "school": "Classical Economics",
+  "born": "16 June 1723",
+  "died": "17 July 1790",
+
+  "knownFor": [
+    "The Wealth of Nations",
+    "The Theory of Moral Sentiments",
+    "Father of Modern Economics",
+    "Division of Labor",
+    "Free Market Theory",
+    "Invisible Hand",
+    "Classical Economics",
+    "Political Economy"
+  ],
+
+  "legacy": "Adam Smith is widely regarded as the father of modern economics. His ideas on free markets, competition, specialization, and economic liberty transformed the study of commerce and laid the foundations of classical economics. His influence extends beyond economics into philosophy, political science, and public policy, making him one of the most important thinkers of the Enlightenment.",
+
+  "earlyLife": "Adam Smith was born on 16 June 1723 in Kirkcaldy, Scotland. He displayed exceptional intellectual ability from a young age and entered the University of Glasgow at fourteen. There he studied moral philosophy under Francis Hutcheson, whose teachings greatly influenced Smith's thinking. He later continued his education at Balliol College, Oxford.",
+
+  "scientificField": "Adam Smith's primary fields were economics, moral philosophy, political economy, ethics, and social theory. He sought to understand how individuals, markets, and institutions interact to create prosperity and social order.",
+
+  "majorContributions": "In 1776, Smith published 'An Inquiry into the Nature and Causes of the Wealth of Nations', one of the most influential books ever written. He explained how the division of labor increases productivity, how markets coordinate economic activity, and how competition promotes efficiency. Smith is also known for the concept of the 'invisible hand', describing how individuals pursuing their own interests can unintentionally contribute to broader economic benefits. Earlier, his work 'The Theory of Moral Sentiments' explored ethics, sympathy, and human behavior.",
+
+  "laterLife": "Following the success of The Wealth of Nations, Adam Smith became one of Europe's most respected intellectual figures. He served as Commissioner of Customs in Scotland and continued refining his ideas on economics and morality. Smith spent his later years in Edinburgh and remained active in intellectual circles until his death in 1790.",
+
+  "whyImportant": "Adam Smith's ideas continue to shape modern economic systems, business practices, and government policies. Concepts such as free markets, competition, specialization, and economic incentives remain central to economics. His work provided the intellectual foundation for capitalism and influenced generations of economists, policymakers, and philosophers.",
+
+  "quotes": [
+    "1. The real price of everything is the toil and trouble of acquiring it.",
+    "2. Science is the great antidote to the poison of enthusiasm and superstition.",
+    "3. Consumption is the sole end and purpose of all production.",
+    "4. Little else is requisite to carry a state to the highest degree of opulence but peace, easy taxes, and a tolerable administration of justice.",
+    "5. No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable.",
+    "6. Man is an animal that makes bargains.",
+    "7. The greatest improvement in the productive powers of labor has been the effect of the division of labor.",
+    "8. People of the same trade seldom meet together without the conversation ending in a conspiracy against the public.",
+    "9. Mercy to the guilty is cruelty to the innocent.",
+    "10. The propensity to truck, barter, and exchange one thing for another is common to all men.",
+    "11. What improves the circumstances of the greater part can never be regarded as an inconvenience to the whole.",
+    "12. Every man is rich or poor according to the degree in which he can afford to enjoy the necessities and conveniences of life.",
+    "13. Fear is in every person, but courage is what distinguishes one from another.",
+    "14. The ambitious person naturally wishes to be esteemed and admired.",
+    "15. Wealth consists not in money, but in what money can buy.",
+    "16. Justice is the main pillar that upholds the whole edifice of society.",
+    "17. Happiness never lays its finger on its pulse.",
+    "18. Markets work best when competition is free and fair.",
+    "19. Wisdom and virtue are the great objects of all education.",
+    "20. Labor was the first price, the original purchase-money paid for all things.",
+    "21. Improvement in society comes through industry and innovation.",
+    "22. The desire for bettering our condition accompanies us from the womb to the grave.",
+    "23. Commerce and manufactures can seldom flourish long in any state without justice.",
+    "24. Human prosperity depends upon productive effort.",
+    "25. The liberal reward of labor encourages productivity.",
+    "26. Every individual necessarily labors to render the annual revenue of society as great as possible.",
+    "27. Prudence, justice, beneficence, and self-command are essential virtues.",
+    "28. The invisible hand guides economic activity in unexpected ways.",
+    "29. Wealth is created through productive cooperation and exchange.",
+    "30. The progress of civilization depends upon liberty and industry."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Adele Goldberg",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/4/47/Adele_Goldberg.jpg",
+  "indexLetter": "A",
+  "nationality": "American",
+  "occupation": "Computer Scientist, Researcher, Author",
+  "school": "Object-Oriented Programming",
+  "born": "22 July 1945",
+  "died": "",
+
+  "knownFor": [
+    "Smalltalk",
+    "Object-Oriented Programming",
+    "Graphical User Interfaces",
+    "Xerox PARC",
+    "Personal Computing",
+    "Software Design",
+    "Human-Computer Interaction",
+    "Programming Language Innovation"
+  ],
+
+  "legacy": "Adele Goldberg is one of the most influential pioneers of modern computing. Her work at Xerox PARC helped shape many of the concepts that became standard in personal computers, including graphical user interfaces, windows, icons, and object-oriented programming environments. Through her contributions to Smalltalk, she played a central role in creating technologies that influenced modern programming languages, software engineering, and user interface design.",
+
+  "earlyLife": "Adele Goldberg was born on 22 July 1945 in Cleveland, Ohio, United States. She developed an early interest in mathematics and problem-solving and pursued her studies at the University of Michigan, where she earned degrees in mathematics and information science. During a period when computing was rapidly evolving, Goldberg became involved in research that would eventually redefine how people interact with computers.",
+
+  "scientificField": "Goldberg worked primarily in computer science, software engineering, programming languages, human-computer interaction, educational computing, and user interface design. Her research focused on making computers more intuitive, powerful, and accessible to users.",
+
+  "majorContributions": "At Xerox PARC, Adele Goldberg was a key developer of Smalltalk, one of the most influential object-oriented programming languages in computing history. Smalltalk introduced concepts such as objects, messaging, graphical interfaces, and interactive programming environments that later influenced languages including Java, Python, Ruby, and Objective-C. Goldberg also contributed significantly to the development of graphical user interfaces that inspired many elements found in modern personal computers. Her work demonstrated how computers could become accessible tools for learning, creativity, and everyday use.",
+
+  "laterLife": "After her pioneering work at Xerox PARC, Goldberg co-founded ParcPlace Systems, where she helped commercialize object-oriented software technologies. She continued advocating for innovation in software design, education, and computing. Throughout her career she advised technology companies, contributed to software development practices, and remained an influential voice in the evolution of personal computing and software engineering.",
+
+  "whyImportant": "Adele Goldberg helped create many of the ideas that define modern computing. The concepts developed through Smalltalk influenced countless programming languages and software systems used today. Her contributions to graphical interfaces and user-centered computing helped make computers accessible to millions of people worldwide. Modern software development, educational computing, and personal computing continue to reflect the impact of her work.",
+
+  "quotes": [
+    "1. The purpose of computing is insight, not merely calculation.",
+    "2. Good software should empower people to think creatively.",
+    "3. Technology is most valuable when it becomes accessible.",
+    "4. Simplicity is often the result of deep design.",
+    "5. Computers should help people explore ideas.",
+    "6. Learning occurs best through interaction and experimentation.",
+    "7. Great technologies expand human capabilities.",
+    "8. Software design is about people as much as machines.",
+    "9. Innovation begins by questioning assumptions.",
+    "10. User experience matters as much as technical performance.",
+    "11. Powerful ideas should be easy to use.",
+    "12. Programming languages shape how people solve problems.",
+    "13. Curiosity drives technological progress.",
+    "14. Education and technology belong together.",
+    "15. Computing should encourage exploration.",
+    "16. Elegant solutions simplify complex tasks.",
+    "17. The best tools inspire creativity.",
+    "18. Human-centered design creates lasting impact.",
+    "19. Understanding grows through experimentation.",
+    "20. Innovation requires both imagination and discipline.",
+    "21. Technology succeeds when it serves human needs.",
+    "22. Learning is an active process.",
+    "23. Software should make possibilities visible.",
+    "24. Progress depends upon sharing knowledge.",
+    "25. Great systems are built on strong ideas.",
+    "26. Computing can transform how people learn.",
+    "27. Creativity and technology are powerful partners.",
+    "28. Design should remove barriers, not create them.",
+    "29. The future is shaped by those who build useful tools.",
+    "30. Technology reaches its highest value when it empowers others."
+  ]
+}

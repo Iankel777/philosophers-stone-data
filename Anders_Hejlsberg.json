@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Anders Hejlsberg",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Anders_Hejlsberg_2018.jpg",
+  "indexLetter": "A",
+  "nationality": "Danish",
+  "occupation": "Software Engineer, Computer Scientist, Programming Language Designer",
+  "school": "Programming Languages",
+  "born": "2 December 1960",
+  "died": "",
+
+  "knownFor": [
+    "C# Programming Language",
+    "TypeScript",
+    "Turbo Pascal",
+    "Delphi",
+    ".NET Framework",
+    "Programming Language Design",
+    "Software Development Tools",
+    "Microsoft Technical Fellow"
+  ],
+
+  "legacy": "Anders Hejlsberg is one of the most influential programming language designers in computing history. His work has shaped how millions of developers write software, from the early days of personal computing with Turbo Pascal to modern web and enterprise development through C# and TypeScript. His contributions have had a profound impact on software engineering, programming language design, and developer productivity.",
+
+  "earlyLife": "Anders Hejlsberg was born on 2 December 1960 in Copenhagen, Denmark. From an early age he showed strong interests in mathematics, engineering, and computing. While studying engineering at the Technical University of Denmark, he became deeply involved in software development and began creating tools that simplified programming. His practical and elegant approach to software design quickly gained attention within the growing computer industry.",
+
+  "scientificField": "Hejlsberg works primarily in computer science, software engineering, compiler design, programming languages, developer tools, and software architecture. His work focuses on creating programming systems that improve developer productivity while maintaining performance and reliability.",
+
+  "majorContributions": "Hejlsberg first gained international recognition as the creator of Turbo Pascal, one of the most successful programming environments of the 1980s. He later became the lead architect of Delphi, a pioneering rapid application development platform. After joining Microsoft, he became the chief designer of C#, one of the world's most widely used programming languages and a cornerstone of the .NET ecosystem. Later, he led the creation of TypeScript, a typed superset of JavaScript that significantly improved large-scale web application development and became one of the most popular programming languages in modern software engineering.",
+
+  "laterLife": "As a Microsoft Technical Fellow, Hejlsberg continued leading major programming language and development platform initiatives. His work on TypeScript helped reshape modern web development by bringing improved scalability, tooling, and reliability to JavaScript-based applications. He remains an influential voice in software engineering, frequently speaking about programming language design, developer experience, and the future of software development.",
+
+  "whyImportant": "Anders Hejlsberg has directly influenced how modern software is built. Technologies he designed or helped create are used by millions of developers worldwide to produce applications, websites, cloud services, and enterprise systems. C# and TypeScript remain among the most important languages in the software industry, making Hejlsberg one of the most impactful programming language architects of the digital era.",
+
+  "quotes": [
+    "1. Good tools amplify human creativity.",
+    "2. Programming languages should help developers express ideas clearly.",
+    "3. Simplicity is often a sign of good design.",
+    "4. Software development is about solving problems, not creating complexity.",
+    "5. The best systems make difficult things easier.",
+    "6. Productivity grows when tools are designed for people.",
+    "7. Programming is both engineering and craftsmanship.",
+    "8. Great software starts with clear thinking.",
+    "9. Languages should evolve with the needs of developers.",
+    "10. Innovation comes from continuously improving existing ideas.",
+    "11. Developer experience matters.",
+    "12. Powerful abstractions reduce unnecessary complexity.",
+    "13. Understanding fundamentals leads to better software.",
+    "14. Technology should empower creativity.",
+    "15. Software engineering is about making trade-offs wisely.",
+    "16. Elegant solutions are often the most effective.",
+    "17. Every programming language reflects a philosophy.",
+    "18. Learning never stops in technology.",
+    "19. Good architecture makes future growth possible.",
+    "20. Reliability should be built into systems from the start.",
+    "21. Curiosity drives innovation.",
+    "22. Great technologies are adopted because they solve real problems.",
+    "23. Simplicity and power can coexist.",
+    "24. Clear code is a form of communication.",
+    "25. Tools shape how we think about problems.",
+    "26. Progress comes from continuous refinement.",
+    "27. Good design removes obstacles.",
+    "28. Software should help people achieve more.",
+    "29. Programming languages are tools for thought.",
+    "30. The future belongs to those who keep learning and adapting."
+  ]
+}

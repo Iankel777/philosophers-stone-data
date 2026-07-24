@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Alfred Binet",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Alfred_Binet.jpg",
+  "indexLetter": "A",
+  "nationality": "French",
+  "occupation": "Psychologist, Educator, Researcher",
+  "school": "Experimental Psychology",
+  "born": "8 July 1857",
+  "died": "18 October 1911",
+
+  "knownFor": [
+    "Binet-Simon Intelligence Scale",
+    "Intelligence Testing",
+    "Educational Psychology",
+    "IQ Testing Foundations",
+    "Child Psychology",
+    "Cognitive Development Research",
+    "Experimental Psychology",
+    "Psychometrics"
+  ],
+
+  "legacy": "Alfred Binet is regarded as one of the founders of modern psychology and psychometrics. He pioneered the scientific measurement of intelligence and developed the first practical intelligence test. His work revolutionized education, psychology, and cognitive assessment, influencing the development of IQ testing and shaping how scholars understand human intelligence and learning abilities.",
+
+  "earlyLife": "Alfred Binet was born on 8 July 1857 in Nice, France. Initially trained in law, he later became fascinated by psychology, biology, and scientific research. Much of his early knowledge was self-taught through extensive reading and experimentation. His growing interest in understanding human thought and behavior led him to pursue a career in psychology.",
+
+  "scientificField": "Binet worked primarily in psychology, psychometrics, intelligence research, cognitive development, education, and experimental science. His research focused on understanding intellectual abilities, learning processes, attention, memory, and individual differences.",
+
+  "majorContributions": "Alfred Binet's most important achievement was the creation of the Binet-Simon Intelligence Scale in 1905, developed with Théodore Simon. The test was designed to identify children who required additional educational support. Binet introduced the concept of mental age, providing a systematic method for evaluating cognitive development. His approach established the foundation for modern intelligence testing and influenced later IQ tests used around the world.",
+
+  "laterLife": "During his later years, Binet directed psychological research in Paris and continued refining methods for studying intelligence, memory, reasoning, and child development. He remained deeply committed to improving education through scientific understanding. Although he died relatively young in 1911, his work continued to grow in influence and became a cornerstone of educational and psychological assessment.",
+
+  "whyImportant": "Alfred Binet transformed psychology by showing that mental abilities could be studied scientifically and measured systematically. His intelligence tests helped educators better understand student needs and opened new paths in cognitive research. Modern educational assessment, psychology, and psychometrics owe much of their foundation to Binet's pioneering work.",
+
+  "quotes": [
+    "1. Intelligence is not a single and fixed quantity.",
+    "2. The mind develops through experience and education.",
+    "3. Understanding a child requires careful observation.",
+    "4. Scientific study should serve human improvement.",
+    "5. Intellectual abilities can be strengthened through practice.",
+    "6. Education should adapt to the needs of the learner.",
+    "7. Every child possesses unique potential.",
+    "8. True measurement begins with careful observation.",
+    "9. Knowledge grows through investigation and evidence.",
+    "10. Psychology must be grounded in scientific methods.",
+    "11. Intelligence involves adaptation to circumstances.",
+    "12. Learning is a dynamic process.",
+    "13. Human potential cannot be reduced to a single score.",
+    "14. Curiosity is essential for intellectual growth.",
+    "15. Education should uncover strengths rather than merely identify weaknesses.",
+    "16. Observation is the foundation of psychological science.",
+    "17. Every individual develops at a unique pace.",
+    "18. The goal of science is understanding, not judgment.",
+    "19. Progress depends upon accurate knowledge.",
+    "20. Research should improve human welfare.",
+    "21. Intelligence is revealed through action and problem-solving.",
+    "22. Learning continues throughout life.",
+    "23. Scientific inquiry requires patience and objectivity.",
+    "24. Children teach us as much as we teach them.",
+    "25. Development is influenced by both nature and experience.",
+    "26. Knowledge becomes valuable when it benefits society.",
+    "27. Careful measurement can reveal hidden patterns.",
+    "28. Education is a pathway to opportunity.",
+    "29. Understanding human abilities requires scientific rigor.",
+    "30. The study of the mind is one of humanity's greatest challenges."
+  ]
+}

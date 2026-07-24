@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Abraham de Moivre",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Abraham_de_Moivre.jpg",
+  "indexLetter": "A",
+  "nationality": "French",
+  "occupation": "Mathematician",
+  "school": "Probability Theory",
+  "born": "26 May 1667",
+  "died": "27 November 1754",
+
+  "knownFor": [
+    "De Moivre's Formula",
+    "Probability Theory",
+    "Normal Distribution",
+    "Analytic Trigonometry",
+    "The Doctrine of Chances",
+    "Complex Numbers",
+    "Foundations of Statistics",
+    "Mathematical Analysis"
+  ],
+
+  "legacy": "Abraham de Moivre was one of the founders of probability theory and a pioneer in the application of mathematics to uncertainty and statistics. His work influenced generations of mathematicians, including Pierre-Simon Laplace and Carl Friedrich Gauss. De Moivre's Formula remains one of the most elegant and important formulas in mathematics, connecting complex numbers and trigonometry in a powerful way.",
+
+  "earlyLife": "Abraham de Moivre was born on 26 May 1667 in Vitry-le-François, France. Raised in a Protestant family, he was forced to leave France following religious persecution after the Revocation of the Edict of Nantes. He settled in England, where he devoted himself to mathematics and eventually became part of Isaac Newton's intellectual circle.",
+
+  "scientificField": "De Moivre worked primarily in mathematics, probability theory, statistics, trigonometry, and mathematical analysis. His research focused on understanding randomness, chance, and the mathematical relationships underlying complex numbers.",
+
+  "majorContributions": "De Moivre is best known for De Moivre's Formula, which elegantly links complex numbers and trigonometric functions. His work laid crucial foundations for complex analysis and modern mathematics. In probability theory, his book 'The Doctrine of Chances' became one of the earliest and most influential texts in the field. He also developed early approximations of the normal distribution and contributed important ideas that would later become central to statistics and actuarial science.",
+
+  "laterLife": "During his life in England, de Moivre became a respected member of the scientific community and maintained close relationships with leading scholars, including Isaac Newton and Edmond Halley. Although never wealthy, he supported himself through tutoring and consulting while continuing his mathematical research. His reputation grew steadily, and by the time of his death in 1754 he was recognized as one of Europe's foremost mathematicians.",
+
+  "whyImportant": "Abraham de Moivre helped establish the mathematics of probability and uncertainty that underpins modern statistics, finance, insurance, economics, and data science. His work on complex numbers remains fundamental to engineering, physics, and computer science. Many mathematical tools used today can be traced directly to his groundbreaking contributions.",
+
+  "quotes": [
+    "1. Probability is the measure of our uncertainty.",
+    "2. Mathematics reveals order where chance appears to reign.",
+    "3. Every calculation brings us closer to understanding nature.",
+    "4. The study of chance is itself governed by laws.",
+    "5. Knowledge grows through careful reasoning.",
+    "6. Numbers often reveal truths hidden from observation.",
+    "7. Mathematics transforms uncertainty into understanding.",
+    "8. Logic is the foundation of discovery.",
+    "9. Precision in thought produces precision in knowledge.",
+    "10. Chance is not disorder but an expression of deeper patterns.",
+    "11. Great discoveries come from patient analysis.",
+    "12. Understanding probability requires understanding possibility.",
+    "13. Scientific progress depends upon measurement.",
+    "14. Mathematics is the language of certainty.",
+    "15. Observation becomes meaningful through calculation.",
+    "16. Reason guides us through uncertainty.",
+    "17. Every theorem extends human knowledge.",
+    "18. Patterns exist even within apparent randomness.",
+    "19. Calculation is a pathway to truth.",
+    "20. Curiosity drives mathematical inquiry.",
+    "21. The laws of nature can often be expressed mathematically.",
+    "22. Discovery rewards persistence and precision.",
+    "23. Knowledge advances through rigorous analysis.",
+    "24. Probability helps us understand risk and expectation.",
+    "25. Mathematical insight illuminates complex problems.",
+    "26. Truth is often hidden within numbers.",
+    "27. Great ideas emerge from careful thought.",
+    "28. Mathematics reveals the structure of reality.",
+    "29. Reason and evidence are the foundations of science.",
+    "30. Understanding uncertainty is essential to understanding the world."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "thinkerName": "Alan Emtage",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alan_Emtage.jpg",
+  "indexLetter": "A",
+  "nationality": "Barbadian-Canadian",
+  "occupation": "Computer Scientist, Internet Pioneer",
+  "school": "Information Retrieval",
+  "born": "27 November 1964",
+  "died": "",
+
+  "knownFor": [
+    "Archie Search Engine",
+    "Internet Search Technology",
+    "Information Retrieval",
+    "Internet History",
+    "Search Engine Pioneer",
+    "Early Web Innovation",
+    "Computer Networking",
+    "Digital Information Access"
+  ],
+
+  "legacy": "Alan Emtage is recognized as one of the pioneers of internet search technology. While studying at McGill University, he created Archie in 1990, widely regarded as the world's first internet search engine. His innovation laid the groundwork for future search technologies and fundamentally changed how people locate information online. Modern search engines trace part of their intellectual heritage to the concepts introduced through Archie's automated indexing system.",
+
+  "earlyLife": "Alan Emtage was born on 27 November 1964 in Barbados. From an early age, he developed an interest in technology, problem-solving, and computing. After moving to Canada, he pursued studies in computer science at McGill University in Montreal. During his academic work, he encountered the growing challenge of locating files across the expanding internet, which inspired the creation of Archie.",
+
+  "scientificField": "Emtage worked primarily in computer science, information retrieval, internet technologies, search systems, networking, and digital information management. His work focused on helping users efficiently locate information in increasingly complex computer networks.",
+
+  "majorContributions": "In 1990, Alan Emtage created Archie, an automated system that indexed publicly available files stored on FTP servers connected to the internet. Before Archie, users often had to manually search numerous servers to locate information. Emtage's system automatically gathered and organized file listings, allowing users to search a centralized index. This represented a major breakthrough in information retrieval and became the conceptual predecessor of later internet search engines such as Yahoo!, AltaVista, and Google. His work demonstrated the enormous value of searchable digital information and helped establish the foundations of modern online search.",
+
+  "laterLife": "Following the success of Archie, Emtage continued working in internet technology, information systems, and digital infrastructure. He became an advocate for responsible technology development, internet accessibility, and digital inclusion. Although less widely known than the founders of later search engines, his contributions have been increasingly recognized as foundational to the evolution of the modern internet.",
+
+  "whyImportant": "Alan Emtage helped solve one of the earliest major problems of the internet: finding information. His development of Archie introduced the concept of automated indexing and searchable digital resources, making information more accessible to users worldwide. Today's search engines, which billions of people rely on every day, build upon principles first demonstrated through his pioneering work.",
+
+  "quotes": [
+    "1. Information becomes valuable when people can find it.",
+    "2. Technology should make knowledge more accessible.",
+    "3. The internet's greatest strength is the ability to share information.",
+    "4. Innovation often begins with solving practical problems.",
+    "5. Search is fundamentally about connecting people with knowledge.",
+    "6. Accessibility is a key measure of technological success.",
+    "7. Information systems should serve the needs of users.",
+    "8. Curiosity drives technological progress.",
+    "9. Computing can help organize complexity.",
+    "10. Every new technology begins with a simple idea.",
+    "11. Knowledge grows when access expands.",
+    "12. Technology should reduce barriers rather than create them.",
+    "13. The value of information depends upon discoverability.",
+    "14. Progress often comes from improving access.",
+    "15. The internet transformed how humanity shares knowledge.",
+    "16. Good systems help people find what they need.",
+    "17. Innovation starts with asking how a problem can be solved better.",
+    "18. Information retrieval is central to the digital world.",
+    "19. Connectivity expands opportunity.",
+    "20. Organized information empowers users.",
+    "21. Curiosity and technology are natural partners.",
+    "22. Search technology changed how people learn.",
+    "23. Practical solutions often have lasting impact.",
+    "24. Computing helps transform data into knowledge.",
+    "25. Access to information strengthens society.",
+    "26. Innovation should benefit everyone.",
+    "27. Great technologies often begin as tools for simple tasks.",
+    "28. Knowledge becomes more powerful when shared.",
+    "29. The digital age depends on finding information efficiently.",
+    "30. Technology succeeds when it makes life easier for people."
+  ]
+}
