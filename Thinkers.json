@@ -1,5 +1,5 @@
 [
-  {"id":"aage_niels_bohr","name":"Aage Niels Bohr","letter":"A","category":"Physics","legend":false,"visible":true,"image":"","jsonFile":"Aage_Niels_Bohr.json"},
+  {"id":"aage_niels_bohr","name":"Aage Niels Bohr","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://ahf.nuclearmuseum.org/wp-content/uploads/2014/05/200px-Aage_Bohr.jpg","jsonFile":"Aage_Niels_Bohr.json"},
   {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"","jsonFile":"Aaron_Beck.json"},
   {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"","jsonFile":"Abraham_de_Moivre.json"},
   {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Abraham_Maslow.json"},
