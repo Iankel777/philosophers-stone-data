@@ -42,7 +42,6 @@
   {"id":"andreas_vesalius","name":"Andreas Vesalius","letter":"A","category":"Medicine","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/3/32/Andreas_Vesalius.jpg","jsonFile":"Andreas_Vesalius.json"},
 
   {"id":"andrew_huxley","name":"Andrew Huxley","letter":"A","category":"Biology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/05/Andrew_Huxley.jpg","jsonFile":"Andrew_Huxley.json"},
-  {"id":"andrew_ng","name":"Andrew Ng","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Andrew_Ng.json"},
   {"id":"andrew_tanenbaum","name":"Andrew Tanenbaum","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/67/Andrew_S._Tanenbaum.jpg","jsonFile":"Andrew_Tanenbaum.json"},
   {"id":"andrey_kolmogorov","name":"Andrey Kolmogorov","letter":"A","category":"Mathematics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/69/Andrey_Kolmogorov.jpg","jsonFile":"Andrey_Kolmogorov.json"},
   {"id":"andrey_markov","name":"Andrey Markov","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Andrey_Markov.jpg","jsonFile":"Andrey_Markov.json"},
@@ -54,7 +53,6 @@
   {"id":"archibald_garrod","name":"Archibald Garrod","letter":"A","category":"Medicine","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/23/Archibald_Garrod.jpg","jsonFile":"Archibald_Garrod.json"},
 
   {"id":"archimedes","name":"Archimedes","letter":"A","category":"Mathematics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Domenico-Fetti_Archimedes_1620.jpg","jsonFile":"Archimedes.json"},
-  {"id":"aristotle","name":"Aristotle","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Aristotle.json"},
   {"id":"arthur_eddington","name":"Arthur Eddington","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/45/Arthur_Stanley_Eddington.jpg","jsonFile":"Arthur_Eddington.json"},
   {"id":"arthur_janov","name":"Arthur Janov","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/64/Arthur_Janov.jpg","jsonFile":"Arthur_Janov.json"},
   {"id":"arthur_lewis","name":"Arthur Lewis","letter":"A","category":"Economics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Arthur_Lewis.jpg","jsonFile":"Arthur_Lewis.json"},
