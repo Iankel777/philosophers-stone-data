@@ -6,7 +6,7 @@
 
   {"id":"ada_lovelace","name":"Ada Lovelace","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg","jsonFile":"Ada_Lovelace.json"},
   {"id":"adam_smith","name":"Adam Smith","letter":"A","category":"Economics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AdamSmith.jpg/960px-AdamSmith.jpg","jsonFile":"Adam_Smith.json"},
-  {"id":"adele_goldberg","name":"Adele Goldberg","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://i.pinimg.com/736x/ad/7c/27/ad7c273ddcd6f6381d023129674ac977--programming-languages-the-s.jpg","jsonFile":"Adele_Goldberg.json"},
+  {"id":"adele_goldberg","name":"Adele Goldberg","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://sites4.mycontentco.com/iteck-solutions/wp-content/uploads/sites/21/2023/03/adel_905x-copy.jpg","jsonFile":"Adele_Goldberg.json"},
   {"id":"adi_shamir","name":"Adi Shamir","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg/960px-Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg","jsonFile":"Adi_Shamir.json"},
   {"id":"alan_emtage","name":"Alan Emtage","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://daily.jstor.org/wp-content/uploads/2017/02/alan_emtage.jpg","jsonFile":"Alan_Emtage.json"},
 
