@@ -2,7 +2,7 @@
   {"id":"aage_niels_bohr","name":"Aage Niels Bohr","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Aage_Bohr.jpg"},
   {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Aaron_T._Beck.jpg","jsonFile":"Aaron_Beck.json"},
   {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Abraham_de_Moivre.jpg","jsonFile":"Abraham_de_Moivre.json"},
-  {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Abraham_Maslow.jpg","jsonFile":"Abraham_Maslow.json"},
+  {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg/960px-Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg","jsonFile":"Abraham_Maslow.json"},
   {"id":"abu_rayhan_al_biruni","name":"Abu Rayhan al-Biruni","letter":"A","category":"Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7e/Abu_Raihan_Biruni.jpg","jsonFile":"Abu_Rayhan_al_Biruni.json"},
 
   {"id":"ada_lovelace","name":"Ada Lovelace","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg","jsonFile":"Ada_Lovelace.json"},
