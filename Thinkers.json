@@ -1,14 +1,14 @@
 [
   {"id":"aage_niels_bohr","name":"Aage Niels Bohr","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Aage_Bohr.jpg"},
-  {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Aaron_T._Beck.jpg","jsonFile":"Aaron_Beck.json"},
+  {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://images.livemint.com/img/2021/11/03/original/US-HEALTH-PSYCHOLOGY-BECK-0_1635916594101.jpg","jsonFile":"Aaron_Beck.json"},
   {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Abraham_de_Moivre_by_Joseph_Highmore.jpg/960px-Abraham_de_Moivre_by_Joseph_Highmore.jpg","jsonFile":"Abraham_de_Moivre.json"},
   {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg/960px-Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg","jsonFile":"Abraham_Maslow.json"},
 
   {"id":"ada_lovelace","name":"Ada Lovelace","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg","jsonFile":"Ada_Lovelace.json"},
   {"id":"adam_smith","name":"Adam Smith","letter":"A","category":"Economics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AdamSmith.jpg/960px-AdamSmith.jpg","jsonFile":"Adam_Smith.json"},
-  {"id":"adele_goldberg","name":"Adele Goldberg","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/47/Adele_Goldberg.jpg","jsonFile":"Adele_Goldberg.json"},
+  {"id":"adele_goldberg","name":"Adele Goldberg","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://i.pinimg.com/736x/ad/7c/27/ad7c273ddcd6f6381d023129674ac977--programming-languages-the-s.jpg","jsonFile":"Adele_Goldberg.json"},
   {"id":"adi_shamir","name":"Adi Shamir","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg/960px-Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg","jsonFile":"Adi_Shamir.json"},
-  {"id":"alan_emtage","name":"Alan Emtage","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/87/Alan_Emtage.jpg","jsonFile":"Alan_Emtage.json"},
+  {"id":"alan_emtage","name":"Alan Emtage","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://daily.jstor.org/wp-content/uploads/2017/02/alan_emtage.jpg","jsonFile":"Alan_Emtage.json"},
 
   {"id":"alan_kay","name":"Alan Kay","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/9/99/Alan_Kay_%283097597186%29.jpg","jsonFile":"Alan_Kay.json"},
   {"id":"alan_perlis","name":"Alan Perlis","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/59/Alan_Perlis.jpg","jsonFile":"Alan_Perlis.json"},
