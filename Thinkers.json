@@ -3,12 +3,11 @@
   {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Aaron_T._Beck.jpg","jsonFile":"Aaron_Beck.json"},
   {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Abraham_de_Moivre.jpg","jsonFile":"Abraham_de_Moivre.json"},
   {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg/960px-Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg","jsonFile":"Abraham_Maslow.json"},
-  {"id":"abu_rayhan_al_biruni","name":"Abu Rayhan al-Biruni","letter":"A","category":"Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7e/Abu_Raihan_Biruni.jpg","jsonFile":"Abu_Rayhan_al_Biruni.json"},
 
   {"id":"ada_lovelace","name":"Ada Lovelace","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg","jsonFile":"Ada_Lovelace.json"},
-  {"id":"adam_smith","name":"Adam Smith","letter":"A","category":"Economics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Adam_Smith.jpg","jsonFile":"Adam_Smith.json"},
+  {"id":"adam_smith","name":"Adam Smith","letter":"A","category":"Economics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AdamSmith.jpg/960px-AdamSmith.jpg","jsonFile":"Adam_Smith.json"},
   {"id":"adele_goldberg","name":"Adele Goldberg","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/47/Adele_Goldberg.jpg","jsonFile":"Adele_Goldberg.json"},
-  {"id":"adi_shamir","name":"Adi Shamir","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/03/Adi_Shamir_2008.jpg","jsonFile":"Adi_Shamir.json"},
+  {"id":"adi_shamir","name":"Adi Shamir","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg/960px-Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg","jsonFile":"Adi_Shamir.json"},
   {"id":"alan_emtage","name":"Alan Emtage","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/87/Alan_Emtage.jpg","jsonFile":"Alan_Emtage.json"},
 
   {"id":"alan_kay","name":"Alan Kay","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/9/99/Alan_Kay_%283097597186%29.jpg","jsonFile":"Alan_Kay.json"},
