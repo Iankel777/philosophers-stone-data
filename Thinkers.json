@@ -1,7 +1,7 @@
 [
   {"id":"aage_niels_bohr","name":"Aage Niels Bohr","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Aage_Bohr.jpg"},
   {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Aaron_T._Beck.jpg","jsonFile":"Aaron_Beck.json"},
-  {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Abraham_de_Moivre.jpg","jsonFile":"Abraham_de_Moivre.json"},
+  {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Abraham_de_Moivre_by_Joseph_Highmore.jpg/960px-Abraham_de_Moivre_by_Joseph_Highmore.jpg","jsonFile":"Abraham_de_Moivre.json"},
   {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg/960px-Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg","jsonFile":"Abraham_Maslow.json"},
 
   {"id":"ada_lovelace","name":"Ada Lovelace","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg","jsonFile":"Ada_Lovelace.json"},
@@ -14,15 +14,15 @@
   {"id":"alan_perlis","name":"Alan Perlis","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/59/Alan_Perlis.jpg","jsonFile":"Alan_Perlis.json"},
   {"id":"alan_turing","name":"Alan Turing","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg","jsonFile":"Alan_Turing.json"},
   {"id":"albert_bandura","name":"Albert Bandura","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/00/Albert_Bandura.jpg","jsonFile":"Albert_Bandura.json"},
-  {"id":"albert_camus","name":"Albert Camus","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Albert_Camus_gagnant_du_prix_Nobel.png","jsonFile":"Albert_Camus.json"},
+  {"id":"albert_camus","name":"Albert Camus","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Camus_Harcourt_1945.jpg/960px-Camus_Harcourt_1945.jpg","jsonFile":"Albert_Camus.json"},
 
-  {"id":"albert_claude","name":"Albert Claude","letter":"A","category":"Biology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Albert_Claude.jpg","jsonFile":"Albert_Claude.json"},
+  {"id":"albert_claude","name":"Albert Claude","letter":"A","category":"Biology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Albert_Claude_1974.jpg/960px-Albert_Claude_1974.jpg","jsonFile":"Albert_Claude.json"},
   {"id":"albert_einstein","name":"Albert Einstein","letter":"A","category":"Physics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg","jsonFile":"Albert_Einstein.json"},
-  {"id":"albert_ellis","name":"Albert Ellis","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/85/Albert_Ellis.jpg","jsonFile":"Albert_Ellis.json"},
+  {"id":"albert_ellis","name":"Albert Ellis","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Photo_of_Albert_Ellis_on_dust_jacket.jpg/960px-Photo_of_Albert_Ellis_on_dust_jacket.jpg","jsonFile":"Albert_Ellis.json"},
   {"id":"albrecht_von_haller","name":"Albrecht von Haller","letter":"A","category":"Medicine","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/79/Albrecht_von_Haller.jpg","jsonFile":"Albrecht_von_Haller.json"},
   {"id":"alessandro_volta","name":"Alessandro Volta","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/77/Alessandro_Volta.jpeg","jsonFile":"Alessandro_Volta.json"},
 
-  {"id":"alexander_fleming","name":"Alexander Fleming","letter":"A","category":"Medicine","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Sir_Alexander_Fleming.jpg","jsonFile":"Alexander_Fleming.json"},
+  {"id":"alexander_fleming","name":"Alexander Fleming","letter":"A","category":"Medicine","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/960px-Synthetic_Production_of_Penicillin_TR1468.jpg","jsonFile":"Alexander_Fleming.json"},
   {"id":"alexander_graham_bell","name":"Alexander Graham Bell","letter":"A","category":"Engineering","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/1/10/Alexander_Graham_Bell.jpg","jsonFile":"Alexander_Graham_Bell.json"},
   {"id":"alexander_von_humboldt","name":"Alexander von Humboldt","letter":"A","category":"Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Alexander_von_Humboldt_painted_by_Joseph_Karl_Stieler%2C_1843.jpg","jsonFile":"Alexander_von_Humboldt.json"},
   {"id":"alexis_de_tocqueville","name":"Alexis de Tocqueville","letter":"A","category":"Political Theory","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/60/Alexis_de_Tocqueville_by_Th%C3%A9odore_Chass%C3%A9riau.jpg","jsonFile":"Alexis_de_Tocqueville.json"},
@@ -30,7 +30,7 @@
 
   {"id":"alfred_binet","name":"Alfred Binet","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Alfred_Binet.jpg","jsonFile":"Alfred_Binet.json"},
   {"id":"alfred_marshall","name":"Alfred Marshall","letter":"A","category":"Economics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/53/Alfred_Marshall.jpg","jsonFile":"Alfred_Marshall.json"},
-  {"id":"alfred_tarski","name":"Alfred Tarski","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/76/Alfred_Tarski.jpg","jsonFile":"Alfred_Tarski.json"},
+  {"id":"alfred_tarski","name":"Alfred Tarski","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AlfredTarski1968.jpeg/960px-AlfredTarski1968.jpeg","jsonFile":"Alfred_Tarski.json"},
   {"id":"alfred_v_aho","name":"Alfred V. Aho","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/01/Alfred_Aho.jpg","jsonFile":"Alfred_V_Aho.json"},
   {"id":"alice_miller","name":"Alice Miller","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Alice_Miller.jpg","jsonFile":"Alice_Miller.json"},
 
@@ -38,18 +38,18 @@
   {"id":"alonzo_church","name":"Alonzo Church","letter":"A","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/08/Alonzo_Church.jpg","jsonFile":"Alonzo_Church.json"},
   {"id":"anders_hejlsberg","name":"Anders Hejlsberg","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Anders_Hejlsberg_2018.jpg","jsonFile":"Anders_Hejlsberg.json"},
   {"id":"andre_marie_ampere","name":"Andre-Marie Ampere","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Andre_Marie_Ampere.jpg","jsonFile":"Andre_Marie_Ampere.json"},
-  {"id":"andreas_vesalius","name":"Andreas Vesalius","letter":"A","category":"Medicine","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/3/32/Andreas_Vesalius.jpg","jsonFile":"Andreas_Vesalius.json"},
+  {"id":"andreas_vesalius","name":"Andreas Vesalius","letter":"A","category":"Medicine","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/75/Andreas_Vesalius-Pierre_Poncet.jpg","jsonFile":"Andreas_Vesalius.json"},
 
   {"id":"andrew_huxley","name":"Andrew Huxley","letter":"A","category":"Biology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/05/Andrew_Huxley.jpg","jsonFile":"Andrew_Huxley.json"},
-  {"id":"andrew_tanenbaum","name":"Andrew Tanenbaum","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/67/Andrew_S._Tanenbaum.jpg","jsonFile":"Andrew_Tanenbaum.json"},
+  {"id":"andrew_tanenbaum","name":"Andrew Tanenbaum","letter":"A","category":"Computer Science","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/AndrewTanenbaum2.png/960px-AndrewTanenbaum2.png","jsonFile":"Andrew_Tanenbaum.json"},
   {"id":"andrey_kolmogorov","name":"Andrey Kolmogorov","letter":"A","category":"Mathematics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/69/Andrey_Kolmogorov.jpg","jsonFile":"Andrey_Kolmogorov.json"},
-  {"id":"andrey_markov","name":"Andrey Markov","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Andrey_Markov.jpg","jsonFile":"Andrey_Markov.json"},
+  {"id":"andrey_markov","name":"Andrey Markov","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Andrej_Markov.jpg/960px-Andrej_Markov.jpg","jsonFile":"Andrey_Markov.json"},
 
   {"id":"anaxagoras","name":"Anaxagoras","letter":"A","category":"Philosophy","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Anaxagoras_Pushkin_museum.jpg","jsonFile":"Anaxagoras.json"},
-  {"id":"anna_freud","name":"Anna Freud","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7e/Anna_Freud_1957.jpg","jsonFile":"Anna_Freud.json"},
+  {"id":"anna_freud","name":"Anna Freud","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anna_Freud_1957.jpg/960px-Anna_Freud_1957.jpg","jsonFile":"Anna_Freud.json"},
   {"id":"anne_krueger","name":"Anne Krueger","letter":"A","category":"Economics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Anne_Osborn_Krueger.jpg","jsonFile":"Anne_Krueger.json"},
   {"id":"anthony_giddens","name":"Anthony Giddens","letter":"A","category":"Sociology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Anthony_Giddens_2011.jpg","jsonFile":"Anthony_Giddens.json"},
-  {"id":"archibald_garrod","name":"Archibald Garrod","letter":"A","category":"Medicine","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/23/Archibald_Garrod.jpg","jsonFile":"Archibald_Garrod.json"},
+  {"id":"archibald_garrod","name":"Archibald Garrod","letter":"A","category":"Medicine","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Portrait_of_Archibald_Edward_Garrod_Wellcome_M0018311.jpg/960px-Portrait_of_Archibald_Edward_Garrod_Wellcome_M0018311.jpg","jsonFile":"Archibald_Garrod.json"},
 
   {"id":"archimedes","name":"Archimedes","letter":"A","category":"Mathematics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Domenico-Fetti_Archimedes_1620.jpg","jsonFile":"Archimedes.json"},
   {"id":"arthur_eddington","name":"Arthur Eddington","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/45/Arthur_Stanley_Eddington.jpg","jsonFile":"Arthur_Eddington.json"},
