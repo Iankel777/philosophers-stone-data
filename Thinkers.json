@@ -1,6 +1,6 @@
 [
   {"id":"aage_niels_bohr","name":"Aage Niels Bohr","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Aage_Bohr.jpg"},
-  {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://hyperbole.es/wp-content/uploads/2021/11/merlin_118103585_fbeeacbf-cdd3-4950-b3e9-ea7f0a673c7a-mobileMasterAt3x-1024x684.jpg","jsonFile":"Aaron_Beck.json"},
+  {"id":"aaron_beck","name":"Aaron Beck","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://laskerfoundation.org/wp-content/uploads/2021/01/beck_aaron.jpg","jsonFile":"Aaron_Beck.json"},
   {"id":"abraham_de_moivre","name":"Abraham de Moivre","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Abraham_de_Moivre_by_Joseph_Highmore.jpg/960px-Abraham_de_Moivre_by_Joseph_Highmore.jpg","jsonFile":"Abraham_de_Moivre.json"},
   {"id":"abraham_maslow","name":"Abraham Maslow","letter":"A","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg/960px-Photo_of_Abraham_Harold_Maslow_by_William_Carter.jpg","jsonFile":"Abraham_Maslow.json"},
 
@@ -56,7 +56,7 @@
   {"id":"arthur_janov","name":"Arthur Janov","letter":"A","category":"Psychology","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/64/Arthur_Janov.jpg","jsonFile":"Arthur_Janov.json"},
   {"id":"arthur_lewis","name":"Arthur Lewis","letter":"A","category":"Economics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Arthur_Lewis.jpg","jsonFile":"Arthur_Lewis.json"},
 
-  {"id":"arthur_schopenhauer","name":"Arthur Schopenhauer","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg","jsonFile":"Arthur_Schopenhauer.json"},
-  {"id":"august_ferdinand_mobius","name":"August Ferdinand Mobius","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/August_Ferdinand_Mobius.jpg","jsonFile":"August_Ferdinand_Mobius.json"},
-  {"id":"ayn_rand","name":"Ayn Rand","letter":"A","category":"Philosophy","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Ayn_Rand_%281943_Talbot_portrait%29.jpg","jsonFile":"Ayn_Rand.json"}
+  {"id":"arthur_schopenhauer","name":"Arthur Schopenhauer","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Schopenhauer_by_Jules_Luntesch%C3%BCtz.jpg?_=20230603142540","jsonFile":"Arthur_Schopenhauer.json"},
+  {"id":"august_ferdinand_mobius","name":"August Ferdinand Mobius","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/August_Ferdinand_M%C3%B6bius.jpg/500px-August_Ferdinand_M%C3%B6bius.jpg?_=20170426074350","jsonFile":"August_Ferdinand_Mobius.json"},
+  {"id":"ayn_rand","name":"Ayn Rand","letter":"A","category":"Philosophy","legend":false,"visible":true,"image":"Ayn Rand (1943 Talbot portrait).jpg","jsonFile":"Ayn_Rand.json"}
 ]
