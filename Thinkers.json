@@ -52,8 +52,7 @@
 
   {"id":"archimedes","name":"Archimedes","letter":"A","category":"Mathematics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Domenico-Fetti_Archimedes_1620.jpg","jsonFile":"Archimedes.json"},
   {"id":"arthur_eddington","name":"Arthur Eddington","letter":"A","category":"Physics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arthur_Stanley_Eddington.jpg/500px-Arthur_Stanley_Eddington.jpg?_=20090305112212","jsonFile":"Arthur_Eddington.json"},
-  {"id":"arthur_lewis","name":"Arthur Lewis","letter":"A","category":"Economics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Arthur_Lewis.jpg","jsonFile":"Arthur_Lewis.json"},
-
+  
   {"id":"arthur_schopenhauer","name":"Arthur Schopenhauer","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Schopenhauer_by_Jules_Luntesch%C3%BCtz.jpg?_=20230603142540","jsonFile":"Arthur_Schopenhauer.json"},
   {"id":"august_ferdinand_mobius","name":"August Ferdinand Mobius","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/August_Ferdinand_M%C3%B6bius.jpg/500px-August_Ferdinand_M%C3%B6bius.jpg?_=20170426074350","jsonFile":"August_Ferdinand_Mobius.json"},
   {"id":"ayn_rand","name":"Ayn Rand","letter":"A","category":"Philosophy","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/500px-Ayn_Rand_%281943_Talbot_portrait%29.jpg?_=20200517202421","jsonFile":"Ayn_Rand.json"}
