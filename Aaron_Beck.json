@@ -32,35 +32,185 @@
   "whyImportant": "Aaron Beck transformed the treatment of mental illness by introducing practical, evidence-based methods that empower individuals to challenge negative thinking and improve emotional well-being. Cognitive Behavioral Therapy is now one of the most widely practiced and scientifically supported forms of psychotherapy. Millions of people worldwide have benefited directly or indirectly from Beck's work.",
 
   "quotes": [
-    "1. The way people think determines how they feel and behave.",
-    "2. People's beliefs have profound consequences.",
-    "3. Distorted thinking is a major contributor to emotional distress.",
-    "4. Understanding thoughts is the first step toward changing them.",
-    "5. Emotions are often influenced by interpretations rather than events themselves.",
-    "6. The mind can be trained to think more realistically.",
-    "7. Psychological growth begins with awareness.",
-    "8. Change becomes possible when thinking becomes flexible.",
-    "9. Hope can be cultivated through understanding.",
-    "10. The future is shaped by the thoughts we choose to challenge.",
-    "11. Self-awareness is essential for emotional health.",
-    "12. Thoughts are not always facts.",
-    "13. Understanding precedes transformation.",
-    "14. Resilience can be learned.",
-    "15. Mental health improves through active effort.",
-    "16. Small changes in thinking can produce significant changes in life.",
-    "17. The goal of therapy is empowerment.",
-    "18. Every individual has the capacity for growth.",
-    "19. Questioning assumptions is a path to freedom.",
-    "20. Change is possible at any stage of life.",
-    "21. Human beings can learn to manage suffering more effectively.",
-    "22. Accurate thinking supports healthy living.",
-    "23. Knowledge has the power to reduce fear.",
-    "24. Confidence grows through experience.",
-    "25. Progress is achieved one step at a time.",
-    "26. Emotional well-being requires active participation.",
-    "27. Understanding behavior begins with understanding thought.",
-    "28. The ability to reflect is a source of strength.",
-    "29. Growth often follows challenge.",
-    "30. The human mind is capable of remarkable change."
-  ]
+2
+{
+3
+"text": "The way people perceive a situation is often more important than the situation itself."
+4
+},
+5
+{
+6
+"text": "Our thoughts create the lens through which we experience life."
+7
+},
+8
+{
+9
+"text": "Beliefs influence emotions, and emotions influence behavior."
+10
+},
+11
+{
+12
+"text": "Psychological suffering often begins with distorted thinking."
+13
+},
+14
+{
+15
+"text": "Changing maladaptive thoughts can transform lives."
+16
+},
+17
+{
+18
+"text": "People are not disturbed by events but by their interpretation of events."
+19
+},
+20
+{
+21
+"text": "Awareness is the first step toward change."
+22
+},
+23
+{
+24
+"text": "The mind is capable of learning healthier patterns."
+25
+},
+26
+{
+27
+"text": "Hope grows when people challenge hopeless thoughts."
+28
+},
+29
+{
+30
+"text": "Emotions follow meaning."
+31
+},
+32
+{
+33
+"text": "The ability to examine one's own thinking is a powerful skill."
+34
+},
+35
+{
+36
+"text": "Small cognitive shifts can produce remarkable outcomes."
+37
+},
+38
+{
+39
+"text": "Thoughts are hypotheses, not facts."
+40
+},
+41
+{
+42
+"text": "Understanding patterns leads to understanding ourselves."
+43
+},
+44
+{
+45
+"text": "The path to resilience begins with awareness."
+46
+},
+47
+{
+48
+"text": "Depression thrives on unquestioned assumptions."
+49
+},
+50
+{
+51
+"text": "People can learn to become their own therapists."
+52
+},
+53
+{
+54
+"text": "Effective therapy empowers rather than directs."
+55
+},
+56
+{
+57
+"text": "Questioning automatic thoughts reveals hidden beliefs."
+58
+},
+59
+{
+60
+"text": "The goal is not positive thinking but realistic thinking."
+61
+},
+62
+{
+63
+"text": "Psychology should be practical as well as scientific."
+64
+},
+65
+{
+66
+"text": "Growth comes from examining perspectives."
+67
+},
+68
+{
+69
+"text": "Progress begins when people recognize they have choices."
+70
+},
+71
+{
+72
+"text": "Meaning shapes experience."
+73
+},
+74
+{
+75
+"text": "Rational analysis can reduce unnecessary suffering."
+76
+},
+77
+{
+78
+"text": "Healthy thinking can be practiced and strengthened."
+79
+},
+80
+{
+81
+"text": "Behavior and thought continuously influence each other."
+82
+},
+83
+{
+84
+"text": "Self-reflection is a foundation of mental well-being."
+85
+},
+86
+{
+87
+"text": "Every belief deserves examination."
+88
+},
+89
+{
+90
+"text": "True change happens when insight becomes action."
+91
 }
+92
+]
