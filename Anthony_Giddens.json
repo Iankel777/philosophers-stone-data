@@ -8,19 +8,16 @@
   "born": "18 January 1938",
   "died": "",
 
-  "knownFor": [
-    "Structuration Theory",
-    "Modern Sociology",
-    "The Third Way",
-    "Globalization Studies",
-    "Reflexive Modernity",
-    "Social Theory",
-    "Sociological Methodology",
-    "Political Sociology"
-  ],
+"knownFor1": "Structuration Theory",
+"knownFor2": "The Third Way",
+"knownFor3": "Modernity and Self-Identity",
+"knownFor4": "Globalization Studies",
+"knownFor5": "Sociological Theory",
+"knownFor6": "Reflexive Modernization",
+"knownFor7": "Social Institutions Analysis",
+"knownFor8": "Political Sociology",
 
-  "legacy": "Anthony Giddens is one of the most influential sociologists of the modern era. His theories transformed the way scholars understand social structures, human agency, globalization, and modern society. Through Structuration Theory, Giddens bridged the traditional divide between individual actions and social institutions, creating a framework that continues to shape sociology, political science, and social research around the world.",
-
+"legacy": "Anthony Giddens' legacy is defined by his profound influence on sociology, social theory, and the understanding of modern society. As one of the most important sociologists of the late twentieth and early twenty-first centuries, Giddens developed innovative frameworks for analyzing how individuals and institutions interact, helping scholars better understand the complex dynamics of social life in an increasingly interconnected world.\n\nGiddens is best known for developing Structuration Theory, which sought to bridge the traditional divide between individual agency and social structure. He argued that people are not merely shaped by social institutions, nor are institutions independent of human action. Instead, individuals and social structures continuously influence and recreate one another. This theory became one of the most influential perspectives in contemporary sociology and has been applied across numerous fields, including political science, organizational studies, and communication research.\n\nAnother major contribution was his analysis of modernity and globalization. Giddens examined how technological change, globalization, and shifting social norms transform personal identity, relationships, and everyday life. He introduced concepts such as reflexive modernity, emphasizing that individuals increasingly shape their own identities through ongoing reflection and choice rather than simply inheriting traditional social roles.\n\nGiddens also played an important role in political thought through his advocacy of the Third Way, a political approach that sought to combine elements of market economics with social responsibility. His ideas influenced public policy debates in several countries and contributed to discussions about governance in modern democratic societies.\n\nAs an educator and public intellectual, Giddens helped make sociological ideas accessible to wider audiences. His books became standard texts in universities around the world and influenced generations of students, researchers, and policymakers.\n\nToday, Anthony Giddens is recognized as one of the most influential social theorists of the modern era. His work continues to shape research on globalization, identity, institutions, and social change. His enduring legacy is providing powerful tools for understanding how individuals and societies continuously shape one another in a rapidly changing world.",
   "earlyLife": "Anthony Giddens was born on 18 January 1938 in London, England. Raised in a working-class family, he became the first member of his family to attend university. He studied sociology and psychology at the University of Hull, later earning advanced degrees at the London School of Economics and King's College Cambridge. These experiences helped shape his lifelong interest in understanding the relationship between individuals and society.",
 
   "scientificField": "Giddens worked primarily in sociology, political theory, globalization studies, social philosophy, modernity studies, and public policy. His research focused on social institutions, identity, power, risk, modernization, and the relationship between personal choices and social structures.",
