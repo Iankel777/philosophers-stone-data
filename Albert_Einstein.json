@@ -8,17 +8,16 @@
   "born": "14 March 1879",
   "died": "18 April 1955",
 
-  "knownFor": [
-    "Theory of Relativity",
-    "E=mc²",
-    "Photoelectric Effect",
-    "Brownian Motion",
-    "General Relativity",
-    "Nobel Prize in Physics (1921)"
-  ],
+"knownFor1": "Theory of Relativity",
+"knownFor2": "Special Relativity",
+"knownFor3": "General Relativity",
+"knownFor4": "Photoelectric Effect",
+"knownFor5": "Mass-Energy Equivalence",
+"knownFor6": "E = mc²",
+"knownFor7": "Quantum Theory Contributions",
+"knownFor8": "Modern Theoretical Physics",
 
-  "legacy": "Albert Einstein fundamentally transformed modern physics and became one of the most influential scientists in history. His theories reshaped humanity's understanding of space, time, gravity, mass and energy. His work continues to influence physics, cosmology, technology and scientific thought around the world.",
-
+"legacy": "Albert Einstein's legacy is one of the most influential in the history of science. Through his revolutionary discoveries, Einstein fundamentally changed humanity's understanding of space, time, energy, gravity, and the nature of the universe. His work reshaped modern physics and continues to influence scientific research, technology, and philosophy more than a century later.\n\nEinstein is best known for developing the theories of Special Relativity and General Relativity. Special Relativity introduced a new understanding of space and time, demonstrating that they are interconnected and relative to the observer. General Relativity expanded these ideas by describing gravity as the curvature of spacetime caused by mass and energy. These theories transformed astronomy, cosmology, and theoretical physics and remain among the most successful scientific models ever created.\n\nAnother of Einstein's landmark achievements was his explanation of the photoelectric effect, which showed that light can behave as discrete packets of energy called photons. This work helped lay the foundations of quantum mechanics and earned him the Nobel Prize in Physics in 1921. His famous equation, E = mc², revealed the relationship between mass and energy, becoming one of the most recognized scientific formulas in history.\n\nBeyond his scientific contributions, Einstein became a global symbol of intellectual curiosity, creativity, and independent thought. He advocated for education, international cooperation, civil rights, and the peaceful use of scientific knowledge. His willingness to question accepted ideas inspired generations of thinkers across many disciplines.\n\nToday, Einstein's influence can be seen throughout modern science and technology. Applications such as GPS navigation, nuclear energy, astrophysics, and many aspects of modern electronics rely upon principles connected to his discoveries. Albert Einstein is remembered not only as a brilliant physicist but also as a visionary whose ideas transformed humanity's understanding of reality. His enduring legacy is the demonstration that curiosity, imagination, and rigorous reasoning can reveal the deepest laws governing the universe.",
   "earlyLife": "Albert Einstein was born on 14 March 1879 in Ulm, Germany. He grew up in Munich and displayed an early fascination with mathematics, geometry and science. After leaving Germany he studied in Switzerland and graduated from the Swiss Federal Polytechnic School in Zurich.",
 
   "scientificField": "Einstein worked primarily in theoretical physics. His major areas of study included relativity, quantum theory, statistical mechanics, cosmology, gravitation and unified field theories.",
