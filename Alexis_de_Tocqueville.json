@@ -8,18 +8,16 @@
   "born": "29 July 1805",
   "died": "16 April 1859",
 
-  "knownFor": [
-    "Democracy in America",
-    "Political Sociology",
-    "Liberal Democracy",
-    "Civil Society",
-    "The Old Regime and the Revolution",
-    "Analysis of Equality",
-    "Political Philosophy",
-    "Comparative Politics"
-  ],
+"knownFor1": "Democracy in America",
+"knownFor2": "Political Philosophy",
+"knownFor3": "Analysis of Democracy",
+"knownFor4": "Social Equality Studies",
+"knownFor5": "The Old Regime and the Revolution",
+"knownFor6": "Liberal Political Thought",
+"knownFor7": "Civil Society Theory",
+"knownFor8": "Comparative Politics",
 
-  "legacy": "Alexis de Tocqueville is regarded as one of the most influential political thinkers and social analysts of the nineteenth century. His observations on democracy, individual liberty, equality, civic participation, and political institutions continue to shape modern political science, sociology, and public policy. His works remain essential reading for understanding democratic societies and the challenges they face.",
+"legacy": "Alexis de Tocqueville's legacy is founded on his remarkable analysis of democracy, political institutions, and social change. As a French political thinker, historian, and writer of the nineteenth century, Tocqueville sought to understand how democratic societies function and how freedom could be preserved in an age of increasing equality. His insights remain highly influential in political science, sociology, history, and democratic theory.\n\nTocqueville is best known for his landmark work Democracy in America, which resulted from his travels through the United States in the 1830s. In this influential study, he examined American political institutions, social customs, and civic life. He argued that democracy was more than a form of government; it was a social condition that shaped attitudes, relationships, and public behavior. His observations provided one of the earliest and most comprehensive analyses of democratic society.\n\nOne of Tocqueville's most important contributions was his exploration of the relationship between equality and freedom. He recognized that democratic societies promote greater social equality but also face risks such as conformity, excessive centralization of power, and what he called the 'tyranny of the majority.' His warnings encouraged future generations to think carefully about how democratic systems can protect individual liberties while maintaining popular participation.\n\nTocqueville also emphasized the importance of civil society, local government, voluntary associations, and civic engagement. He believed that active participation in community life helps preserve freedom and prevents excessive dependence on centralized authority. These ideas continue to shape discussions about citizenship, political engagement, and democratic resilience.\n\nToday, Alexis de Tocqueville is regarded as one of the greatest analysts of modern democracy. His work remains essential reading for scholars, policymakers, and citizens seeking to understand the strengths and challenges of democratic government. His enduring legacy is the recognition that liberty, civic responsibility, and strong institutions must work together if democratic societies are to remain free, stable, and prosperous.",
 
   "earlyLife": "Alexis Charles Henri Clérel, Comte de Tocqueville, was born on 29 July 1805 in Paris, France. Coming from an aristocratic family that had suffered during the French Revolution, he developed a deep interest in politics, law, and social change. He studied law and entered public service, where he began examining the institutions shaping modern societies.",
 
