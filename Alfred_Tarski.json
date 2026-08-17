@@ -8,19 +8,16 @@
   "born": "14 January 1901",
   "died": "26 October 1983",
 
-  "knownFor": [
-    "Semantic Theory of Truth",
-    "Tarski's Undefinability Theorem",
-    "Model Theory",
-    "Formal Logic",
-    "Set Theory",
-    "Mathematical Logic",
-    "Algebraic Logic",
-    "Tarski's Convention T"
-  ],
+"knownFor1": "Semantic Theory of Truth",
+"knownFor2": "Formal Logic",
+"knownFor3": "Model Theory",
+"knownFor4": "Tarski's Undefinability Theorem",
+"knownFor5": "Algebraic Logic",
+"knownFor6": "Foundations of Mathematics",
+"knownFor7": "Metamathematics",
+"knownFor8": "Modern Analytical Philosophy",
 
-  "legacy": "Alfred Tarski is regarded as one of the greatest logicians of the twentieth century. His work transformed logic, mathematics, linguistics, computer science, and philosophy. By providing a rigorous mathematical account of truth, he helped establish modern semantics and laid essential foundations for model theory and formal reasoning. His ideas continue to influence logic, artificial intelligence, programming languages, and the philosophy of language.",
-
+"legacy": "Alfred Tarski's legacy is rooted in his extraordinary contributions to logic, mathematics, and the philosophy of language. Widely regarded as one of the greatest logicians of the twentieth century, Tarski helped establish the rigorous foundations of modern formal logic and profoundly influenced mathematics, computer science, linguistics, and analytic philosophy. His work provided powerful tools for understanding truth, meaning, and the structure of formal systems.\n\nTarski is best known for developing the Semantic Theory of Truth, which offered a precise and mathematically rigorous account of what it means for a statement to be true. His famous formulation, often summarized as 'a statement is true if and only if it corresponds to the facts,' became a cornerstone of modern logic and philosophy. This achievement resolved longstanding conceptual problems and remains one of the most influential theories of truth ever proposed.\n\nAnother major contribution was Tarski's Undefinability Theorem, which demonstrated important limitations on how truth can be defined within formal languages. This work built upon and complemented earlier discoveries by Kurt Gödel, deepening the understanding of the capabilities and boundaries of formal systems.\n\nTarski also played a central role in the development of model theory, a branch of mathematical logic that studies the relationship between formal languages and their interpretations. Model theory became one of the most important areas of modern logic and has applications in mathematics, computer science, and artificial intelligence.\n\nBeyond his technical achievements, Tarski influenced generations of scholars through his teaching and research leadership. Many of the leading logicians and mathematicians of the twentieth century were shaped by his ideas and methods.\n\nToday, Alfred Tarski is recognized as one of the architects of modern logic. His theories continue to influence mathematics, theoretical computer science, database systems, artificial intelligence, and the philosophy of language. His enduring legacy is the creation of rigorous frameworks for understanding truth, reasoning, and formal structure, helping establish logic as one of the most powerful tools for analyzing knowledge and human thought.",
   "earlyLife": "Alfred Tarski was born Alfred Teitelbaum on 14 January 1901 in Warsaw, then part of the Russian Empire. He displayed exceptional intellectual ability from an early age and studied mathematics and philosophy at the University of Warsaw. There he became part of the influential Warsaw School of Logic, working alongside some of Europe's leading mathematicians and philosophers.",
 
   "scientificField": "Tarski worked primarily in mathematical logic, model theory, set theory, algebra, semantics, philosophy of language, and foundations of mathematics. His research focused on truth, meaning, formal systems, and the structure of mathematical reasoning.",
