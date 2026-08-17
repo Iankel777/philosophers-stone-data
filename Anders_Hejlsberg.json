@@ -8,19 +8,16 @@
   "born": "2 December 1960",
   "died": "",
 
-  "knownFor": [
-    "C# Programming Language",
-    "TypeScript",
-    "Turbo Pascal",
-    "Delphi",
-    ".NET Framework",
-    "Programming Language Design",
-    "Software Development Tools",
-    "Microsoft Technical Fellow"
-  ],
+"knownFor1": "C# Programming Language",
+"knownFor2": "Turbo Pascal",
+"knownFor3": "Delphi Development Environment",
+"knownFor4": "TypeScript",
+"knownFor5": ".NET Platform Innovation",
+"knownFor6": "Programming Language Design",
+"knownFor7": "Software Development Tools",
+"knownFor8": "Modern Developer Productivity",
 
-  "legacy": "Anders Hejlsberg is one of the most influential programming language designers in computing history. His work has shaped how millions of developers write software, from the early days of personal computing with Turbo Pascal to modern web and enterprise development through C# and TypeScript. His contributions have had a profound impact on software engineering, programming language design, and developer productivity.",
-
+"legacy": "Anders Hejlsberg's legacy is defined by his extraordinary influence on programming language design and software development. As one of the most respected software engineers in the world, Hejlsberg has played a central role in creating tools and languages that have shaped how millions of developers build applications. His work has had a lasting impact on personal computing, enterprise software, and modern web development.\n\nHejlsberg first gained recognition through his work on Turbo Pascal, a highly successful programming language and development environment that became popular for its speed, simplicity, and productivity. He later led the creation of Delphi, which introduced powerful visual development tools that helped programmers build software more efficiently. These innovations established his reputation as a pioneer in developer-focused technology.\n\nPerhaps his most influential contribution is serving as the lead architect of C#, a programming language developed at Microsoft as part of the .NET platform. C# combined ideas from several programming paradigms while emphasizing clarity, productivity, and reliability. Over time, it became one of the world's most widely used programming languages, supporting applications ranging from desktop software to cloud services, mobile apps, and video games.\n\nHejlsberg also led the development of TypeScript, a language that extended JavaScript with static typing and advanced tooling capabilities. TypeScript quickly became a standard technology for large-scale web development, helping developers write more maintainable and reliable code while preserving compatibility with the broader JavaScript ecosystem.\n\nThroughout his career, Hejlsberg has focused on making programming more accessible, productive, and scalable. His languages and tools have empowered countless developers to create complex software systems with greater confidence and efficiency.\n\nToday, Anders Hejlsberg is recognized as one of the most influential programming language designers in history. His contributions continue to shape software engineering, web development, cloud computing, and application design. His enduring legacy is the creation of elegant and practical technologies that have transformed how software is written and how developers bring ideas to life.",
   "earlyLife": "Anders Hejlsberg was born on 2 December 1960 in Copenhagen, Denmark. From an early age he showed strong interests in mathematics, engineering, and computing. While studying engineering at the Technical University of Denmark, he became deeply involved in software development and began creating tools that simplified programming. His practical and elegant approach to software design quickly gained attention within the growing computer industry.",
 
   "scientificField": "Hejlsberg works primarily in computer science, software engineering, compiler design, programming languages, developer tools, and software architecture. His work focuses on creating programming systems that improve developer productivity while maintaining performance and reliability.",
