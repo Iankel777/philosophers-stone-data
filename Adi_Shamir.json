@@ -8,18 +8,16 @@
   "born": "6 July 1952",
   "died": "",
 
-  "knownFor": [
-    "RSA Cryptosystem",
-    "Shamir's Secret Sharing",
-    "Modern Cryptography",
-    "Cryptanalysis",
-    "Data Security",
-    "Turing Award (2002)",
-    "Public-Key Encryption",
-    "Computer Security"
-  ],
+"knownFor1": "RSA Cryptosystem",
+"knownFor2": "Modern Cryptography",
+"knownFor3": "Shamir's Secret Sharing",
+"knownFor4": "Cryptanalysis Research",
+"knownFor5": "Public-Key Encryption",
+"knownFor6": "Zero-Knowledge Proofs",
+"knownFor7": "Data Security Innovation",
+"knownFor8": "Applied Mathematics in Cryptography",
 
-  "legacy": "Adi Shamir is one of the most influential cryptographers in history and a pioneer of modern computer security. His work laid the foundations of secure digital communication, electronic commerce, online banking, and modern cybersecurity. Through the development of revolutionary cryptographic systems and techniques, Shamir helped make secure information exchange possible in the digital age.",
+"legacy": "Adi Shamir's legacy is defined by his groundbreaking contributions to cryptography and information security. As one of the most influential cryptographers of the modern era, Shamir helped create many of the mathematical foundations that protect digital communication, financial transactions, government systems, and internet infrastructure around the world. His work transformed cryptography from a specialized academic field into an essential component of everyday digital life.\n\nShamir is best known as one of the three inventors of the RSA cryptosystem, developed alongside Ronald Rivest and Leonard Adleman. RSA became one of the most important public-key encryption systems ever created, enabling secure communication between parties without requiring a shared secret key in advance. The invention revolutionized digital security and remains one of the most recognized achievements in the history of computer science.\n\nAnother major contribution was Shamir's Secret Sharing scheme, a method for dividing sensitive information into multiple parts so that only authorized groups can reconstruct the original secret. This innovation became highly valuable in cybersecurity, cryptographic key management, distributed systems, and secure data storage.\n\nThroughout his career, Shamir conducted pioneering research in cryptanalysis, the study of breaking and evaluating cryptographic systems. His discoveries revealed weaknesses in various encryption methods and contributed to the development of stronger and more resilient security protocols. He also played an important role in advancing zero-knowledge proofs and other sophisticated cryptographic techniques that allow information to be verified without revealing the information itself.\n\nToday, Adi Shamir is regarded as one of the founders of modern cryptography. His innovations continue to influence cybersecurity, banking, e-commerce, digital identity systems, blockchain technologies, and secure communications worldwide. His enduring contribution is demonstrating how mathematical principles can be used to protect privacy, establish trust, and secure information in an increasingly connected digital world. The technologies built upon his ideas safeguard billions of users every day.",
 
   "earlyLife": "Adi Shamir was born on 6 July 1952 in Tel Aviv, Israel. Displaying exceptional talent in mathematics and problem-solving from a young age, he pursued studies in mathematics and computer science at Tel Aviv University and later earned his doctorate from the Weizmann Institute of Science. His early academic work focused on mathematical methods and computational theory, which naturally led him into the emerging field of cryptography.",
 
