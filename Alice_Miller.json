@@ -8,19 +8,16 @@
   "born": "12 January 1923",
   "died": "14 April 2010",
 
-  "knownFor": [
-    "The Drama of the Gifted Child",
-    "Childhood Trauma Research",
-    "Critique of Psychoanalysis",
-    "Emotional Abuse Awareness",
-    "Parent-Child Relationships",
-    "Repressed Childhood Experiences",
-    "Psychology of Violence",
-    "Healing Through Self-Understanding"
-  ],
+"knownFor1": "Child Psychology",
+"knownFor2": "The Drama of the Gifted Child",
+"knownFor3": "Childhood Trauma Research",
+"knownFor4": "Critique of Psychoanalysis",
+"knownFor5": "Emotional Abuse Awareness",
+"knownFor6": "Intergenerational Trauma",
+"knownFor7": "Psychological Development",
+"knownFor8": "Advocacy for Children's Rights",
 
-  "legacy": "Alice Miller was one of the most influential psychologists and authors of the twentieth century. Her work transformed public understanding of childhood trauma, emotional neglect, and the long-term effects of abusive family dynamics. Through her writings, she challenged conventional views on parenting, psychoanalysis, and child development, helping millions of readers understand the lasting impact of early life experiences.",
-
+"legacy": "Alice Miller's legacy is centered on her groundbreaking exploration of childhood trauma, emotional development, and the lasting impact of early life experiences on adult psychological well-being. Through her writings and clinical insights, Miller challenged many traditional assumptions within psychology and psychotherapy, drawing attention to the often-overlooked effects of emotional neglect, abuse, and unresolved childhood suffering.\n\nMiller is best known for her influential book The Drama of the Gifted Child, in which she examined how children frequently suppress their genuine emotions and needs in order to gain parental approval and love. She argued that this adaptation, while beneficial for survival during childhood, can create significant psychological difficulties later in life, including anxiety, depression, low self-esteem, and difficulties in relationships.\n\nThroughout her career, Miller emphasized that many forms of emotional suffering originate from childhood experiences that remain unrecognized or denied. She believed that healing requires individuals to acknowledge and understand painful early experiences rather than repress them. Her work encouraged therapists and researchers to pay greater attention to the emotional realities of childhood and the importance of empathy in psychological development.\n\nMiller was also a vocal critic of parenting practices and social systems that normalized physical punishment, emotional invalidation, or excessive authority. She argued that children need understanding, respect, and emotional support in order to develop into healthy and autonomous adults. Her perspective contributed to broader discussions about children's rights and the prevention of abuse.\n\nAlthough some aspects of her theories have been debated, Miller's influence remains significant across psychology, counseling, trauma studies, and self-help literature. Her books reached millions of readers worldwide and inspired many people to reconsider the role of childhood experiences in shaping adult lives.\n\nToday, Alice Miller is remembered as a pioneering advocate for emotional awareness and the well-being of children. Her enduring legacy is the recognition that early relationships profoundly influence psychological development and that healing often begins with honestly confronting and understanding one's childhood experiences.",
   "earlyLife": "Alice Miller was born Alicja Englard on 12 January 1923 in Piotrków Trybunalski, Poland. Growing up during a period of political instability and later surviving the hardships of World War II profoundly shaped her understanding of trauma and human suffering. After the war, she studied philosophy, psychology, and sociology in Switzerland, eventually becoming a psychoanalyst.",
 
   "scientificField": "Miller worked primarily in psychology, psychoanalysis, child development, trauma studies, family dynamics, and emotional health. Her research focused on how childhood experiences influence adult behavior, relationships, and psychological well-being.",
