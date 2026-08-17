@@ -8,19 +8,16 @@
   "born": "2 February 1905",
   "died": "6 March 1982",
 
-  "knownFor": [
-    "Objectivism",
-    "Atlas Shrugged",
-    "The Fountainhead",
-    "Capitalism Advocacy",
-    "Rational Self-Interest",
-    "Individualism",
-    "Political Philosophy",
-    "Ethics of Reason"
-  ],
+"knownFor1": "Objectivism",
+"knownFor2": "Atlas Shrugged",
+"knownFor3": "The Fountainhead",
+"knownFor4": "Rational Self-Interest",
+"knownFor5": "Individualism",
+"knownFor6": "Political Philosophy",
+"knownFor7": "Capitalism Advocacy",
+"knownFor8": "Reason as a Moral Principle",
 
-  "legacy": "Ayn Rand remains one of the most influential and controversial philosophers of the twentieth century. Through her novels and philosophical writings, she promoted individual rights, reason, personal achievement, and laissez-faire capitalism. Her ideas continue to influence political movements, entrepreneurs, economists, business leaders, and advocates of individual liberty around the world.",
-
+"legacy": "Ayn Rand's legacy is defined by her influential philosophical system known as Objectivism and her enduring impact on political, ethical, and economic thought. As a novelist and philosopher, Rand combined fiction and philosophy to present a comprehensive vision of human nature, individual freedom, reason, and achievement. Her ideas have inspired passionate supporters and critics alike, making her one of the most discussed intellectual figures of the twentieth century.\n\nRand is best known for her novels The Fountainhead and Atlas Shrugged. Through memorable characters and dramatic narratives, she explored themes such as independence, creativity, personal responsibility, and the role of the individual in society. These works became international bestsellers and introduced millions of readers to her philosophical ideas.\n\nAt the center of Rand's philosophy was Objectivism, which held that reason is humanity's primary means of understanding reality and that individuals should pursue their own rational self-interest. She argued that personal freedom, voluntary exchange, and individual rights are essential for human flourishing. Her defense of capitalism was based not only on economic considerations but also on moral principles concerning liberty and individual autonomy.\n\nRand strongly opposed collectivist ideologies and maintained that societies thrive when individuals are free to think, create, innovate, and pursue their own goals. Her writings encouraged readers to value independence, productivity, and intellectual integrity. These ideas influenced discussions in philosophy, economics, business, and political theory.\n\nBeyond academia, Rand's work had a significant cultural impact. Her books continue to be widely read, debated, and referenced in public discourse. Many entrepreneurs, business leaders, writers, and political thinkers have cited her as an important intellectual influence, while scholars continue to examine and critique her arguments.\n\nToday, Ayn Rand remains one of the most influential and controversial philosophical writers of modern times. Her enduring legacy is the promotion of reason, individual liberty, and personal responsibility as central values in human life. Whether embraced or challenged, her ideas continue to shape debates about freedom, ethics, government, and the role of the individual in society.",
   "earlyLife": "Ayn Rand was born Alisa Zinovyevna Rosenbaum on 2 February 1905 in Saint Petersburg, Russian Empire. Growing up during the Russian Revolution, she witnessed political upheaval and the nationalization of her family's business. These experiences shaped her lifelong opposition to collectivism and authoritarian government. Rand studied philosophy and history before emigrating to the United States in 1926.",
 
   "scientificField": "Rand worked primarily in philosophy, ethics, political philosophy, epistemology, literature, and cultural criticism. Her philosophical system, Objectivism, sought to provide a comprehensive view of reality, knowledge, ethics, politics, and human flourishing.",
