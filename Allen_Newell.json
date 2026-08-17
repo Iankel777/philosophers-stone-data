@@ -8,18 +8,16 @@
   "born": "19 March 1927",
   "died": "19 July 1992",
 
-  "knownFor": [
-    "Artificial Intelligence",
-    "Logic Theorist",
-    "General Problem Solver (GPS)",
-    "Cognitive Science",
-    "Human Problem Solving",
-    "SOAR Cognitive Architecture",
-    "Information Processing Theory",
-    "Turing Award (1975)"
-  ],
+"knownFor1": "Logic Theorist",
+"knownFor2": "Artificial Intelligence Pioneer",
+"knownFor3": "General Problem Solver",
+"knownFor4": "Cognitive Science",
+"knownFor5": "Human Problem-Solving Research",
+"knownFor6": "Information Processing Theory",
+"knownFor7": "Computer Simulation of Reasoning",
+"knownFor8": "Physical Symbol System Hypothesis",
 
-  "legacy": "Allen Newell is regarded as one of the founders of artificial intelligence and cognitive science. His pioneering work demonstrated that computers could simulate aspects of human reasoning and problem-solving. Through decades of research, Newell helped establish the scientific foundations of AI, cognitive psychology, and human-computer interaction. His ideas continue to influence modern artificial intelligence, machine learning, cognitive modeling, and computational neuroscience.",
+"legacy": "Allen Newell's legacy is defined by his pioneering role in the creation of artificial intelligence and cognitive science. As one of the founders of these fields, Newell helped establish the idea that human thinking could be studied scientifically and modeled through computational systems. His work fundamentally changed how researchers understand intelligence, problem-solving, and the relationship between minds and machines.\n\nNewell is best known for developing the Logic Theorist in collaboration with Herbert A. Simon and Cliff Shaw. Created in the 1950s, Logic Theorist is often regarded as one of the first true artificial intelligence programs. The system demonstrated that a computer could perform tasks resembling human reasoning by proving mathematical theorems, marking a major milestone in the history of AI.\n\nBuilding on this success, Newell and his colleagues created the General Problem Solver, a program designed to model how humans approach complex problems. This work introduced powerful concepts about search, decision-making, and symbolic reasoning that became central to artificial intelligence research. Their efforts helped establish the view that intelligence could be understood as information processing.\n\nNewell also made foundational contributions to cognitive science. He argued that understanding the human mind requires integrated theories that explain memory, perception, reasoning, learning, and action. His research combined insights from psychology, computer science, and neuroscience, creating a framework that influenced generations of scholars.\n\nOne of his most influential ideas was the Physical Symbol System Hypothesis, which proposed that intelligent behavior arises from the manipulation of symbols according to rules. This theory became a cornerstone of classical AI and guided much of the field's development for decades.\n\nToday, Allen Newell is recognized as one of the architects of artificial intelligence and cognitive science. His ideas continue to influence AI research, cognitive modeling, human-computer interaction, and the scientific study of intelligence. His enduring legacy is the demonstration that thinking can be studied, modeled, and understood through computational principles, opening entirely new paths for understanding both human minds and intelligent machines.",
 
   "earlyLife": "Allen Newell was born on 19 March 1927 in San Francisco, California, United States. He developed an early interest in mathematics, science, and systems thinking. After studying physics at Stanford University, he pursued research that combined psychology, mathematics, and computing. This interdisciplinary approach would become a defining feature of his career and help shape entirely new scientific fields.",
 
