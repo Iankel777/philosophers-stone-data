@@ -8,18 +8,16 @@
   "born": "14 September 1769",
   "died": "6 May 1859",
 
-  "knownFor": [
-    "Biogeography",
-    "Scientific Exploration",
-    "Cosmos",
-    "Ecology Foundations",
-    "Geography and Cartography",
-    "Latin American Expeditions",
-    "Environmental Science",
-    "Humboldt Current"
-  ],
+"knownFor1": "Biogeography",
+"knownFor2": "Foundations of Ecology",
+"knownFor3": "Scientific Exploration",
+"knownFor4": "Humboldtian Science",
+"knownFor5": "Physical Geography",
+"knownFor6": "Cosmos",
+"knownFor7": "Environmental Science",
+"knownFor8": "Nature Interconnectedness",
 
-  "legacy": "Alexander von Humboldt is widely regarded as one of the greatest scientists and explorers in history. His pioneering studies of nature revealed the interconnectedness of living organisms, climate, geography, and human activity. Many historians consider him one of the founders of ecology, environmental science, and biogeography. His work inspired generations of scientists, including Charles Darwin, Ernst Haeckel, and John Muir.",
+"legacy": "Alexander von Humboldt's legacy is rooted in his revolutionary understanding of nature as an interconnected system. As an explorer, naturalist, geographer, and polymath, Humboldt transformed the study of the natural world by combining careful observation, precise measurement, and broad scientific synthesis. His work laid the foundations for modern ecology, environmental science, biogeography, and physical geography.\n\nHumboldt is best known for his extensive scientific expeditions across Latin America during the late eighteenth and early nineteenth centuries. During these journeys, he collected vast amounts of data on climate, vegetation, geology, wildlife, and topography. Rather than studying these subjects separately, Humboldt sought to understand how they influenced one another. This holistic approach was groundbreaking and fundamentally changed the way scientists viewed the natural world.\n\nOne of his most important contributions was demonstrating that nature operates through interconnected relationships. He observed how factors such as altitude, temperature, and geography affect plant and animal distribution, helping establish the field of biogeography. His famous maps and diagrams revealed patterns in nature that had previously gone unnoticed and inspired future generations of researchers.\n\nHumboldt was also among the first scientists to warn about human impacts on the environment. Through his observations of deforestation and land use, he recognized that human activity could alter climates, ecosystems, and natural resources. These insights anticipated many principles of modern environmental science and conservation.\n\nHis influential work Cosmos attempted to unify knowledge about the universe, bringing together observations from astronomy, geology, biology, and geography into a single vision of nature. The book inspired scientists, explorers, and thinkers around the world, including Charles Darwin.\n\nToday, Alexander von Humboldt is widely regarded as one of the founders of modern environmental thinking. His ideas continue to influence ecology, climate science, conservation, and Earth system research. His enduring legacy is the recognition that all aspects of nature are interconnected and that understanding these relationships is essential for understanding both the planet and humanity's place within it.",
 
   "earlyLife": "Friedrich Wilhelm Heinrich Alexander von Humboldt was born on 14 September 1769 in Berlin, Prussia. Raised in a wealthy and well-educated family, he developed a fascination with plants, rocks, and nature from an early age. He studied finance, geology, engineering, and natural sciences before pursuing a career as a mining inspector, where he gained practical scientific experience and developed his observational skills.",
 
