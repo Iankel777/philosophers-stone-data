@@ -8,18 +8,16 @@
   "born": "14 June 1856",
   "died": "20 July 1922",
 
-  "knownFor": [
-    "Markov Chains",
-    "Probability Theory",
-    "Stochastic Processes",
-    "Markov Property",
-    "Mathematical Statistics",
-    "Random Processes",
-    "Foundations of Machine Learning",
-    "Applied Mathematics"
-  ],
+"knownFor1": "Markov Chains",
+"knownFor2": "Stochastic Processes",
+"knownFor3": "Probability Theory",
+"knownFor4": "Markov Processes",
+"knownFor5": "Markov Property",
+"knownFor6": "Mathematical Statistics",
+"knownFor7": "Random Sequence Analysis",
+"knownFor8": "Foundations of Modern Probability",
 
-  "legacy": "Andrey Markov is regarded as one of the pioneers of modern probability theory. His development of Markov Chains revolutionized the study of randomness by demonstrating that future states can depend on present conditions rather than the entire history of a system. His ideas laid the foundation for major advances in statistics, computer science, machine learning, artificial intelligence, economics, genetics, information theory, and countless other scientific disciplines.",
+"legacy": "Andrey Markov's legacy is rooted in his groundbreaking contributions to probability theory and the study of random processes. As one of the most influential mathematicians of the late nineteenth and early twentieth centuries, Markov expanded the understanding of probability beyond independent events and introduced concepts that would become fundamental to modern mathematics, statistics, computer science, economics, and artificial intelligence.\n\nMarkov is best known for developing Markov Chains, a mathematical framework for analyzing sequences of events in which the probability of a future state depends only on the current state and not on the complete history of previous states. This principle, known as the Markov Property, provided a powerful new way to model uncertainty and dynamic systems. His work demonstrated that meaningful probabilistic analysis could be applied even when events were not completely independent.\n\nThrough his research, Markov helped transform probability theory into a more versatile and practical field. He applied his methods to a variety of problems, including the statistical analysis of literary texts, showing that mathematical techniques could be used to study patterns in language and other complex systems. These early investigations anticipated later developments in information theory, computational linguistics, and machine learning.\n\nThe influence of Markov's ideas extended far beyond mathematics. Markov models became essential tools in physics, biology, economics, engineering, finance, and computer science. They are widely used to model weather systems, stock market behavior, speech recognition, genetic processes, decision-making systems, and many forms of artificial intelligence.\n\nMarkov also contributed significantly to mathematical statistics and helped advance rigorous methods for analyzing uncertainty. His work inspired generations of mathematicians and researchers who expanded and refined the theory of stochastic processes.\n\nToday, Andrey Markov is recognized as one of the founders of modern probability theory. His concepts remain central to scientific research and technological innovation. His enduring legacy is the creation of mathematical tools that enable the analysis and prediction of complex systems governed by chance, providing a framework that continues to shape both theoretical research and practical applications across countless disciplines.",
 
   "earlyLife": "Andrey Andreyevich Markov was born on 14 June 1856 in Ryazan, Russia. As a student, he demonstrated exceptional talent in mathematics and eventually studied at Saint Petersburg University. There he came under the influence of leading Russian mathematicians and quickly established himself as a promising researcher in probability and analysis.",
 
