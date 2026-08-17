@@ -1,49 +1,52 @@
 {
-  "thinkerName": "André-Marie Ampère",
-  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ampere_Andre_1825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "thinkerName": "Andre-Marie Ampere",
+
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ampere_Andre_1825.jpg",
+
   "indexLetter": "A",
+
   "nationality": "French",
+
   "occupation": "Physicist, Mathematician",
-  "school": "Classical Electromagnetism",
- "born": "20 January 1775",
- "died": "10 June 1836",
-  
-"knownFor1": "Electromagnetism",
-"knownFor2": "Ampère's Law",
-"knownFor3": "Electrodynamics",
-"knownFor4": "Electric Current Research",
-"knownFor5": "Foundations of Electrical Engineering",
-"knownFor6": "Ampere Unit of Electric Current",
-"knownFor7": "Mathematical Physics",
-"knownFor8": "Classical Electromagnetic Theory",
-  
-"legacy": "André-Marie Ampère's legacy is rooted in his pioneering contributions to electromagnetism and his role in establishing one of the fundamental branches of modern physics. As a French physicist and mathematician, Ampère helped reveal the relationship between electricity and magnetism, transforming scientific understanding of natural forces and laying the groundwork for countless technological innovations.\n\nAmpère is best known for his discovery that electric currents produce magnetic fields. Inspired by the experiments of Hans Christian Ørsted, he conducted a series of investigations that demonstrated how electric currents interact with one another. His work led to the formulation of Ampère's Law, one of the fundamental principles of electromagnetism. This law remains an essential component of modern physics and electrical engineering.\n\nThrough his research, Ampère helped establish the field of electrodynamics, the study of forces between electric currents. He developed mathematical descriptions of electromagnetic phenomena and introduced concepts that enabled later scientists to create comprehensive theories of electricity and magnetism. His methods brought greater precision and rigor to the study of physical forces.\n\nAmpère's discoveries directly influenced the work of Michael Faraday, James Clerk Maxwell, and many other scientists who expanded the understanding of electromagnetic fields. The theories that emerged from this research eventually led to the development of electric motors, generators, telecommunications systems, and modern electronic devices.\n\nIn recognition of his achievements, the SI unit of electric current was named the ampere in his honor. This designation reflects the central importance of his work within both science and engineering. Today, every electrical system, from household appliances to advanced computer networks, relies on principles connected to Ampère's discoveries.\n\nAndré-Marie Ampère is remembered as one of the founders of electromagnetism. His enduring legacy is the establishment of fundamental laws that explain how electricity and magnetism interact, providing a scientific foundation for the electrical technologies that power and connect the modern world.",
-  
-"earlyLife": "André-Marie Ampère was born in Lyon, France. Largely self-educated, he showed remarkable intellectual ability from an early age and developed a deep interest in mathematics, philosophy, and science.",
-  
-"scientificField": "Physics and Mathematics",
-  
-  "majorContributions": "Formulation of Ampère's Law, pioneering work in electrodynamics, mathematical treatment of electromagnetic phenomena, and foundational discoveries linking electric currents to magnetic fields.",
-  "laterLife": "Ampère continued teaching, researching, and publishing influential scientific works in France while contributing to the rapid development of nineteenth-century physics.",
-  "whyImportant": "His work transformed the scientific understanding of electricity and magnetism and became essential to modern electronics, electrical engineering, and physics.",
-"quote1": "Nothing is more wonderful than the art of being free than the art of discovery through science.",
-"quote2": "The advancement of knowledge comes from observation, experimentation, and reason.",
-"quote3": "Electricity reveals forces that were long hidden from human understanding.",
-"quote4": "Nature rewards those who investigate it with patience and rigor.",
-"quote5": "Every scientific discovery begins with a simple question.",
-"quote6": "Experimentation is the pathway from curiosity to knowledge.",
-"quote7": "The study of nature teaches both humility and wonder.",
-"quote8": "Great discoveries often emerge from persistent effort.",
-"quote9": "Knowledge grows when observation is guided by reason.",
-"quote10": "Scientific progress depends upon the courage to challenge accepted beliefs.",
-"quote11": "The laws of nature can be uncovered through careful inquiry.",
-"quote12": "Discovery transforms mystery into understanding.",
-"quote13": "The pursuit of truth requires both imagination and discipline.",
-"quote14": "Every experiment has the potential to reveal something unexpected.",
-"quote15": "Electricity is one of nature's most fascinating powers.",
-"quote16": "Understanding the natural world enriches human life.",
-"quote17": "Innovation flourishes where curiosity is encouraged.",
-"quote18": "The greatest reward of science is deeper understanding.",
-"quote19": "Knowledge serves humanity best when it is shared.",
-"quote20": "The future belongs to those who seek understanding through reason and evidence."
-}
+
+  "birthDate": "20 January 1775",
+
+  "deathDate": "10 June 1836",
+
+  "knownFor1": "Electromagnetism",
+  "knownFor2": "Ampere's Law",
+  "knownFor3": "Electrodynamics",
+  "knownFor4": "Electric Current Research",
+  "knownFor5": "Foundations of Electrical Engineering",
+  "knownFor6": "Ampere Unit of Electric Current",
+  "knownFor7": "Mathematical Physics",
+  "knownFor8": "Classical Electromagnetic Theory",
+
+  "legacy": "Andre-Marie Ampere's legacy is rooted in his pioneering contributions to electromagnetism and his role in establishing one of the fundamental branches of modern physics. As a French physicist and mathematician, Ampere helped reveal the relationship between electricity and magnetism, transforming scientific understanding of natural forces and laying the groundwork for countless technological innovations.\n\nAmpere is best known for discovering that electric currents generate magnetic fields. Inspired by the experiments of Hans Christian Oersted, he conducted groundbreaking investigations showing how electric currents interact with one another. These discoveries led to the formulation of Ampere's Law, one of the fundamental principles of electromagnetism and a cornerstone of modern physics.\n\nThrough his research, Ampere helped establish the field of electrodynamics, which studies the forces and interactions produced by electric currents. He developed mathematical descriptions of electromagnetic phenomena and introduced concepts that enabled later scientists to construct comprehensive theories of electricity and magnetism.\n\nAmpere's findings directly influenced major figures such as Michael Faraday and James Clerk Maxwell. Their subsequent discoveries expanded upon his work and eventually led to practical technologies including electric motors, generators, telecommunications systems, and modern electronics.\n\nIn recognition of his achievements, the international unit of electric current was named the ampere. This honor reflects the enduring importance of his contributions to both science and engineering. Today, virtually every electrical system depends on principles connected to his discoveries.\n\nAndre-Marie Ampere is remembered as one of the founders of electromagnetism. His enduring legacy is the establishment of fundamental laws that explain the relationship between electricity and magnetism, providing the scientific foundation for many of the technologies that power and connect the modern world.",
+
+  "earlyLife": "Andre-Marie Ampere was born in Lyon, France. Largely self-educated, he developed a strong interest in mathematics, natural philosophy, and scientific inquiry from an early age.",
+
+  "majorContributions": "Ampere formulated Ampere's Law, pioneered electrodynamics, and established mathematical principles linking electric currents to magnetic phenomena.",
+
+  "laterLife": "Ampere conducted research, taught mathematics and physics, and published influential works that shaped the development of nineteenth-century science.",
+
+  "quote1": "Nothing is more wonderful than art of being free without destroying science.",
+  "quote2": "The advancement of knowledge comes from observation and reason.",
+  "quote3": "Electricity reveals forces that were long hidden from human understanding.",
+  "quote4": "Nature rewards those who investigate it with patience and rigor.",
+  "quote5": "Every scientific discovery begins with a simple question.",
+  "quote6": "Experimentation is the pathway from curiosity to knowledge.",
+  "quote7": "The study of nature teaches both humility and wonder.",
+  "quote8": "Great discoveries often emerge from persistent effort.",
+  "quote9": "Knowledge grows when observation is guided by reason.",
+  "quote10": "Scientific progress depends upon the courage to challenge accepted beliefs.",
+  "quote11": "The laws of nature can be uncovered through careful inquiry.",
+  "quote12": "Discovery transforms mystery into understanding.",
+  "quote13": "The pursuit of truth requires both imagination and discipline.",
+  "quote14": "Every experiment has the potential to reveal something unexpected.",
+  "quote15": "Electricity is one of nature's most fascinating powers.",
+  "quote16": "Understanding the natural world enriches human life.",
+  "quote17": "Innovation flourishes where curiosity is encouraged.",
+  "quote18": "The greatest reward of science is deeper understanding.",
+  "quote19": "Knowledge serves humanity best when it is shared.",
+
