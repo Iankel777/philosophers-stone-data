@@ -8,18 +8,16 @@
   "born": "26 May 1667",
   "died": "27 November 1754",
 
-  "knownFor": [
-    "De Moivre's Formula",
-    "Probability Theory",
-    "Normal Distribution",
-    "Analytic Trigonometry",
-    "The Doctrine of Chances",
-    "Complex Numbers",
-    "Foundations of Statistics",
-    "Mathematical Analysis"
-  ],
+"knownFor1": "De Moivre's Formula",
+"knownFor2": "Probability Theory",
+"knownFor3": "Normal Distribution Approximation",
+"knownFor4": "The Doctrine of Chances",
+"knownFor5": "Analytic Trigonometry",
+"knownFor6": "Complex Numbers",
+"knownFor7": "Actuarial Mathematics",
+"knownFor8": "Foundations of Statistics",
 
-  "legacy": "Abraham de Moivre was one of the founders of probability theory and a pioneer in the application of mathematics to uncertainty and statistics. His work influenced generations of mathematicians, including Pierre-Simon Laplace and Carl Friedrich Gauss. De Moivre's Formula remains one of the most elegant and important formulas in mathematics, connecting complex numbers and trigonometry in a powerful way.",
+"legacy": "Abraham de Moivre's legacy lies in his pioneering contributions to mathematics, probability theory, and statistics. During the eighteenth century, de Moivre helped transform probability from a collection of gambling calculations into a rigorous branch of mathematics. His work provided foundations that would later influence statistics, economics, actuarial science, and many areas of modern scientific research.\n\nDe Moivre is best known for De Moivre's Formula, a fundamental relationship connecting complex numbers and trigonometry. The formula became a cornerstone of mathematical analysis and remains an essential tool in mathematics, physics, engineering, and signal processing. Its elegant connection between algebra and geometry demonstrated the power of mathematical abstraction and inspired future developments in complex analysis.\n\nHis influential book, The Doctrine of Chances, was one of the earliest comprehensive works on probability theory. In this landmark publication, de Moivre developed methods for calculating probabilities and analyzing uncertain events. The book became highly influential among mathematicians and helped establish probability as a respected scientific discipline.\n\nDe Moivre also made important advances in the study of large data sets and random events. His work on approximating the binomial distribution anticipated what later became known as the normal distribution, or bell curve. This contribution played a significant role in the later development of statistics and the mathematical study of uncertainty.\n\nBeyond pure mathematics, de Moivre's ideas greatly influenced actuarial science and risk assessment. His methods helped lay the groundwork for life insurance calculations and financial forecasting. Today, his contributions remain embedded in modern mathematics, statistics, economics, engineering, and data science. Abraham de Moivre is remembered as one of the key figures who helped establish the mathematical foundations for understanding randomness, probability, and complex numerical relationships.",
 
   "earlyLife": "Abraham de Moivre was born on 26 May 1667 in Vitry-le-François, France. Raised in a Protestant family, he was forced to leave France following religious persecution after the Revocation of the Edict of Nantes. He settled in England, where he devoted himself to mathematics and eventually became part of Isaac Newton's intellectual circle.",
 
