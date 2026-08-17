@@ -8,18 +8,24 @@
   "born": "1 April 1908",
   "died": "8 June 1970",
 
-  "knownFor": [
-    "Hierarchy of Needs",
-    "Self-Actualization",
-    "Humanistic Psychology",
-    "Positive Psychology Foundations",
-    "Motivation Theory",
-    "Peak Experiences",
-    "Psychology of Growth",
-    "Third Force Psychology"
-  ],
+"knownFor1": "Maslow's Hierarchy of Needs",
+"knownFor2": "Humanistic Psychology",
+"knownFor3": "Self-Actualization Theory",
+"knownFor4": "Peak Experiences",
+"knownFor5": "Theory of Human Motivation",
+"knownFor6": "Positive Psychology Foundations",
+"knownFor7": "Study of Healthy Personalities",
+"knownFor8": "Transpersonal Psychology Influence",
 
-  "legacy": "Abraham Maslow is regarded as one of the founders of humanistic psychology and one of the most influential psychologists of the twentieth century. His theories shifted psychology's focus away from mental illness and behavioral conditioning toward human potential, personal growth, creativity, and well-being. His Hierarchy of Needs remains one of the most recognized concepts in psychology and continues to influence education, management, healthcare, coaching, and personal development.",
+"legacy": "Abraham Maslow's legacy transformed the way psychologists understand human nature, motivation, and personal growth. At a time when psychology was largely focused on mental illness, unconscious conflicts, or observable behavior, Maslow shifted attention toward human potential, creativity, fulfillment, and psychological well-being. His work encouraged psychologists to study not only what goes wrong in people's lives but also what allows individuals to thrive and reach their fullest capabilities.
+
+Maslow is best remembered for developing the Hierarchy of Needs, a model that explains how human motivation progresses from basic physiological and safety needs toward belonging, esteem, and ultimately self-actualization. This framework became one of the most widely recognized concepts in psychology and has influenced education, business, healthcare, leadership training, marketing, and personal development. The hierarchy provided a practical way to understand why people pursue different goals at different stages of life.
+
+Beyond the hierarchy, Maslow helped establish Humanistic Psychology as a major movement within the field. Humanistic psychologists emphasized personal responsibility, free will, meaning, creativity, and the inherent potential for growth found in every individual. His research on self-actualizing people explored the characteristics of highly fulfilled individuals and inspired decades of research into personal excellence and well-being.
+
+Maslow also introduced the concept of peak experiences, describing moments of profound joy, insight, connection, and transcendence. These ideas expanded psychological discussions beyond pathology and encouraged exploration of positive and transformative human experiences.
+
+Today, Maslow's influence can be seen across psychology, coaching, education, organizational leadership, and self-improvement programs worldwide. His enduring contribution is the belief that human beings are not merely driven by deficits and problems but are also motivated by growth, purpose, meaning, and the pursuit of their highest potential. His work continues to inspire people to understand themselves and strive toward becoming the best versions of who they can be."
 
   "earlyLife": "Abraham Harold Maslow was born on 1 April 1908 in Brooklyn, New York, to immigrant parents. He described his childhood as difficult and often lonely, finding comfort in books and learning. Initially studying law, he later switched to psychology and earned his doctorate at the University of Wisconsin, where he developed a growing interest in human behavior, motivation, and personality development.",
 
