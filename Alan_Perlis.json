@@ -8,18 +8,17 @@
   "born": "1 April 1922",
   "died": "7 February 1990",
 
-  "knownFor": [
-    "First Turing Award Recipient",
-    "Programming Languages",
-    "Compiler Design",
-    "ALGOL",
-    "Computer Science Education",
-    "Software Engineering",
-    "Artificial Intelligence Research",
-    "Programming Epigrams"
-  ],
+"knownFor1": "Programming Language Theory",
+"knownFor2": "Perlis Epigrams",
+"knownFor3": "ALGOL Development",
+"knownFor4": "Compiler Design",
+"knownFor5": "Computer Science Education",
+"knownFor6": "Artificial Intelligence Research",
+"knownFor7": "Advanced Programming Techniques",
+"knownFor8": "First Turing Award Recipient",
 
-  "legacy": "Alan Perlis is regarded as one of the founding figures of modern computer science. As the first recipient of the ACM Turing Award in 1966, he helped establish computer science as a rigorous academic discipline. His work in programming languages, compiler construction, and software development influenced generations of researchers and programmers. Perlis was also celebrated for his insightful and witty observations about programming, many of which remain widely quoted today.",
+
+"legacy": "Alan Perlis' legacy is deeply woven into the foundations of modern computer science. As one of the earliest pioneers of programming and software development, Perlis helped establish computing as a rigorous academic discipline at a time when the field was still in its infancy. His work influenced generations of programmers, researchers, and educators, shaping many of the concepts that remain central to computing today.\n\nPerlis is perhaps best known for his contributions to programming languages and compiler design. He played an important role in the development of ALGOL, one of the most influential programming languages in history. ALGOL introduced structured programming concepts and served as a foundation for many later languages, including Pascal, C, and numerous modern programming systems. His efforts helped move programming from machine-specific instructions toward more expressive and human-readable forms.\n\nIn 1966, Perlis became the first recipient of the A.M. Turing Award, often considered the highest honor in computer science. The award recognized his pioneering contributions to advanced programming techniques and his role in establishing programming as a serious intellectual discipline. His recognition reflected the broad impact of his ideas across the rapidly growing field of computing.\n\nPerlis was also a passionate educator who helped define how computer science would be taught in universities. He believed that learning to program was not merely a technical skill but a way of thinking about problems, systems, and abstraction. His teaching and leadership influenced the development of computer science curricula around the world.\n\nBeyond his technical achievements, Perlis became famous for the 'Perlis Epigrams,' a collection of insightful and often humorous observations about programming, complexity, and human thought. These statements continue to be quoted by software developers decades later.\n\nToday, Alan Perlis is remembered as a visionary thinker whose contributions shaped programming languages, education, and software engineering. His enduring legacy is the belief that programming is both a practical craft and an intellectual discipline capable of transforming how people understand and solve complex problems.",
 
   "earlyLife": "Alan Jay Perlis was born on 1 April 1922 in Pittsburgh, Pennsylvania, United States. He served in the U.S. Army during World War II before pursuing higher education in mathematics. After earning degrees from the Carnegie Institute of Technology and later the Massachusetts Institute of Technology, he became increasingly interested in the emerging field of electronic computation and began helping shape what would become modern computer science.",
 
