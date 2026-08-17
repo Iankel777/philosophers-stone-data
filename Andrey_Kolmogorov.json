@@ -8,18 +8,16 @@
   "born": "25 April 1903",
   "died": "20 October 1987",
 
-  "knownFor": [
-    "Modern Probability Theory",
-    "Kolmogorov Axioms",
-    "Kolmogorov Complexity",
-    "Turbulence Theory",
-    "Information Theory",
-    "Stochastic Processes",
-    "Algorithmic Complexity",
-    "Foundations of Statistics"
-  ],
+"knownFor1": "Kolmogorov Complexity",
+"knownFor2": "Probability Theory",
+"knownFor3": "Axiomatization of Probability",
+"knownFor4": "Kolmogorov-Arnold Representation Theorem",
+"knownFor5": "Information Theory Foundations",
+"knownFor6": "Turbulence Theory",
+"knownFor7": "Algorithmic Information Theory",
+"knownFor8": "Modern Mathematical Statistics",
 
-  "legacy": "Andrey Kolmogorov is widely regarded as one of the greatest mathematicians of the twentieth century. His axiomatic foundation of probability transformed the subject into a rigorous branch of mathematics and laid the groundwork for countless applications in science, economics, engineering, artificial intelligence, and data science. His influence extends far beyond probability theory into computer science, information theory, complexity theory, and physics.",
+"legacy": "Andrey Kolmogorov's legacy is defined by his extraordinary contributions to mathematics and his profound influence on probability, statistics, information theory, and computational science. Widely regarded as one of the greatest mathematicians of the twentieth century, Kolmogorov established rigorous foundations for several major fields and introduced concepts that continue to shape modern scientific research.\n\nKolmogorov is best known for his axiomatization of probability theory in 1933. Before his work, probability lacked a universally accepted mathematical foundation. By expressing probability through a clear set of axioms grounded in measure theory, Kolmogorov transformed the subject into a precise and rigorous branch of mathematics. His framework remains the standard foundation for probability theory and underpins modern statistics, economics, machine learning, and scientific modeling.\n\nBeyond probability, Kolmogorov made significant contributions to turbulence theory, helping scientists better understand complex fluid motion. His mathematical descriptions of turbulent flow influenced physics, engineering, meteorology, and environmental science. Many of his ideas remain central to research involving atmospheric dynamics and fluid mechanics.\n\nAnother landmark achievement was the development of Kolmogorov Complexity, a concept that measures the complexity of information by determining the length of the shortest possible description of a given object or data set. This work helped establish the foundations of algorithmic information theory and influenced later developments in computer science, data compression, and artificial intelligence.\n\nKolmogorov also contributed to dynamical systems, mathematical logic, topology, and educational reform. His ability to bridge abstract theory and practical application made him one of the most versatile and influential mathematicians of his era.\n\nToday, Andrey Kolmogorov is recognized as a foundational figure in modern mathematics. His theories continue to influence fields ranging from computer science and artificial intelligence to economics, physics, and engineering. His enduring legacy is the creation of mathematical frameworks that allow scientists to understand uncertainty, information, complexity, and the underlying patterns that govern both natural and computational systems.",
 
   "earlyLife": "Andrey Nikolaevich Kolmogorov was born on 25 April 1903 in Tambov, Russia. Raised during a period of political and social transformation, he demonstrated exceptional talent in mathematics from an early age. He studied at Moscow State University, where his brilliance quickly attracted attention. By his early twenties, he was already publishing important research papers in mathematics.",
 
