@@ -8,19 +8,16 @@
   "born": "7 November 1913",
   "died": "4 January 1960",
 
-  "knownFor": [
-    "Absurdism",
-    "The Myth of Sisyphus",
-    "The Stranger",
-    "The Plague",
-    "The Rebel",
-    "Existential Philosophy",
-    "Nobel Prize in Literature (1957)",
-    "Resistance Journalism"
-  ],
+"knownFor1": "Absurdism",
+"knownFor2": "The Myth of Sisyphus",
+"knownFor3": "Existential Philosophy",
+"knownFor4": "The Stranger",
+"knownFor5": "Philosophy of Rebellion",
+"knownFor6": "The Plague",
+"knownFor7": "Humanism and Freedom",
+"knownFor8": "Nobel Prize in Literature",
 
-  "legacy": "Albert Camus is regarded as one of the most influential writers and philosophers of the twentieth century. His exploration of meaning, freedom, justice, rebellion, and the human condition shaped modern philosophy and literature. Although often associated with existentialism, Camus developed his own philosophy of the Absurd, arguing that human beings search for meaning in a universe that offers none. His works continue to influence philosophy, politics, psychology, literature, and popular culture.",
-
+"legacy": "Albert Camus' legacy rests on his profound exploration of the human condition and the search for meaning in an indifferent universe. As a philosopher, novelist, essayist, and journalist, Camus became one of the most influential intellectuals of the twentieth century. His works continue to resonate with readers because they address timeless questions about purpose, suffering, freedom, morality, and human dignity.\n\nCamus is best known for developing the philosophy of the Absurd, the idea that human beings naturally seek meaning and order, yet the universe offers no clear answers. Rather than responding to this conflict with despair, Camus argued that individuals should courageously embrace life despite its uncertainties. This perspective was most famously expressed in his essay The Myth of Sisyphus, where he used the Greek myth as a metaphor for the human struggle to create meaning in a seemingly indifferent world.\n\nHis literary works brought these philosophical ideas to life. In The Stranger, Camus explored alienation, freedom, and society's expectations through the story of an emotionally detached protagonist. In The Plague, he examined human solidarity, responsibility, and resilience in the face of suffering and crisis. These novels became classics of modern literature and remain widely studied throughout the world.\n\nCamus also developed a philosophy of rebellion. In The Rebel, he argued that individuals can reject injustice and oppression without embracing nihilism or extremism. He believed that moral action should be grounded in respect for human life and freedom, even in difficult circumstances.\n\nAwarded the Nobel Prize in Literature in 1957, Camus was recognized for illuminating the moral challenges of his era. Today, his influence extends across philosophy, literature, political thought, and psychology. Albert Camus is remembered as a thinker who encouraged people to confront life's uncertainties with honesty, courage, compassion, and a commitment to living meaningfully despite the absence of absolute answers.",
   "earlyLife": "Albert Camus was born on 7 November 1913 in Mondovi, French Algeria. His father died during World War I when Camus was still an infant. Raised in poverty by his mother, he excelled in school and received a scholarship that allowed him to continue his education. Despite suffering from tuberculosis from a young age, Camus pursued literature, philosophy, theater, and journalism.",
 
   "scientificField": "Camus worked primarily in philosophy, literature, political thought, journalism, ethics, and cultural criticism. His writings explored themes of absurdity, freedom, justice, suffering, rebellion, and human dignity.",
