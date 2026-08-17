@@ -8,18 +8,16 @@
   "born": "16 June 1723",
   "died": "17 July 1790",
 
-  "knownFor": [
-    "The Wealth of Nations",
-    "The Theory of Moral Sentiments",
-    "Father of Modern Economics",
-    "Division of Labor",
-    "Free Market Theory",
-    "Invisible Hand",
-    "Classical Economics",
-    "Political Economy"
-  ],
+"knownFor1": "The Wealth of Nations",
+"knownFor2": "Invisible Hand Theory",
+"knownFor3": "Classical Economics",
+"knownFor4": "Division of Labor",
+"knownFor5": "Free Market Economics",
+"knownFor6": "Economic Liberalism",
+"knownFor7": "Theory of Moral Sentiments",
+"knownFor8": "Foundations of Modern Capitalism",
 
-  "legacy": "Adam Smith is widely regarded as the father of modern economics. His ideas on free markets, competition, specialization, and economic liberty transformed the study of commerce and laid the foundations of classical economics. His influence extends beyond economics into philosophy, political science, and public policy, making him one of the most important thinkers of the Enlightenment.",
+"legacy": "Adam Smith's legacy is centered on his profound influence on economics, political philosophy, and the understanding of human prosperity. Living during the Scottish Enlightenment, Smith sought to explain how societies create wealth, how markets function, and how individuals interact within economic systems. His ideas became the foundation of classical economics and continue to shape economic thought around the world.\n\nSmith is best known for his landmark work, The Wealth of Nations, published in 1776. In this influential book, he examined the mechanisms that drive economic growth and argued that productivity increases when labor is divided into specialized tasks. His famous example of a pin factory demonstrated how specialization can dramatically improve efficiency and output.\n\nOne of Smith's most enduring contributions is the concept often described as the 'invisible hand.' He argued that individuals pursuing their own interests within competitive markets can unintentionally contribute to the broader prosperity of society. This idea became a cornerstone of free-market economic theory and continues to influence debates about government regulation, trade, and economic policy.\n\nHowever, Smith's work extended beyond economics. In The Theory of Moral Sentiments, he explored ethics, empathy, and human behavior, arguing that moral judgment and social cooperation are essential elements of a functioning society. This work revealed that Smith viewed economic activity as inseparable from broader human values and social relationships.\n\nToday, Adam Smith is widely regarded as the father of modern economics. His insights have influenced generations of economists, policymakers, business leaders, and scholars. While many aspects of modern economies differ from those of his time, his ideas about markets, incentives, productivity, and human behavior remain central to economic discussion. His lasting contribution is providing a systematic framework for understanding how wealth is created and how economic systems can contribute to human prosperity and societal development.",
 
   "earlyLife": "Adam Smith was born on 16 June 1723 in Kirkcaldy, Scotland. He displayed exceptional intellectual ability from a young age and entered the University of Glasgow at fourteen. There he studied moral philosophy under Francis Hutcheson, whose teachings greatly influenced Smith's thinking. He later continued his education at Balliol College, Oxford.",
 
