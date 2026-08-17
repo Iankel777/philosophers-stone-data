@@ -8,19 +8,17 @@
   "born": "6 August 1881",
   "died": "11 March 1955",
 
-  "knownFor": [
-    "Discovery of Penicillin",
-    "Antibiotics Revolution",
-    "Nobel Prize in Physiology or Medicine (1945)",
-    "Bacteriology Research",
-    "Discovery of Lysozyme",
-    "Infectious Disease Research",
-    "Modern Antibiotic Medicine",
-    "Medical Microbiology"
-  ],
+"knownFor1": "Discovery of Penicillin",
+"knownFor2": "Antibiotic Revolution",
+"knownFor3": "Bacteriology Research",
+"knownFor4": "Lysozyme Discovery",
+"knownFor5": "Modern Antimicrobial Medicine",
+"knownFor6": "Infectious Disease Treatment",
+"knownFor7": "Medical Microbiology",
+"knownFor8": "Nobel Prize in Physiology or Medicine",
 
-  "legacy": "Alexander Fleming transformed modern medicine through the discovery of penicillin, the first widely effective antibiotic. His work revolutionized the treatment of bacterial infections, saving hundreds of millions of lives and ushering in the antibiotic era. Fleming's discoveries changed healthcare worldwide and remain among the most important medical breakthroughs in human history.",
 
+"legacy": "Alexander Fleming's legacy is defined by one of the most important medical discoveries in human history: penicillin. Through his work as a bacteriologist, Fleming helped transform medicine by introducing the era of antibiotics, dramatically reducing deaths from bacterial infections and changing the course of modern healthcare. His discoveries have saved countless lives and continue to influence medicine around the world.\n\nFleming is best known for discovering penicillin in 1928. While studying bacteria, he observed that a mold contaminating one of his laboratory cultures prevented the growth of nearby bacteria. Recognizing the significance of this unexpected finding, Fleming identified the mold as Penicillium and demonstrated its powerful antibacterial properties. Although it took additional work by other scientists to develop penicillin into a widely available treatment, Fleming's original discovery laid the foundation for the antibiotic revolution.\n\nBefore antibiotics, infections such as pneumonia, sepsis, wound infections, and many common diseases frequently resulted in death. The introduction of penicillin transformed medical practice by providing an effective way to treat bacterial infections. This breakthrough greatly improved survival rates, enabled safer surgical procedures, and contributed significantly to increases in life expectancy during the twentieth century.\n\nIn addition to penicillin, Fleming discovered lysozyme, a naturally occurring enzyme that helps protect the body from certain bacteria. This research further advanced scientific understanding of the body's natural defense mechanisms against infection.\n\nFleming also warned about the dangers of antibiotic misuse and the potential development of antibiotic resistance, a concern that remains highly relevant in modern medicine. His foresight highlighted the importance of responsible antibiotic use and ongoing scientific vigilance.\n\nToday, Alexander Fleming is remembered as one of the most influential medical scientists in history. His discoveries revolutionized the treatment of disease, opened new paths for pharmaceutical research, and transformed global public health. His enduring legacy is the demonstration that careful scientific observation can lead to breakthroughs that improve and save millions of lives.",
   "earlyLife": "Alexander Fleming was born on 6 August 1881 in Ayrshire, Scotland. Raised on a rural farm, he developed a strong appreciation for observation and nature. After moving to London, he studied medicine at St Mary's Hospital Medical School, where he excelled academically and developed a keen interest in bacteriology and infectious diseases.",
 
   "scientificField": "Fleming specialized in bacteriology, microbiology, immunology, infectious diseases, and pharmacology. His research focused on understanding harmful microorganisms and finding effective methods to prevent and treat infections.",
