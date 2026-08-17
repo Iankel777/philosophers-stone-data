@@ -8,18 +8,16 @@
   "born": "22 July 1945",
   "died": "",
 
-  "knownFor": [
-    "Smalltalk",
-    "Object-Oriented Programming",
-    "Graphical User Interfaces",
-    "Xerox PARC",
-    "Personal Computing",
-    "Software Design",
-    "Human-Computer Interaction",
-    "Programming Language Innovation"
-  ],
+"knownFor1": "Smalltalk Programming Language",
+"knownFor2": "Object-Oriented Programming",
+"knownFor3": "Graphical User Interfaces",
+"knownFor4": "Design of Modern Software Systems",
+"knownFor5": "Personal Computing Innovation",
+"knownFor6": "Software Development Methodologies",
+"knownFor7": "PARC Research Contributions",
+"knownFor8": "Educational Computing",
 
-  "legacy": "Adele Goldberg is one of the most influential pioneers of modern computing. Her work at Xerox PARC helped shape many of the concepts that became standard in personal computers, including graphical user interfaces, windows, icons, and object-oriented programming environments. Through her contributions to Smalltalk, she played a central role in creating technologies that influenced modern programming languages, software engineering, and user interface design.",
+"legacy": "Adele Goldberg's legacy is deeply connected to the development of modern computing, particularly in the fields of object-oriented programming and graphical user interfaces. As a researcher at Xerox PARC, Goldberg played a central role in some of the most influential technological innovations of the twentieth century. Her work helped shape the foundations of personal computing and influenced generations of software developers, engineers, and technology leaders.\n\nGoldberg is best known for her contributions to the Smalltalk programming language and environment. Smalltalk was one of the earliest and most influential object-oriented programming systems, introducing concepts that later became fundamental to modern programming languages such as Java, Python, C++, and Ruby. Through Smalltalk, Goldberg helped demonstrate how software could be designed using reusable objects, making programs easier to understand, maintain, and expand.\n\nIn addition to programming innovation, Goldberg contributed to the development of graphical user interface concepts that transformed how people interact with computers. The visual environments created at Xerox PARC introduced windows, icons, menus, and mouse-driven interaction methods that later inspired widely adopted personal computer systems. These ideas helped make computing more accessible to people without specialized technical knowledge.\n\nGoldberg was also an advocate for educational computing and user-centered software design. Her work emphasized the importance of creating tools that empower creativity, learning, and problem-solving. She believed that technology should be understandable and useful to a broad audience rather than limited to experts.\n\nToday, Adele Goldberg is recognized as one of the key pioneers of modern software engineering and personal computing. Her contributions continue to influence programming languages, software architecture, educational technology, and interface design. The principles advanced through her work remain visible in countless applications and devices used every day. Her enduring legacy is helping transform computers from specialized machines into accessible, powerful tools that support communication, learning, creativity, and innovation across the world.",
 
   "earlyLife": "Adele Goldberg was born on 22 July 1945 in Cleveland, Ohio, United States. She developed an early interest in mathematics and problem-solving and pursued her studies at the University of Michigan, where she earned degrees in mathematics and information science. During a period when computing was rapidly evolving, Goldberg became involved in research that would eventually redefine how people interact with computers.",
 
