@@ -8,19 +8,16 @@
   "born": "22 February 1788",
   "died": "21 September 1860",
 
-  "knownFor": [
-    "The World as Will and Representation",
-    "Philosophical Pessimism",
-    "Metaphysics of the Will",
-    "Influence on Nietzsche",
-    "Influence on Freud",
-    "Aesthetics and Art Philosophy",
-    "Ethics of Compassion",
-    "Eastern Philosophy Influence"
-  ],
+"knownFor1": "Philosophy of the Will",
+"knownFor2": "The World as Will and Representation",
+"knownFor3": "Metaphysical Pessimism",
+"knownFor4": "Influence on Existentialism",
+"knownFor5": "Influence on Psychology",
+"knownFor6": "Aesthetics and Art Philosophy",
+"knownFor7": "Compassion-Based Ethics",
+"knownFor8": "Critique of Rationalism",
 
-  "legacy": "Arthur Schopenhauer was one of the most influential philosophers of the nineteenth century. His philosophy centered on the concept of the 'Will' as the fundamental force underlying reality and emphasized the role of suffering in human existence. Though largely overlooked during much of his early career, his ideas later influenced major thinkers including Friedrich Nietzsche, Sigmund Freud, Carl Jung, Leo Tolstoy, Richard Wagner, and Albert Einstein. Today he is regarded as a pioneering figure in existentialism, psychology, and philosophical pessimism.",
-
+"legacy": "Arthur Schopenhauer's legacy is rooted in his profound exploration of human existence, suffering, desire, and the nature of reality. As one of the most influential philosophers of the nineteenth century, Schopenhauer challenged the optimism of many of his contemporaries and developed a philosophical system that emphasized the powerful role of irrational forces in shaping human life. His ideas would later influence philosophy, psychology, literature, and the arts.\n\nSchopenhauer is best known for his major work, The World as Will and Representation. In this book, he argued that the underlying reality of the world is not reason or logic but a blind and relentless force he called the Will. According to Schopenhauer, human desires arise from this Will, causing people to experience constant striving, dissatisfaction, and suffering. This perspective became the foundation of his philosophy and earned him a reputation as one of history's most influential philosophical pessimists.\n\nDespite his emphasis on suffering, Schopenhauer believed that temporary relief could be found through art, contemplation, and compassion. He argued that aesthetic experiences allow individuals to momentarily escape the endless demands of the Will. Music, in particular, held a special place in his philosophy because he believed it expressed the essence of reality more directly than any other art form.\n\nSchopenhauer also developed an ethical philosophy centered on compassion. He maintained that genuine morality arises from recognizing the shared suffering of all living beings and responding with empathy rather than selfishness. This emphasis on compassion distinguished his philosophy from many other systems focused on duty, reason, or self-interest.\n\nHis influence extended far beyond philosophy. Thinkers such as Friedrich Nietzsche, Sigmund Freud, Carl Jung, and numerous writers, artists, and psychologists drew inspiration from his ideas. Many of his insights into unconscious motivation anticipated later developments in psychology.\n\nToday, Arthur Schopenhauer is remembered as one of the most original and influential philosophers of modern history. His enduring legacy is the exploration of the hidden forces that shape human behavior and the search for wisdom, compassion, and meaning in a world marked by desire and impermanence.",
   "earlyLife": "Arthur Schopenhauer was born on 22 February 1788 in Danzig, then part of Prussia. His father was a wealthy merchant who encouraged him to pursue business, while his mother became a well-known novelist. After his father's death, Schopenhauer abandoned commerce and devoted himself to philosophy. He studied at the Universities of Göttingen and Berlin, where he immersed himself in the works of Plato, Immanuel Kant, and classical philosophy.",
 
   "scientificField": "Schopenhauer's work focused on metaphysics, ethics, aesthetics, psychology, epistemology, and philosophy of religion. His thought combined Western philosophy with ideas drawn from Hinduism and Buddhism, making him one of the first major European philosophers to engage deeply with Eastern philosophical traditions.",
