@@ -8,19 +8,16 @@
   "born": "18 February 1745",
   "died": "5 March 1827",
 
-  "knownFor": [
-    "Voltaic Pile",
-    "First Electric Battery",
-    "Electrochemistry",
-    "Discovery of Methane",
-    "Electric Potential",
-    "Volta Effect",
-    "Foundations of Electrical Science",
-    "Unit of Voltage (Volt)"
-  ],
+"knownFor1": "Electric Battery",
+"knownFor2": "Voltaic Pile",
+"knownFor3": "Electrochemistry",
+"knownFor4": "Electrical Science",
+"knownFor5": "Volta's Law of Contact",
+"knownFor6": "Discovery of Methane",
+"knownFor7": "Foundations of Electrical Technology",
+"knownFor8": "Experimental Physics",
 
-  "legacy": "Alessandro Volta was one of the most influential scientists in the history of electricity. His invention of the voltaic pile, the first true electric battery, provided humanity with a continuous source of electric current for the first time. This breakthrough launched the age of electrical experimentation and paved the way for modern electronics, telecommunications, and power systems. The SI unit of electric potential, the volt, is named in his honor.",
-
+"legacy": "Alessandro Volta's legacy is founded upon his revolutionary contributions to the study of electricity and his invention of the first practical electric battery. As one of the most influential physicists of the late eighteenth and early nineteenth centuries, Volta transformed the understanding of electrical phenomena and provided the foundation for many of the technologies that define the modern world.\n\nVolta is best known for inventing the voltaic pile in 1800, widely recognized as the world's first continuous source of electric current. Before this breakthrough, scientists could generate only short-lived electrical charges through friction-based methods. The voltaic pile enabled the production of a steady flow of electricity, opening new possibilities for scientific experimentation and technological innovation. This invention marked the beginning of the age of electrical science and is considered one of the most important achievements in the history of physics.\n\nHis work also played a crucial role in the development of electrochemistry. By demonstrating how chemical reactions could generate electrical energy, Volta laid the groundwork for future discoveries involving batteries, electrical circuits, and energy storage. His research influenced many leading scientists, including Michael Faraday and André-Marie Ampère, whose work further expanded the understanding of electricity and magnetism.\n\nIn addition to his electrical research, Volta contributed to chemistry through the discovery and study of methane gas. His careful experimental methods helped establish standards for scientific investigation and strengthened the relationship between physics and chemistry.\n\nVolta's achievements were so significant that the unit of electric potential, the volt, was named in his honor. Today, every battery-powered device, electrical network, and electronic system reflects principles that can be traced back to his pioneering work.\n\nAlessandro Volta is remembered as a visionary scientist whose discoveries transformed electricity from a scientific curiosity into a practical and powerful force. His enduring legacy is the creation of the foundation upon which modern electrical engineering, electronics, and energy technologies were built.",
   "earlyLife": "Alessandro Giuseppe Antonio Anastasio Volta was born on 18 February 1745 in Como, Italy. As a child, he showed an intense curiosity about natural phenomena and scientific experimentation. Although he initially developed slowly in language and communication, he later became fascinated by the works of leading scientists and dedicated himself to the study of electricity and chemistry.",
 
   "scientificField": "Volta worked primarily in physics, electricity, electrochemistry, chemistry, and experimental science. His research focused on understanding electrical phenomena and developing practical methods for generating and storing electricity.",
