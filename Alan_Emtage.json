@@ -8,18 +8,16 @@
   "born": "27 November 1964",
   "died": "",
 
-  "knownFor": [
-    "Archie Search Engine",
-    "Internet Search Technology",
-    "Information Retrieval",
-    "Internet History",
-    "Search Engine Pioneer",
-    "Early Web Innovation",
-    "Computer Networking",
-    "Digital Information Access"
-  ],
+"knownFor1": "Archie Search Engine",
+"knownFor2": "Internet Search Technology",
+"knownFor3": "First Search Engine Pioneer",
+"knownFor4": "Information Retrieval Systems",
+"knownFor5": "Indexing Online Resources",
+"knownFor6": "Early Internet Innovation",
+"knownFor7": "Foundations of Web Search",
+"knownFor8": "Internet Accessibility",
 
-  "legacy": "Alan Emtage is recognized as one of the pioneers of internet search technology. While studying at McGill University, he created Archie in 1990, widely regarded as the world's first internet search engine. His innovation laid the groundwork for future search technologies and fundamentally changed how people locate information online. Modern search engines trace part of their intellectual heritage to the concepts introduced through Archie's automated indexing system.",
+"legacy": "Alan Emtage's legacy is rooted in his pioneering role in the development of internet search technology. At a time when the internet was still a relatively small network used mainly by researchers and academic institutions, Emtage recognized the growing challenge of locating information across an expanding collection of online resources. His solution fundamentally changed how people discover information in digital environments and laid the groundwork for modern search engines.\n\nWhile studying at McGill University in the early 1990s, Emtage created Archie, widely recognized as the world's first internet search engine. Archie automatically indexed files available on public FTP servers, allowing users to search for software, documents, and other resources much more efficiently than before. This innovation addressed a major limitation of the early internet, where finding information often required manual exploration of countless servers.\n\nArchie's success demonstrated the value of automated indexing and search, concepts that would later become central to the World Wide Web. The system inspired future search technologies and influenced the development of more advanced search tools. As the internet rapidly expanded, the principles established by Archie became increasingly important for organizing and accessing vast amounts of information.\n\nBeyond creating a technical solution, Emtage helped shape the broader concept of information retrieval in networked environments. His work showed that digital resources could be cataloged, indexed, and searched at scale, making online information significantly more accessible to users. These ideas became essential components of the modern internet experience.\n\nToday, Alan Emtage is recognized as a visionary innovator whose work helped establish the foundations of internet search. Every modern search engine, from web search platforms to specialized information retrieval systems, builds upon concepts that Archie introduced. His enduring contribution is making the growing digital world easier to navigate, helping transform the internet from a collection of disconnected resources into a searchable and accessible source of knowledge for people around the globe.",
 
   "earlyLife": "Alan Emtage was born on 27 November 1964 in Barbados. From an early age, he developed an interest in technology, problem-solving, and computing. After moving to Canada, he pursued studies in computer science at McGill University in Montreal. During his academic work, he encountered the growing challenge of locating files across the expanding internet, which inspired the creation of Archie.",
 
