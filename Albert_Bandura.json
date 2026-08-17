@@ -8,18 +8,16 @@
   "born": "4 December 1925",
   "died": "26 July 2021",
 
-  "knownFor": [
-    "Social Learning Theory",
-    "Social Cognitive Theory",
-    "Self-Efficacy",
-    "Bobo Doll Experiment",
-    "Observational Learning",
-    "Modeling Theory",
-    "Behavioral Psychology",
-    "Educational Psychology"
-  ],
+"knownFor1": "Social Learning Theory",
+"knownFor2": "Social Cognitive Theory",
+"knownFor3": "Self-Efficacy",
+"knownFor4": "Bobo Doll Experiment",
+"knownFor5": "Observational Learning",
+"knownFor6": "Behavior Modification",
+"knownFor7": "Reciprocal Determinism",
+"knownFor8": "Psychology of Human Agency",
 
-  "legacy": "Albert Bandura was one of the most influential psychologists of the twentieth and twenty-first centuries. His research transformed the understanding of how people learn, demonstrating that observation, imitation, and social interaction play crucial roles in behavior. His concepts of self-efficacy and social learning continue to shape psychology, education, healthcare, leadership, and personal development worldwide.",
+"legacy": "Albert Bandura's legacy transformed the understanding of how human behavior is learned, influenced, and changed. As one of the most influential psychologists of the twentieth century, Bandura challenged the traditional view that learning occurs only through direct experience. Instead, he demonstrated that people can learn by observing others, a concept that profoundly reshaped psychology, education, and behavioral science.\n\nBandura is best known for developing Social Learning Theory, which emphasized the importance of observation, imitation, and modeling in human learning. His famous Bobo Doll Experiment showed that children could learn aggressive behaviors simply by watching adults act aggressively. This groundbreaking research provided powerful evidence that social environments play a critical role in shaping behavior and helped explain the influence of parents, peers, media, and culture.\n\nBuilding upon these ideas, Bandura later developed Social Cognitive Theory, which highlighted the interaction between personal beliefs, behavior, and environmental factors. One of his most significant contributions was the concept of self-efficacy, the belief in one's ability to succeed in specific situations. Bandura demonstrated that self-efficacy strongly influences motivation, resilience, decision-making, and performance. The concept became widely applied in education, healthcare, sports psychology, leadership, and personal development.\n\nBandura also introduced the principle of reciprocal determinism, proposing that people both influence and are influenced by their environments. This perspective helped bridge the gap between behaviorist and cognitive approaches to psychology, creating a more comprehensive understanding of human behavior.\n\nToday, Bandura's ideas continue to shape research and practice across psychology, education, counseling, public health, and organizational leadership. His theories are used to design interventions that promote learning, improve performance, encourage healthy behaviors, and build confidence. Albert Bandura is remembered not only for his scientific achievements but also for demonstrating that human beings are active participants in their own development. His enduring legacy is the understanding that people learn, adapt, and grow through the continuous interaction of thought, behavior, and social experience.",
 
   "earlyLife": "Albert Bandura was born on 4 December 1925 in Mundare, Alberta, Canada. Growing up in a small rural community, he developed a strong appreciation for self-directed learning and personal responsibility. After attending the University of British Columbia, he pursued graduate studies in psychology at the University of Iowa, where he began developing ideas that would later revolutionize psychological science.",
 
