@@ -8,18 +8,17 @@
   "born": "c. 287 BC",
   "died": "c. 212 BC",
 
-  "knownFor": [
-    "Archimedes' Principle",
-    "Law of Buoyancy",
-    "The Archimedean Screw",
-    "Method of Exhaustion",
-    "Foundations of Calculus",
-    "Pi Approximation",
-    "Military Engineering",
-    "Geometry and Mechanics"
-  ],
+"knownFor1": "Archimedes' Principle",
+"knownFor2": "Law of the Lever",
+"knownFor3": "Method of Exhaustion",
+"knownFor4": "Hydrostatics",
+"knownFor5": "Mathematical Geometry",
+"knownFor6": "Archimedean Screw",
+"knownFor7": "Engineering Innovations",
+"knownFor8": "Foundations of Mathematical Physics",
 
-  "legacy": "Archimedes is widely regarded as one of the greatest mathematicians and scientists in history. His discoveries in geometry, physics, engineering, and mechanics laid foundations that influenced scientific development for more than two thousand years. Many historians consider him the greatest scientific genius of the ancient world.",
+"legacy": "Archimedes' legacy is among the most influential in the history of mathematics, physics, and engineering. Living in ancient Syracuse during the third century BCE, Archimedes combined theoretical insight with practical invention, establishing principles that remained foundational for more than two thousand years. His work demonstrated the extraordinary power of mathematics to explain the natural world and solve real-world problems.\n\nArchimedes is best known for formulating Archimedes' Principle, which explains the buoyant force exerted on an object submerged in a fluid. This discovery laid the foundation for the science of hydrostatics and remains essential in physics, engineering, and naval architecture. The famous story of his realization while bathing led to the legendary exclamation, 'Eureka!,' symbolizing the joy of scientific discovery.\n\nIn mathematics, Archimedes made groundbreaking advances in geometry and measurement. Using the Method of Exhaustion, he developed techniques that anticipated important ideas later found in integral calculus. He produced remarkably accurate estimates of pi and calculated the areas and volumes of complex geometric figures, achievements that remained unsurpassed for centuries.\n\nArchimedes also made major contributions to mechanics. His work on levers established fundamental principles of force and balance. His famous statement that he could move the Earth with a sufficiently long lever illustrated his deep understanding of mechanical advantage. In addition, he designed practical inventions such as the Archimedean Screw, a device used to transport water that is still utilized in various forms today.\n\nDuring times of war, Archimedes applied his knowledge to engineering challenges, designing defensive machines to protect Syracuse. These inventions further demonstrated the practical value of scientific reasoning and mechanical innovation.\n\nToday, Archimedes is remembered as one of the greatest scientific minds of the ancient world. His achievements continue to influence mathematics, physics, engineering, and technology. His enduring legacy is the demonstration that logical reasoning, observation, and mathematical analysis can reveal the fundamental principles governing both nature and human invention.",
+
 
   "earlyLife": "Archimedes was born around 287 BC in the Greek city of Syracuse on the island of Sicily. He was the son of Phidias, an astronomer. As a young man he is believed to have studied in Alexandria, Egypt, the leading intellectual center of the ancient world. There he encountered the mathematical traditions established by Euclid and developed a passion for scientific inquiry.",
 
