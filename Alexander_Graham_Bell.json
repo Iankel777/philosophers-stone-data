@@ -8,18 +8,16 @@
   "born": "3 March 1847",
   "died": "2 August 1922",
 
-  "knownFor": [
-    "Inventing the Telephone",
-    "Bell Telephone Company",
-    "Acoustic Research",
-    "Speech and Hearing Education",
-    "Photophone",
-    "Aeronautics Research",
-    "Hydrofoil Development",
-    "National Geographic Society"
-  ],
+"knownFor1": "Telephone Invention",
+"knownFor2": "Telecommunications Pioneer",
+"knownFor3": "Bell Telephone Company",
+"knownFor4": "Speech and Hearing Research",
+"knownFor5": "Photophone",
+"knownFor6": "Optical Communication",
+"knownFor7": "Audio Technology Innovation",
+"knownFor8": "Scientific Innovation in Communication",
 
-  "legacy": "Alexander Graham Bell transformed global communication through the invention and development of the telephone. His work helped connect people across vast distances and laid the foundation for modern telecommunications. Beyond the telephone, Bell made significant contributions to education, aviation, sound technology, and communication systems for individuals with hearing impairments.",
+"legacy": "Alexander Graham Bell's legacy is defined by his transformative contributions to communication technology and his enduring impact on science, education, and innovation. Best known as the inventor of the first practical telephone, Bell revolutionized the way people communicate, making it possible to transmit the human voice across great distances. His work helped launch a new era of global connectivity and laid the foundation for the modern telecommunications industry.\n\nBell's invention of the telephone in 1876 fundamentally changed society. Before its introduction, long-distance communication depended largely on written correspondence or telegraph systems. The telephone enabled direct, real-time conversation between people separated by vast distances, reshaping business, government, commerce, and personal relationships. The technology rapidly spread across the world and became one of the most influential inventions in human history.\n\nBeyond the telephone, Bell was a prolific inventor and researcher with interests spanning multiple scientific fields. He conducted important work in speech and hearing science, inspired in part by his family's involvement in education for deaf individuals. His efforts contributed to a deeper understanding of sound transmission and communication. Bell also invented the photophone, a device that transmitted sound using light beams, an innovation that anticipated principles later used in fiber-optic communication.\n\nBell's influence extended into education, aviation, medicine, and engineering. He supported scientific research and collaborated with other inventors in exploring new technologies. His commitment to innovation helped foster an environment in which scientific ideas could be transformed into practical solutions that improved everyday life.\n\nToday, Alexander Graham Bell is remembered as one of the most influential inventors of the modern era. His contributions helped create the interconnected world that people now take for granted, from telephones and mobile devices to advanced communication networks. His enduring legacy is the demonstration that scientific curiosity and inventive thinking can overcome barriers of distance and bring people closer together across the globe.",
 
   "earlyLife": "Alexander Graham Bell was born on 3 March 1847 in Edinburgh, Scotland. He grew up in a family deeply involved in speech and language studies. His father, Alexander Melville Bell, developed Visible Speech, a system designed to help teach spoken language. Bell's early exposure to language, sound, and communication inspired his lifelong interest in acoustics and speech.",
 
