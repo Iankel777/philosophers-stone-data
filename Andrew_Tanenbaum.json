@@ -8,20 +8,16 @@
   "born": "16 March 1944",
   "died": "",
 
-  "knownFor": [
-    "MINIX",
-    "Operating Systems",
-    "Computer Networks",
-    "Distributed Systems",
-    "Educational Computer Science",
-    "Structured Computer Organization",
-    "Networking Theory",
-    "Influence on Linux Development"
-  ],
+"knownFor1": "Computer Networks",
+"knownFor2": "Operating Systems",
+"knownFor3": "Computer Science Education",
+"knownFor4": "Structured Computer Organization",
+"knownFor5": "Distributed Systems",
+"knownFor6": "MINIX Operating System",
+"knownFor7": "Computer Architecture",
+"knownFor8": "Technical Textbook Authorship",
 
-  "legacy": "Andrew Tanenbaum is one of the world's most influential computer science educators and operating systems researchers. His textbooks have taught generations of software engineers, computer scientists, and network specialists. Through the creation of MINIX and his extensive work in operating systems and networking, Tanenbaum has profoundly shaped computer science education and influenced the development of modern computing systems.",
-
-  "earlyLife": "Andrew Stuart Tanenbaum was born on 16 March 1944 in New York City, United States. He later moved to the Netherlands, where much of his academic career would take place. Tanenbaum developed a strong interest in mathematics, engineering, and computing during the early years of computer science. He studied at the Massachusetts Institute of Technology (MIT), earning degrees that prepared him for a distinguished research and teaching career.",
+"legacy": "Andrew S. Tanenbaum's legacy is defined by his exceptional contributions to computer science education, operating systems, and computer networking. As a distinguished computer scientist, researcher, and educator, Tanenbaum has influenced generations of students and professionals through both his academic work and his widely used textbooks. His ability to explain complex technical concepts in a clear and accessible manner has made him one of the most influential teachers in the history of computing.\n\nTanenbaum is best known for authoring landmark textbooks such as Computer Networks, Modern Operating Systems, and Structured Computer Organization. These works have been translated into numerous languages and are used in universities around the world. Through these books, he helped establish educational standards for teaching networking, operating systems, and computer architecture. As a result, millions of students gained a strong foundation in computer science.\n\nAnother major contribution was the creation of MINIX, a Unix-like operating system designed for teaching and research. MINIX provided students with a practical way to study the internal workings of operating systems. The project became historically significant because it influenced Linus Torvalds during the early development of Linux, one of the most important operating systems in modern computing.\n\nBeyond education, Tanenbaum conducted influential research in distributed systems, network protocols, and computer architecture. His work advanced the understanding of how computers communicate, coordinate tasks, and share resources across interconnected networks. These contributions helped shape modern approaches to reliable and scalable computing systems.\n\nTanenbaum consistently emphasized the importance of understanding fundamental principles rather than merely learning specific technologies. This educational philosophy enabled generations of computer scientists and software engineers to adapt to rapid technological change while maintaining strong theoretical foundations.\n\nToday, Andrew S. Tanenbaum is recognized as one of the most influential educators and authors in computer science. His books, research, and software projects continue to support learning and innovation worldwide. His enduring legacy is empowering millions of people to understand the principles behind modern computing and inspiring future generations to advance the field of computer science.",  "earlyLife": "Andrew Stuart Tanenbaum was born on 16 March 1944 in New York City, United States. He later moved to the Netherlands, where much of his academic career would take place. Tanenbaum developed a strong interest in mathematics, engineering, and computing during the early years of computer science. He studied at the Massachusetts Institute of Technology (MIT), earning degrees that prepared him for a distinguished research and teaching career.",
 
   "scientificField": "Tanenbaum worked primarily in computer science, operating systems, computer networking, distributed systems, software engineering, computer architecture, and educational technology. His research focused on designing reliable and understandable computing systems.",
 
