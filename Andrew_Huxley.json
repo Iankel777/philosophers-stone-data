@@ -8,18 +8,16 @@
   "born": "22 November 1917",
   "died": "30 May 2012",
 
-  "knownFor": [
-    "Hodgkin-Huxley Model",
-    "Action Potential Research",
-    "Neurophysiology",
-    "Nerve Impulse Transmission",
-    "Ion Channel Theory",
-    "Nobel Prize in Physiology or Medicine (1963)",
-    "Muscle Contraction Studies",
-    "Biophysics"
-  ],
+"knownFor1": "Hodgkin-Huxley Model",
+"knownFor2": "Nerve Impulse Research",
+"knownFor3": "Neurophysiology",
+"knownFor4": "Ion Channels in Neurons",
+"knownFor5": "Action Potential Mechanisms",
+"knownFor6": "Cell Membrane Electrophysiology",
+"knownFor7": "Nobel Prize in Physiology or Medicine",
+"knownFor8": "Foundations of Modern Neuroscience",
 
-  "legacy": "Andrew Huxley was one of the most influential physiologists and biophysicists of the twentieth century. His research transformed scientific understanding of how nerve cells transmit signals and how muscles generate movement. The mathematical and biological models he developed remain fundamental to neuroscience, physiology, medicine, and computational biology. His discoveries helped establish the foundations of modern neurobiology.",
+"legacy": "Andrew Huxley's legacy is defined by his groundbreaking contributions to neuroscience and physiology, particularly his work on how nerve cells transmit electrical signals. Through meticulous experimentation and mathematical analysis, Huxley helped uncover the fundamental mechanisms underlying neural communication, laying the foundation for much of modern neuroscience.\n\nHuxley is best known for his collaboration with Alan Hodgkin in studying the giant axon of the squid. Together, they investigated how electrical impulses travel along nerve fibers and developed what became known as the Hodgkin-Huxley Model. This landmark achievement provided the first detailed mathematical description of the action potential, explaining how nerve cells generate and transmit electrical signals through the movement of ions across cell membranes.\n\nTheir research revealed the crucial role of specialized ion channels that regulate the flow of sodium and potassium ions. This discovery transformed scientific understanding of the nervous system and established principles that remain central to modern neurobiology. The Hodgkin-Huxley Model became one of the most influential models in biological science and continues to be used in neuroscience research and education today.\n\nBeyond neuroscience, Huxley made important contributions to muscle physiology, investigating how muscles contract and generate force. His work helped clarify the relationship between biological structure and function, further advancing knowledge in physiology.\n\nIn recognition of his achievements, Huxley shared the 1963 Nobel Prize in Physiology or Medicine. His research provided essential tools and concepts that enabled future discoveries in neuroscience, medicine, and biomedical engineering.\n\nToday, Andrew Huxley is remembered as one of the architects of modern neurophysiology. His discoveries continue to influence research on brain function, neurological disorders, artificial neural systems, and medical technologies. His enduring legacy is the explanation of how electrical signals are generated and transmitted within living organisms, a breakthrough that fundamentally transformed the scientific understanding of the nervous system.",
 
   "earlyLife": "Andrew Fielding Huxley was born on 22 November 1917 in London, England. He came from the distinguished Huxley family, which included several prominent scientists and intellectuals. Displaying exceptional ability in mathematics and science from an early age, he attended Westminster School and later studied at Trinity College, Cambridge. His interdisciplinary interests in biology, physics, and engineering shaped the innovative research methods that defined his career.",
 
