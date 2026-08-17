@@ -8,18 +8,16 @@
   "born": "c. 500 BC",
   "died": "c. 428 BC",
 
-  "knownFor": [
-    "Theory of Nous (Mind)",
-    "Cosmology",
-    "Natural Philosophy",
-    "Astronomy",
-    "Pre-Socratic Thought",
-    "Scientific Explanations of Nature",
-    "Influence on Socrates",
-    "Explanation of Eclipses"
-  ],
+"knownFor1": "Nous (Cosmic Mind)",
+"knownFor2": "Natural Philosophy",
+"knownFor3": "Theory of Cosmic Order",
+"knownFor4": "Astronomical Explanations",
+"knownFor5": "Pre-Socratic Philosophy",
+"knownFor6": "Infinite Divisibility of Matter",
+"knownFor7": "Seeds of Things Theory",
+"knownFor8": "Scientific Approach to Nature",
 
-  "legacy": "Anaxagoras was one of the most important Pre-Socratic philosophers and among the first thinkers to explain natural phenomena without relying on mythology. He introduced the concept of Nous, or Mind, as the organizing force of the cosmos and helped establish a rational, scientific approach to understanding nature. His ideas influenced later philosophers, including Socrates, Plato, and Aristotle, and contributed significantly to the development of Western philosophy and science.",
+"legacy": "Anaxagoras' legacy lies in his pioneering attempt to explain the natural world through reason rather than mythology. As one of the most important Pre-Socratic philosophers, Anaxagoras helped shift Greek thought toward rational investigation, encouraging the search for natural causes behind physical phenomena. His ideas marked a significant step in the development of philosophy and science.\n\nAnaxagoras is best known for introducing the concept of Nous, often translated as Mind or Intellect. He proposed that an intelligent and ordering principle was responsible for organizing the cosmos from an original state of mixture and chaos. Unlike mythological explanations that attributed natural events to the actions of gods, Anaxagoras sought to explain the universe through universal principles that could be understood through observation and reasoning.\n\nHe also developed a distinctive theory of matter. According to Anaxagoras, everything contains portions of everything else, and change occurs through the rearrangement and separation of these constituent elements. This idea attempted to explain how different substances emerge and transform without requiring creation from nothing or total destruction.\n\nAnaxagoras made important contributions to astronomy as well. He argued that the Sun was a massive fiery body rather than a divine being and correctly explained that the Moon shines by reflecting the Sun's light. He also offered natural explanations for eclipses and other celestial events. These views were highly controversial in his time because they challenged traditional religious beliefs.\n\nHis emphasis on rational inquiry influenced later philosophers, including Socrates, Plato, and Aristotle. Although many of his specific theories were eventually replaced by more advanced scientific models, his method of seeking logical explanations for natural phenomena became a lasting contribution to human thought.\n\nToday, Anaxagoras is remembered as a key figure in the transition from mythological explanations to philosophical and scientific reasoning. His enduring legacy is the belief that the universe can be understood through observation, logic, and the search for underlying principles that govern the natural world.",
 
   "earlyLife": "Anaxagoras was born around 500 BC in Clazomenae, an ancient Greek city in Ionia, located in present-day Turkey. Unlike many of his contemporaries, he devoted his life to intellectual pursuits rather than politics or wealth. Eventually, he moved to Athens, where he became one of the first major philosophers to bring advanced scientific and philosophical ideas to the city.",
 
