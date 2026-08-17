@@ -8,18 +8,16 @@
   "born": "23 August 1899",
   "died": "22 May 1983",
 
-  "knownFor": [
-    "Cell Biology",
-    "Electron Microscopy",
-    "Cell Fractionation",
-    "Discovery of Cellular Organelles",
-    "Modern Cytology",
-    "Nobel Prize in Physiology or Medicine (1974)",
-    "Mitochondria Research",
-    "Foundations of Molecular Cell Biology"
-  ],
+"knownFor1": "Cell Biology",
+"knownFor2": "Electron Microscopy",
+"knownFor3": "Discovery of Ribosomes",
+"knownFor4": "Cell Structure Research",
+"knownFor5": "Subcellular Organization",
+"knownFor6": "Foundations of Modern Cytology",
+"knownFor7": "Biomedical Microscopy",
+"knownFor8": "Nobel Prize in Physiology or Medicine",
 
-  "legacy": "Albert Claude is regarded as one of the founding figures of modern cell biology. Through innovative laboratory techniques and the application of electron microscopy, he transformed scientific understanding of the internal structure of cells. His discoveries laid the groundwork for modern molecular biology, biochemistry, genetics, and biomedical research. Claude's work fundamentally changed how scientists study life at the cellular level.",
+"legacy": "Albert Claude's legacy is rooted in his pioneering work that revealed the inner structure of cells and helped establish modern cell biology. At a time when many cellular components were invisible to scientists, Claude developed innovative techniques that allowed researchers to study the organization and function of cells in unprecedented detail. His work transformed biology from the study of organisms and tissues into a deeper exploration of the microscopic structures that make life possible.\n\nClaude was a pioneer in the use of electron microscopy and cell fractionation, techniques that enabled scientists to observe and isolate individual parts of cells. Through these methods, he helped identify and characterize key cellular structures, including ribosomes, which play a central role in protein synthesis. His discoveries provided new insight into how cells operate and laid the groundwork for future advances in molecular and cellular biology.\n\nOne of Claude's greatest achievements was demonstrating that cells contain specialized components with distinct functions. This understanding fundamentally changed biological research by showing that the cell is not a simple, uniform substance but a highly organized system composed of interacting structures. His findings opened the door to more detailed investigations into genetics, biochemistry, medicine, and disease.\n\nIn recognition of his groundbreaking contributions, Claude shared the 1974 Nobel Prize in Physiology or Medicine. His research formed the foundation upon which later scientists built the modern understanding of cellular processes and biological organization.\n\nToday, Albert Claude is recognized as one of the founders of modern cell biology. Techniques inspired by his work continue to be used in laboratories around the world, supporting research in medicine, biotechnology, genetics, and pharmaceutical development. His enduring contribution is providing humanity with a clearer view of the microscopic world inside living cells, enabling generations of scientists to better understand life, health, and disease at their most fundamental level.",
 
   "earlyLife": "Albert Claude was born on 23 August 1899 in Longlier, Belgium. Growing up in modest circumstances, he left formal schooling at an early age and later served during World War I. Determined to pursue education, he eventually studied medicine at the University of Liège. His interest in disease, biology, and scientific investigation led him toward laboratory research and the emerging study of cellular structures.",
 
