@@ -8,18 +8,16 @@
   "born": "14 June 1903",
   "died": "11 August 1995",
 
-  "knownFor": [
-    "Lambda Calculus",
-    "Church-Turing Thesis",
-    "Computability Theory",
-    "Mathematical Logic",
-    "Foundations of Computer Science",
-    "Decision Problem (Entscheidungsproblem)",
-    "Church Numerals",
-    "Mentorship of Alan Turing"
-  ],
+"knownFor1": "Lambda Calculus",
+"knownFor2": "Church-Turing Thesis",
+"knownFor3": "Foundations of Computability Theory",
+"knownFor4": "Mathematical Logic",
+"knownFor5": "Theory of Recursive Functions",
+"knownFor6": "Church's Theorem",
+"knownFor7": "Formal Systems and Logic",
+"knownFor8": "Foundations of Computer Science",
 
-  "legacy": "Alonzo Church is regarded as one of the founding figures of modern logic and theoretical computer science. His work on lambda calculus and computability provided the mathematical foundations for programming languages, computer algorithms, and the theory of computation. Together with Alan Turing, Church helped establish the conceptual framework that underlies modern computer science.",
+"legacy": "Alonzo Church's legacy is foundational to modern mathematics, logic, and computer science. As one of the most influential logicians of the twentieth century, Church developed theoretical frameworks that shaped the study of computation and established principles that continue to underpin modern computing technologies. His work helped answer fundamental questions about what can be calculated, proved, and understood through formal systems.\n\nChurch is best known for creating Lambda Calculus, a formal mathematical system for describing functions, computation, and symbolic reasoning. Originally developed as a tool for studying the foundations of mathematics, Lambda Calculus later became one of the cornerstones of theoretical computer science. Many modern programming languages, particularly functional languages, are directly influenced by concepts first introduced through Church's work.\n\nAnother of Church's most enduring contributions is the Church-Turing Thesis, developed independently alongside the work of Alan Turing. The thesis proposes that any effectively computable process can be performed by a suitable computational model. Although not a formal theorem, it became one of the central principles of computer science and greatly influenced the development of computation theory.\n\nChurch also made major advances in mathematical logic through his work on decision problems and formal systems. Church's Theorem demonstrated that no general algorithm exists for solving every statement within first-order logic, revealing important limits to what can be achieved through mechanical reasoning. This discovery had profound implications for logic, mathematics, and computer science.\n\nAs a teacher and scholar, Church influenced numerous prominent mathematicians and computer scientists, including Alan Turing. His research helped establish the intellectual foundations upon which modern theories of algorithms, programming languages, artificial intelligence, and automated reasoning were built.\n\nToday, Alonzo Church is remembered as one of the founding architects of theoretical computer science. His ideas continue to shape research in logic, computation, software development, and artificial intelligence. His enduring legacy is the creation of powerful mathematical frameworks that define how humanity understands computation, reasoning, and the limits of machine-based problem solving.",
 
   "earlyLife": "Alonzo Church was born on 14 June 1903 in Washington, D.C., United States. He demonstrated exceptional talent in mathematics from an early age and pursued his studies at Princeton University. His academic brilliance became evident during his graduate years, where he developed a strong interest in logic, mathematics, and foundational questions concerning computation and reasoning.",
 
