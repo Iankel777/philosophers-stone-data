@@ -8,18 +8,16 @@
   "born": "8 July 1857",
   "died": "18 October 1911",
 
-  "knownFor": [
-    "Binet-Simon Intelligence Scale",
-    "Intelligence Testing",
-    "Educational Psychology",
-    "IQ Testing Foundations",
-    "Child Psychology",
-    "Cognitive Development Research",
-    "Experimental Psychology",
-    "Psychometrics"
-  ],
+"knownFor1": "Intelligence Testing",
+"knownFor2": "Binet-Simon Scale",
+"knownFor3": "Mental Age Concept",
+"knownFor4": "Educational Psychology",
+"knownFor5": "Cognitive Development Assessment",
+"knownFor6": "Psychometrics Pioneer",
+"knownFor7": "Child Psychology Research",
+"knownFor8": "Foundations of IQ Testing",
 
-  "legacy": "Alfred Binet is regarded as one of the founders of modern psychology and psychometrics. He pioneered the scientific measurement of intelligence and developed the first practical intelligence test. His work revolutionized education, psychology, and cognitive assessment, influencing the development of IQ testing and shaping how scholars understand human intelligence and learning abilities.",
+"legacy": "Alfred Binet's legacy is rooted in his pioneering efforts to understand human intelligence and develop practical methods for assessing cognitive abilities. As a French psychologist working at the turn of the twentieth century, Binet helped create the foundations of modern psychological testing and educational assessment. His work transformed the study of intelligence from a philosophical concept into a measurable area of scientific investigation.\n\nBinet is best known for developing the Binet-Simon Scale alongside Théodore Simon in 1905. Commissioned by the French government, the scale was designed to identify schoolchildren who might need additional educational support. Rather than viewing intelligence as a fixed and unchangeable trait, Binet believed that cognitive abilities could develop and improve over time. His approach focused on practical problem-solving, reasoning, memory, and comprehension.\n\nOne of Binet's most influential contributions was the concept of mental age, which compared a child's performance to the average performance of children at different age levels. This innovation provided educators and psychologists with a useful framework for understanding cognitive development and learning differences.\n\nBinet was also a pioneer in child psychology. Through careful observation and experimentation, he explored attention, memory, suggestibility, and intellectual growth. His research helped establish scientific methods for studying children's thinking and learning processes.\n\nAlthough later intelligence tests evolved beyond Binet's original design, many modern assessments trace their origins directly to his work. Binet himself cautioned against using test scores as permanent labels and emphasized that intelligence is complex, adaptable, and influenced by education and environment.\n\nToday, Alfred Binet is recognized as one of the founders of psychometrics and educational psychology. His contributions continue to influence schools, psychological assessment, cognitive research, and special education worldwide. His enduring legacy is the creation of scientific tools that help educators and psychologists better understand individual learning needs, support intellectual development, and promote more effective educational opportunities for all.",
 
   "earlyLife": "Alfred Binet was born on 8 July 1857 in Nice, France. Initially trained in law, he later became fascinated by psychology, biology, and scientific research. Much of his early knowledge was self-taught through extensive reading and experimentation. His growing interest in understanding human thought and behavior led him to pursue a career in psychology.",
 
