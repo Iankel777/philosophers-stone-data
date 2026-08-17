@@ -8,18 +8,17 @@
   "born": "7 February 1870",
   "died": "28 May 1937",
 
-  "knownFor": [
-    "Individual Psychology",
-    "Inferiority Complex",
-    "Superiority Striving",
-    "Birth Order Theory",
-    "Social Interest",
-    "Holistic Psychology",
-    "Lifestyle Theory",
-    "Early Childhood Development"
-  ],
+"knownFor1": "Individual Psychology",
+"knownFor2": "Inferiority Complex",
+"knownFor3": "Striving for Superiority",
+"knownFor4": "Birth Order Theory",
+"knownFor5": "Social Interest",
+"knownFor6": "Holistic Psychology",
+"knownFor7": "Lifestyle Theory",
+"knownFor8": "Psychotherapy and Counseling",
 
-  "legacy": "Alfred Adler was one of the most influential psychologists of the twentieth century and a pioneer of modern psychotherapy. Breaking away from Sigmund Freud's psychoanalytic movement, Adler developed Individual Psychology, emphasizing personal responsibility, social connectedness, purpose, and self-improvement. His ideas profoundly influenced counseling, education, psychotherapy, and humanistic psychology.",
+
+"legacy": "Alfred Adler's legacy lies in his pioneering contributions to psychology and his emphasis on the importance of purpose, social connection, and personal growth in human behavior. As one of the earliest psychotherapists of the twentieth century, Adler developed an approach that differed significantly from both Sigmund Freud's psychoanalysis and later behaviorist theories. His ideas helped establish a more optimistic and socially oriented understanding of human nature.\n\nAdler is best known for founding Individual Psychology, a theory that views each person as a unique and integrated whole. Rather than focusing primarily on unconscious drives or past conflicts, Adler emphasized goals, motivations, and the individual's efforts to create a meaningful life. He believed that understanding a person's lifestyle, values, and objectives was essential for understanding behavior.\n\nOne of Adler's most influential contributions was the concept of the inferiority complex. He observed that feelings of weakness, inadequacy, or limitation are common human experiences. According to Adler, these feelings can motivate people to develop their abilities and improve themselves. However, when such feelings become overwhelming, they can negatively affect well-being and relationships.\n\nAdler also introduced the idea of striving for superiority, the natural human tendency to grow, improve, and pursue personal excellence. He argued that healthy development occurs when this striving is balanced with social interest, a sense of connection, empathy, and contribution to others. This focus on community and cooperation distinguished his work from many other psychological theories of his era.\n\nHis research on birth order further influenced psychology by exploring how family dynamics may shape personality and behavior. Although some aspects remain debated, the concept remains widely discussed in both psychology and popular culture.\n\nToday, Alfred Adler's ideas continue to influence psychotherapy, counseling, education, coaching, and personal development. His enduring legacy is the belief that people are capable of change, growth, and meaningful contribution. By emphasizing purpose, responsibility, and social connection, Adler helped create a more hopeful and human-centered vision of psychology.",
 
   "earlyLife": "Alfred Adler was born on 7 February 1870 in Vienna, Austria. As a child he suffered from several illnesses, including rickets and pneumonia, experiences that shaped his interest in medicine and human behavior. Despite health challenges, Adler excelled academically and eventually enrolled at the University of Vienna to study medicine.",
 
