@@ -8,18 +8,16 @@
   "born": "31 December 1514",
   "died": "15 October 1564",
 
-  "knownFor": [
-    "Founding Modern Human Anatomy",
-    "De Humani Corporis Fabrica",
-    "Anatomical Dissection",
-    "Medical Education Reform",
-    "Scientific Observation",
-    "Correction of Galenic Errors",
-    "Human Anatomy Illustrations",
-    "Renaissance Medicine"
-  ],
-
-  "legacy": "Andreas Vesalius is widely regarded as the founder of modern human anatomy. By directly studying and dissecting human bodies, he challenged centuries of anatomical misconceptions inherited from ancient authorities. His meticulous observations revolutionized medicine and established a scientific approach to studying the human body. Vesalius's work transformed medical education and laid the foundation for modern anatomy, surgery, and clinical medicine.",
+"knownFor1": "Foundations of Modern Anatomy",
+"knownFor2": "De Humani Corporis Fabrica",
+"knownFor3": "Human Dissection",
+"knownFor4": "Scientific Anatomy",
+"knownFor5": "Anatomical Illustration",
+"knownFor6": "Medical Education Reform",
+"knownFor7": "Empirical Observation in Medicine",
+"knownFor8": "Renaissance Medical Science",
+  
+"legacy": "Andreas Vesalius' legacy is defined by his revolutionary transformation of anatomy and medical science during the Renaissance. Often regarded as the founder of modern human anatomy, Vesalius challenged centuries of anatomical misconceptions and established a new standard of scientific investigation based on direct observation and evidence. His work marked a turning point in medicine and laid the foundations for modern anatomical research and education.\n\nVesalius is best known for his landmark work De Humani Corporis Fabrica, published in 1543. This groundbreaking book combined detailed anatomical descriptions with remarkably accurate illustrations of the human body. Unlike many scholars of his time, Vesalius relied on direct human dissections rather than simply repeating the teachings of ancient authorities. This approach allowed him to identify numerous errors in traditional anatomical texts and replace them with observations based on actual human anatomy.\n\nA major aspect of Vesalius' achievement was his insistence that medical knowledge should be grounded in firsthand investigation. He personally conducted dissections and encouraged students to observe anatomical structures directly. This emphasis on empirical evidence helped transform medicine from a field heavily dependent on tradition into one increasingly guided by scientific inquiry.\n\nThe detailed illustrations in his work were also highly influential. They provided medical students and physicians with unprecedented visual accuracy, making anatomical knowledge more accessible and reliable. These illustrations became a model for scientific communication and educational publishing.\n\nVesalius' methods inspired later generations of physicians, surgeons, and scientists to question accepted beliefs and verify claims through observation and experimentation. His work contributed significantly to the development of physiology, surgery, pathology, and modern medical education.\n\nToday, Andreas Vesalius is remembered as one of the most important figures in the history of medicine. His enduring legacy is the establishment of anatomy as an evidence-based science and the demonstration that careful observation of the natural world is essential for advancing human knowledge and improving medical practice.",
 
   "earlyLife": "Andreas Vesalius was born on 31 December 1514 in Brussels, then part of the Habsburg Netherlands. Coming from a family connected to medicine and royal service, he developed an early interest in the human body. He studied at the University of Leuven and later at the University of Paris, where he became fascinated with anatomy and the direct study of human remains.",
 
