@@ -8,19 +8,16 @@
   "born": "25 November 1857",
   "died": "28 March 1936",
 
-  "knownFor": [
-    "Inborn Errors of Metabolism",
-    "Medical Genetics",
-    "Alkaptonuria Research",
-    "Biochemical Individuality",
-    "Genetic Diseases",
-    "Metabolic Disorders",
-    "Foundations of Genomics",
-    "Human Biochemistry"
-  ],
+"knownFor1": "Inborn Errors of Metabolism",
+"knownFor2": "Biochemical Genetics",
+"knownFor3": "Genetic Basis of Disease",
+"knownFor4": "Alkaptonuria Research",
+"knownFor5": "Chemical Individuality",
+"knownFor6": "Human Metabolic Disorders",
+"knownFor7": "Foundations of Medical Genetics",
+"knownFor8": "Genetic Medicine Pioneer",
 
-  "legacy": "Archibald Garrod is widely regarded as one of the founders of medical genetics and biochemical genetics. His pioneering studies of inherited metabolic disorders established the concept that genes influence biochemical processes within the body. Garrod's ideas anticipated major developments in genetics, molecular biology, and personalized medicine, making him one of the most visionary medical scientists of the early twentieth century.",
-
+"legacy": "Archibald Garrod's legacy is rooted in his pioneering role in connecting genetics, chemistry, and medicine. At a time when the mechanisms of heredity were still poorly understood, Garrod recognized that many diseases could be explained by inherited biochemical differences. His insights helped establish the foundations of biochemical genetics and transformed the scientific understanding of human disease.\n\nGarrod is best known for introducing the concept of inborn errors of metabolism. Studying rare disorders such as alkaptonuria, he proposed that certain diseases result from inherited defects in the body's chemical processes. This idea was revolutionary because it suggested that genes influence the production and function of specific biological substances. His work provided one of the earliest demonstrations of a direct relationship between heredity and metabolism.\n\nAnother important contribution was his concept of chemical individuality. Garrod argued that every person possesses a unique biological makeup that affects health, disease susceptibility, and physiological function. This perspective anticipated many principles of modern genetics, personalized medicine, and precision healthcare. His vision extended far beyond the scientific knowledge available during his lifetime.\n\nGarrod's research helped pave the way for later discoveries concerning genes, enzymes, and metabolic pathways. Scientists who followed his work were able to identify how specific genetic variations cause particular disorders, leading to major advances in medical genetics and molecular biology. Many modern diagnostic and therapeutic approaches can trace their intellectual origins to Garrod's ideas.\n\nAs both a physician and scientist, Garrod emphasized the importance of combining clinical observation with scientific investigation. His interdisciplinary approach became a model for future medical research and contributed to the development of evidence-based medicine.\n\nToday, Archibald Garrod is recognized as one of the founders of biochemical genetics and modern medical genetics. His theories continue to influence research into inherited diseases, genomics, and personalized medicine. His enduring legacy is the recognition that genetic variation plays a fundamental role in human health and that understanding biological individuality is essential for advancing medical science.",
   "earlyLife": "Archibald Edward Garrod was born on 25 November 1857 in London, England. He came from a distinguished medical family and was educated at Marlborough College and Christ Church, Oxford. He later studied medicine at St Bartholomew's Hospital in London, where he developed an interest in understanding the biological causes of disease through careful observation and scientific investigation.",
 
   "scientificField": "Garrod worked primarily in medicine, genetics, biochemistry, metabolic disease research, and pathology. His investigations focused on inherited disorders and the biochemical processes underlying human health and disease.",
