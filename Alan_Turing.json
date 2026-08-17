@@ -8,18 +8,16 @@
   "born": "23 June 1912",
   "died": "7 June 1954",
 
-  "knownFor": [
-    "Turing Machine",
-    "Foundations of Computer Science",
-    "Artificial Intelligence",
-    "Turing Test",
-    "Codebreaking at Bletchley Park",
-    "Breaking the Enigma Cipher",
-    "Computability Theory",
-    "Mathematical Logic"
-  ],
+"knownFor1": "Turing Machine",
+"knownFor2": "Foundations of Computer Science",
+"knownFor3": "Artificial Intelligence",
+"knownFor4": "Turing Test",
+"knownFor5": "Codebreaking at Bletchley Park",
+"knownFor6": "Computability Theory",
+"knownFor7": "Cryptanalysis",
+"knownFor8": "Modern Computing Foundations",
 
-  "legacy": "Alan Turing is widely regarded as the father of modern computer science and artificial intelligence. His theoretical work established the foundations of computation, while his wartime codebreaking efforts helped shorten World War II and saved countless lives. Turing's ideas continue to influence computer science, machine learning, artificial intelligence, mathematics, and information technology.",
+"legacy": "Alan Turing's legacy is one of the most profound in the history of science and technology. Widely regarded as a founding figure of computer science, Turing developed theoretical concepts that continue to underpin modern computing, artificial intelligence, cybersecurity, and digital communication. His ideas were decades ahead of their time and fundamentally changed humanity's understanding of computation and machine intelligence.\n\nTuring is best known for introducing the concept of the Turing Machine, a theoretical device capable of performing any computable operation through a set of logical rules. This model became a cornerstone of computer science and established the foundations of computability theory. The principles behind Turing's work remain central to the design of modern computers and programming languages.\n\nDuring the Second World War, Turing played a crucial role at Bletchley Park, where he helped develop methods and machines for deciphering encrypted German communications. His contributions to breaking the Enigma cipher significantly aided Allied military operations and are widely credited with shortening the war and saving countless lives.\n\nTuring was also a pioneer in the field of artificial intelligence. In 1950, he proposed what became known as the Turing Test, a thought experiment designed to evaluate whether a machine could exhibit intelligent behavior indistinguishable from that of a human. The concept remains one of the most influential ideas in AI research and philosophy of mind.\n\nDespite his extraordinary achievements, Turing faced severe persecution during his lifetime. Decades after his death, his contributions received widespread recognition, and he became a symbol of scientific brilliance, perseverance, and social justice.\n\nToday, Alan Turing's influence can be seen in nearly every aspect of the digital world. From personal computers and smartphones to artificial intelligence systems and cybersecurity technologies, countless innovations build upon ideas he first envisioned. His enduring legacy is the creation of the intellectual foundations that made the information age possible and transformed the course of modern civilization.",
 
   "earlyLife": "Alan Mathison Turing was born on 23 June 1912 in London, England. From an early age he displayed remarkable talent in mathematics and science. While attending Sherborne School, Turing developed a deep interest in scientific reasoning and independent thinking. Despite not conforming to traditional educational expectations, his intellectual abilities were evident and continued to grow throughout his academic career.",
 
