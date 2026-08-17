@@ -8,18 +8,16 @@
   "born": "10 December 1815",
   "died": "27 November 1852",
 
-  "knownFor": [
-    "First Computer Programmer",
-    "Analytical Engine",
-    "Algorithm Design",
-    "Computing Theory",
-    "Collaboration with Charles Babbage",
-    "Mathematical Notes on the Analytical Engine",
-    "Vision of General-Purpose Computing",
-    "History of Computer Science"
-  ],
+"knownFor1": "First Computer Algorithm",
+"knownFor2": "Analytical Engine",
+"knownFor3": "Foundations of Computer Programming",
+"knownFor4": "Vision of General-Purpose Computing",
+"knownFor5": "Mathematical Computing Concepts",
+"knownFor6": "Notes on the Analytical Engine",
+"knownFor7": "Pioneering Computer Science",
+"knownFor8": "Algorithmic Thinking",
 
-  "legacy": "Ada Lovelace is widely regarded as the world's first computer programmer. Her visionary work on Charles Babbage's Analytical Engine anticipated many of the concepts that would later define modern computing. She recognized that computers could manipulate symbols and information far beyond simple arithmetic, making her one of the earliest thinkers to grasp the transformative potential of programmable machines.",
+"legacy": "Ada Lovelace's legacy is rooted in her remarkable vision of what computing machines could become long before modern computers existed. Working in the nineteenth century alongside Charles Babbage, Lovelace recognized that mechanical calculating devices had the potential to do far more than perform arithmetic. Her insights anticipated many of the concepts that would later define computer science and software engineering.\n\nLovelace is best known for her work on Babbage's proposed Analytical Engine. While translating an article about the machine, she added extensive notes that became far more influential than the original text. Within these notes, she described a method for calculating Bernoulli numbers, a sequence of mathematical values. This method is widely regarded as the first computer algorithm specifically designed to be executed by a machine, earning Lovelace recognition as one of the earliest computer programmers.\n\nWhat made Lovelace extraordinary was not merely her mathematical ability but her imagination. She understood that a programmable machine could manipulate symbols according to rules and therefore might one day create music, process information, and perform tasks beyond numerical calculation. This idea was revolutionary because it viewed computing as a general-purpose process rather than a simple mathematical tool.\n\nAlthough the Analytical Engine was never completed during her lifetime, Lovelace's writings survived and later inspired generations of scientists, mathematicians, and computer engineers. As electronic computers emerged in the twentieth century, many of her predictions proved remarkably accurate.\n\nToday, Ada Lovelace is celebrated as a pioneer of computer science and a symbol of innovation, creativity, and interdisciplinary thinking. Her work demonstrated that technology and imagination can work together to expand human capability. More than a century after her death, her ideas continue to influence programming, computing, artificial intelligence, and the broader understanding of how machines can process information and solve complex problems.",
 
   "earlyLife": "Ada Lovelace was born Augusta Ada Byron on 10 December 1815 in London, England. She was the daughter of the famous poet Lord Byron and Annabella Milbanke. Her mother encouraged rigorous studies in mathematics and science, an unusual educational path for a woman of the era. Ada displayed extraordinary intellectual ability from a young age and developed a fascination with both mathematics and mechanical inventions.",
 
