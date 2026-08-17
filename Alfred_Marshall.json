@@ -8,18 +8,16 @@
   "born": "26 July 1842",
   "died": "13 July 1924",
 
-  "knownFor": [
-    "Principles of Economics",
-    "Supply and Demand Analysis",
-    "Price Elasticity of Demand",
-    "Consumer Surplus",
-    "Neoclassical Economics",
-    "Marginal Utility Theory",
-    "Partial Equilibrium Analysis",
-    "Cambridge School of Economics"
-  ],
+"knownFor1": "Principles of Economics",
+"knownFor2": "Marginal Utility Theory",
+"knownFor3": "Supply and Demand Analysis",
+"knownFor4": "Price Elasticity of Demand",
+"knownFor5": "Neoclassical Economics",
+"knownFor6": "Consumer Surplus",
+"knownFor7": "Marshallian Economics",
+"knownFor8": "Modern Microeconomics Foundations",
 
-  "legacy": "Alfred Marshall is widely regarded as one of the founders of modern economics. He transformed economics into a rigorous scientific discipline and helped establish many of the concepts that remain central to economic analysis today. His work on supply and demand, price elasticity, consumer surplus, and market equilibrium shaped the development of neoclassical economics and influenced generations of economists around the world.",
+"legacy": "Alfred Marshall's legacy is defined by his profound influence on modern economics and his role in shaping the discipline into a rigorous social science. As one of the leading economists of the late nineteenth and early twentieth centuries, Marshall synthesized earlier economic ideas into a coherent framework that became the foundation of modern microeconomics. His work continues to influence the study of markets, consumer behavior, business strategy, and public policy.\n\nMarshall is best known for his landmark book Principles of Economics, first published in 1890. The text became one of the most influential economics textbooks ever written and helped establish economics as a formal academic discipline. Through clear explanations and practical examples, Marshall made complex economic concepts accessible to students, scholars, and policymakers.\n\nOne of Marshall's most important contributions was the development of supply and demand analysis as a central tool for understanding prices and market behavior. He demonstrated how the interaction of buyers and sellers determines prices and resource allocation within an economy. His famous demand and supply curves remain fundamental concepts taught in economics classrooms around the world.\n\nMarshall also advanced the concept of price elasticity of demand, which measures how consumer demand responds to changes in price. This idea became essential for understanding market dynamics, taxation, business decisions, and consumer behavior. In addition, he introduced and refined concepts such as consumer surplus, helping economists analyze the benefits individuals receive from market transactions.\n\nAs a leading figure in the development of neoclassical economics, Marshall emphasized the importance of balancing theory with real-world observation. His work influenced many prominent economists and shaped economic thought throughout the twentieth century.\n\nToday, Alfred Marshall is widely regarded as one of the architects of modern economics. His analytical tools remain central to economic research, education, and policy-making. His enduring legacy is the creation of a practical and systematic framework for understanding how markets operate and how economic decisions affect individuals, businesses, and society as a whole.",
 
   "earlyLife": "Alfred Marshall was born on 26 July 1842 in London, England. A gifted student, he excelled in mathematics and won a scholarship to St John's College, Cambridge. Although initially interested in mathematics and philosophy, Marshall gradually turned his attention to economics, believing that economic knowledge could help address poverty and improve human welfare.",
 
