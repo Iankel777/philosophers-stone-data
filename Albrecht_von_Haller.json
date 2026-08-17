@@ -8,18 +8,17 @@
   "born": "16 October 1708",
   "died": "12 December 1777",
 
-  "knownFor": [
-    "Founding Modern Physiology",
-    "Experimental Biology",
-    "Anatomy Research",
-    "Irritability and Sensibility Theory",
-    "Botanical Classification",
-    "Encyclopedic Scientific Works",
-    "Human Physiology Studies",
-    "Medical Education Reform"
-  ],
+"knownFor1": "Experimental Physiology",
+"knownFor2": "Neurophysiology",
+"knownFor3": "Irritability of Muscle Tissue",
+"knownFor4": "Sensibility of Nerves",
+"knownFor5": "Human Anatomy Research",
+"knownFor6": "Foundations of Modern Physiology",
+"knownFor7": "Botanical Classification",
+"knownFor8": "Scientific Medicine",
 
-  "legacy": "Albrecht von Haller is regarded as one of the founders of modern physiology and among the most influential scientists of the Enlightenment. His experiments transformed the study of the human body from speculative theories into an evidence-based science. Through his research in physiology, anatomy, medicine, and botany, Haller helped establish experimental methods that continue to shape modern biological and medical research.",
+
+"legacy": "Albrecht von Haller's legacy is rooted in his foundational contributions to physiology, anatomy, medicine, and the natural sciences. Often regarded as one of the fathers of modern physiology, Haller helped transform the study of the human body from a largely descriptive discipline into an experimental science grounded in observation and evidence. His work established principles that influenced generations of physicians, biologists, and medical researchers.\n\nHaller is best known for his pioneering investigations into the functions of nerves and muscles. Through carefully designed experiments, he distinguished between the irritability of muscle tissue and the sensibility of nerves, demonstrating that these were separate physiological properties. This discovery represented a major advancement in understanding how the human body responds to stimulation and laid important groundwork for later developments in neuroscience and physiology.\n\nBeyond physiology, Haller made significant contributions to anatomy. He produced extensive studies of human organs, blood vessels, and embryological development, helping to improve the accuracy of medical knowledge during the eighteenth century. His commitment to careful experimentation and documentation raised scientific standards throughout the medical profession.\n\nHaller was also an accomplished botanist and natural historian. He cataloged thousands of plant species and contributed to the classification of plants, expanding scientific understanding of biodiversity. His botanical research earned international recognition and complemented his broader interest in the natural world.\n\nAs a scholar, Haller published an enormous body of work that influenced medicine, biology, and scientific methodology across Europe. His writings became standard references for researchers and educators, spreading experimental approaches to the study of life sciences.\n\nToday, Albrecht von Haller is remembered as a pioneering scientist whose research helped establish the foundations of modern physiology and experimental medicine. His enduring legacy is the application of rigorous observation and experimentation to the study of living organisms, a principle that continues to guide biological and medical research around the world.",
 
   "earlyLife": "Albrecht von Haller was born on 16 October 1708 in Bern, Switzerland. A child prodigy, he displayed remarkable intellectual abilities from an early age and developed strong interests in languages, literature, science, and medicine. He studied medicine at the University of Tübingen and later continued his education across Europe, learning from many of the leading scientific minds of the eighteenth century.",
 
