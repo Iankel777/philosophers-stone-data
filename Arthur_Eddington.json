@@ -8,19 +8,16 @@
   "born": "28 December 1882",
   "died": "22 November 1944",
 
-  "knownFor": [
-    "Confirmation of General Relativity",
-    "1919 Solar Eclipse Expedition",
-    "Stellar Structure",
-    "Eddington Luminosity",
-    "Astrophysics",
-    "Popularization of Einstein's Theories",
-    "The Internal Constitution of the Stars",
-    "Fundamental Physics"
-  ],
+"knownFor1": "Confirmation of General Relativity",
+"knownFor2": "Eddington Experiment of 1919",
+"knownFor3": "Astrophysics",
+"knownFor4": "Stellar Structure Theory",
+"knownFor5": "The Internal Constitution of the Stars",
+"knownFor6": "Science Popularization",
+"knownFor7": "Relativity Research",
+"knownFor8": "Eddington Luminosity Limit",
 
-  "legacy": "Arthur Eddington was one of the most influential astronomers and physicists of the twentieth century. He played a central role in establishing modern astrophysics and helped bring Albert Einstein's Theory of General Relativity to worldwide attention. His work on stellar structure transformed scientific understanding of how stars generate and radiate energy, and his contributions continue to influence astronomy, cosmology, and theoretical physics.",
-
+"legacy": "Arthur Eddington's legacy is defined by his pioneering contributions to astrophysics and his crucial role in establishing Albert Einstein's theory of General Relativity as one of the cornerstones of modern physics. As one of the most influential astronomers of the twentieth century, Eddington combined theoretical insight, observational skill, and exceptional communication abilities to advance scientific understanding of the universe.\n\nEddington is best known for leading the 1919 solar eclipse expedition that tested a key prediction of Einstein's General Relativity. By measuring the apparent bending of starlight near the Sun, Eddington's observations provided some of the first major empirical evidence supporting Einstein's theory. The results attracted worldwide attention and helped transform Einstein into an international scientific figure while establishing relativity as a fundamental framework in modern physics.\n\nBeyond relativity, Eddington made groundbreaking contributions to astrophysics. He developed influential theories concerning the internal structure of stars and demonstrated how physical laws governing pressure, temperature, and radiation determine stellar behavior. His work helped explain how stars generate and distribute energy, forming a foundation for later advances in stellar evolution and astrophysics.\n\nOne of his notable achievements was the development of the concept now known as the Eddington Luminosity Limit, which describes the maximum brightness a star can achieve before radiation pressure overcomes gravitational attraction. This principle remains important in the study of stars, quasars, and black holes.\n\nEddington was also an outstanding science communicator. Through books, lectures, and public engagement, he made complex scientific ideas accessible to wider audiences. His writings inspired countless students and researchers to explore astronomy and theoretical physics.\n\nToday, Arthur Eddington is remembered as one of the architects of modern astrophysics. His contributions continue to influence cosmology, stellar physics, and the philosophy of science. His enduring legacy is the successful union of theory and observation, demonstrating how careful measurement and mathematical reasoning can reveal the fundamental workings of the universe.",
   "earlyLife": "Arthur Stanley Eddington was born on 28 December 1882 in Kendal, England. After the death of his father during childhood, he was raised by his mother, who strongly supported his education. Eddington excelled academically and demonstrated an exceptional talent for mathematics from an early age. He studied at Owens College in Manchester and later at Trinity College, Cambridge, where he distinguished himself as one of the brightest students of his generation.",
 
   "scientificField": "Eddington worked primarily in astronomy, astrophysics, cosmology, mathematics, and theoretical physics. His research focused on stellar evolution, gravity, relativity, and the mathematical laws governing the universe.",
