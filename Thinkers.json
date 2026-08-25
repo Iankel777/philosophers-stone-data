@@ -55,4 +55,257 @@
   {"id":"arthur_schopenhauer","name":"Arthur Schopenhauer","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Schopenhauer_by_Jules_Luntesch%C3%BCtz.jpg?_=20230603142540","jsonFile":"Arthur_Schopenhauer.json"},
   {"id":"august_ferdinand_mobius","name":"August Ferdinand Mobius","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/August_Ferdinand_M%C3%B6bius.jpg/500px-August_Ferdinand_M%C3%B6bius.jpg?_=20170426074350","jsonFile":"August_Ferdinand_Mobius.json"},
   {"id":"ayn_rand","name":"Ayn Rand","letter":"A","category":"Philosophy","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/500px-Ayn_Rand_%281943_Talbot_portrait%29.jpg?_=20200517202421","jsonFile":"Ayn_Rand.json"}
+
+  [
+  {
+    "id": "barbara_ehrenreich",
+    "name": "Barbara Ehrenreich",
+    "letter": "B",
+    "category": "Sociology",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Barbara_Ehrenreich.json"
+  },
+  {
+    "id": "barbara_fredrickson",
+    "name": "Barbara Fredrickson",
+    "letter": "B",
+    "category": "Psychology",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Barbara_Fredrickson.json"
+  },
+  {
+    "id": "barbara_liskov",
+    "name": "Barbara Liskov",
+    "letter": "B",
+    "category": "Computer Science",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Barbara_Liskov.json"
+  },
+  {
+    "id": "barbara_mcclintock",
+    "name": "Barbara McClintock",
+    "letter": "B",
+    "category": "Biology",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Barbara_McClintock.json"
+  },
+  {
+    "id": "barbara_tuchman",
+    "name": "Barbara Tuchman",
+    "letter": "B",
+    "category": "History",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Barbara_Tuchman.json"
+  },
+  {
+    "id": "barry_marshall",
+    "name": "Barry Marshall",
+    "letter": "B",
+    "category": "Medicine",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Barry_Marshall.json"
+  },
+  {
+    "id": "baruch_spinoza",
+    "name": "Baruch Spinoza",
+    "letter": "B",
+    "category": "Philosophy",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Baruch_Spinoza.json"
+  },
+  {
+    "id": "beatrix_potter",
+    "name": "Beatrix Potter",
+    "letter": "B",
+    "category": "Literature",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Beatrix_Potter.json"
+  },
+  {
+    "id": "bela_balassa",
+    "name": "Bela Balassa",
+    "letter": "B",
+    "category": "Economics",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bela_Balassa.json"
+  },
+  {
+    "id": "ben_bernanke",
+    "name": "Ben Bernanke",
+    "letter": "B",
+    "category": "Economics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Ben_Bernanke.json"
+  },
+  {
+    "id": "ben_shneiderman",
+    "name": "Ben Shneiderman",
+    "letter": "B",
+    "category": "Computer Science",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Ben_Shneiderman.json"
+  },
+  {
+    "id": "bengt_samuelsson",
+    "name": "Bengt Samuelsson",
+    "letter": "B",
+    "category": "Medicine",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bengt_Samuelsson.json"
+  },
+  {
+    "id": "benjamin_bloom",
+    "name": "Benjamin Bloom",
+    "letter": "B",
+    "category": "Education",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Benjamin_Bloom.json"
+  },
+  {
+    "id": "benjamin_franklin",
+    "name": "Benjamin Franklin",
+    "letter": "B",
+    "category": "Science",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Benjamin_Franklin.json"
+  },
+  {
+    "id": "benjamin_graham",
+    "name": "Benjamin Graham",
+    "letter": "B",
+    "category": "Economics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Benjamin_Graham.json"
+  },
+  {
+    "id": "benjamin_lee_whorf",
+    "name": "Benjamin Lee Whorf",
+    "letter": "B",
+    "category": "Linguistics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Benjamin_Lee_Whorf.json"
+  },
+  {
+    "id": "benoit_mandelbrot",
+    "name": "Benoit Mandelbrot",
+    "letter": "B",
+    "category": "Mathematics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Benoit_Mandelbrot.json"
+  },
+  {
+    "id": "bernard_bolzano",
+    "name": "Bernard Bolzano",
+    "letter": "B",
+    "category": "Mathematics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bernard_Bolzano.json"
+  },
+  {
+    "id": "bertham_brockhouse",
+    "name": "Bertram Brockhouse",
+    "letter": "B",
+    "category": "Physics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bertram_Brockhouse.json"
+  },
+  {
+    "id": "bertrand_russell",
+    "name": "Bertrand Russell",
+    "letter": "B",
+    "category": "Philosophy",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bertrand_Russell.json"
+  },
+  {
+    "id": "betty_friedan",
+    "name": "Betty Friedan",
+    "letter": "B",
+    "category": "Sociology",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Betty_Friedan.json"
+  },
+  {
+    "id": "beverly_tatum",
+    "name": "Beverly Tatum",
+    "letter": "B",
+    "category": "Psychology",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Beverly_Tatum.json"
+  },
+  {
+    "id": "bjarne_stroustrup",
+    "name": "Bjarne Stroustrup",
+    "letter": "B",
+    "category": "Computer Science",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bjarne_Stroustrup.json"
+  },
+  {
+    "id": "bjorn_lomborg",
+    "name": "Bjorn Lomborg",
+    "letter": "B",
+    "category": "Political Science",
+    "legend": false,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Bjorn_Lomborg.json"
+  },
+  {
+    "id": "blaise_pascal",
+    "name": "Blaise Pascal",
+    "letter": "B",
+    "category": "Mathematics",
+    "legend": true,
+    "visible": true,
+    "image": "",
+    "jsonFile": "Blaise_Pascal.json"
+  }
 ]
+
