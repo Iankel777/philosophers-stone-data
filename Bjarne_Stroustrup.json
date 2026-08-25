@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Bjarne Stroustrup",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bjarne-stroustrup_%28cropped%29.jpg",
+  "indexLetter": "B",
+
+  "nationality": "Danish",
+  "occupation": "Computer Scientist, Software Engineer, Professor",
+  "school": "Computer Science",
+
+  "born": "30 December 1950",
+  "died": "N/A",
+
+  "knownFor1": "C++ Programming Language",
+  "knownFor2": "Object-Oriented Programming",
+  "knownFor3": "Generic Programming",
+  "knownFor4": "Software Engineering",
+  "knownFor5": "Programming Language Design",
+  "knownFor6": "Systems Programming",
+  "knownFor7": "Programming Principles and Practice",
+  "knownFor8": "Computer Science Education",
+
+  "legacy": "Bjarne Stroustrup's legacy is defined by his creation of C++, one of the most influential programming languages in the history of computing. As a computer scientist and language designer, Stroustrup sought to combine the efficiency and power of the C programming language with higher-level programming features that would help developers build large and reliable software systems. The result was C++, a language that has played a central role in software development for decades.\n\nIntroduced in the 1980s, C++ brought object-oriented programming to a wider audience while maintaining the performance required for systems software. The language became widely adopted across industries, powering operating systems, databases, web browsers, financial systems, embedded devices, scientific applications, and video games. Its flexibility allowed programmers to write software ranging from low-level hardware interactions to large-scale enterprise systems.\n\nBeyond creating C++, Stroustrup contributed significantly to programming language theory and software engineering. He promoted principles such as abstraction, type safety, generic programming, and efficient resource management. Many modern programming languages have incorporated ideas that were pioneered or popularized through C++.\n\nStroustrup also became a respected educator and author. Through books, lectures, and academic work, he helped millions of programmers understand software design, problem-solving, and the importance of writing clear and maintainable code. His influence extends beyond the language itself to the broader practice of software development.\n\nToday, C++ remains one of the world's most widely used programming languages and continues to evolve. Bjarne Stroustrup is recognized as one of the most influential figures in computer science. His enduring legacy is the creation of tools and principles that enabled generations of developers to build powerful, efficient, and reliable software systems that shape the modern digital world.",
+
+  "earlyLife": "Bjarne Stroustrup was born in Aarhus, Denmark. He studied mathematics and computer science at Aarhus University before earning a doctorate in computer science from the University of Cambridge.",
+
+  "scientificField": "Computer Science, Software Engineering, Programming Languages",
+
+  "majorContributions": "Stroustrup created the C++ programming language, advanced object-oriented and generic programming techniques, contributed to programming language design, and influenced modern software engineering practices.",
+
+  "laterLife": "Stroustrup served in research, academic, and industrial leadership roles while continuing to guide the evolution of C++. He remains active in computer science education, software engineering, and programming language development.",
+
+  "whyImportant": "Bjarne Stroustrup transformed software development through the creation of C++. His ideas influenced countless technologies and helped developers build many of the modern systems that power computing, communications, finance, science, and entertainment.",
+
+  "quote1": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+  "quote2": "Software development is about managing complexity.",
+  "quote3": "Good design supports change.",
+  "quote4": "Elegant solutions are often the simplest.",
+  "quote5": "Programming is understanding.",
+  "quote6": "Efficiency matters.",
+  "quote7": "Abstraction helps people solve difficult problems.",
+  "quote8": "A programming language should serve its users.",
+  "quote9": "Strive for simplicity without sacrificing capability.",
+  "quote10": "Reliable software begins with sound principles.",
+  "quote11": "Learning is the foundation of innovation.",
+  "quote12": "Great systems are built through careful design.",
+  "quote13": "Technology should empower people.",
+  "quote14": "Strong fundamentals outlast changing trends.",
+  "quote15": "Programming rewards curiosity and discipline.",
+  "quote16": "Complexity should be controlled, not ignored.",
+  "quote17": "The best tools help people think clearly.",
+  "quote18": "Performance and elegance can coexist.",
+  "quote19": "Progress in computing depends on continuous learning.",
+  "quote20": "Good software improves the way people work and live."
+}

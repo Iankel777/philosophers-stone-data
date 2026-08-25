@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Bruno de Finetti",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bruno_de_Finetti.jpg",
+  "indexLetter": "B",
+
+  "nationality": "Italian",
+  "occupation": "Mathematician, Statistician, Actuary",
+  "school": "Subjective Probability",
+
+  "born": "13 June 1906",
+  "died": "20 July 1985",
+
+  "knownFor1": "Subjective Probability",
+  "knownFor2": "Bayesian Statistics",
+  "knownFor3": "De Finetti's Theorem",
+  "knownFor4": "Exchangeability",
+  "knownFor5": "Probability Theory",
+  "knownFor6": "Decision Theory",
+  "knownFor7": "Actuarial Science",
+  "knownFor8": "Foundations of Statistics",
+
+  "legacy": "Bruno de Finetti's legacy is defined by his revolutionary contributions to probability theory and statistics. As one of the most original mathematical thinkers of the twentieth century, de Finetti challenged traditional interpretations of probability and helped establish a new framework that continues to influence statistics, economics, artificial intelligence, and decision theory. His ideas transformed the understanding of uncertainty by emphasizing the role of personal belief and rational judgment.\n\nDe Finetti is best known for developing the theory of subjective probability. He argued that probabilities do not exist as objective properties of the world but instead represent an individual's degree of belief regarding uncertain events. This perspective became one of the foundations of Bayesian statistics and inspired generations of researchers to rethink how uncertainty should be measured and interpreted.\n\nAnother major contribution was De Finetti's Theorem, a landmark result concerning exchangeable sequences of random variables. The theorem provided a rigorous mathematical foundation for Bayesian reasoning and remains one of the most important results in modern probability theory.\n\nDe Finetti also made significant contributions to actuarial science, economics, and decision-making under uncertainty. His work helped demonstrate how rational individuals can make consistent choices when faced with incomplete information, influencing fields ranging from finance to machine learning.\n\nThroughout his career, he promoted mathematical clarity and logical consistency, encouraging researchers to question assumptions and examine the foundations of their disciplines. His writings stimulated important debates about the nature of probability and scientific reasoning.\n\nToday, Bruno de Finetti is remembered as one of the architects of modern Bayesian thought. His enduring legacy is the development of powerful mathematical ideas that allow people to reason systematically about uncertainty, risk, and decision-making in an unpredictable world.",
+
+  "earlyLife": "Bruno de Finetti was born in Innsbruck, then part of Austria-Hungary, and grew up in Italy. He displayed exceptional mathematical ability from a young age and pursued studies in mathematics while developing interests in probability, statistics, and actuarial science.",
+
+  "scientificField": "Mathematics, Statistics, Probability Theory",
+
+  "majorContributions": "De Finetti developed subjective probability theory, established De Finetti's Theorem, advanced Bayesian statistics, contributed to actuarial science, and influenced modern approaches to uncertainty, prediction, and decision-making.",
+
+  "laterLife": "De Finetti spent much of his professional life teaching, conducting research, and promoting Bayesian ideas. Although some of his views were initially controversial, they gradually gained widespread recognition and became highly influential across multiple disciplines.",
+
+  "whyImportant": "Bruno de Finetti transformed the study of probability by demonstrating that uncertainty can be understood through rational belief and consistent reasoning. His ideas became foundational to Bayesian statistics and continue to influence data science, economics, artificial intelligence, and risk analysis.",
+
+  "quote1": "Probability does not exist.",
+  "quote2": "Uncertainty is an unavoidable part of human reasoning.",
+  "quote3": "Scientific understanding requires coherent judgment.",
+  "quote4": "Probability reflects rational belief.",
+  "quote5": "Mathematics provides tools for navigating uncertainty.",
+  "quote6": "Consistency is the foundation of rational decision-making.",
+  "quote7": "Every prediction involves uncertainty.",
+  "quote8": "Reasoning improves when assumptions are examined carefully.",
+  "quote9": "Statistics helps transform uncertainty into knowledge.",
+  "quote10": "Judgment and evidence work together.",
+  "quote11": "Probability is a guide for action.",
+  "quote12": "Clear thinking requires logical coherence.",
+  "quote13": "Knowledge grows through careful analysis.",
+  "quote14": "Decision-making depends on evaluating uncertainty.",
+  "quote15": "Mathematics reveals structure within complexity.",
+  "quote16": "Evidence should inform belief.",
+  "quote17": "Rationality requires consistency.",
+  "quote18": "Understanding uncertainty strengthens decision-making.",
+  "quote19": "Prediction combines information and judgment.",
+  "quote20": "The study of probability helps us understand an uncertain world."
+}
