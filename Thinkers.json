@@ -55,7 +55,9 @@
   {"id":"arthur_schopenhauer","name":"Arthur Schopenhauer","letter":"A","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Schopenhauer_by_Jules_Luntesch%C3%BCtz.jpg?_=20230603142540","jsonFile":"Arthur_Schopenhauer.json"},
   {"id":"august_ferdinand_mobius","name":"August Ferdinand Mobius","letter":"A","category":"Mathematics","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/August_Ferdinand_M%C3%B6bius.jpg/500px-August_Ferdinand_M%C3%B6bius.jpg?_=20170426074350","jsonFile":"August_Ferdinand_Mobius.json"},
   {"id":"ayn_rand","name":"Ayn Rand","letter":"A","category":"Philosophy","legend":false,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/500px-Ayn_Rand_%281943_Talbot_portrait%29.jpg?_=20200517202421","jsonFile":"Ayn_Rand.json"}
+]
 
+[
   {"id":"barbara_ehrenreich","name":"Barbara Ehrenreich","letter":"B","category":"Sociology","legend":false,"visible":true,"image":"","jsonFile":"Barbara_Ehrenreich.json"},
   {"id":"barbara_fredrickson","name":"Barbara Fredrickson","letter":"B","category":"Psychology","legend":false,"visible":true,"image":"","jsonFile":"Barbara_Fredrickson.json"},
   {"id":"barbara_liskov","name":"Barbara Liskov","letter":"B","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Barbara_Liskov.json"},
