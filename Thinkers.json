@@ -100,7 +100,6 @@
   {"id":"bruce_beutler","name":"Bruce Beutler","letter":"B","category":"Medicine","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bruce_Beutler.jpg/960px-Bruce_Beutler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Bruce_Beutler.json"},
   {"id":"bruce_schneier","name":"Bruce Schneier","letter":"B","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bruce_Schneier_at_CoPS2013-IMG_9174.jpg/960px-Bruce_Schneier_at_CoPS2013-IMG_9174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Bruce_Schneier.json"},
   
-  {"id":"bruno_de_finetti","name":"Bruno de Finetti","letter":"B","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Bruno_de_Finetti.json"},
   {"id":"bruno_latour","name":"Bruno Latour","letter":"B","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Bruno_Latour.json"},
   {"id":"buckminster_fuller","name":"Buckminster Fuller","letter":"B","category":"Architecture","legend":true,"visible":true,"image":"","jsonFile":"Buckminster_Fuller.json"},
   {"id":"burton_richter","name":"Burton Richter","letter":"B","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Burton_Richter.json"},
