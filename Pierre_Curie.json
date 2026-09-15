@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Pierre Curie",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pierre_Curie_1903.jpg",
+  "indexLetter": "C",
+
+  "nationality": "French",
+  "occupation": "Physicist, Scientist, Professor",
+  "school": "Experimental Physics, Radioactivity",
+
+  "born": "15 May 1859",
+  "died": "19 April 1906",
+
+  "knownFor1": "Radioactivity Research",
+  "knownFor2": "Discovery of Polonium",
+  "knownFor3": "Discovery of Radium",
+  "knownFor4": "Curie Law",
+  "knownFor5": "Piezoelectricity",
+  "knownFor6": "Nobel Prize in Physics",
+  "knownFor7": "Magnetism",
+  "knownFor8": "Atomic Science",
+
+  "legacy": "Pierre Curie was one of the founders of modern atomic physics and a pioneer in the study of radioactivity. Together with Marie Curie, he discovered the radioactive elements polonium and radium and helped establish a new scientific understanding of matter and atomic energy. His contributions to physics, crystallography, magnetism, and radioactivity shaped the development of twentieth-century science and medicine.",
+
+  "earlyLife": "Pierre Curie was born in Paris, France. Educated largely at home by his scientifically minded family, he demonstrated exceptional mathematical and scientific abilities from an early age. As a young researcher he became interested in crystallography and physical phenomena, embarking on a career that would lead to some of the most important discoveries in physics.",
+
+  "scientificField": "Physics, Radioactivity, Magnetism, Crystallography",
+
+  "majorContributions": "Pierre Curie and his brother Jacques discovered piezoelectricity, the phenomenon where certain crystals generate electrical charges when subjected to pressure. Later, Pierre conducted extensive research into magnetism and formulated Curie's Law, describing how magnetic materials behave with changing temperature. Working alongside Marie Curie, he discovered polonium and radium and conducted pioneering investigations into radioactivity. In 1903, Pierre Curie, Marie Curie, and Henri Becquerel jointly received the Nobel Prize in Physics for their work on radiation phenomena.",
+
+  "laterLife": "Following the discovery of radium and the growing recognition of radioactivity, Pierre Curie became one of Europe's most respected physicists. Despite increasing fame, he remained committed to research and teaching. His career was tragically cut short in 1906 when he died in a street accident in Paris. His scientific legacy was continued by Marie Curie and later by their daughter Irène Joliot-Curie.",
+
+  "whyImportant": "Pierre Curie's discoveries transformed humanity's understanding of matter, energy, and the atom. His research provided foundations for nuclear physics, radiation therapy, medical imaging, and modern materials science. Technologies ranging from ultrasound equipment to radiation treatments trace their origins to principles that Curie helped uncover.",
+
+  "quote1": "One never notices what has been done; one can only see what remains to be done.",
+  "quote2": "Scientific work requires complete sincerity.",
+  "quote3": "The scientist is not a person who gives the right answers but asks the right questions.",
+  "quote4": "Progress is built upon persistent effort.",
+  "quote5": "Nature yields her secrets only to patient investigation.",
+  "quote6": "Discovery is the reward of curiosity.",
+  "quote7": "Science advances through careful observation.",
+  "quote8": "Knowledge grows where evidence is respected.",
+  "quote9": "The pursuit of truth demands discipline.",
+  "quote10": "Great discoveries often begin with small observations.",
+  "quote11": "Research is an exploration into the unknown.",
+  "quote12": "Understanding nature requires both imagination and rigor.",
+  "quote13": "The universe reveals itself through experimentation.",
+  "quote14": "Scientific progress depends upon honest inquiry.",
+  "quote15": "Every experiment teaches something valuable.",
+  "quote16": "Curiosity is one of humanity's greatest strengths.",
+  "quote17": "Knowledge expands when assumptions are tested.",
+  "quote18": "Science should serve humanity.",
+  "quote19": "The search for truth is never complete.",
+  "quote20": "The greatest rewards of science are understanding and discovery."
+}

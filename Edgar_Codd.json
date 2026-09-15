@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Edgar Codd",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Edgar_F_Codd.jpg",
+  "indexLetter": "C",
+
+  "nationality": "British",
+  "occupation": "Computer Scientist, Mathematician, Researcher",
+  "school": "Database Theory, Computer Science",
+
+  "born": "19 August 1923",
+  "died": "18 April 2003",
+
+  "knownFor1": "Relational Database Model",
+  "knownFor2": "Turing Award",
+  "knownFor3": "Database Theory",
+  "knownFor4": "Relational Algebra",
+  "knownFor5": "Structured Query Concepts",
+  "knownFor6": "Data Normalization",
+  "knownFor7": "IBM Research",
+  "knownFor8": "Modern Database Systems",
+
+  "legacy": "Edgar F. Codd revolutionized computing by inventing the relational model for databases, one of the most important ideas in the history of computer science. Nearly every modern database system, including those used by banks, governments, businesses, websites, and mobile applications, is built upon principles he established. His work transformed data management from a collection of ad hoc storage methods into a rigorous scientific discipline.",
+
+  "earlyLife": "Edgar Frank Codd was born in Portland, Dorset, England. During World War II he served as a pilot in the Royal Air Force. After the war he studied mathematics and chemistry at the University of Oxford. Fascinated by logic, computation, and the emerging field of computer science, he later moved to the United States and joined IBM, where he began pioneering research into data management and information systems.",
+
+  "scientificField": "Computer Science, Database Systems, Information Theory",
+
+  "majorContributions": "In 1970 Codd published his landmark paper introducing the relational model of data. Instead of storing information in complex hierarchical structures, he proposed organizing data into relations, now commonly represented as tables. He developed relational algebra and formal database theory, providing a mathematical foundation for data storage and retrieval. His ideas inspired the development of SQL databases and modern database management systems including Oracle, PostgreSQL, MySQL, SQL Server, and countless enterprise systems.",
+
+  "laterLife": "After establishing the foundations of relational databases, Codd continued refining database theory and advocating for rigorous data modeling practices. He received numerous honors, including the ACM A.M. Turing Award in 1981. Throughout his career he worked to ensure that database systems remained grounded in sound mathematical principles rather than convenience-driven shortcuts. His influence continued to shape software engineering and data science until his death in 2003.",
+
+  "whyImportant": "Modern civilization depends upon databases. Banking systems, hospitals, airlines, governments, online stores, search engines, and social networks all rely on database technologies derived from Codd's work. Few computer scientists have had a greater practical impact on daily life. Every time information is stored, queried, or organized electronically, the influence of Edgar Codd's ideas is often present behind the scenes.",
+
+  "quote1": "The purpose of a data model is to represent reality with precision.",
+  "quote2": "Information must be organized before it can be understood.",
+  "quote3": "Data gains value when relationships are revealed.",
+  "quote4": "Simplicity is often the result of deep understanding.",
+  "quote5": "A good model reflects the structure of the real world.",
+  "quote6": "Mathematical rigor is essential to reliable systems.",
+  "quote7": "Complex data requires logical organization.",
+  "quote8": "Technology succeeds when complexity is hidden from users.",
+  "quote9": "Knowledge depends upon access to information.",
+  "quote10": "The challenge of computing is managing information effectively.",
+  "quote11": "A sound theory creates practical solutions.",
+  "quote12": "Data should be independent of the applications that use it.",
+  "quote13": "Well-structured information makes better decisions possible.",
+  "quote14": "Scientific progress depends upon formal foundations.",
+  "quote15": "Every system should be built on clear principles.",
+  "quote16": "Order transforms information into knowledge.",
+  "quote17": "Computing is ultimately about representing reality.",
+  "quote18": "Logical consistency is a prerequisite for trustworthy systems.",
+  "quote19": "Good design minimizes unnecessary complexity.",
+  "quote20": "The future belongs to those who can organize knowledge effectively."
+}

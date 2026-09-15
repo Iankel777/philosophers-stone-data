@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Carl Woese",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/67/Carl_Woese.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Microbiologist, Biophysicist, Evolutionary Biologist",
+  "school": "Molecular Evolution, Microbiology",
+
+  "born": "15 July 1928",
+  "died": "30 December 2012",
+
+  "knownFor1": "Discovery of Archaea",
+  "knownFor2": "Three-Domain System",
+  "knownFor3": "Molecular Phylogenetics",
+  "knownFor4": "Evolutionary Biology",
+  "knownFor5": "Ribosomal RNA Analysis",
+  "knownFor6": "Microbiology",
+  "knownFor7": "Tree of Life Revision",
+  "knownFor8": "Modern Classification of Life",
+
+  "legacy": "Carl Woese revolutionized biology by fundamentally changing humanity's understanding of life's evolutionary history. Through the analysis of ribosomal RNA, he discovered a previously unknown domain of life called Archaea and proposed the three-domain system consisting of Bacteria, Archaea, and Eukarya. His work reshaped microbiology, evolutionary biology, genetics, and our understanding of the origins of life.",
+
+  "earlyLife": "Carl Richard Woese was born in Syracuse, New York. He studied mathematics and physics before earning a doctorate in biophysics at Yale University. His interdisciplinary background helped him approach biological questions from a novel perspective, combining molecular techniques with evolutionary theory to investigate the deepest branches of life's history.",
+
+  "scientificField": "Microbiology, Evolutionary Biology, Genetics, Molecular Biology",
+
+  "majorContributions": "Woese pioneered the use of ribosomal RNA sequencing to determine evolutionary relationships among organisms. His research revealed that certain microorganisms previously classified as bacteria were actually members of a distinct domain of life known as Archaea. He introduced the Three-Domain System, replacing the traditional two-kingdom and later five-kingdom classifications. His work established molecular phylogenetics as a cornerstone of modern biology and transformed understanding of evolution at the microbial level.",
+
+  "laterLife": "As a professor at the University of Illinois, Woese continued investigating the origins and evolution of life. Although his ideas initially met resistance, overwhelming evidence eventually led to broad acceptance of the Three-Domain System. Over time he became recognized as one of the most influential biologists of the twentieth century and received numerous scientific honors for his groundbreaking discoveries.",
+
+  "whyImportant": "Carl Woese changed the biological map of life itself. By discovering Archaea and redefining evolutionary relationships among organisms, he transformed microbiology and evolutionary science. His methods continue to guide research in genetics, genomics, ecology, astrobiology, and the search for life's origins.",
+
+  "quote1": "The history of science is the history of corrected mistakes.",
+  "quote2": "Evolution is not merely a theory; it is the framework of modern biology.",
+  "quote3": "Understanding life requires understanding its origins.",
+  "quote4": "Microorganisms hold the key to Earth's history.",
+  "quote5": "Science advances when assumptions are challenged.",
+  "quote6": "Life is far more diverse than appearances suggest.",
+  "quote7": "Classification should reflect evolutionary reality.",
+  "quote8": "The smallest organisms can reveal the greatest truths.",
+  "quote9": "Discovery often begins with questioning accepted wisdom.",
+  "quote10": "The microbial world is the foundation of life on Earth.",
+  "quote11": "Biology becomes clearer when viewed through evolution.",
+  "quote12": "Understanding relationships is essential to understanding life.",
+  "quote13": "Nature continually surprises those who investigate it.",
+  "quote14": "Scientific revolutions arise from new ways of seeing old facts.",
+  "quote15": "The tree of life is more complex than we once imagined.",
+  "quote16": "Molecular evidence can reveal hidden histories.",
+  "quote17": "Knowledge grows through persistence and curiosity.",
+  "quote18": "Evolution connects all living things.",
+  "quote19": "The greatest discoveries often begin in overlooked places.",
+  "quote20": "Life's diversity reflects billions of years of evolution."
+}

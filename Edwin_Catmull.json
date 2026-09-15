@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Edwin Catmull",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Edwin_Catmull_2010.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Computer Graphics Pioneer, Entrepreneur",
+  "school": "Computer Graphics, Computer Science",
+
+  "born": "31 March 1945",
+  "died": "",
+
+  "knownFor1": "Computer Graphics",
+  "knownFor2": "Pixar Co-Founder",
+  "knownFor3": "Turing Award",
+  "knownFor4": "3D Animation",
+  "knownFor5": "Texture Mapping",
+  "knownFor6": "Computer Rendering",
+  "knownFor7": "Digital Imaging",
+  "knownFor8": "Animation Technology",
+
+  "legacy": "Edwin Catmull is one of the founders of modern computer graphics and a key architect of the digital animation revolution. His technical innovations made realistic computer-generated imagery possible and helped transform animation, filmmaking, video games, scientific visualization, and virtual worlds. As co-founder of Pixar and later president of both Pixar and Walt Disney Animation Studios, Catmull combined scientific innovation with artistic creativity, shaping how billions of people experience digital media.",
+
+  "earlyLife": "Edwin Earl Catmull was born in Parkersburg, West Virginia, and grew up in Utah. Fascinated by both science and animation, he dreamed of becoming a Disney animator. Realizing he lacked traditional artistic talent, he pursued physics and computer science instead. He earned degrees in physics and computer science from the University of Utah, where he became involved in pioneering research in computer graphics.",
+
+  "scientificField": "Computer Science, Computer Graphics, Digital Imaging",
+
+  "majorContributions": "Catmull developed several foundational technologies used throughout modern computer graphics, including texture mapping, subdivision surfaces, Z-buffering, and computer animation techniques. His groundbreaking 3D computer-generated model of his own hand became one of the earliest examples of realistic computer animation. As a leader at Pixar, he helped develop the technology behind films such as Toy Story, Finding Nemo, The Incredibles, and Up. His innovations laid the technical foundations for modern CGI, animation, visual effects, virtual reality, and video games.",
+
+  "laterLife": "After working at the New York Institute of Technology and Lucasfilm's Computer Division, Catmull helped establish Pixar as an independent company under Steve Jobs. Under his leadership, Pixar became one of the world's most successful animation studios. In 2019, Catmull received the ACM A.M. Turing Award, often called the 'Nobel Prize of Computing,' for his fundamental contributions to computer graphics and computer-generated imagery.",
+
+  "whyImportant": "Edwin Catmull helped create the technologies that power modern digital entertainment. Nearly every animated movie, visual effects production, video game, architectural visualization, and 3D simulation relies on concepts he pioneered. His combination of scientific innovation and creative leadership changed both computing and storytelling.",
+
+  "quote1": "Failure is not a necessary evil. In fact, it isn't evil at all.",
+  "quote2": "Creativity involves mistakes. Art is knowing which ones to keep.",
+  "quote3": "The cost of preventing errors is often far greater than the cost of fixing them.",
+  "quote4": "Management's job is not to prevent risk but to build the capability to recover.",
+  "quote5": "People are more important than ideas.",
+  "quote6": "Innovation requires a willingness to embrace uncertainty.",
+  "quote7": "The future is created by those willing to experiment.",
+  "quote8": "Technology and art are strongest when they work together.",
+  "quote9": "Great achievements emerge from collaborative environments.",
+  "quote10": "Creativity flourishes where curiosity is encouraged.",
+  "quote11": "Every breakthrough begins with a difficult problem.",
+  "quote12": "Learning comes from confronting challenges directly.",
+  "quote13": "Technology should expand human imagination.",
+  "quote14": "Progress requires both discipline and exploration.",
+  "quote15": "The best teams are built on trust.",
+  "quote16": "Fear is the enemy of innovation.",
+  "quote17": "The pursuit of excellence is a continuous process.",
+  "quote18": "Complex problems require diverse perspectives.",
+  "quote19": "Great ideas often appear before they make sense.",
+  "quote20": "The goal of leadership is to create conditions where creativity can thrive."
+}

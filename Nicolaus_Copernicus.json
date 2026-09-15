@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Nicolaus Copernicus",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Nikolaus_Kopernikus.jpg",
+  "indexLetter": "C",
+
+  "nationality": "Polish",
+  "occupation": "Astronomer, Mathematician, Cleric, Economist",
+  "school": "Renaissance Astronomy",
+
+  "born": "19 February 1473",
+  "died": "24 May 1543",
+
+  "knownFor1": "Heliocentric Theory",
+  "knownFor2": "Copernican Revolution",
+  "knownFor3": "De Revolutionibus Orbium Coelestium",
+  "knownFor4": "Modern Astronomy",
+  "knownFor5": "Mathematical Astronomy",
+  "knownFor6": "Scientific Revolution",
+  "knownFor7": "Planetary Motion",
+  "knownFor8": "Sun-Centered Solar System",
+
+  "legacy": "Nicolaus Copernicus initiated one of the most important transformations in human thought. By placing the Sun rather than the Earth at the center of the known planetary system, he challenged centuries of accepted belief and laid the foundation for modern astronomy. His ideas inspired later scientists such as Johannes Kepler, Galileo Galilei, and Isaac Newton, helping launch the Scientific Revolution.",
+
+  "earlyLife": "Nicolaus Copernicus was born in Toruń, Royal Prussia, then part of the Kingdom of Poland. After the death of his father, he was raised by his influential uncle Lucas Watzenrode. Copernicus studied mathematics, astronomy, medicine, canon law, and classical subjects at the universities of Kraków, Bologna, Padua, and Ferrara. During these years he developed a fascination with astronomy and the mathematical description of the heavens.",
+
+  "scientificField": "Astronomy, Mathematics, Economics",
+
+  "majorContributions": "Copernicus developed the heliocentric model of the solar system, proposing that the Earth rotates on its axis and orbits the Sun. His most influential work, 'De Revolutionibus Orbium Coelestium', provided a mathematical framework for understanding planetary motion. He also contributed to economics through observations on monetary policy and formulated an early version of what later became known as Gresham's Law. His astronomical theories transformed humanity's understanding of its place in the cosmos.",
+
+  "laterLife": "For much of his life Copernicus worked as a canon of the cathedral at Frombork while conducting astronomical observations and mathematical calculations. He spent decades refining his heliocentric theory before publishing it near the end of his life. According to tradition, he received the first printed copy of 'De Revolutionibus' shortly before his death in 1543.",
+
+  "whyImportant": "Copernicus fundamentally altered humanity's conception of the universe. His heliocentric theory replaced the Earth-centered worldview that had dominated for nearly two thousand years and opened the path for modern science. By showing that accepted beliefs could be overturned through observation and mathematics, he helped establish the scientific method and inspired generations of scientific inquiry.",
+
+  "quote1": "To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.",
+  "quote2": "Mathematics is written for mathematicians.",
+  "quote3": "The universe has been wrought for us by a supremely good and orderly Creator.",
+  "quote4": "Among the many and varied literary and artistic pursuits, I think one should devote oneself principally to those studies concerned with the most beautiful objects.",
+  "quote5": "The motions of the heavens reveal the elegance of nature.",
+  "quote6": "Observation is the beginning of understanding.",
+  "quote7": "Truth should be sought through reason and evidence.",
+  "quote8": "Nature follows mathematical laws.",
+  "quote9": "The Earth is a traveler among the planets.",
+  "quote10": "Scientific progress often begins by questioning assumptions.",
+  "quote11": "The heavens are not as they first appear.",
+  "quote12": "A simple explanation is often the most profound.",
+  "quote13": "Knowledge advances through careful calculation.",
+  "quote14": "The cosmos rewards curious minds.",
+  "quote15": "Reason illuminates the structure of the universe.",
+  "quote16": "Great discoveries require intellectual courage.",
+  "quote17": "The movement of planets reveals cosmic order.",
+  "quote18": "Understanding grows when evidence outweighs tradition.",
+  "quote19": "Mathematics provides the key to the heavens.",
+  "quote20": "The pursuit of truth is the highest task of science."
+}

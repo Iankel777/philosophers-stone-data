@@ -1,0 +1,54 @@
+{
+  "thinkerName": "John Cocke",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/4/4a/John_Cocke_IBM.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Researcher, Engineer",
+  "school": "Computer Architecture, Compiler Design",
+
+  "born": "30 May 1925",
+  "died": "16 July 2002",
+
+  "knownFor1": "RISC Architecture",
+  "knownFor2": "Turing Award",
+  "knownFor3": "Compiler Optimization",
+  "knownFor4": "IBM Research",
+  "knownFor5": "Computer Architecture",
+  "knownFor6": "High-Performance Computing",
+  "knownFor7": "Instruction Set Design",
+  "knownFor8": "Modern Processors",
+
+  "legacy": "John Cocke was one of the most influential computer architects in history. He pioneered the Reduced Instruction Set Computer (RISC) philosophy, which demonstrated that simpler processor instructions could produce faster and more efficient computers. His ideas transformed the design of modern CPUs and became the foundation for many of today's processors used in personal computers, smartphones, servers, and embedded systems.",
+
+  "earlyLife": "John Cocke was born in Charlotte, North Carolina, United States. He studied mechanical engineering at Duke University before serving in the military during World War II. Afterward he joined IBM, where he spent most of his career. Although he lacked a formal education in computer science, his exceptional problem-solving abilities quickly established him as one of the company's leading researchers.",
+
+  "scientificField": "Computer Science, Computer Engineering, Computer Architecture",
+
+  "majorContributions": "Cocke revolutionized computer design through his work on RISC architecture. At a time when processors were becoming increasingly complex, he argued that simpler instruction sets could execute programs more efficiently. His research at IBM led to the development of experimental RISC machines that greatly outperformed conventional designs. He also made major contributions to compiler optimization, enabling software to better exploit processor performance. Modern architectures such as ARM and many high-performance processors reflect principles pioneered by Cocke.",
+
+  "laterLife": "Throughout his career at IBM Research, Cocke led innovative projects in processor design, compilers, and computing systems. His influence spread throughout academia and industry as RISC architectures became dominant in computer engineering. In 1987 he received the ACM A.M. Turing Award, recognizing his groundbreaking contributions to computer architecture and compiler technology.",
+
+  "whyImportant": "Nearly every modern computing device relies on concepts John Cocke helped pioneer. Smartphones, tablets, embedded systems, cloud servers, and many desktop processors derive performance advantages from RISC principles. His work fundamentally reshaped the computing industry and remains central to contemporary processor design.",
+
+  "quote1": "Simplicity is often the key to performance.",
+  "quote2": "Good engineering removes unnecessary complexity.",
+  "quote3": "A computer should spend more time computing and less time interpreting instructions.",
+  "quote4": "Efficiency emerges from careful design.",
+  "quote5": "Innovation often requires questioning accepted assumptions.",
+  "quote6": "The best solutions are frequently the simplest.",
+  "quote7": "Performance depends on understanding fundamentals.",
+  "quote8": "Computers should make the most of their resources.",
+  "quote9": "Engineering advances through practical insight.",
+  "quote10": "A small improvement repeated billions of times becomes revolutionary.",
+  "quote11": "Technology succeeds when complexity is hidden.",
+  "quote12": "Optimization is understanding what truly matters.",
+  "quote13": "Great systems are built from elegant ideas.",
+  "quote14": "The challenge of computing is efficient execution.",
+  "quote15": "Design should serve performance, not tradition.",
+  "quote16": "Progress comes from rethinking limitations.",
+  "quote17": "The future of computing depends on smart architecture.",
+  "quote18": "A fast processor begins with a clear design philosophy.",
+  "quote19": "Every instruction should justify its existence.",
+  "quote20": "Engineering excellence comes from simplicity, precision, and purpose."
+}

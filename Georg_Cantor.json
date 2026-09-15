@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Georg Cantor",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Georg_Cantor.jpg",
+  "indexLetter": "C",
+
+  "nationality": "German",
+  "occupation": "Mathematician",
+  "school": "Set Theory, Mathematical Logic",
+
+  "born": "3 March 1845",
+  "died": "6 January 1918",
+
+  "knownFor1": "Set Theory",
+  "knownFor2": "Infinite Numbers",
+  "knownFor3": "Transfinite Arithmetic",
+  "knownFor4": "Cardinality",
+  "knownFor5": "Cantor's Diagonal Argument",
+  "knownFor6": "Mathematical Logic",
+  "knownFor7": "Foundations of Mathematics",
+  "knownFor8": "Hierarchy of Infinities",
+
+  "legacy": "Georg Cantor revolutionized mathematics by creating set theory and demonstrating that infinite sets can have different sizes. His work fundamentally altered humanity's understanding of infinity and established foundations that underpin modern mathematics, logic, computer science, and theoretical physics. Although controversial during his lifetime, his ideas are now recognized as some of the most important contributions in the history of mathematics.",
+
+  "earlyLife": "Georg Ferdinand Ludwig Philipp Cantor was born in Saint Petersburg, Russia, to a family of German heritage. He later moved to Germany, where he studied mathematics at the Universities of Zurich, Berlin, and Göttingen. Influenced by mathematicians such as Karl Weierstrass and Ernst Kummer, Cantor developed an interest in the nature of numbers and infinite collections, subjects that would become the focus of his life's work.",
+
+  "scientificField": "Mathematics, Logic, Set Theory",
+
+  "majorContributions": "Cantor founded set theory, introducing rigorous methods for studying collections of objects and infinite sets. He demonstrated that some infinities are larger than others and developed transfinite numbers to describe different levels of infinity. His diagonal argument proved that the real numbers are uncountably infinite, while the natural numbers are countably infinite. These discoveries transformed mathematical logic and influenced virtually every branch of modern mathematics.",
+
+  "laterLife": "Despite his groundbreaking achievements, Cantor faced strong opposition from several prominent mathematicians, particularly Leopold Kronecker. The criticism, combined with recurring health challenges, contributed to periods of depression throughout his later years. Nevertheless, he continued developing set theory and defending his ideas. After his death, subsequent generations of mathematicians embraced his work, recognizing its extraordinary significance.",
+
+  "whyImportant": "Cantor changed the foundations of mathematics by showing that infinity could be studied systematically and rigorously. Modern fields such as mathematical logic, computer science, topology, analysis, and theoretical physics depend heavily on concepts originating in set theory. His discoveries expanded the boundaries of human thought and transformed the very meaning of mathematical infinity.",
+
+  "quote1": "The essence of mathematics lies in its freedom.",
+  "quote2": "A set is a gathering together into a whole of definite objects of our intuition or thought.",
+  "quote3": "In mathematics, the art of asking questions is more valuable than solving problems.",
+  "quote4": "My theory stands as firm as a rock.",
+  "quote5": "The actual infinite arises in three contexts: nature, spirit, and mathematics.",
+  "quote6": "The fear of infinity is a form of mathematical blindness.",
+  "quote7": "Numbers reveal structures hidden within reality.",
+  "quote8": "Infinity is not a mystery but a subject of study.",
+  "quote9": "Great discoveries often challenge intuition.",
+  "quote10": "Mathematics advances through bold imagination.",
+  "quote11": "Truth does not depend on popularity.",
+  "quote12": "Every new mathematical idea expands human understanding.",
+  "quote13": "The infinite is richer than the finite mind first imagines.",
+  "quote14": "Reason can explore realms beyond ordinary experience.",
+  "quote15": "Mathematics is the language of abstract possibility.",
+  "quote16": "Concepts once thought impossible become foundations of knowledge.",
+  "quote17": "The study of infinity reveals the depth of mathematics.",
+  "quote18": "Scientific progress often begins with an unconventional idea.",
+  "quote19": "The universe of numbers is larger than intuition suggests.",
+  "quote20": "Freedom of thought is essential for mathematical discovery."
+}
