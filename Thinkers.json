@@ -113,7 +113,6 @@
   {"id":"carl_sagan","name":"Carl Sagan","letter":"C","category":"Astronomy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/P-13734B_Carl_Sagan.jpg/960px-P-13734B_Carl_Sagan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Carl_Sagan.json"},
   {"id":"carl_woese","name":"Carl Woese","letter":"C","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Woese.jpg/960px-Carl_Woese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Carl_Woese.json"},
   {"id":"carneades","name":"Carneades","letter":"C","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Carneades_bust.jpg/960px-Carneades_bust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Carneades.json"},
-  {"id":"carolus_linnaeus","name":"Carolus Linnaeus","letter":"C","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Carolus_Linnaeus.json"},
   
   {"id":"charles_babbage","name":"Charles Babbage","letter":"C","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Charles_Babbage.json"},
   {"id":"charles_bachman","name":"Charles Bachman","letter":"C","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Charles_Bachman.json"},
