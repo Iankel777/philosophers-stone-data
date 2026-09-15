@@ -151,8 +151,8 @@
   {"id":"robert_curl","name":"Robert Curl","letter":"C","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Robert_Curl_crop_2009_CHAO.jpg/960px-Robert_Curl_crop_2009_CHAO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Curl.json"},
   
   {"id":"ronald_coase","name":"Ronald Coase","letter":"C","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coase_working_2000s.jpg/960px-Coase_working_2000s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ronald_Coase.json"},
-  {"id":"steven_chu","name":"Steven Chu","letter":"C","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Steven_Chu.json"},
-  {"id":"subrahmanyan_chandrasekhar","name":"Subrahmanyan Chandrasekhar","letter":"C","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Subrahmanyan_Chandrasekhar.json"}
+  {"id":"steven_chu","name":"Steven Chu","letter":"C","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Steven_Chu_official_portrait.jpg/960px-Steven_Chu_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Steven_Chu.json"},
+  {"id":"subrahmanyan_chandrasekhar","name":"Subrahmanyan Chandrasekhar","letter":"C","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Subrahmanyan_Chandrasekhar_2.jpg/960px-Subrahmanyan_Chandrasekhar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Subrahmanyan_Chandrasekhar.json"}
 ]
 
 
