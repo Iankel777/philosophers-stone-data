@@ -127,10 +127,8 @@
   
   {"id":"claude_cohen","name":"Claude Cohen","letter":"C","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/COHEN_TANNOUDJI_Claude-24x30-1999.jpg/960px-COHEN_TANNOUDJI_Claude-24x30-1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Claude_Cohen.json"},
   {"id":"claude_levi_strauss","name":"Claude Levi-Strauss","letter":"C","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Prins_Bernhard_reikt_Erasmusprijs_uit_aan_prof_Claude_Levi_Strauss_in_Tropenmus%2C_Bestanddeelnr_926-4412.jpg/960px-Prins_Bernhard_reikt_Erasmusprijs_uit_aan_prof_Claude_Levi_Strauss_in_Tropenmus%2C_Bestanddeelnr_926-4412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Claude_Levi_Strauss.json"},
-
-  {"id":"confucius","name":"Confucius","letter":"C","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Confucius.json"},
+  {"id":"confucius","name":"Confucius","letter":"C","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Confucius_-_Project_Gutenberg_eText_15250.jpg/960px-Confucius_-_Project_Gutenberg_eText_15250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Confucius.json"},
   
-  {"id":"conrad_waddington","name":"Conrad Waddington","letter":"C","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Conrad_Waddington.json"},
   {"id":"cornel_west","name":"Cornel West","letter":"C","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Cornel_West.json"},
   {"id":"craig_venter","name":"Craig Venter","letter":"C","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Craig_Venter.json"},
   {"id":"crantor","name":"Crantor","letter":"C","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Crantor.json"},
