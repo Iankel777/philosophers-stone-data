@@ -132,7 +132,7 @@
   {"id":"cornel_west","name":"Cornel West","letter":"C","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cornel_West_%2839223940514%29.jpg/960px-Cornel_West_%2839223940514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Cornel_West.json"},
   {"id":"craig_venter","name":"Craig Venter","letter":"C","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/J._Craig_Venter_crop_2011_CHAO2011-49.jpg/960px-J._Craig_Venter_crop_2011_CHAO2011-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Craig_Venter.json"},
   
-  {"id":"carl_adam_petri","name":"Carl Adam Petri","letter":"C","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Carl_Adam_Petri.json"},
+  {"id":"carl_adam_petri","name":"Carl Adam Petri","letter":"C","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/05/Carl_adam_petri.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original","jsonFile":"Carl_Adam_Petri.json"},
   {"id":"carl_bosch","name":"Carl Bosch","letter":"C","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Carl_Bosch.json"},
   {"id":"carl_david_anderson","name":"Carl David Anderson","letter":"C","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Carl_David_Anderson.json"},
   {"id":"carl_gustav_jacobi","name":"Carl Gustav Jacobi","letter":"C","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Carl_Gustav_Jacobi.json"},
