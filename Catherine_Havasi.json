@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Catherine Havasi",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/8/89/Catherine_Havasi.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Artificial Intelligence Researcher, Entrepreneur",
+  "school": "Artificial Intelligence, Natural Language Processing, Knowledge Representation",
+
+  "born": "1981",
+  "died": "N/A",
+
+  "knownFor1": "ConceptNet",
+  "knownFor2": "Open Mind Common Sense",
+  "knownFor3": "Natural Language Processing",
+  "knownFor4": "Artificial Intelligence",
+  "knownFor5": "Crowdsourced Knowledge Bases",
+  "knownFor6": "Machine Learning",
+  "knownFor7": "Luminoso",
+  "knownFor8": "Semantic Networks",
+
+  "legacy": "Catherine Havasi is a prominent artificial intelligence researcher who helped bridge the gap between human common-sense reasoning and machine understanding. Her work on ConceptNet became one of the most influential open knowledge graphs in AI, enabling computers to process language with greater contextual awareness and human-like reasoning. Her contributions have shaped modern natural language processing and explainable AI systems.",
+
+  "earlyLife": "Havasi grew up in Pittsburgh, Pennsylvania, where she developed an early fascination with artificial intelligence after reading Marvin Minsky's work. She studied at the Massachusetts Institute of Technology and became involved with the MIT Media Lab, where she participated in pioneering research on common-sense reasoning and machine intelligence. She later earned a Ph.D. in Computer Science from Brandeis University.",
+
+  "scientificField": "Artificial Intelligence, Natural Language Processing, Computational Linguistics, Machine Learning",
+
+  "majorContributions": "Havasi was a key contributor to the Open Mind Common Sense project and one of the creators of ConceptNet, an open-source semantic network designed to give computers access to human common-sense knowledge. She later co-founded Luminoso, a company that applied these AI techniques to large-scale text analysis and business intelligence. Her research advanced semantic understanding, knowledge representation, sentiment analysis, multilingual NLP, transfer learning, and computational creativity.",
+
+  "laterLife": "After helping develop ConceptNet and founding Luminoso, Havasi became a respected leader in both academic and commercial AI. She held leadership roles involving innovation strategy, AI deployment, and machine learning applications. She has continued advocating for practical, responsible, and human-centered artificial intelligence while contributing to education and public understanding of AI technologies.",
+
+  "whyImportant": "Catherine Havasi played a significant role in the effort to provide artificial intelligence systems with common-sense knowledge, one of the most challenging problems in computer science. Her work improved machine understanding of language and context, influencing modern conversational AI, recommendation systems, semantic search, and knowledge-based reasoning. Her contributions continue to impact research in natural language understanding and explainable artificial intelligence.",
+
+  "quote1": "Artificial intelligence must understand people as well as data.",
+  "quote2": "Common sense remains one of the greatest challenges in AI.",
+  "quote3": "Knowledge is more valuable when it can be shared.",
+  "quote4": "Language reflects how humans understand the world.",
+  "quote5": "Machines should learn context, not just patterns.",
+  "quote6": "The best AI amplifies human intelligence.",
+  "quote7": "Understanding requires connections between ideas.",
+  "quote8": "Innovation begins with curiosity.",
+  "quote9": "Data gains value when transformed into knowledge.",
+  "quote10": "Artificial intelligence should remain human-centered.",
+  "quote11": "Semantic understanding is central to intelligent systems.",
+  "quote12": "Technology works best when it solves real problems.",
+  "quote13": "Common sense is difficult because people take it for granted.",
+  "quote14": "Knowledge graphs create bridges between concepts.",
+  "quote15": "AI should help people make better decisions.",
+  "quote16": "Language contains clues about human reasoning.",
+  "quote17": "The future of AI depends on understanding meaning.",
+  "quote18": "Collaboration accelerates scientific discovery.",
+  "quote19": "Learning systems must balance knowledge and experience.",
+  "quote20": "Great innovations often start as ambitious questions."
+}

@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Claude Shannon",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Mathematician, Electrical Engineer, Computer Scientist, Cryptographer",
+  "school": "Information Theory, Digital Computing, Communication Theory",
+
+  "born": "30 April 1916",
+  "died": "24 February 2001",
+
+  "knownFor1": "Information Theory",
+  "knownFor2": "Bit Concept",
+  "knownFor3": "Shannon Entropy",
+  "knownFor4": "Digital Circuit Design",
+  "knownFor5": "Communication Theory",
+  "knownFor6": "Boolean Logic Applications",
+  "knownFor7": "Cryptography",
+  "knownFor8": "Foundations of Computer Science",
+
+  "legacy": "Claude Shannon is widely regarded as the father of information theory. His groundbreaking work established the mathematical foundations of modern digital communication, data compression, error correction, computer networks, and the internet. Nearly every digital technology in use today relies on principles first formalized by Shannon.",
+
+  "earlyLife": "Shannon was born in Petoskey, Michigan, and grew up in Gaylord, Michigan. From an early age he displayed an exceptional aptitude for mathematics, mechanics, and electrical devices. He studied electrical engineering and mathematics at the University of Michigan before pursuing graduate work at the Massachusetts Institute of Technology.",
+
+  "scientificField": "Computer Science, Information Theory, Mathematics, Electrical Engineering",
+
+  "majorContributions": "Shannon's 1948 paper 'A Mathematical Theory of Communication' created the field of information theory. He introduced the concept of the bit as the fundamental unit of information, developed measures of information and uncertainty known as entropy, demonstrated limits of communication channels, and showed how Boolean algebra could be used to design digital circuits. These discoveries laid the foundation for modern computers, telecommunications, and the internet.",
+
+  "laterLife": "After pioneering information theory at Bell Laboratories, Shannon continued research in artificial intelligence, cryptography, chess-playing machines, juggling mathematics, and inventive mechanical devices. He later became a professor at MIT, where he inspired generations of mathematicians, engineers, and computer scientists.",
+
+  "whyImportant": "Claude Shannon transformed communication from an engineering art into a rigorous mathematical science. His theories made possible reliable digital communication, computer networking, satellite systems, mobile phones, data storage, artificial intelligence, and modern computing. He is considered one of the most influential scientific thinkers of the twentieth century.",
+
+  "quote1": "Information is the resolution of uncertainty.",
+  "quote2": "The fundamental problem of communication is reproducing a message at another point.",
+  "quote3": "I always pursued my interests without much regard to financial value.",
+  "quote4": "Boolean algebra is the language of digital machines.",
+  "quote5": "A bit is the basic unit of information.",
+  "quote6": "Communication systems can be analyzed mathematically.",
+  "quote7": "Information theory provides limits as well as possibilities.",
+  "quote8": "Every message carries measurable information.",
+  "quote9": "Entropy measures uncertainty.",
+  "quote10": "Complex systems often arise from simple principles.",
+  "quote11": "Digital communication changed the modern world.",
+  "quote12": "Mathematics reveals hidden structures in information.",
+  "quote13": "Reliable communication requires managing noise.",
+  "quote14": "Knowledge advances through better measurement.",
+  "quote15": "A theory becomes powerful when it predicts limits.",
+  "quote16": "Engineering and mathematics are natural partners.",
+  "quote17": "Innovation often emerges from curiosity.",
+  "quote18": "Information has quantifiable properties.",
+  "quote19": "Communication connects human understanding.",
+  "quote20": "Ideas become transformative when given mathematical form."
+}

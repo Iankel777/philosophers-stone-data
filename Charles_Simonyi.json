@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Charles Simonyi",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Charles_Simonyi_2006.jpg",
+  "indexLetter": "C",
+
+  "nationality": "Hungarian-American",
+  "occupation": "Software Architect, Computer Scientist, Entrepreneur",
+  "school": "Software Engineering, Human-Computer Interaction, Intentional Programming",
+
+  "born": "10 September 1948",
+  "died": "N/A",
+
+  "knownFor1": "Microsoft Office",
+  "knownFor2": "Hungarian Notation",
+  "knownFor3": "Intentional Programming",
+  "knownFor4": "Bravo Text Editor",
+  "knownFor5": "Xerox PARC",
+  "knownFor6": "Software Architecture",
+  "knownFor7": "Graphical User Interfaces",
+  "knownFor8": "Space Exploration",
+
+  "legacy": "Charles Simonyi is one of the most influential software architects in computing history. He led the development of Microsoft's early application software, including Word, Excel, and the foundations of Microsoft Office, products that transformed how billions of people work with computers. His innovations in software engineering, user interfaces, and programming methodologies continue to influence modern software development.",
+
+  "earlyLife": "Simonyi was born in Budapest, Hungary. As a teenager he worked around early computer systems and learned programming while overseeing a Soviet Ural II mainframe. After developing compiler software at a young age, he left Hungary and worked in Denmark before moving to the United States. He studied engineering mathematics and statistics at the University of California, Berkeley, and later earned a doctorate in computer science from Stanford University.",
+
+  "scientificField": "Computer Science, Software Engineering, Human-Computer Interaction, Programming Languages",
+
+  "majorContributions": "While working at Xerox PARC, Simonyi helped develop Bravo, one of the world's first WYSIWYG text editors, and contributed to the advancement of graphical user interfaces. In 1981 he joined Microsoft and established its applications division. Under his leadership, Microsoft developed Word, Excel, and eventually Microsoft Office. He introduced object-oriented programming concepts and Hungarian notation to Microsoft and later developed the influential concept of Intentional Programming, which sought to improve software development through higher levels of abstraction.",
+
+  "laterLife": "After leaving Microsoft in 2002, Simonyi co-founded Intentional Software to pursue new approaches to software engineering. The company was eventually acquired by Microsoft. Beyond computing, Simonyi became famous for traveling twice to the International Space Station as a private astronaut, becoming the first repeat space tourist. He has also been a major philanthropist supporting scientific research, education, and the arts.",
+
+  "whyImportant": "Charles Simonyi helped define the modern software industry. The productivity applications developed under his leadership became essential tools for businesses, governments, schools, and individuals around the world. His contributions to software architecture, interface design, and programming methodology accelerated the adoption of personal computing and helped shape the digital workplace of the modern era.",
+
+  "quote1": "Software should amplify human capability.",
+  "quote2": "Computers are tools for extending human intellect.",
+  "quote3": "Great software begins with understanding users.",
+  "quote4": "Abstraction is essential to managing complexity.",
+  "quote5": "Innovation comes from challenging assumptions.",
+  "quote6": "Technology changes society when it becomes accessible.",
+  "quote7": "Programming is both engineering and communication.",
+  "quote8": "User experience matters as much as functionality.",
+  "quote9": "Good design makes powerful systems approachable.",
+  "quote10": "Software evolves through continuous refinement.",
+  "quote11": "Computing should empower creativity.",
+  "quote12": "Clear thinking leads to elegant solutions.",
+  "quote13": "Productivity technologies reshape civilization.",
+  "quote14": "Complex systems require disciplined architecture.",
+  "quote15": "Ideas become transformative when widely adopted.",
+  "quote16": "The future belongs to adaptable technologies.",
+  "quote17": "Engineering should simplify rather than complicate.",
+  "quote18": "Knowledge grows when shared openly.",
+  "quote19": "Human ingenuity remains the ultimate resource.",
+  "quote20": "Technology is most valuable when it serves people."
+}

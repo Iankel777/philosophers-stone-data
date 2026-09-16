@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Charles Janeway",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/en/8/84/Charles_Janeway.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Immunologist, Physician, Educator",
+  "school": "Immunology, Innate Immunity, Molecular Biology",
+
+  "born": "5 February 1943",
+  "died": "12 April 2003",
+
+  "knownFor1": "Innate Immunity",
+  "knownFor2": "Pattern Recognition Theory",
+  "knownFor3": "T Cell Biology",
+  "knownFor4": "Adaptive Immunity",
+  "knownFor5": "Immunobiology Textbook",
+  "knownFor6": "Immunological Signaling",
+  "knownFor7": "Host Defense Mechanisms",
+  "knownFor8": "Modern Immunology",
+
+  "legacy": "Janeway changed the way scientists think about the immune system. Rather than viewing immunity as a collection of independent reactions, he argued that the body's defenses operate as an organized information-processing network. His ideas helped shift attention toward the earliest stages of immune recognition, revealing that the immune system must first identify danger before launching a sophisticated response. This perspective reshaped immunology and influenced research on infection, inflammation, vaccines, and autoimmune disease.",
+
+  "earlyLife": "Medicine and science surrounded Janeway from an early age, but what distinguished him was not simply an interest in biology. He was fascinated by explanation itself. He wanted to understand why biological systems behave as they do and how complex responses emerge from simple rules. This search for underlying principles became a defining feature of his scientific style. Instead of accepting established assumptions, he often looked for deeper mechanisms hidden beneath them.",
+
+  "scientificField": "Immunology, Molecular Biology, Medicine",
+
+  "majorContributions": "Janeway's most influential contribution was encouraging scientists to rethink the relationship between innate and adaptive immunity. He proposed that the immune system possesses ancient mechanisms specifically designed to recognize common features of invading microorganisms. This idea helped explain how immune responses are initiated and coordinated. His work provided an intellectual framework that guided many later discoveries concerning immune receptors, pathogen recognition, and host defense. Beyond specific findings, he helped transform immunology from a descriptive discipline into one focused on information flow, signaling, and biological decision-making.",
+
+  "laterLife": "As his influence expanded, Janeway became known not only as a researcher but also as a teacher and communicator. Many scientists first encountered modern immunology through his lectures, writings, and textbooks. He challenged students to think conceptually rather than memorize details, encouraging them to search for the larger logic behind biological processes. Through mentorship and education, he helped shape a generation of immunologists whose work continued to build on the foundations he helped establish.",
+
+  "whyImportant": "Modern medicine depends heavily on understanding how the body distinguishes friend from foe. Vaccines, cancer immunotherapy, treatments for autoimmune disorders, and research on emerging infections all rely on principles connected to immune recognition and regulation. Janeway's insights helped clarify those principles. His importance lies not only in the discoveries he made, but in the questions he taught scientists to ask. Many of today's advances in immunology trace their conceptual roots to the perspective he introduced.",
+
+  "quote1": "The best science begins with a good question.",
+  "quote2": "Understanding requires looking beneath the surface.",
+  "quote3": "Complex systems follow discoverable principles.",
+  "quote4": "Curiosity is the engine of research.",
+  "quote5": "The immune system is a remarkable problem solver.",
+  "quote6": "Great discoveries often begin with challenging assumptions.",
+  "quote7": "Knowledge grows through explanation, not memorization.",
+  "quote8": "Science advances when established ideas are reexamined.",
+  "quote9": "Every answer creates new questions.",
+  "quote10": "Biology rewards those who seek deeper mechanisms.",
+  "quote11": "A useful theory reveals hidden connections.",
+  "quote12": "Discovery comes from persistent inquiry.",
+  "quote13": "Patterns provide clues to understanding.",
+  "quote14": "Teaching is part of scientific progress.",
+  "quote15": "The most interesting problems are rarely simple.",
+  "quote16": "Ideas can transform an entire field.",
+  "quote17": "Understanding is more valuable than accumulation of facts.",
+  "quote18": "Insight emerges from asking why.",
+  "quote19": "Scientific progress depends on intellectual courage.",
+  "quote20": "The search for understanding never truly ends."
+}

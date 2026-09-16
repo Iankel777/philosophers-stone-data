@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Chris Lattner",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chris_Lattner_FOSDEM_2011.jpg",
+  "indexLetter": "C",
+
+  "nationality": "American",
+  "occupation": "Software Engineer, Computer Scientist, Programming Language Designer",
+  "school": "Compiler Design, Programming Languages, Artificial Intelligence Infrastructure",
+
+  "born": "1978",
+  "died": "N/A",
+
+  "knownFor1": "LLVM",
+  "knownFor2": "Clang Compiler",
+  "knownFor3": "Swift Programming Language",
+  "knownFor4": "MLIR",
+  "knownFor5": "Mojo Programming Language",
+  "knownFor6": "Compiler Infrastructure",
+  "knownFor7": "Developer Tools",
+  "knownFor8": "Artificial Intelligence Systems",
+
+  "legacy": "Chris Lattner is one of the most influential software architects of the modern computing era. His work on LLVM transformed compiler technology and became fundamental infrastructure used throughout the software industry. Through the creation of Swift and major contributions to MLIR and Mojo, he has shaped how developers build software for mobile devices, cloud platforms, and artificial intelligence systems. His tools are used by millions of programmers worldwide. ",
+  
+  "earlyLife": "Lattner developed an interest in computers while attending high school, where he learned programming through BASIC, Pascal, Assembly, C, and C++. He earned a bachelor's degree in computer science from the University of Portland and later completed master's and doctoral studies at the University of Illinois Urbana-Champaign. During graduate school he designed and implemented LLVM, a project that would become the foundation of his career. ",
+
+  "scientificField": "Computer Science, Compiler Design, Programming Languages, Artificial Intelligence",
+
+  "majorContributions": "Lattner created LLVM, a revolutionary compiler infrastructure that allows software to be optimized across multiple hardware architectures. He founded the Clang compiler project, which became one of the world's most widely used C and C++ compilers. At Apple, he led the creation of the Swift programming language, designed to provide safer and faster software development. He later developed MLIR, a flexible compiler framework for machine learning systems, and co-founded Modular AI, where he helped create the Mojo programming language for high-performance artificial intelligence applications. ", 
+
+  "laterLife": "Following his years at Apple, Lattner held influential engineering leadership roles at Tesla, Google, and SiFive. He contributed to machine learning infrastructure, hardware acceleration, and advanced compiler systems. In 2022 he co-founded Modular AI, focusing on next-generation AI development platforms and programming technologies intended to make artificial intelligence more efficient and accessible. ",
+
+  "whyImportant": "Chris Lattner has profoundly influenced the software foundations of modern computing. Technologies he created or led, including LLVM, Clang, Swift, and MLIR, are used in operating systems, smartphones, cloud services, embedded devices, and artificial intelligence systems around the world. His work has increased software performance, developer productivity, and the scalability of machine learning infrastructure, making him one of the most impactful computer scientists of the twenty-first century. ",
+
+  "quote1": "Great tools empower millions of developers.",
+  "quote2": "Programming languages should make complex tasks simpler.",
+  "quote3": "Innovation begins with solving real problems.",
+  "quote4": "Compiler technology is a force multiplier for computing.",
+  "quote5": "Performance and usability should coexist.",
+  "quote6": "Software infrastructure shapes the future of technology.",
+  "quote7": "Open source accelerates innovation.",
+  "quote8": "A good language helps developers think clearly.",
+  "quote9": "Abstraction enables progress.",
+  "quote10": "The best engineering balances elegance and practicality.",
+  "quote11": "Optimization unlocks new possibilities.",
+  "quote12": "Technology evolves through continuous improvement.",
+  "quote13": "Developer experience matters.",
+  "quote14": "Artificial intelligence needs better infrastructure.",
+  "quote15": "Scalable systems begin with sound design.",
+  "quote16": "Compilers are fundamental to modern computing.",
+  "quote17": "Great platforms inspire great ecosystems.",
+  "quote18": "Engineering excellence requires constant learning.",
+  "quote19": "Software should be both powerful and approachable.",
+  "quote20": "The future belongs to adaptable technologies."
+}
