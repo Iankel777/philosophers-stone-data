@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Don Syme",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "Australian",
+  "occupation": "Computer Scientist, Programming Language Designer, Software Engineer, Researcher",
+  "school": "Programming Languages, Functional Programming, Type Systems",
+
+  "born": "1970s",
+  "died": "N/A",
+
+  "knownFor1": "F# Programming Language",
+  "knownFor2": ".NET Language Innovation",
+  "knownFor3": "Functional Programming",
+  "knownFor4": "Generics for .NET",
+  "knownFor5": "Type Systems",
+  "knownFor6": "Programming Language Research",
+  "knownFor7": "Developer Productivity",
+  "knownFor8": "Data-Oriented Programming",
+
+  "legacy": "Don Syme is recognized for bringing advanced functional programming concepts into mainstream software development. Through the creation of F#, he demonstrated that powerful mathematical ideas could be applied to real-world engineering problems in a practical and accessible way. His work helped bridge the gap between academic programming language research and everyday software development.",
+
+  "earlyLife": "Don Syme developed an early interest in mathematics, logic, and computer programming. As computing systems grew increasingly complex, he became interested in programming languages that could help developers write safer, more reliable, and more expressive software. His academic and professional work focused on understanding how language design influences software quality and developer productivity.",
+
+  "scientificField": "Computer Science, Programming Languages, Functional Programming, Type Theory",
+
+  "majorContributions": "Syme is best known as the creator and primary designer of F#, a programming language that combines functional, object-oriented, and imperative programming techniques. He also played an important role in the development of generics within the .NET ecosystem, allowing software developers to write more flexible and reusable code. His research advanced type systems, language interoperability, and data-centric programming, making sophisticated programming techniques more accessible to professional developers.",
+
+  "laterLife": "Throughout his career, Syme continued researching programming languages and software engineering methods while contributing to the evolution of the .NET platform. He remained active in developer education, language design, and discussions about the future of software development. His later work emphasized improving the relationship between data, programming models, and developer productivity.",
+
+  "whyImportant": "Don Syme is important because he helped make advanced programming language concepts practical for a wide audience of developers. His work on F# and .NET influenced how programmers think about correctness, maintainability, and expressiveness in software design. Many modern approaches to functional programming in industry have been shaped by ideas that he helped popularize.",
+
+  "quote1": "Programming languages shape the way developers think about problems.",
+  "quote2": "Good abstractions simplify complexity without hiding understanding.",
+  "quote3": "Reliable software begins with precise reasoning.",
+  "quote4": "Expressive tools help transform ideas into solutions.",
+  "quote5": "A language should help developers focus on intent.",
+  "quote6": "Strong type systems can prevent entire categories of errors.",
+  "quote7": "Simplicity and power work best when they coexist.",
+  "quote8": "Programming is both a technical and creative discipline.",
+  "quote9": "Better tools enable better thinking.",
+  "quote10": "Software quality improves when correctness is encouraged by design.",
+  "quote11": "Abstractions are valuable when they illuminate rather than obscure.",
+  "quote12": "Functional ideas offer new ways to organize complexity.",
+  "quote13": "Innovation often comes from combining different perspectives.",
+  "quote14": "The best languages help developers communicate clearly with both computers and people.",
+  "quote15": "Data and code should work together naturally.",
+  "quote16": "Progress in software engineering depends on better ways of expressing ideas.",
+  "quote17": "Powerful concepts become transformative when they become accessible.",
+  "quote18": "Programming languages influence the architecture of entire systems.",
+  "quote19": "Clarity is one of the most valuable properties of software.",
+  "quote20": "Thoughtful language design creates long-term benefits for developers."
+}

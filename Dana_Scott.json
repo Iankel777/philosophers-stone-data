@@ -1,0 +1,49 @@
+{
+  "thinkerName": "Dana Scott",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "American",
+  "occupation": "Mathematician, Computer Scientist, Logician, Educator",
+  "school": "Mathematical Logic, Theoretical Computer Science, Domain Theory",
+
+  "born": "11 October 1932",
+  "died": "N/A",
+
+  "knownFor1": "Domain Theory",
+  "knownFor2": "Denotational Semantics",
+  "knownFor3": "Modal Logic",
+  "knownFor4": "Automata Theory",
+  "knownFor5": "Computability Theory",
+  "knownFor6": "Logic in Computer Science",
+  "knownFor7": "Scott Domains",
+  "knownFor8": "Programming Language Foundations",
+
+  "legacy": "Dana Scott helped establish many of the mathematical foundations underlying modern computer science. His work connected logic, computation, and mathematics in ways that enabled researchers to describe and analyze the behavior of programming languages with rigor and precision. His ideas continue to influence theoretical computer science, software verification, and programming language design.",
+
+  "earlyLife": "Dana Scott developed an early fascination with mathematics and abstract reasoning. During his academic training he became deeply interested in logic, foundations of mathematics, and the emerging field of computation. At a time when computer science was evolving into an independent discipline, Scott contributed to the effort to provide it with a strong mathematical framework.",
+
+  "scientificField": "Computer Science, Mathematical Logic, Theoretical Computer Science, Computability Theory",
+
+  "majorContributions": "Scott is best known for developing domain theory, a mathematical framework that made it possible to study recursive computations and programming language semantics in a precise way. His work in denotational semantics helped researchers describe what programs mean rather than merely how they execute. He also made influential contributions to modal logic, automata theory, set theory, and computability. Through these achievements, he helped create tools that allow computer scientists to reason formally about software systems and computation.",
+
+  "laterLife": "Throughout his later career, Scott continued advancing research in logic and theoretical computer science while teaching and mentoring new generations of researchers. His publications influenced multiple areas of mathematics and computing, and his work remained central to discussions about the formal foundations of programming languages, algorithms, and intelligent systems.",
+
+  "whyImportant": "Dana Scott is important because he provided mathematical structures that allow computation to be studied with clarity and rigor. His theories helped bridge the gap between abstract logic and practical programming. Many techniques used today in software verification, programming language research, and theoretical computer science trace important ideas back to his work.",
+
+  "quote1": "Mathematics provides a language for understanding computation.",
+  "quote2": "Precision in definition is the foundation of clear reasoning.",
+  "quote3": "Logic reveals structures that are otherwise hidden.",
+  "quote4": "Abstract ideas often lead to practical discoveries.",
+  "quote5": "Understanding computation requires understanding its meaning.",
+  "quote6": "Theoretical insight can shape entire technologies.",
+  "quote7": "Complex systems become clearer through formal description.",
+  "quote8": "Every model illuminates some aspect of reality.",
+  "quote9": "Knowledge advances when assumptions are carefully examined.",
+  "quote10": "Mathematical clarity reduces conceptual confusion.",
+  "quote11": "Reasoning is strengthened by precise language.",
+  "quote12": "The study of computation is also the study of possibility.",
+  "quote13": "Formal methods help transform intuition into understanding.",
+  "quote14": "Rigorous thinking creates reliable foundations.",
+  "quote15": "Great theories connect seemingly unrelated ideas.",
+  "quote16": "Logic

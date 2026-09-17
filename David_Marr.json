@@ -1,0 +1,54 @@
+{
+  "thinkerName": "David Marr",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "British",
+  "occupation": "Neuroscientist, Cognitive Scientist, Psychologist, Researcher",
+  "school": "Cognitive Science, Computational Neuroscience, Vision Science",
+
+  "born": "19 January 1945",
+  "died": "17 November 1980",
+
+  "knownFor1": "Computational Theory of Vision",
+  "knownFor2": "Marr's Three Levels of Analysis",
+  "knownFor3": "Visual Information Processing",
+  "knownFor4": "Computational Neuroscience",
+  "knownFor5": "Cognitive Science",
+  "knownFor6": "Machine Vision Foundations",
+  "knownFor7": "Neural Information Processing",
+  "knownFor8": "Vision Research",
+
+  "legacy": "David Marr transformed the scientific study of perception by arguing that intelligent systems should be understood through multiple levels of explanation. His framework connected psychology, neuroscience, mathematics, and computer science, creating a foundation for modern cognitive science and computational neuroscience. His ideas continue to influence research in artificial intelligence, machine vision, and human cognition.",
+
+  "earlyLife": "David Marr was born in England and demonstrated strong abilities in mathematics and scientific reasoning from an early age. During his academic training he became interested in understanding how the brain processes information. Rather than studying behavior alone, he sought mathematical and computational explanations for perception and intelligence. This interdisciplinary approach led him to become one of the pioneers of computational cognitive science.",
+
+  "scientificField": "Cognitive Science, Neuroscience, Artificial Intelligence, Vision Science",
+
+  "majorContributions": "Marr is best known for proposing a computational approach to understanding perception. He argued that complex information-processing systems should be analyzed at three levels: the computational level, which defines the goal of a process; the algorithmic level, which describes the procedures used; and the implementation level, which explains the physical mechanisms carrying out the computation. His research on visual perception explored how the brain constructs meaningful representations of the external world from sensory input. These ideas became central to cognitive science, neuroscience, and machine vision research.",
+
+  "laterLife": "Despite a relatively short career, Marr produced influential work that reshaped the study of mind and brain. His later research focused on integrating computational theory with experimental neuroscience, aiming to explain how neural systems perform sophisticated cognitive tasks. Although his life ended prematurely, his publications became foundational texts for researchers studying intelligence, perception, and computation.",
+
+  "whyImportant": "David Marr is important because he provided a rigorous framework for understanding how information-processing systems work. His three-level method remains one of the most influential approaches in cognitive science and artificial intelligence. By connecting computational theory with biological mechanisms, he helped establish a scientific basis for studying perception, thought, and intelligence.",
+
+  "quote1": "Understanding a system requires understanding both its purpose and its mechanism.",
+  "quote2": "Perception is the process of transforming information into knowledge.",
+  "quote3": "Complex phenomena become clearer when analyzed at multiple levels.",
+  "quote4": "The brain can be studied as an information-processing system.",
+  "quote5": "Good explanations connect structure, process, and function.",
+  "quote6": "Computation provides a powerful language for understanding cognition.",
+  "quote7": "Scientific progress often emerges from combining disciplines.",
+  "quote8": "Intelligence cannot be understood through observation alone.",
+  "quote9": "Every process has a purpose that can be studied.",
+  "quote10": "Models help reveal patterns hidden within complexity.",
+  "quote11": "The study of perception begins with the study of information.",
+  "quote12": "Theory and experiment are strongest when they support one another.",
+  "quote13": "Understanding vision requires understanding representation.",
+  "quote14": "Knowledge grows when questions are examined from different perspectives.",
+  "quote15": "Complex systems often require more than one explanation.",
+  "quote16": "Insight emerges from linking ideas across fields.",
+  "quote17": "The brain's achievements invite rigorous investigation.",
+  "quote18": "Understanding computation helps illuminate cognition.",
+  "quote19": "Scientific explanations should seek both clarity and depth.",
+  "quote20": "The search for intelligence begins with understanding information."
+}

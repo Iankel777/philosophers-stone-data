@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Danny Hillis",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Inventor, Engineer, Entrepreneur",
+  "school": "Parallel Computing, Artificial Intelligence, Computer Architecture",
+
+  "born": "25 September 1956",
+  "died": "N/A",
+
+  "knownFor1": "Connection Machine",
+  "knownFor2": "Parallel Computing",
+  "knownFor3": "Thinking Machines Corporation",
+  "knownFor4": "Artificial Intelligence Research",
+  "knownFor5": "Massively Parallel Architectures",
+  "knownFor6": "Long Now Foundation",
+  "knownFor7": "The Clock of the Long Now",
+  "knownFor8": "Computational Innovation",
+
+  "legacy": "Danny Hillis helped advance the development of massively parallel computing systems at a time when most computers relied on increasingly powerful single processors. His work encouraged researchers to think about computation as the coordinated activity of many processors working together. Beyond computing, he became known for promoting long-term thinking about technology, civilization, and the future of human knowledge.",
+
+  "earlyLife": "Danny Hillis grew up in an environment shaped by science, education, and international experiences. From an early age he was fascinated by mathematics, machines, and problem solving. His interest in understanding intelligence, both human and artificial, led him toward computer science and engineering. During his academic years he explored ways of designing computers inspired by the distributed nature of biological systems.",
+
+  "scientificField": "Computer Science, Artificial Intelligence, Parallel Computing, Computer Architecture",
+
+  "majorContributions": "Hillis is best known for designing the Connection Machine, a pioneering supercomputer built around thousands of processors working simultaneously. The project demonstrated the potential of massively parallel computing for solving complex scientific and computational problems. He also contributed to artificial intelligence research, innovative engineering projects, and interdisciplinary approaches that combine computing with insights from biology, physics, and cognitive science. Through the Long Now Foundation, he promoted projects intended to encourage long-term responsibility and foresight.",
+
+  "laterLife": "Throughout his later career, Hillis worked on a wide variety of scientific and technological initiatives involving computation, medicine, intelligence, and complex systems. He collaborated with researchers from different disciplines and continued advocating for broad, long-range perspectives on innovation. His work increasingly focused on addressing large-scale challenges through creative and unconventional approaches.",
+
+  "whyImportant": "Danny Hillis is important because he expanded how engineers think about computation and problem solving. His contributions to parallel computing influenced modern supercomputers, cloud infrastructure, and large-scale data processing systems. At the same time, his advocacy of long-term thinking encouraged technologists to consider the wider consequences of innovation across generations.",
+
+  "quote1": "Complex problems often require many simple parts working together.",
+  "quote2": "Innovation begins when assumptions are reconsidered.",
+  "quote3": "Technology should help humanity think beyond the present moment.",
+  "quote4": "Large systems reveal patterns that individual components cannot.",
+  "quote5": "Computation is a powerful way of exploring possibility.",
+  "quote6": "Progress depends on curiosity as much as knowledge.",
+  "quote7": "Great discoveries often emerge from unexpected connections.",
+  "quote8": "The future is shaped by choices made long before results appear.",
+  "quote9": "Intelligence can arise from cooperation rather than central control.",
+  "quote10": "Engineering advances when imagination meets discipline.",
+  "quote11": "Understanding complexity requires looking at relationships, not just parts.",
+  "quote12": "New perspectives create new opportunities.",
+  "quote13": "Technology is most valuable when it expands human capability.",
+  "quote14": "Long-term thinking is a foundation for responsible innovation.",
+  "quote15": "Every breakthrough begins as a question.",
+  "quote16": "Powerful systems often grow from simple principles.",
+  "quote17": "Knowledge advances through experimentation and exploration.",
+  "quote18": "Creative solutions frequently come from crossing disciplinary boundaries.",
+  "quote19": "The scale of a challenge should not limit imagination.",
+  "quote20": "Human progress depends on both invention and wisdom."
+}

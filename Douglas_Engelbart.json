@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Douglas Engelbart",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "American",
+  "occupation": "Inventor, Computer Scientist, Engineer, Technology Visionary",
+  "school": "Human-Computer Interaction, Interactive Computing, Augmentation Research",
+
+  "born": "30 January 1925",
+  "died": "2 July 2013",
+
+  "knownFor1": "Computer Mouse",
+  "knownFor2": "Human-Computer Interaction",
+  "knownFor3": "Augmenting Human Intellect",
+  "knownFor4": "NLS Computer System",
+  "knownFor5": "Hypertext Concepts",
+  "knownFor6": "Collaborative Computing",
+  "knownFor7": "Interactive Computing",
+  "knownFor8": "The Mother of All Demos",
+
+  "legacy": "Douglas Engelbart envisioned computers as tools that could enhance human intelligence rather than merely automate calculations. His ideas anticipated many technologies that later became standard, including graphical interfaces, hyperlinked information, collaborative document editing, video conferencing, and the computer mouse. His work helped establish the foundation of modern human-computer interaction.",
+
+  "earlyLife": "Douglas Engelbart was born in Portland, Oregon. During his youth he developed an interest in science and electronics. Service during World War II exposed him to advanced technology and communications systems, inspiring him to think about how technology could help people solve complex problems. After studying electrical engineering, he dedicated himself to exploring ways computers could expand human knowledge and cooperation.",
+
+  "scientificField": "Computer Science, Human-Computer Interaction, Interactive Computing, Information Systems",
+
+  "majorContributions": "Engelbart created and led the development of the oN-Line System (NLS), one of the earliest interactive computer systems. Through this work he introduced concepts such as the computer mouse, hypertext navigation, shared-screen collaboration, real-time document editing, windowed displays, and advanced knowledge-management tools. His famous 1968 demonstration showcased technologies that would influence personal computing for decades. His research focused on helping groups of people work together more effectively through technology.",
+
+  "laterLife": "In later years, Engelbart continued promoting his vision of collective problem-solving and knowledge sharing. He spoke extensively about the importance of using technology to improve humanity's ability to address difficult global challenges. Although many of his ideas were initially considered ambitious, later technological developments validated much of his vision.",
+
+  "whyImportant": "Douglas Engelbart is important because he redefined how humans interact with computers. Instead of seeing computers solely as calculation machines, he imagined them as partners in thinking, learning, communication, and collaboration. Many everyday computing experiences, from clicking a mouse to editing shared online documents, can be traced to concepts he pioneered.",
+
+  "quote1": "Technology has its greatest value when it expands human capability.",
+  "quote2": "Computers can help people think together more effectively.",
+  "quote3": "Innovation begins with imagining better ways to solve problems.",
+  "quote4": "Knowledge grows when ideas can be shared efficiently.",
+  "quote5": "Tools should strengthen human intelligence rather than replace it.",
+  "quote6": "Collaboration multiplies the power of individual insight.",
+  "quote7": "Progress depends on improving how people work with information.",
+  "quote8": "A good interface brings ideas closer to action.",
+  "quote9": "The future belongs to those willing to rethink established systems.",
+  "quote10": "Technology succeeds when it serves human goals.",
+  "quote11": "Complex challenges require connected minds and connected tools.",
+  "quote12": "Learning accelerates when information becomes easier to access.",
+  "quote13": "Great inventions often begin as unconventional questions.",
+  "quote14": "Human creativity remains the heart of technological progress.",
+  "quote15": "Better communication creates better possibilities.",
+  "quote16": "Every breakthrough starts with a new perspective.",
+  "quote17": "The value of a system lies in what people can accomplish with it.",
+  "quote18": "Knowledge networks can amplify collective intelligence.",
+  "quote19": "Understanding improves when ideas are organized and connected.",
+  "quote20": "The most powerful technologies help people solve meaningful problems."
+}

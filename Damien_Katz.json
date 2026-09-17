@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Damien Katz",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "American",
+  "occupation": "Programmer, Software Engineer, Database Architect",
+  "school": "Distributed Systems, Database Engineering, Open Source Software",
+
+  "born": "1970s",
+  "died": "N/A",
+
+  "knownFor1": "Apache CouchDB",
+  "knownFor2": "Distributed Databases",
+  "knownFor3": "Document-Oriented Databases",
+  "knownFor4": "Offline Synchronization",
+  "knownFor5": "Replication Systems",
+  "knownFor6": "Open Source Development",
+  "knownFor7": "Database Reliability",
+  "knownFor8": "Scalable Data Architecture",
+
+  "legacy": "Damien Katz helped popularize document-oriented database systems and contributed to the evolution of distributed data storage. Through the creation of CouchDB, he introduced ideas that emphasized fault tolerance, replication, decentralization, and ease of synchronization. His work influenced the broader NoSQL movement and encouraged developers to explore alternatives to traditional relational database architectures.",
+
+  "earlyLife": "Damien Katz developed an early interest in software development and computer systems during the growth of the internet era. Fascinated by large-scale software infrastructure, he became interested in the challenge of storing, sharing, and synchronizing information across multiple machines. These interests eventually led him toward database engineering and distributed computing.",
+
+  "scientificField": "Software Engineering, Database Systems, Distributed Computing, Information Systems",
+
+  "majorContributions": "Katz is best known for creating CouchDB, a document-oriented database designed around simplicity, reliability, and distributed operation. CouchDB introduced features that made data replication and synchronization easier across multiple devices and servers. His work demonstrated that databases could be designed to remain operational despite network interruptions and system failures. These ideas influenced many later systems that prioritized scalability, availability, and decentralized data management.",
+
+  "laterLife": "After the success of CouchDB, Katz continued exploring distributed systems, data synchronization, and next-generation database technologies. His later projects focused on improving how software systems manage data across increasingly connected and geographically distributed environments. He remained active in the open-source community and continued promoting practical approaches to database design.",
+
+  "whyImportant": "Damien Katz is important because he helped redefine how developers think about storing and synchronizing information in distributed environments. His work advanced ideas that became central to modern NoSQL databases, cloud applications, and offline-capable systems. The principles behind CouchDB continue to influence software engineers building scalable and resilient applications.",
+
+  "quote1": "Data systems should remain useful even when networks are unreliable.",
+  "quote2": "Reliability emerges from preparing for failure rather than avoiding it.",
+  "quote3": "Distributed systems require designs that embrace uncertainty.",
+  "quote4": "Good databases make complexity manageable.",
+  "quote5": "Replication is a powerful tool for resilience.",
+  "quote6": "Scalability begins with thoughtful architecture.",
+  "quote7": "Software should adapt to the realities of the environment it serves.",
+  "quote8": "Simplicity often improves reliability.",
+  "quote9": "The best systems continue working under imperfect conditions.",
+  "quote10": "Data becomes more valuable when it is accessible where it is needed.",
+  "quote11": "Engineering progress comes from solving practical problems.",
+  "quote12": "A resilient system assumes disruption will occur.",
+  "quote13": "Availability and consistency must be balanced carefully.",
+  "quote14": "Good design anticipates growth.",
+  "quote15": "Distributed computing rewards flexibility and foresight.",
+  "quote16": "Robust systems are built to recover, not merely to operate.",
+  "quote17": "Technology should support people, not constrain them.",
+  "quote18": "Scalable solutions emerge from clear underlying principles.",
+  "quote19": "Innovation often comes from questioning established assumptions.",
+  "quote20": "The future of computing depends on reliable data systems."
+}

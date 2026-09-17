@@ -1,0 +1,54 @@
+{
+  "thinkerName": "David Parnas",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "Canadian",
+  "occupation": "Software Engineer, Computer Scientist, Researcher, Educator",
+  "school": "Software Engineering, Systems Design, Computer Science",
+
+  "born": "10 February 1941",
+  "died": "N/A",
+
+  "knownFor1": "Information Hiding",
+  "knownFor2": "Modular Software Design",
+  "knownFor3": "Software Engineering Principles",
+  "knownFor4": "Requirements Engineering",
+  "knownFor5": "Safety-Critical Systems",
+  "knownFor6": "Software Architecture",
+  "knownFor7": "System Documentation",
+  "knownFor8": "Reliable Software Development",
+
+  "legacy": "David Parnas is regarded as one of the most influential pioneers of software engineering. His ideas about modular design and information hiding changed how large software systems are structured and maintained. Many modern software development practices, including component-based design and architectural separation of concerns, are rooted in principles that he helped establish.",
+
+  "earlyLife": "David Parnas developed an interest in mathematics, logic, and computing during a period when computer science was still emerging as an academic discipline. His education and early research led him to focus on the growing challenges of building software systems that could remain understandable, reliable, and maintainable as they increased in size and complexity.",
+
+  "scientificField": "Software Engineering, Systems Design, Computer Science, Requirements Engineering",
+
+  "majorContributions": "Parnas introduced the principle of information hiding, which proposes that software modules should conceal internal implementation details behind well-defined interfaces. This approach greatly improved software maintainability and adaptability. He also contributed important methods for requirements specification, documentation, software architecture, and the engineering of safety-critical systems. His work encouraged developers to view software construction as an engineering discipline guided by systematic principles rather than ad hoc programming practices.",
+
+  "laterLife": "Throughout his career, Parnas continued teaching, researching, and advising organizations on software quality and system dependability. He became a leading voice in discussions about professional responsibility in software engineering and frequently emphasized the importance of rigorous methods, clear documentation, and disciplined design processes in complex systems.",
+
+  "whyImportant": "David Parnas is important because he helped define the intellectual foundations of software engineering. His principles allow developers to manage complexity by dividing large systems into independent modules. Modern software architecture, object-oriented design, and maintainable codebases all reflect ideas that were significantly influenced by his work.",
+
+  "quote1": "Good software design begins with controlling complexity.",
+  "quote2": "A module should reveal what is necessary and conceal what is not.",
+  "quote3": "Clear interfaces make collaboration possible.",
+  "quote4": "Maintainability is a feature, not an afterthought.",
+  "quote5": "Software quality depends on disciplined thinking.",
+  "quote6": "Complex systems require careful organization.",
+  "quote7": "Documentation preserves knowledge beyond the original developer.",
+  "quote8": "Reliability grows from thoughtful design decisions.",
+  "quote9": "Engineering requires evidence, not assumptions.",
+  "quote10": "A well-structured system can evolve without losing stability.",
+  "quote11": "Simplicity at one level often enables complexity at another.",
+  "quote12": "Design choices shape the future cost of software.",
+  "quote13": "Separation of concerns improves understanding.",
+  "quote14": "Software should be built for change as well as for use.",
+  "quote15": "Careful planning reduces future difficulties.",
+  "quote16": "The best architectures balance flexibility and clarity.",
+  "quote17": "Good engineering anticipates tomorrow's challenges.",
+  "quote18": "Large systems succeed when responsibilities are clearly defined.",
+  "quote19": "Understanding dependencies is essential to managing risk.",
+  "quote20": "Strong foundations make long-term innovation possible."
+}

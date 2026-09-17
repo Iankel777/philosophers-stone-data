@@ -1,0 +1,54 @@
+{
+  "thinkerName": "David Heinemeier Hansson",
+  "thinkerImage": "",
+  "indexLetter": "D",
+
+  "nationality": "Danish",
+  "occupation": "Software Engineer, Programmer, Entrepreneur, Author",
+  "school": "Web Development, Software Engineering, Startup Technology",
+
+  "born": "15 October 1979",
+  "died": "N/A",
+
+  "knownFor1": "Ruby on Rails",
+  "knownFor2": "Basecamp",
+  "knownFor3": "Convention Over Configuration",
+  "knownFor4": "Web Application Development",
+  "knownFor5": "Remote Work Advocacy",
+  "knownFor6": "Software Craftsmanship",
+  "knownFor7": "Entrepreneurship",
+  "knownFor8": "Product-Focused Development",
+
+  "legacy": "David Heinemeier Hansson helped transform web development through the creation of Ruby on Rails, a framework that simplified the process of building database-driven web applications. His emphasis on developer productivity, clear conventions, and pragmatic software design influenced a generation of startups, entrepreneurs, and programmers. His ideas demonstrated that small teams could create powerful software products with limited resources.",
+
+  "earlyLife": "David Heinemeier Hansson was born in Copenhagen, Denmark. During his youth he developed an interest in technology, design, and problem solving. As the internet expanded, he became increasingly involved in programming and web application development. His early experiences building software convinced him that development tools should prioritize simplicity and productivity rather than unnecessary complexity.",
+
+  "scientificField": "Software Engineering, Web Development, Programming Frameworks, Product Design",
+
+  "majorContributions": "Hansson is best known for creating Ruby on Rails, one of the most influential web development frameworks of the twenty-first century. Rails introduced and popularized concepts such as Convention Over Configuration and Don't Repeat Yourself (DRY), which reduced repetitive coding and accelerated software development. Through his work at Basecamp, he demonstrated how a focused product team could build successful software while maintaining a sustainable approach to work and development. His writings and presentations encouraged developers to favor practical solutions over excessive abstraction.",
+
+  "laterLife": "As an entrepreneur, author, and technology commentator, Hansson continued promoting ideas about software craftsmanship, organizational culture, and remote work. He became an influential voice on developer productivity, challenging widely accepted assumptions about software development processes and workplace practices. His later work focused on helping teams build useful products while avoiding unnecessary complexity and bureaucracy.",
+
+  "whyImportant": "David Heinemeier Hansson is important because he changed how web applications are built. Ruby on Rails enabled developers to create sophisticated software more quickly and with fewer resources. His ideas influenced countless startups and engineering teams, helping establish modern practices that emphasize productivity, maintainability, and practical problem solving.",
+
+  "quote1": "Software should solve problems before it showcases complexity.",
+  "quote2": "Productivity grows when unnecessary decisions are removed.",
+  "quote3": "Good tools help developers focus on creation.",
+  "quote4": "Simplicity is often a competitive advantage.",
+  "quote5": "A small team can achieve remarkable results with the right approach.",
+  "quote6": "Conventions free people to focus on meaningful work.",
+  "quote7": "Technology should serve human goals rather than dictate them.",
+  "quote8": "Practical solutions often outperform theoretical perfection.",
+  "quote9": "Clear design reduces long-term maintenance costs.",
+  "quote10": "Building useful products matters more than following trends.",
+  "quote11": "Innovation requires the courage to question accepted practices.",
+  "quote12": "Software development is both engineering and craftsmanship.",
+  "quote13": "Complexity should be justified, not assumed.",
+  "quote14": "Focus is one of the most valuable resources in any project.",
+  "quote15": "Tools succeed when they help people achieve results.",
+  "quote16": "Effective systems evolve through continual refinement.",
+  "quote17": "The best technology often feels natural to use.",
+  "quote18": "Progress comes from solving real problems for real people.",
+  "quote19": "Good architecture supports change without creating confusion.",
+  "quote20": "Pragmatism is a powerful guide in software development."
+}
