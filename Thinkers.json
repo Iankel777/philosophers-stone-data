@@ -218,9 +218,9 @@
   
   {"id":"ernest_gellner","name":"Ernest Gellner","letter":"E","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ernest_Gellner_2.jpg/960px-Ernest_Gellner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ernest_Gellner.json"},
   
-  {"id":"ernst_cassirer","name":"Ernst Cassirer","letter":"E","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Ernst_Cassirer.jpg","jsonFile":"Ernst_Cassirer.json"},
-  {"id":"ernst_mayr","name":"Ernst Mayr","letter":"E","category":"Biology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/3/34/Ernst_Mayr.jpg","jsonFile":"Ernst_Mayr.json"},
-  {"id":"erving_goffman","name":"Erving Goffman","letter":"E","category":"Sociology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Erving_Goffman.jpg","jsonFile":"Erving_Goffman.json"},
+  {"id":"ernst_cassirer","name":"Ernst Cassirer","letter":"E","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ernst_Cassirer.jpg/960px-Ernst_Cassirer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ernst_Cassirer.json"},
+  {"id":"ernst_mayr","name":"Ernst Mayr","letter":"E","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ernst_Mayr%2C_1994_%28cropped%29.jpg/960px-Ernst_Mayr%2C_1994_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ernst_Mayr.json"},
+  
   {"id":"esther_duflo","name":"Esther Duflo","letter":"E","category":"Economics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Esther_Duflo_2010.jpg","jsonFile":"Esther_Duflo.json"},
   {"id":"etienne_gilson","name":"Etienne Gilson","letter":"E","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/73/Etienne_Gilson.jpg","jsonFile":"Etienne_Gilson.json"},
   {"id":"eugen_bleuler","name":"Eugen Bleuler","letter":"E","category":"Psychiatry","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Eugen_Bleuler.jpg","jsonFile":"Eugen_Bleuler.json"},
