@@ -223,10 +223,10 @@
   
   {"id":"esther_duflo","name":"Esther Duflo","letter":"E","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Esther_Duflo_-_Pop%21Tech_2009_-_001_%28cropped%29.jpg/960px-Esther_Duflo_-_Pop%21Tech_2009_-_001_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Esther_Duflo.json"},
  
-  {"id":"eugen_bleuler","name":"Eugen Bleuler","letter":"E","category":"Psychiatry","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Eugen_Bleuler.jpg","jsonFile":"Eugen_Bleuler.json"},
-  {"id":"eugene_spafford","name":"Eugene Spafford","letter":"E","category":"Computer Science","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/50/Eugene_Spafford.jpg","jsonFile":"Eugene_Spafford.json"},
-  {"id":"eugene_wigner","name":"Eugene Wigner","letter":"E","category":"Physics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/6/67/Eugene_Wigner_1979.jpg","jsonFile":"Eugene_Wigner.json"},
-  {"id":"evelyn_fox_keller","name":"Evelyn Fox Keller","letter":"E","category":"Biology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Evelyn_Keller.json"},
+  {"id":"eugen_bleuler","name":"Eugen Bleuler","letter":"E","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Eugen_Bleuler.png/960px-Eugen_Bleuler.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Eugen_Bleuler.json"},
+  {"id":"eugene_spafford","name":"Eugene Spafford","letter":"E","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gene-spafford.jpg/960px-Gene-spafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Eugene_Spafford.json"},
+  {"id":"eugene_wigner","name":"Eugene Wigner","letter":"E","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Wigner.jpg/960px-Wigner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Eugene_Wigner.json"},
+
   {"id":"evsey_domar","name":"Evsey Domar","letter":"E","category":"Economics","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Evsey_Domar.json"},
   
   
