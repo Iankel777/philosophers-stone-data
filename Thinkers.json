@@ -214,7 +214,7 @@
   {"id":"eric_raymond","name":"Eric Raymond","letter":"E","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Eric_Steven_Raymond.CUT.png/960px-Eric_Steven_Raymond.CUT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Eric_Raymond.json"},
   
  
-  {"id":"erik_erikson","name":"Erik Erikson","letter":"E","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Erik_Erikson.jpg","jsonFile":"Erik_Erikson.json"},
+  
   {"id":"ernest_becker","name":"Ernest Becker","letter":"E","category":"Anthropology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Ernest_Becker.json"},
   {"id":"ernest_gellner","name":"Ernest Gellner","letter":"E","category":"Anthropology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Ernest_Gellner.json"},
   {"id":"ernest_hemingway","name":"Ernest Hemingway","letter":"E","category":"Literature","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg","jsonFile":"Ernest_Hemingway.json"},
