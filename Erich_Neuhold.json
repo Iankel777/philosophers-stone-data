@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Erich Neuhold",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg",
+  "indexLetter": "e",
+
+  "nationality": "Austrian",
+  "occupation": "Computer Scientist, Researcher, Academic",
+  "school": "Computer Science, Database Systems, Information Systems",
+
+  "born": "1947",
+  "died": "N/A",
+
+  "knownFor1": "Database Systems",
+  "knownFor2": "Information Systems",
+  "knownFor3": "Data Modeling",
+  "knownFor4": "Knowledge Management",
+  "knownFor5": "Distributed Information Systems",
+  "knownFor6": "Computer Science Education",
+  "knownFor7": "Digital Libraries",
+  "knownFor8": "Research Leadership",
+
+  "legacy": "Erich Neuhold contributed to the development of information systems during a period when organizations were becoming increasingly dependent on digital data. Through research, teaching, and leadership, he helped advance methods for organizing, retrieving, and managing information efficiently. His work influenced both academic research and practical systems used to handle complex collections of data.",
+
+  "earlyLife": "Neuhold developed an interest in mathematics, logic, and computing during the early expansion of computer science as an academic discipline. As organizations faced growing challenges in managing digital information, he became interested in the theories and technologies needed to structure knowledge and make it accessible on a large scale.",
+
+  "scientificField": "Computer Science, Databases, Information Systems",
+
+  "majorContributions": "Neuhold conducted influential research in database technology, information retrieval, digital libraries, and knowledge management. He worked on methods for representing information in forms that could be efficiently searched, shared, and analyzed. His contributions supported advances in data-intensive systems and helped establish foundations for modern approaches to information processing and digital knowledge organization.",
+
+  "laterLife": "Throughout his career, Neuhold remained active in research, international collaboration, and academic leadership. He contributed to major research initiatives focused on information technology and continued promoting interdisciplinary approaches that connected computer science with the broader challenges of knowledge management and digital communication.",
+
+  "whyImportant": "Erich Neuhold is important because he helped improve the ways information is structured, stored, and accessed within digital systems. His work contributed to technologies that allow organizations and researchers to manage growing volumes of knowledge effectively, making information more useful and accessible to society.",
+
+  "quote1": "Information becomes valuable when it can be understood.",
+  "quote2": "Knowledge grows through effective organization.",
+  "quote3": "Data gains meaning through context.",
+  "quote4": "Access to information expands human capability.",
+  "quote5": "Technology should simplify complexity, not increase it.",
+  "quote6": "Well-structured knowledge enables better decisions.",
+  "quote7": "The future belongs to those who manage information wisely.",
+  "quote8": "Discovery depends upon finding the right information at the right time.",
+  "quote9": "Large systems require clear organizational principles.",
+  "quote10": "Knowledge sharing accelerates progress.",
+  "quote11": "Digital information deserves thoughtful design.",
+  "quote12": "Organization is the foundation of understanding.",
+  "quote13": "Every dataset contains potential insight.",
+  "quote14": "Research advances when information becomes accessible.",
+  "quote15": "Clarity is essential in complex systems.",
+  "quote16": "Information technology connects people through knowledge.",
+  "quote17": "Innovation often begins with better access to information.",
+  "quote18": "Effective retrieval transforms stored data into useful knowledge.",
+  "quote19": "Structure reveals patterns hidden within information.",
+  "quote20": "The purpose of information systems is to support human understanding."
+}

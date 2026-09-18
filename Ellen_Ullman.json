@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Ellen Ullman",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ellen_Ullman.jpg",
+  "indexLetter": "e",
+
+  "nationality": "American",
+  "occupation": "Programmer, Software Engineer, Author, Essayist",
+  "school": "Software Engineering, Human-Computer Interaction, Technology Criticism",
+
+  "born": "1950",
+  "died": "N/A",
+
+  "knownFor1": "Software Engineering Writing",
+  "knownFor2": "Close to the Machine",
+  "knownFor3": "Technology Criticism",
+  "knownFor4": "Human-Centered Computing",
+  "knownFor5": "Programmer Culture Analysis",
+  "knownFor6": "Digital Ethics",
+  "knownFor7": "Technology and Society",
+  "knownFor8": "Literary Nonfiction on Computing",
+
+  "legacy": "Ellen Ullman brought a rare humanistic perspective to the world of software development. Combining professional programming experience with literary insight, she explored how computers shape human relationships, work, identity, and society. Her writings helped bridge the gap between technical communities and the broader public, making the culture and consequences of computing more understandable to non-specialists.",
+
+  "earlyLife": "Ullman came of age during a period of rapid technological change and entered the software industry when programming was evolving into a major profession. Drawn to both literature and technology, she developed a unique perspective that allowed her to observe computing not only as an engineer but also as a thoughtful commentator on its social impact.",
+
+  "scientificField": "Software Engineering, Technology Studies, Digital Culture",
+
+  "majorContributions": "Ullman documented the realities of software development from the perspective of a practicing programmer. Through essays, books, and public commentary, she examined the challenges of building complex systems, the assumptions embedded in software, and the influence of technology on everyday life. Her work encouraged engineers and policymakers to consider the ethical and human dimensions of technological innovation alongside technical achievement.",
+
+  "laterLife": "As digital technology became increasingly embedded in society, Ullman expanded her focus to include questions about automation, artificial intelligence, surveillance, data collection, and the growing power of technology companies. Her essays continued to offer reflective critiques of technological culture while encouraging greater awareness of the human consequences of software systems.",
+
+  "whyImportant": "Ellen Ullman is important because she reminds technologists that software affects real people, not just machines. Her work challenged the assumption that technological progress is automatically beneficial and encouraged deeper reflection about responsibility, ethics, and the social effects of computing.",
+
+  "quote1": "Technology should serve human purposes, not replace them.",
+  "quote2": "Software reflects the assumptions of its creators.",
+  "quote3": "Every system carries a hidden philosophy.",
+  "quote4": "Efficiency is valuable, but humanity is essential.",
+  "quote5": "Understanding people is as important as understanding code.",
+  "quote6": "Technology changes society one decision at a time.",
+  "quote7": "Data never tells the whole human story.",
+  "quote8": "Programming shapes the world beyond the screen.",
+  "quote9": "Complex systems deserve thoughtful scrutiny.",
+  "quote10": "The human consequences of software matter.",
+  "quote11": "Innovation requires ethical reflection.",
+  "quote12": "Computers amplify both wisdom and error.",
+  "quote13": "Design choices become social realities.",
+  "quote14": "Technology reveals the values embedded within it.",
+  "quote15": "Software development is also a cultural activity.",
+  "quote16": "The future depends on responsible engineering.",
+  "quote17": "Machines process information, people create meaning.",
+  "quote18": "Progress should be measured by human benefit.",
+  "quote19": "Digital systems influence how we understand ourselves.",
+  "quote20": "The best technology respects human complexity."
+}

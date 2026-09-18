@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Eric Evans",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Eric_Evans.jpg",
+  "indexLetter": "e",
+
+  "nationality": "American",
+  "occupation": "Software Engineer, Author, Consultant",
+  "school": "Software Engineering, Domain Modeling, Enterprise Architecture",
+
+  "born": "1960s",
+  "died": "N/A",
+
+  "knownFor1": "Domain-Driven Design",
+  "knownFor2": "Strategic Design",
+  "knownFor3": "Bounded Context",
+  "knownFor4": "Ubiquitous Language",
+  "knownFor5": "Domain Modeling",
+  "knownFor6": "Enterprise Software Design",
+  "knownFor7": "Context Mapping",
+  "knownFor8": "Software Architecture",
+
+  "legacy": "Eric Evans reshaped enterprise software development by emphasizing that successful systems are built around deep understanding of the business domain. His ideas encouraged software teams to create shared language between technical and business experts, reducing misunderstandings and producing systems that better reflect real-world needs.",
+
+  "earlyLife": "Evans developed an interest in complex systems and software design during the growth of modern enterprise computing. Through years of practical experience on large projects, he became increasingly interested in why many software systems failed despite advances in technology. This led him to focus on the relationship between business knowledge and software architecture.",
+
+  "scientificField": "Software Engineering, Domain Modeling, System Architecture",
+
+  "majorContributions": "Evans introduced Domain-Driven Design (DDD), a methodology that places business knowledge at the center of software development. Through concepts such as Bounded Contexts, Ubiquitous Language, Aggregates, and Context Mapping, he provided teams with practical tools for managing complexity in large systems. His work helped establish a shared framework for architects, developers, analysts, and domain experts working on sophisticated enterprise applications.",
+
+  "laterLife": "After the success of his influential work on Domain-Driven Design, Evans continued advising organizations, speaking at technology conferences, and refining ideas about software complexity. His concepts were adopted worldwide and became foundational within modern software architecture, microservices design, and large-scale system development.",
+
+  "whyImportant": "Eric Evans changed how software engineers approach business complexity. Instead of treating software as merely code, he encouraged developers to view systems as models of real-world domains. His principles remain central to modern architecture practices and influence countless enterprise applications across industries.",
+
+  "quote1": "Good software begins with understanding the problem domain.",
+  "quote2": "Shared language creates shared understanding.",
+  "quote3": "Models reveal the structure hidden within complexity.",
+  "quote4": "A system succeeds when it reflects reality accurately.",
+  "quote5": "Design should serve knowledge, not technology alone.",
+  "quote6": "Complexity is managed through clear boundaries.",
+  "quote7": "Collaboration improves the quality of models.",
+  "quote8": "Business insight is a software asset.",
+  "quote9": "Architecture grows stronger when rooted in domain knowledge.",
+  "quote10": "Software evolves alongside the domain it represents.",
+  "quote11": "Clear concepts prevent expensive misunderstandings.",
+  "quote12": "Abstractions should illuminate, not obscure.",
+  "quote13": "Every model is a tool for communication.",
+  "quote14": "Deep understanding creates better design decisions.",
+  "quote15": "Well-defined contexts reduce unnecessary complexity.",
+  "quote16": "Innovation often comes from refining the model.",
+  "quote17": "The best software mirrors important business realities.",
+  "quote18": "Language shapes the way teams think.",
+  "quote19": "Successful systems unite technical and business perspectives.",
+  "quote20": "Domain knowledge is the foundation of lasting software."
+}

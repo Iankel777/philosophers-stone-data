@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Edward Feigenbaum",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Edward_Feigenbaum.jpg",
+  "indexLetter": "e",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Artificial Intelligence Researcher, Educator",
+  "school": "Artificial Intelligence, Knowledge Engineering, Expert Systems",
+
+  "born": "20 January 1936",
+  "died": "N/A",
+
+  "knownFor1": "Artificial Intelligence",
+  "knownFor2": "Expert Systems",
+  "knownFor3": "Knowledge Engineering",
+  "knownFor4": "Stanford AI Research",
+  "knownFor5": "DENDRAL Project",
+  "knownFor6": "MYCIN Project",
+  "knownFor7": "Applied Artificial Intelligence",
+  "knownFor8": "Intelligent Systems Design",
+
+  "legacy": "Edward Feigenbaum helped move artificial intelligence from abstract theory toward practical application. He demonstrated that machine intelligence could be built by capturing and organizing expert knowledge within specific domains. His work laid the foundation for expert systems, one of the earliest successful forms of artificial intelligence, and influenced generations of AI researchers and engineers.",
+
+  "earlyLife": "Feigenbaum developed an early interest in mathematics, logic, and problem-solving during a period when electronic computing was rapidly emerging as a new scientific frontier. His academic training exposed him to both psychology and computer science, leading him to explore how human expertise could be represented and utilized by machines.",
+
+  "scientificField": "Artificial Intelligence, Computer Science, Knowledge Engineering",
+
+  "majorContributions": "Feigenbaum pioneered the field of expert systems, arguing that intelligence often depends more on domain-specific knowledge than on general reasoning alone. Through projects such as DENDRAL and MYCIN, he demonstrated that computers could assist experts by applying specialized knowledge to complex problems. His work established knowledge engineering as a major branch of artificial intelligence and accelerated the adoption of AI in medicine, science, industry, and decision support systems.",
+
+  "laterLife": "As artificial intelligence matured, Feigenbaum continued contributing through research, teaching, entrepreneurship, and policy discussions. He became a leading advocate for practical AI applications and helped connect academic research with real-world technological innovation. His influence remained visible as AI expanded into new scientific and commercial domains.",
+
+  "whyImportant": "Edward Feigenbaum is important because he helped prove that intelligent computer systems could perform valuable real-world tasks when provided with expert knowledge. His ideas guided the development of early AI applications and helped establish many of the conceptual foundations for modern intelligent systems.",
+
+  "quote1": "Knowledge is the fuel that powers intelligent systems.",
+  "quote2": "Expertise becomes valuable when it can be shared.",
+  "quote3": "Complex decisions depend on organized knowledge.",
+  "quote4": "Intelligence grows from understanding specific domains.",
+  "quote5": "Technology succeeds when it amplifies human expertise.",
+  "quote6": "Learning begins with the accumulation of knowledge.",
+  "quote7": "Well-structured information enables better decisions.",
+  "quote8": "Artificial intelligence reflects human understanding.",
+  "quote9": "Experience can be transformed into usable systems.",
+  "quote10": "Knowledge is often more powerful than raw computation.",
+  "quote11": "Expert reasoning can be modeled and improved.",
+  "quote12": "Innovation emerges from combining insight and technology.",
+  "quote13": "The best systems extend human capabilities.",
+  "quote14": "Information gains value when connected to context.",
+  "quote15": "Human expertise remains a critical resource.",
+  "quote16": "Progress comes from making knowledge accessible.",
+  "quote17": "Intelligent systems require meaningful foundations.",
+  "quote18": "Discovery accelerates when expertise can be replicated.",
+  "quote19": "Practical solutions arise from deep understanding.",
+  "quote20": "The future of AI depends on the quality of knowledge it uses."
+}

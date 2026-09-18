@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Edward Thorndike",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Edward_Thorndike.jpg",
+  "indexLetter": "e",
+
+  "nationality": "American",
+  "occupation": "Psychologist, Educational Researcher, Academic",
+  "school": "Behaviorism, Educational Psychology, Learning Theory",
+
+  "born": "31 August 1874",
+  "died": "9 August 1949",
+
+  "knownFor1": "Law of Effect",
+  "knownFor2": "Educational Psychology",
+  "knownFor3": "Learning Theory",
+  "knownFor4": "Connectionism",
+  "knownFor5": "Animal Learning Studies",
+  "knownFor6": "Psychometrics",
+  "knownFor7": "Behavioral Research",
+  "knownFor8": "Scientific Education",
+
+  "legacy": "Edward Thorndike helped transform psychology into an empirical science centered on observation, measurement, and experimentation. His research on learning established important principles for understanding how behavior is shaped by consequences. His influence extended beyond psychology into education, where his ideas contributed to the development of modern teaching methods, testing systems, and instructional design.",
+
+  "earlyLife": "Thorndike was born in Massachusetts and developed a strong interest in science, learning, and human behavior. During his academic training, he became fascinated by the question of how organisms acquire knowledge and skills. This curiosity led him to conduct experiments that would establish some of the earliest scientific foundations of learning theory.",
+
+  "scientificField": "Psychology, Educational Psychology, Learning Science",
+
+  "majorContributions": "Thorndike is best known for developing the Law of Effect, which states that behaviors followed by satisfying outcomes are more likely to be repeated, while behaviors followed by unfavorable outcomes become less likely. Through experiments involving animals solving problems, he proposed the theory of connectionism, arguing that learning occurs through the formation of associations between situations and responses. His work laid essential groundwork for behaviorism, educational measurement, and modern theories of skill acquisition.",
+
+  "laterLife": "As his influence grew, Thorndike expanded his research into intelligence testing, classroom learning, educational assessment, and the scientific study of teaching. He became one of the leading figures in educational psychology, advocating for evidence-based approaches to instruction and student evaluation. His later writings helped establish psychology as a practical tool for improving education and human performance.",
+
+  "whyImportant": "Edward Thorndike is important because he created some of the first scientific explanations of learning. His principles influenced behaviorism, educational psychology, instructional design, and modern theories of reinforcement. Many contemporary ideas about learning, practice, feedback, and habit formation trace their origins to his work.",
+
+  "quote1": "Learning grows through the consequences of action.",
+  "quote2": "Practice strengthens useful connections.",
+  "quote3": "Behavior is shaped by experience.",
+  "quote4": "Knowledge develops through repeated interaction.",
+  "quote5": "Improvement requires both effort and feedback.",
+  "quote6": "Habits emerge from consistent reinforcement.",
+  "quote7": "Understanding behavior begins with observation.",
+  "quote8": "Progress can be measured and studied.",
+  "quote9": "Experience is one of the greatest teachers.",
+  "quote10": "Effective learning rewards persistence.",
+  "quote11": "Small successes encourage further growth.",
+  "quote12": "Education should be guided by evidence.",
+  "quote13": "Skills develop through repeated application.",
+  "quote14": "Motivation influences the direction of learning.",
+  "quote15": "Scientific inquiry improves educational practice.",
+  "quote16": "Behavior follows patterns that can be understood.",
+  "quote17": "Learning is a process of adjustment and adaptation.",
+  "quote18": "Feedback transforms effort into improvement.",
+  "quote19": "Achievement grows from accumulated practice.",
+  "quote20": "The study of learning reveals the foundations of human development."
+}
