@@ -215,7 +215,7 @@
   
  
   
-  {"id":"ernest_becker","name":"Ernest Becker","letter":"E","category":"Anthropology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Ernest_Becker.json"},
+  
   {"id":"ernest_gellner","name":"Ernest Gellner","letter":"E","category":"Anthropology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Ernest_Gellner.json"},
   {"id":"ernest_hemingway","name":"Ernest Hemingway","letter":"E","category":"Literature","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg","jsonFile":"Ernest_Hemingway.json"},
   {"id":"ernst_cassirer","name":"Ernst Cassirer","letter":"E","category":"Philosophy","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Ernst_Cassirer.jpg","jsonFile":"Ernst_Cassirer.json"},
