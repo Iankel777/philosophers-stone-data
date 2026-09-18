@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Frank Rosenblatt",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/en/2/22/Frank_Rosenblatt.jpg",
+  "indexLetter": "f",
+
+  "nationality": "American",
+  "occupation": "Psychologist, Computer Scientist, Researcher",
+  "school": "Artificial Intelligence, Cognitive Science, Neural Networks",
+
+  "born": "11 July 1928",
+  "died": "11 July 1971",
+
+  "knownFor1": "Perceptron",
+  "knownFor2": "Artificial Neural Networks",
+  "knownFor3": "Machine Learning Foundations",
+  "knownFor4": "Pattern Recognition",
+  "knownFor5": "Artificial Intelligence",
+  "knownFor6": "Cognitive Modeling",
+  "knownFor7": "Computational Learning",
+  "knownFor8": "Connectionism",
+
+  "legacy": "Frank Rosenblatt was a pioneering researcher whose work laid the foundations for modern artificial intelligence and machine learning. He developed the perceptron, one of the earliest artificial neural network models, decades before the rise of deep learning. Although his ideas were initially limited by available computing power, they later became central to the development of modern AI systems used throughout science, technology, and industry.",
+
+  "earlyLife": "Rosenblatt was born in New Rochelle, New York, and developed interests in psychology, mathematics, and human cognition. He studied psychology at Cornell University while becoming increasingly fascinated by the mechanisms of learning and intelligence. His goal was to understand how brains acquire knowledge and to create machines capable of similar forms of learning.",
+
+  "scientificField": "Artificial Intelligence, Psychology, Computer Science",
+
+  "majorContributions": "Rosenblatt created the perceptron, a computational model inspired by the functioning of biological neurons. The perceptron could learn from examples and adapt its behavior based on experience, making it one of the earliest machine learning systems. His work demonstrated that machines could recognize patterns and improve performance through learning rather than relying solely on predefined instructions. Although early neural network research faced criticism and technological limitations, Rosenblatt's ideas eventually became the basis for modern neural networks, deep learning, image recognition, natural language processing, and many contemporary AI applications.",
+
+  "laterLife": "During his career at Cornell Aeronautical Laboratory, Rosenblatt continued investigating machine intelligence, perception, and learning systems. He expanded his research into increasingly sophisticated neural network architectures and sought to bridge psychology, neuroscience, and computer science. His promising career was tragically cut short when he died in a boating accident at the age of forty-three.",
+
+  "whyImportant": "Frank Rosenblatt is important because he was among the first scientists to demonstrate that machines could learn from experience. His perceptron model became a foundational concept in artificial intelligence and machine learning. Today, many of the technologies powering modern AI systems can trace their intellectual origins to ideas that Rosenblatt introduced decades earlier.",
+
+  "quote1": "Learning is the key to intelligent behavior.",
+  "quote2": "Machines can adapt through experience.",
+  "quote3": "Pattern recognition is central to intelligence.",
+  "quote4": "Understanding the brain can inspire new technologies.",
+  "quote5": "Intelligence emerges through learning and adaptation.",
+  "quote6": "Complex behavior can arise from simple principles.",
+  "quote7": "Scientific progress often begins with bold ideas.",
+  "quote8": "Learning systems improve through experience.",
+  "quote9": "Artificial intelligence benefits from biological inspiration.",
+  "quote10": "Knowledge grows through interaction with the environment.",
+  "quote11": "Innovation often requires challenging established assumptions.",
+  "quote12": "Computation can help illuminate cognition.",
+  "quote13": "The study of learning connects many disciplines.",
+  "quote14": "Technology advances by imitating useful natural processes.",
+  "quote15": "Curiosity drives scientific discovery.",
+  "quote16": "Adaptive systems reveal new possibilities.",
+  "quote17": "Understanding intelligence remains a profound challenge.",
+  "quote18": "Progress depends upon experimental exploration.",
+  "quote19": "Machine learning begins with the capacity to learn.",
+  "quote20": "The future belongs to systems that can adapt and improve."
+}

@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Frank Ramsey",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/Frank_Plumpton_Ramsey.jpg",
+  "indexLetter": "f",
+
+  "nationality": "British",
+  "occupation": "Mathematician, Philosopher, Economist, Logician",
+  "school": "Analytic Philosophy, Mathematical Logic, Decision Theory",
+
+  "born": "22 February 1903",
+  "died": "19 January 1930",
+
+  "knownFor1": "Ramsey Theory",
+  "knownFor2": "Decision Theory",
+  "knownFor3": "Subjective Probability",
+  "knownFor4": "Mathematical Logic",
+  "knownFor5": "Philosophy of Mathematics",
+  "knownFor6": "Economics of Saving",
+  "knownFor7": "Ramsey Sentences",
+  "knownFor8": "Foundations of Rational Choice",
+
+  "legacy": "Frank Ramsey was one of the most brilliant intellectual figures of the twentieth century despite his remarkably short life. His contributions transformed mathematics, philosophy, economics, logic, and decision theory. Many ideas that later became central to modern economics, game theory, artificial intelligence, probability theory, and analytic philosophy can be traced back to Ramsey's pioneering work.",
+
+  "earlyLife": "Ramsey was born in Cambridge, England, into an intellectually distinguished family. He demonstrated extraordinary mathematical and linguistic abilities from an early age and entered Trinity College, Cambridge, while still a teenager. During his studies he quickly established a reputation as one of the most gifted young thinkers of his generation, producing important work across several disciplines simultaneously.",
+
+  "scientificField": "Mathematics, Philosophy, Economics, Logic",
+
+  "majorContributions": "Ramsey made foundational contributions to mathematical logic, probability, economics, and philosophy. In mathematics, he established the foundations of Ramsey Theory, which studies patterns that inevitably emerge within sufficiently large systems. In economics, he developed influential models of optimal saving and economic growth that remain important today. In philosophy and decision theory, he pioneered the concept of subjective probability, showing how beliefs can be inferred from choices and behavior. His work on rational decision-making became a cornerstone of modern economics, behavioral science, statistics, and artificial intelligence.",
+
+  "laterLife": "Despite his young age, Ramsey became a respected lecturer and researcher at Cambridge. He translated important philosophical works, collaborated with leading intellectuals, and continued producing groundbreaking research. Tragically, his life was cut short at the age of twenty-six following complications from surgery. Nevertheless, the breadth and depth of his achievements secured his place among the most influential thinkers of modern times.",
+
+  "whyImportant": "Frank Ramsey is important because he anticipated major developments across multiple disciplines decades before they became widely recognized. His insights into rational choice, probability, logic, mathematics, and economics continue to shape contemporary research. His work remains essential for understanding decision-making, uncertainty, optimization, and the structure of complex systems.",
+
+  "quote1": "Rational decisions depend on balancing belief and action.",
+  "quote2": "Complex systems often reveal hidden patterns.",
+  "quote3": "Probability helps guide decisions under uncertainty.",
+  "quote4": "Logic provides structure for clear thinking.",
+  "quote5": "Mathematics reveals order within complexity.",
+  "quote6": "Knowledge advances through bold inquiry.",
+  "quote7": "Understanding uncertainty is essential to judgment.",
+  "quote8": "Reasoning improves when assumptions are examined.",
+  "quote9": "Patterns emerge where chaos appears to exist.",
+  "quote10": "Scientific progress depends on rigorous analysis.",
+  "quote11": "Decision-making combines evidence and belief.",
+  "quote12": "Mathematical thinking can illuminate human behavior.",
+  "quote13": "Curiosity drives intellectual discovery.",
+  "quote14": "Ideas often connect disciplines in unexpected ways.",
+  "quote15": "Large systems contain hidden regularities.",
+  "quote16": "Rational inquiry benefits from precision.",
+  "quote17": "Human knowledge grows through investigation.",
+  "quote18": "The study of logic strengthens understanding.",
+  "quote19": "Innovation often begins with simple questions.",
+  "quote20": "The search for truth requires both imagination and rigor."
+}
