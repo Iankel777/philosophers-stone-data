@@ -187,7 +187,7 @@
   {"id":"edward_feigenbaum","name":"Edward Feigenbaum","letter":"E","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/27._Dr._Edward_A._Feigenbaum_1994-1997.jpg/960px-27._Dr._Edward_A._Feigenbaum_1994-1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Edward_Feigenbaum.json"},
   {"id":"edward_lazear","name":"Edward Lazear","letter":"E","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Edward_Lazear_174-CD-L-06-03-24-A-004_%28cropped%29.jpg/960px-Edward_Lazear_174-CD-L-06-03-24-A-004_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Edward_Lazear.json"},
   
-  {"id":"edward_said","name":"Edward Said","letter":"E","category":"Humanities","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Edward_Said.jpg","jsonFile":"Edward_Said.json"},
+
   {"id":"edward_shorter","name":"Edward Shorter","letter":"E","category":"Psychiatry","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/placeholder.jpg","jsonFile":"Edward_Shorter.json"},
   {"id":"edward_thorndike","name":"Edward Thorndike","letter":"E","category":"Psychology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Edward_Thorndike.jpg","jsonFile":"Edward_Thorndike.json"},
   {"id":"edward_o_wilson","name":"Edward O. Wilson","letter":"E","category":"Biology","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Osborne_Wilson_2003.jpg","jsonFile":"Edward_Wilson.json"},
