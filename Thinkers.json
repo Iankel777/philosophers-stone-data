@@ -208,9 +208,76 @@
   {"id":"eugene_spafford","name":"Eugene Spafford","letter":"E","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gene-spafford.jpg/960px-Gene-spafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Eugene_Spafford.json"},
   {"id":"eugene_wigner","name":"Eugene Wigner","letter":"E","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Wigner.jpg/960px-Wigner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Eugene_Wigner.json"},
 
- 
+
+
   
   
+  {"id":"fabrice_bellard","name":"Fabrice Bellard","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fabrice_Bellard.json"},
+  {"id":"felix_bloch","name":"Felix Bloch","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Felix_Bloch.json"},
+  {"id":"felix_hausdorff","name":"Felix Hausdorff","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Felix_Hausdorff.json"},
+  {"id":"felix_klein","name":"Felix Klein","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Felix_Klein.json"},
+  {"id":"ferdinand_baur","name":"Ferdinand Baur","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Ferdinand_Baur.json"},
+  {"id":"ferdinand_saussure","name":"Ferdinand Saussure","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Ferdinand_Saussure.json"},
+  {"id":"ferdinand_tonnies","name":"Ferdinand Tonnies","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Ferdinand_Tonnies.json"},
+  {"id":"fernand_braudel","name":"Fernand Braudel","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fernand_Braudel.json"},
+  {"id":"fisher_black","name":"Fisher Black","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fisher_Black.json"},
+  {"id":"florence_nightingale","name":"Florence Nightingale","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Florence_Nightingale.json"},
+  
+  {"id":"floyd_allport","name":"Floyd Allport","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Floyd_Allport.json"},
+  {"id":"frances_allen","name":"Frances Allen","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frances_Allen.json"},
+  {"id":"francis_bacon","name":"Francis Bacon","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Bacon.json"},
+  {"id":"francis_crick","name":"Francis Crick","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Crick.json"},
+  {"id":"francis_fukuyama","name":"Francis Fukuyama","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Fukuyama.json"},
+  {"id":"francis_galton","name":"Francis Galton","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Galton.json"},
+  {"id":"francis_hutcheson","name":"Francis Hutcheson","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Hutcheson.json"},
+  {"id":"franco_modigliani","name":"Franco Modigliani","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franco_Modigliani.json"},
+  {"id":"francois_jacob","name":"Francois Jacob","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francois_Jacob.json"},
+  
+  {"id":"frank_farley","name":"Frank Farley","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Farley.json"},
+  {"id":"frank_hahn","name":"Frank Hahn","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Hahn.json"},
+  {"id":"frank_herbert","name":"Frank Herbert","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Herbert.json"},
+  {"id":"frank_knight","name":"Frank Knight","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Knight.json"},
+  {"id":"frank_ramsey","name":"Frank Ramsey","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Ramsey.json"},
+  {"id":"frank_rosenblatt","name":"Frank Rosenblatt","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Rosenblatt.json"},
+  {"id":"frank_sulloway","name":"Frank Sulloway","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Sulloway.json"},
+  {"id":"franklin_frazier","name":"Franklin Frazier","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franklin_Frazier.json"},
+  {"id":"frantz_fanon","name":"Frantz Fanon","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frantz_Fanon.json"},
+  
+  {"id":"franz_alexander","name":"Franz Alexander","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Alexander.json"},
+  {"id":"franz_boas","name":"Franz Boas","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Boas.json"},
+  {"id":"franz_brentano","name":"Franz Brentano","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Brentano.json"},
+  {"id":"franz_gall","name":"Franz Gall","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Gall.json"},
+  {"id":"franz_kafka","name":"Franz Kafka","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Kafka.json"},
+  {"id":"franz_rosenzweig","name":"Franz Rosenzweig","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Rosenzweig.json"},
+  {"id":"franz_oppenheimer","name":"Franz Oppenheimer","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Oppenheimer.json"},
+  {"id":"fred_brooks","name":"Fred Brooks","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fred_Brooks.json"},
+  {"id":"fred_fiedler","name":"Fred Fiedler","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fred_Fiedler.json"},
+  
+  {"id":"frederick_banting","name":"Frederick Banting","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Banting.json"},
+  {"id":"frederick_griffith","name":"Frederick Griffith","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Griffith.json"},
+  {"id":"frederick_sanger","name":"Frederick Sanger","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Sanger.json"},
+  {"id":"fredrik_barth","name":"Fredrik Barth","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fredrik_Barth.json"},
+  {"id":"freeman_dyson","name":"Freeman Dyson","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Freeman_Dyson.json"},
+  {"id":"friedrich_engels","name":"Friedrich Engels","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Engels.json"},
+  {"id":"friedrich_hayek","name":"Friedrich Hayek","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Hayek.json"},
+  {"id":"friedrich_jacobi","name":"Friedrich Jacobi","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Jacobi.json"},
+  {"id":"friedrich_list","name":"Friedrich List","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_List.json"},
+  
+  {"id":"friedrich_nietzsche","name":"Friedrich Nietzsche","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Nietzsche.json"},
+  {"id":"friedrich_paulsen","name":"Friedrich Paulsen","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Paulsen.json"},
+  {"id":"friedrich_schelling","name":"Friedrich Schelling","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Schelling.json"},
+  {"id":"friedrich_schiller","name":"Friedrich Schiller","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Schiller.json"},
+  {"id":"friedrich_schleiermacher","name":"Friedrich Schleiermacher","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Schleiermacher.json"},
+  {"id":"friedrich_stahl","name":"Friedrich Stahl","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Stahl.json"},
+  
+  {"id":"friedrich_trendelenburg","name":"Friedrich Trendelenburg","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Trendelenburg.json"},
+  {"id":"friedrich_wieser","name":"Friedrich Wieser","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Wieser.json"},
+  {"id":"frigyes_riesz","name":"Frigyes Riesz","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frigyes_Riesz.json"},
+  {"id":"fritz_heider","name":"Fritz Heider","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_Heider.json"},
+  {"id":"fritz_lipmann","name":"Fritz Lipmann","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_Lipmann.json"},
+  {"id":"fritz_london","name":"Fritz London","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_London.json"},
+  {"id":"fritz_perls","name":"Fritz Perls","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_Perls.json"},
+  {"id":"fyodor_dostoevsky","name":"Fyodor Dostoevsky","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fyodor_Dostoevsky.json"},
   
   
   
