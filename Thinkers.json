@@ -262,16 +262,120 @@
   {"id":"gabriel_cramer","name":"Gabriel Cramer","letter":"G","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gabriel_Cramer.jpg/960px-Gabriel_Cramer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gabriel_Cramer.json"},
   {"id":"georg_cantor","name":"Georg Cantor","letter":"G","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Georg_Cantor.png/960px-Georg_Cantor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Georg_Cantor.json"},
   
+  {"id":"g_stanley_hall","name":"G. Stanley Hall","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"G_Stanley_Hall.json"},
+  {"id":"gaetano_benedetti","name":"Gaetano Benedetti","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gaetano_Benedetti.json"},
+  {"id":"galen_strawson","name":"Galen Strawson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Galen_Strawson.json"},
+  {"id":"galileo_galilei","name":"Galileo Galilei","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Galileo_Galilei.json"},
+  {"id":"gary_becker","name":"Gary Becker","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gary_Becker.json"},
+  {"id":"gary_gorton","name":"Gary Gorton","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gary_Gorton.json"},
+  {"id":"gary_kildall","name":"Gary Kildall","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gary_Kildall.json"},
+  
+ 
+  {"id":"gavin_beer","name":"Gavin Beer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gavin_Beer.json"},
+  {"id":"gavin_brown","name":"Gavin Brown","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gavin_Brown.json"},
+  {"id":"gavin_king","name":"Gavin King","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gavin_King.json"},
+  {"id":"gayatri_spivak","name":"Gayatri Chakravorty Spivak","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gayatri_Spivak.json"},
+  {"id":"gene_grossman","name":"Gene Grossman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gene_Grossman.json"},
+  {"id":"gene_kim","name":"Gene Kim","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gene_Kim.json"},
+  {"id":"geoffrey_hinton","name":"Geoffrey Hinton","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geoffrey_Hinton.json"},
+  {"id":"geoffrey_hodgson","name":"Geoffrey Hodgson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geoffrey_Hodgson.json"},
   
   
+  {"id":"geoffrey_west","name":"Geoffrey West","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geoffrey_West.json"},
+  {"id":"georg_cantor","name":"Georg Cantor","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georg_Cantor.json"},
+  {"id":"georg_friedrich_hegel","name":"Georg Friedrich Hegel","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georg_Friedrich_Hegel.json"},
+  {"id":"georg_gottlob","name":"Georg Gottlob","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georg_Gottlob.json"},
+  {"id":"george_berkeley","name":"George Berkeley","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Berkeley.json"},
+  {"id":"george_boole","name":"George Boole","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Boole.json"},
+  {"id":"george_eliot","name":"George Eliot","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Eliot.json"},
+  {"id":"george_engel","name":"George Engel","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Engel.json"},
+  
+ 
+  {"id":"george_kelly","name":"George Kelly","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Kelly.json"},
+  {"id":"george_lakoff","name":"George Lakoff","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Lakoff.json"},
+  {"id":"george_mead","name":"George Herbert Mead","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Mead.json"},
+  {"id":"george_miller","name":"George Miller","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Miller.json"},
+  {"id":"george_orwell","name":"George Orwell","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Orwell.json"},
+  {"id":"george_peter_murdock","name":"George Peter Murdock","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Peter_Murdock.json"},
+  {"id":"george_santayana","name":"George Santayana","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Santayana.json"},
+  {"id":"george_simpson","name":"George Simpson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Simpson.json"},
+  {"id":"george_vaillant","name":"George Vaillant","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Vaillant.json"},
   
   
+  {"id":"george_waid","name":"George Waid","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Waid.json"},
+  {"id":"george_williams","name":"George Williams","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Williams.json"},
+  {"id":"georges_canguilhem","name":"Georges Canguilhem","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Canguilhem.json"},
+  {"id":"georges_politzer","name":"Georges Politzer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Politzer.json"},
+  {"id":"georges_simenon","name":"Georges Simenon","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Simenon.json"},
+  {"id":"gerald_berreman","name":"Gerald Berreman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Berreman.json"},
+  {"id":"gerald_edelman","name":"Gerald Edelman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Edelman.json"},
+  {"id":"gerald_klerman","name":"Gerald Klerman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Klerman.json"},
+  {"id":"gerald_weinberg","name":"Gerald Weinberg","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Weinberg.json"},
+  {"id":"gerard_debreu","name":"Gérard Debreu","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerard_Debreu.json"},
+  {"id":"gerard_sarton","name":"George Sarton","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerard_Sarton.json"},
   
   
+  {"id":"gerd_gigerenzer","name":"Gerd Gigerenzer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerd_Gigerenzer.json"},
+  {"id":"gerhard_lenski","name":"Gerhard Lenski","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerhard_Lenski.json"},
+  {"id":"gershom_scholem","name":"Gershom Scholem","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gershom_Scholem.json"},
+  {"id":"gertrude_himmelfarb","name":"Gertrude Himmelfarb","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gertrude_Himmelfarb.json"},
+  {"id":"gerty_cori","name":"Gerty Cori","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerty_Cori.json"},
+  {"id":"geza_roheim","name":"Géza Róheim","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geza_Roheim.json"},
+  {"id":"gianni_vattimo","name":"Gianni Vattimo","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gianni_Vattimo.json"},
+  {"id":"gilbert_herdt","name":"Gilbert Herdt","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Herdt.json"},
+  {"id":"gilbert_murray","name":"Gilbert Murray","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Murray.json"},
+  {"id":"gilbert_ryle","name":"Gilbert Ryle","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Ryle.json"},
   
   
+  {"id":"gilles_brassard","name":"Gilles Brassard","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilles_Brassard.json"},
+  {"id":"gilles_deleuze","name":"Gilles Deleuze","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilles_Deleuze.json"},
+  {"id":"gillian_tett","name":"Gillian Tett","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gillian_Tett.json"},
+  {"id":"giovanni_arrighi","name":"Giovanni Arrighi","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Giovanni_Arrighi.json"},
+  {"id":"giovanni_boccaccio","name":"Giovanni Boccaccio","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Giovanni_Boccaccio.json"},
+  {"id":"gita_gopinath","name":"Gita Gopinath","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gita_Gopinath.json"},
+  {"id":"glen_gabbard","name":"Glen Gabbard","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Glen_Gabbard.json"},
+  {"id":"glenford_myers","name":"Glenford Myers","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Glenford_Myers.json"},
+  {"id":"glenn_bowman","name":"Glenn Bowman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Glenn_Bowman.json"},
   
   
+  {"id":"gordon_allport","name":"Gordon Allport","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gordon_Allport.json"},
+  {"id":"gordon_bell","name":"Gordon Bell","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gordon_Bell.json"},
+  {"id":"gore_vidal","name":"Gore Vidal","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gore_Vidal.json"},
+  {"id":"gottfried_haberler","name":"Gottfried Haberler","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gottfried_Haberler.json"},
+  {"id":"gottlob_frege","name":"Gottlob Frege","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gottlob_Frege.json"},
+  {"id":"grace_hopper","name":"Grace Hopper","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Grace_Hopper.json"},
+  {"id":"grady_booch","name":"Grady Booch","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Grady_Booch.json"},
+  {"id":"graeme_rocher","name":"Graeme Rocher","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graeme_Rocher.json"},
+  {"id":"graham_bell","name":"Graham Bell","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graham_Bell.json"},
+ 
+  
+  {"id":"graham_greene","name":"Graham Greene","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graham_Greene.json"},
+  {"id":"graham_harman","name":"Graham Harman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graham_Harman.json"},
+  {"id":"graham_wallas","name":"Graham Wallas","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graham_Wallas.json"},
+  {"id":"granville_hall","name":"Granville Stanley Hall","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Granville_Hall.json"},
+  {"id":"graydon_hoare","name":"Graydon Hoare","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graydon_Hoare.json"},
+  {"id":"gregor_mendel","name":"Gregor Mendel","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gregor_Mendel.json"},
+  {"id":"gregory_bateson","name":"Gregory Bateson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gregory_Bateson.json"},
+  {"id":"guido_pontecorvo","name":"Guido Pontecorvo","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Guido_Pontecorvo.json"},
+  
+  
+  {"id":"guido_van_rossum","name":"Guido van Rossum","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Guido_van_Rossum.json"},
+  {"id":"guillermo_calvo","name":"Guillermo Calvo","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Guillermo_Calvo.json"},
+  {"id":"gunnar_johansson","name":"Gunnar Johansson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gunnar_Johansson.json"},
+  {"id":"gunnar_myrdal","name":"Gunnar Myrdal","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gunnar_Myrdal.json"},
+  {"id":"gunther_stent","name":"Gunther Stent","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gunther_Stent.json"},
+  {"id":"gustav_bergmann","name":"Gustav Bergmann","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustav_Bergmann.json"},
+  {"id":"gustav_bychowski","name":"Gustav Bychowski","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustav_Bychowski.json"},
+  
+  
+  {"id":"gustav_cassel","name":"Gustav Cassel","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustav_Cassel.json"},
+  {"id":"gustav_jahoda","name":"Gustav Jahoda","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustav_Jahoda.json"},
+  {"id":"gustav_klemm","name":"Gustav Klemm","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustav_Klemm.json"},
+  {"id":"gustave_flaubert","name":"Gustave Flaubert","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustave_Flaubert.json"},
+  {"id":"gustave_le_bon","name":"Gustave Le Bon","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustave_Le_Bon.json"},
+  {"id":"gustavo_lins_ribeiro","name":"Gustavo Lins Ribeiro","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gustavo_Lins_Ribeiro.json"},
+  {"id":"guy_steele","name":"Guy Steele","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Guy_Steele.json"},
+
   
   
   
