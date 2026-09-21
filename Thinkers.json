@@ -230,11 +230,10 @@
   {"id":"francois_jacob","name":"Francois Jacob","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Fran%C3%A7ois_Jacob_nobel.jpg/960px-Fran%C3%A7ois_Jacob_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Francois_Jacob.json"},
   
 
-  {"id":"frank_herbert","name":"Frank Herbert","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Herbert.json"},
-  {"id":"frank_knight","name":"Frank Knight","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Knight.json"},
-  {"id":"frank_ramsey","name":"Frank Ramsey","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Ramsey.json"},
-  {"id":"frank_rosenblatt","name":"Frank Rosenblatt","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Rosenblatt.json"},
-  {"id":"frank_sulloway","name":"Frank Sulloway","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Sulloway.json"},
+  {"id":"frank_herbert","name":"Frank Herbert","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Frank_Herbert_1984_%28square%29.jpg/960px-Frank_Herbert_1984_%28square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Herbert.json"},
+  {"id":"frank_knight","name":"Frank Knight","letter":"F","category":"","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/en/a/aa/Frank_H_Knight.jpg","jsonFile":"Frank_Knight.json"},
+  {"id":"frank_ramsey","name":"Frank Ramsey","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/30._Frank_Ramsey.jpg/960px-30._Frank_Ramsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Ramsey.json"},
+  {"id":"frank_rosenblatt","name":"Frank Rosenblatt","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Frank_Rosenblatt.jpg/960px-Frank_Rosenblatt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Rosenblatt.json"},
   {"id":"franklin_frazier","name":"Franklin Frazier","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franklin_Frazier.json"},
   {"id":"frantz_fanon","name":"Frantz Fanon","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frantz_Fanon.json"},
   
