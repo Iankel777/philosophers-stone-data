@@ -246,13 +246,13 @@
 
   
   {"id":"frederick_banting","name":"Frederick Banting","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Fredrick_banting.jpg/960px-Fredrick_banting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frederick_Banting.json"},
-  {"id":"frederick_sanger","name":"Frederick Sanger","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Sanger.json"},
-  {"id":"fredrik_barth","name":"Fredrik Barth","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fredrik_Barth.json"},
-  {"id":"freeman_dyson","name":"Freeman Dyson","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Freeman_Dyson.json"},
-  {"id":"friedrich_engels","name":"Friedrich Engels","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Engels.json"},
-  {"id":"friedrich_hayek","name":"Friedrich Hayek","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Hayek.json"},
-  {"id":"friedrich_jacobi","name":"Friedrich Jacobi","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Jacobi.json"},
-  {"id":"friedrich_list","name":"Friedrich List","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_List.json"},
+  {"id":"frederick_sanger","name":"Frederick Sanger","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Frederick_Sanger2.jpg/960px-Frederick_Sanger2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frederick_Sanger.json"},
+  {"id":"fredrik_barth","name":"Fredrik Barth","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fredrik_Barth.jpg/960px-Fredrik_Barth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fredrik_Barth.json"},
+  {"id":"freeman_dyson","name":"Freeman Dyson","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Freeman_dyson_%28detail%29.jpg/960px-Freeman_dyson_%28detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Freeman_Dyson.json"},
+  {"id":"friedrich_engels","name":"Friedrich Engels","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Friedrich_Engels_%281891%29_%28colored%29.jpg/960px-Friedrich_Engels_%281891%29_%28colored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Engels.json"},
+  {"id":"friedrich_hayek","name":"Friedrich Hayek","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Friedrich_August_Hayek_03_Upscaled_Colorized.png/960px-Friedrich_August_Hayek_03_Upscaled_Colorized.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Hayek.json"},
+  {"id":"friedrich_jacobi","name":"Friedrich Jacobi","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Friedrich_Heinrich_Jacobi_portrait.jpg/960px-Friedrich_Heinrich_Jacobi_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Jacobi.json"},
+  
   
   {"id":"friedrich_nietzsche","name":"Friedrich Nietzsche","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Nietzsche.json"},
   {"id":"friedrich_paulsen","name":"Friedrich Paulsen","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Paulsen.json"},
