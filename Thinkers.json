@@ -245,8 +245,7 @@
   {"id":"fred_brooks","name":"Fred Brooks","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fred_Brooks_%28cropped_square%29.jpg/960px-Fred_Brooks_%28cropped_square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fred_Brooks.json"},
 
   
-  {"id":"frederick_banting","name":"Frederick Banting","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Banting.json"},
-  {"id":"frederick_griffith","name":"Frederick Griffith","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Griffith.json"},
+  {"id":"frederick_banting","name":"Frederick Banting","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Fredrick_banting.jpg/960px-Fredrick_banting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frederick_Banting.json"},
   {"id":"frederick_sanger","name":"Frederick Sanger","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Sanger.json"},
   {"id":"fredrik_barth","name":"Fredrik Barth","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fredrik_Barth.json"},
   {"id":"freeman_dyson","name":"Freeman Dyson","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Freeman_Dyson.json"},
