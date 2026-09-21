@@ -211,15 +211,12 @@
 
 
   
-  
   {"id":"fabrice_bellard","name":"Fabrice Bellard","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/FabriceBellardPortrait.jpg/960px-FabriceBellardPortrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fabrice_Bellard.json"},
   {"id":"felix_bloch","name":"Felix Bloch","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bloch.jpg/960px-Bloch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Felix_Bloch.json"},
   {"id":"felix_klein","name":"Felix Klein","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Felix_Christian_Klein.jpg/960px-Felix_Christian_Klein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Felix_Klein.json"},
   {"id":"ferdinand_baur","name":"Ferdinand Baur","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ferdinand_Christian_Baur_1792-1860_001.jpg/960px-Ferdinand_Christian_Baur_1792-1860_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ferdinand_Baur.json"},
   {"id":"ferdinand_saussure","name":"Ferdinand Saussure","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/960px-Ferdinand_de_Saussure_by_Jullien_Restored.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ferdinand_Saussure.json"},
   {"id":"ferdinand_tonnies","name":"Ferdinand Tonnies","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Foto_Imagen_de_Fernindan_Tonnies.jpg/960px-Foto_Imagen_de_Fernindan_Tonnies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ferdinand_Tonnies.json"},
-  
-  
   {"id":"frances_allen","name":"Frances Allen","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Allen_mg_2528-c.jpg/960px-Allen_mg_2528-c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frances_Allen.json"},
   {"id":"francis_bacon","name":"Francis Bacon","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Francis_Bacon%2C_from_The_Story_of_Philosophy.jpg/960px-Francis_Bacon%2C_from_The_Story_of_Philosophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Francis_Bacon.json"},
   {"id":"francis_crick","name":"Francis Crick","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Francis_Crick_crop.jpg/960px-Francis_Crick_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Francis_Crick.json"},
@@ -228,23 +225,17 @@
   {"id":"francis_hutcheson","name":"Francis Hutcheson","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Francis_Hutcheson_%281694%E2%80%931746%29%2C_Professor_of_Moral_Philosophy_at_the_University_of_Glasgow.jpg/960px-Francis_Hutcheson_%281694%E2%80%931746%29%2C_Professor_of_Moral_Philosophy_at_the_University_of_Glasgow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Francis_Hutcheson.json"},
   {"id":"franco_modigliani","name":"Franco Modigliani","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Franco_Modigliani.jpg/960px-Franco_Modigliani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franco_Modigliani.json"},
   {"id":"francois_jacob","name":"Francois Jacob","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Fran%C3%A7ois_Jacob_nobel.jpg/960px-Fran%C3%A7ois_Jacob_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Francois_Jacob.json"},
-  
-
   {"id":"frank_herbert","name":"Frank Herbert","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Frank_Herbert_1984_%28square%29.jpg/960px-Frank_Herbert_1984_%28square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Herbert.json"},
   {"id":"frank_knight","name":"Frank Knight","letter":"F","category":"","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/en/a/aa/Frank_H_Knight.jpg","jsonFile":"Frank_Knight.json"},
   {"id":"frank_ramsey","name":"Frank Ramsey","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/30._Frank_Ramsey.jpg/960px-30._Frank_Ramsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Ramsey.json"},
   {"id":"frank_rosenblatt","name":"Frank Rosenblatt","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Frank_Rosenblatt.jpg/960px-Frank_Rosenblatt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Rosenblatt.json"},
   {"id":"frantz_fanon","name":"Frantz Fanon","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Photograph_of_Frantz_Fanon_from_Black_Skin_White_Masks_%281967%29_dust_jacket.webp/960px-Photograph_of_Frantz_Fanon_from_Black_Skin_White_Masks_%281967%29_dust_jacket.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frantz_Fanon.json"},
-  
-  
   {"id":"franz_boas","name":"Franz Boas","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/FranzBoas.jpg/960px-FranzBoas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Boas.json"},
   {"id":"franz_gall","name":"Franz Gall","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Franz_Josef_Gall3.jpg/960px-Franz_Josef_Gall3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Gall.json"},
   {"id":"franz_kafka","name":"Franz Kafka","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/960px-Franz_Kafka%2C_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Kafka.json"},
   {"id":"franz_rosenzweig","name":"Franz Rosenzweig","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Franz_Rosenzweig.jpg/960px-Franz_Rosenzweig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Rosenzweig.json"},
   {"id":"franz_oppenheimer","name":"Franz Oppenheimer","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Franz_oppenheimer_1_%28cropped%29.jpg/960px-Franz_oppenheimer_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Oppenheimer.json"},
   {"id":"fred_brooks","name":"Fred Brooks","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fred_Brooks_%28cropped_square%29.jpg/960px-Fred_Brooks_%28cropped_square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fred_Brooks.json"},
-
-  
   {"id":"frederick_banting","name":"Frederick Banting","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Fredrick_banting.jpg/960px-Fredrick_banting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frederick_Banting.json"},
   {"id":"frederick_sanger","name":"Frederick Sanger","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Frederick_Sanger2.jpg/960px-Frederick_Sanger2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frederick_Sanger.json"},
   {"id":"fredrik_barth","name":"Fredrik Barth","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fredrik_Barth.jpg/960px-Fredrik_Barth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fredrik_Barth.json"},
@@ -252,15 +243,11 @@
   {"id":"friedrich_engels","name":"Friedrich Engels","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Friedrich_Engels_%281891%29_%28colored%29.jpg/960px-Friedrich_Engels_%281891%29_%28colored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Engels.json"},
   {"id":"friedrich_hayek","name":"Friedrich Hayek","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Friedrich_August_Hayek_03_Upscaled_Colorized.png/960px-Friedrich_August_Hayek_03_Upscaled_Colorized.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Hayek.json"},
   {"id":"friedrich_jacobi","name":"Friedrich Jacobi","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Friedrich_Heinrich_Jacobi_portrait.jpg/960px-Friedrich_Heinrich_Jacobi_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Jacobi.json"},
-  
-  
   {"id":"friedrich_nietzsche","name":"Friedrich Nietzsche","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/960px-Nietzsche187a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Nietzsche.json"},
   {"id":"friedrich_paulsen","name":"Friedrich Paulsen","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Paulsen.1904.jpg/960px-Paulsen.1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Paulsen.json"},
   {"id":"friedrich_schelling","name":"Friedrich Schelling","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg/960px-Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Schelling.json"},
   {"id":"friedrich_schiller","name":"Friedrich Schiller","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Friedrich_Schiller_by_Ludovike_Simanowiz.jpg/960px-Friedrich_Schiller_by_Ludovike_Simanowiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Schiller.json"},
   {"id":"friedrich_schleiermacher","name":"Friedrich Schleiermacher","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Friedrich_Daniel_Ernst_Schleiermacher_2.jpg/960px-Friedrich_Daniel_Ernst_Schleiermacher_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Schleiermacher.json"},
-
-  
   {"id":"friedrich_trendelenburg","name":"Friedrich Trendelenburg","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Friedrich_Trendelenburg.jpg/960px-Friedrich_Trendelenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Trendelenburg.json"},
   {"id":"friedrich_wieser","name":"Friedrich Wieser","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/WieserColorized.png/960px-WieserColorized.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Wieser.json"},
   {"id":"fritz_lipmann","name":"Fritz Lipmann","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lipmann_Nobel.jpg/960px-Lipmann_Nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fritz_Lipmann.json"},
@@ -274,6 +261,22 @@
   
   {"id":"gabriel_cramer","name":"Gabriel Cramer","letter":"G","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gabriel_Cramer.jpg/960px-Gabriel_Cramer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gabriel_Cramer.json"},
   {"id":"georg_cantor","name":"Georg Cantor","letter":"G","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Georg_Cantor.png/960px-Georg_Cantor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Georg_Cantor.json"},
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   {"id":"james_clerk_maxwell","name":"James Clerk Maxwell","letter":"J","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/960px-James-Clerk-Maxwell-1831-1879.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Clerk_Maxwell.json"},
   
   {"id":"john_cocke","name":"John Cocke","letter":"J","category":"Computer Science","legend":true,"visible":true,"image":"https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/arc/cf/ul/g/d7/34/5847_JC_2.jpeg/_jcr_content/renditions/cq5dam.web.3840.3840.jpeg","jsonFile":"John_Cocke.json"},
