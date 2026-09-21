@@ -230,7 +230,6 @@
   {"id":"francois_jacob","name":"Francois Jacob","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Fran%C3%A7ois_Jacob_nobel.jpg/960px-Fran%C3%A7ois_Jacob_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Francois_Jacob.json"},
   
 
-  {"id":"frank_hahn","name":"Frank Hahn","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Hahn.json"},
   {"id":"frank_herbert","name":"Frank Herbert","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Herbert.json"},
   {"id":"frank_knight","name":"Frank Knight","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Knight.json"},
   {"id":"frank_ramsey","name":"Frank Ramsey","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frank_Ramsey.json"},
