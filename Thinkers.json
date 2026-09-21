@@ -254,12 +254,12 @@
   {"id":"friedrich_jacobi","name":"Friedrich Jacobi","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Friedrich_Heinrich_Jacobi_portrait.jpg/960px-Friedrich_Heinrich_Jacobi_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Jacobi.json"},
   
   
-  {"id":"friedrich_nietzsche","name":"Friedrich Nietzsche","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Nietzsche.json"},
-  {"id":"friedrich_paulsen","name":"Friedrich Paulsen","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Paulsen.json"},
-  {"id":"friedrich_schelling","name":"Friedrich Schelling","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Schelling.json"},
-  {"id":"friedrich_schiller","name":"Friedrich Schiller","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Schiller.json"},
-  {"id":"friedrich_schleiermacher","name":"Friedrich Schleiermacher","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Schleiermacher.json"},
-  {"id":"friedrich_stahl","name":"Friedrich Stahl","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Stahl.json"},
+  {"id":"friedrich_nietzsche","name":"Friedrich Nietzsche","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/960px-Nietzsche187a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Nietzsche.json"},
+  {"id":"friedrich_paulsen","name":"Friedrich Paulsen","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Paulsen.1904.jpg/960px-Paulsen.1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Paulsen.json"},
+  {"id":"friedrich_schelling","name":"Friedrich Schelling","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg/960px-Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Schelling.json"},
+  {"id":"friedrich_schiller","name":"Friedrich Schiller","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Friedrich_Schiller_by_Ludovike_Simanowiz.jpg/960px-Friedrich_Schiller_by_Ludovike_Simanowiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Schiller.json"},
+  {"id":"friedrich_schleiermacher","name":"Friedrich Schleiermacher","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Friedrich_Daniel_Ernst_Schleiermacher_2.jpg/960px-Friedrich_Daniel_Ernst_Schleiermacher_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Schleiermacher.json"},
+
   
   {"id":"friedrich_trendelenburg","name":"Friedrich Trendelenburg","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Trendelenburg.json"},
   {"id":"friedrich_wieser","name":"Friedrich Wieser","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Friedrich_Wieser.json"},
