@@ -212,9 +212,8 @@
 
   
   
-  {"id":"fabrice_bellard","name":"Fabrice Bellard","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fabrice_Bellard.json"},
-  {"id":"felix_bloch","name":"Felix Bloch","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Felix_Bloch.json"},
-  {"id":"felix_hausdorff","name":"Felix Hausdorff","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Felix_Hausdorff.json"},
+  {"id":"fabrice_bellard","name":"Fabrice Bellard","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/FabriceBellardPortrait.jpg/960px-FabriceBellardPortrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fabrice_Bellard.json"},
+  {"id":"felix_bloch","name":"Felix Bloch","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bloch.jpg/960px-Bloch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Felix_Bloch.json"},
   {"id":"felix_klein","name":"Felix Klein","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Felix_Klein.json"},
   {"id":"ferdinand_baur","name":"Ferdinand Baur","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Ferdinand_Baur.json"},
   {"id":"ferdinand_saussure","name":"Ferdinand Saussure","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Ferdinand_Saussure.json"},
