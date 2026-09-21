@@ -220,7 +220,6 @@
   {"id":"ferdinand_tonnies","name":"Ferdinand Tonnies","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Foto_Imagen_de_Fernindan_Tonnies.jpg/960px-Foto_Imagen_de_Fernindan_Tonnies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ferdinand_Tonnies.json"},
   
   
-  {"id":"floyd_allport","name":"Floyd Allport","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Floyd_Allport.json"},
   {"id":"frances_allen","name":"Frances Allen","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frances_Allen.json"},
   {"id":"francis_bacon","name":"Francis Bacon","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Bacon.json"},
   {"id":"francis_crick","name":"Francis Crick","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Francis_Crick.json"},
