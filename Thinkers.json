@@ -234,9 +234,9 @@
   {"id":"frank_knight","name":"Frank Knight","letter":"F","category":"","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/en/a/aa/Frank_H_Knight.jpg","jsonFile":"Frank_Knight.json"},
   {"id":"frank_ramsey","name":"Frank Ramsey","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/30._Frank_Ramsey.jpg/960px-30._Frank_Ramsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Ramsey.json"},
   {"id":"frank_rosenblatt","name":"Frank Rosenblatt","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Frank_Rosenblatt.jpg/960px-Frank_Rosenblatt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frank_Rosenblatt.json"},
-  {"id":"frantz_fanon","name":"Frantz Fanon","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frantz_Fanon.json"},
+  {"id":"frantz_fanon","name":"Frantz Fanon","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Photograph_of_Frantz_Fanon_from_Black_Skin_White_Masks_%281967%29_dust_jacket.webp/960px-Photograph_of_Frantz_Fanon_from_Black_Skin_White_Masks_%281967%29_dust_jacket.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Frantz_Fanon.json"},
   
-  {"id":"franz_alexander","name":"Franz Alexander","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Alexander.json"},
+  
   {"id":"franz_boas","name":"Franz Boas","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Boas.json"},
   {"id":"franz_brentano","name":"Franz Brentano","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Brentano.json"},
   {"id":"franz_gall","name":"Franz Gall","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Gall.json"},
