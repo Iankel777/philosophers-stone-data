@@ -238,11 +238,11 @@
   
   
   {"id":"franz_boas","name":"Franz Boas","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/FranzBoas.jpg/960px-FranzBoas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Boas.json"},
-  {"id":"franz_gall","name":"Franz Gall","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Gall.json"},
-  {"id":"franz_kafka","name":"Franz Kafka","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Kafka.json"},
-  {"id":"franz_rosenzweig","name":"Franz Rosenzweig","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Rosenzweig.json"},
-  {"id":"franz_oppenheimer","name":"Franz Oppenheimer","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Franz_Oppenheimer.json"},
-  {"id":"fred_brooks","name":"Fred Brooks","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fred_Brooks.json"},
+  {"id":"franz_gall","name":"Franz Gall","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Franz_Josef_Gall3.jpg/960px-Franz_Josef_Gall3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Gall.json"},
+  {"id":"franz_kafka","name":"Franz Kafka","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/960px-Franz_Kafka%2C_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Kafka.json"},
+  {"id":"franz_rosenzweig","name":"Franz Rosenzweig","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Franz_Rosenzweig.jpg/960px-Franz_Rosenzweig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Rosenzweig.json"},
+  {"id":"franz_oppenheimer","name":"Franz Oppenheimer","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Franz_oppenheimer_1_%28cropped%29.jpg/960px-Franz_oppenheimer_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Franz_Oppenheimer.json"},
+  {"id":"fred_brooks","name":"Fred Brooks","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fred_Brooks_%28cropped_square%29.jpg/960px-Fred_Brooks_%28cropped_square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fred_Brooks.json"},
   {"id":"fred_fiedler","name":"Fred Fiedler","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fred_Fiedler.json"},
   
   {"id":"frederick_banting","name":"Frederick Banting","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Frederick_Banting.json"},
