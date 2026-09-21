@@ -263,8 +263,7 @@
   
   {"id":"friedrich_trendelenburg","name":"Friedrich Trendelenburg","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Friedrich_Trendelenburg.jpg/960px-Friedrich_Trendelenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Trendelenburg.json"},
   {"id":"friedrich_wieser","name":"Friedrich Wieser","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/WieserColorized.png/960px-WieserColorized.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Friedrich_Wieser.json"},
-  {"id":"fritz_lipmann","name":"Fritz Lipmann","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_Lipmann.json"},
-  {"id":"fritz_london","name":"Fritz London","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_London.json"},
+  {"id":"fritz_lipmann","name":"Fritz Lipmann","letter":"F","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lipmann_Nobel.jpg/960px-Lipmann_Nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Fritz_Lipmann.json"},
   {"id":"fritz_perls","name":"Fritz Perls","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fritz_Perls.json"},
   {"id":"fyodor_dostoevsky","name":"Fyodor Dostoevsky","letter":"F","category":"","legend":true,"visible":true,"image":"","jsonFile":"Fyodor_Dostoevsky.json"},
   
