@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Grace Hopper",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper_and_UNIVAC.jpg",
+  "indexLetter": "G",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Mathematician, Naval Officer",
+  "school": "Computer Science, Programming Languages, Software Engineering",
+
+  "born": "9 December 1906",
+  "died": "1 January 1992",
+
+  "knownFor1": "COBOL Development",
+  "knownFor2": "Compiler Innovation",
+  "knownFor3": "Programming Languages",
+  "knownFor4": "Machine-Independent Computing",
+  "knownFor5": "Software Engineering",
+  "knownFor6": "Computer Programming Education",
+  "knownFor7": "Early Computing Systems",
+  "knownFor8": "Leadership in Computer Science",
+
+  "legacy": "Grace Hopper was one of the most influential pioneers in the history of computing. At a time when programming was performed directly in machine code, she championed the revolutionary idea that computers could understand instructions written in forms closer to human language. Her vision helped transform programming from a specialized technical activity into a discipline accessible to a much wider range of people. The software industry, modern programming languages, and contemporary software engineering practices all reflect principles she promoted throughout her career.",
+
+  "earlyLife": "Grace Hopper was born in New York City and displayed an unusual fascination with how things worked from an early age. She excelled in mathematics and science, subjects that were not commonly encouraged for women at the time. After studying mathematics, she pursued advanced academic work and eventually became a university teacher. Her strong logical abilities and curiosity about complex systems prepared her for the emerging world of electronic computing that would appear during the Second World War.",
+
+  "scientificField": "Computer Science, Programming Languages, Software Engineering, Mathematics",
+
+  "majorContributions": "Hopper's most significant contribution was her development of the compiler concept. She argued that programmers should not be required to communicate with computers exclusively through numerical machine instructions. Instead, software could translate human-readable code into machine-executable form. This idea became the foundation of modern programming languages. She was also a leading force behind the development of COBOL, one of the first widely adopted business programming languages. Her work encouraged machine independence, software portability, and higher-level programming abstractions that eventually became standard across the computing industry. In addition, she played a vital role in promoting professional standards and large-scale software development practices.",
+
+  "laterLife": "As her influence grew, Hopper became both a technological leader and a public advocate for innovation. She served in the United States Navy while continuing to contribute to computing research and education. Through lectures, demonstrations, and mentorship, she inspired generations of engineers and programmers. Her later years were dedicated to helping organizations understand the potential of software and encouraging young people to challenge assumptions about what computers could accomplish.",
+
+  "whyImportant": "Grace Hopper is important because she helped make modern programming possible. By promoting compilers and human-readable programming languages, she fundamentally changed the relationship between people and computers. Her ideas accelerated software development, expanded access to programming, and supported the rapid growth of information technology. She remains an enduring symbol of innovation, practical problem-solving, and intellectual courage within computer science.",
+
+  "quote1": "The most dangerous phrase in the language is: We've always done it this way.",
+  "quote2": "A ship in port is safe, but that's not what ships are built for.",
+  "quote3": "Humans are allergic to change. They love to say, 'We've always done it this way.'",
+  "quote4": "You manage things; you lead people.",
+  "quote5": "The important thing is to keep moving forward.",
+  "quote6": "Innovation begins when assumptions are questioned.",
+  "quote7": "Computers exist to solve problems for people.",
+  "quote8": "Good ideas deserve experimentation.",
+  "quote9": "Progress depends on refusing unnecessary limitations.",
+  "quote10": "Programming should be understandable to human beings.",
+  "quote11": "Curiosity is one of the foundations of discovery.",
+  "quote12": "Complex systems become useful through simplification.",
+  "quote13": "Leadership requires the courage to challenge convention.",
+  "quote14": "Technology advances when barriers are removed.",
+  "quote15": "Every improvement starts with a better question.",
+  "quote16": "Education multiplies innovation.",
+  "quote17": "Software should serve human goals.",
+  "quote18": "Efficiency grows from clarity.",
+  "quote19": "Future possibilities are created by present experimentation.",
+  "quote20": "The best way to predict the future is to build it."
+}

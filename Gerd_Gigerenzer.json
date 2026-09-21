@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Gerd Gigerenzer",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gerd_Gigerenzer_2015.jpg",
+  "indexLetter": "G",
+
+  "nationality": "German",
+  "occupation": "Psychologist, Cognitive Scientist, Academic",
+  "school": "Cognitive Psychology, Decision Science, Ecological Rationality",
+
+  "born": "3 September 1947",
+  "died": "",
+
+  "knownFor1": "Bounded Rationality",
+  "knownFor2": "Ecological Rationality",
+  "knownFor3": "Fast and Frugal Heuristics",
+  "knownFor4": "Decision Making",
+  "knownFor5": "Risk Literacy",
+  "knownFor6": "Cognitive Psychology",
+  "knownFor7": "Judgment Under Uncertainty",
+  "knownFor8": "Behavioral Science",
+
+  "legacy": "Gerd Gigerenzer is one of the most influential researchers in the psychology of judgment and decision-making. He challenged the widespread assumption that heuristics are merely sources of error and bias. Instead, he argued that simple rules of thumb can often produce effective decisions in complex and uncertain environments. His work helped reshape discussions about rationality by showing that successful thinking frequently depends on matching decision strategies to real-world conditions rather than maximizing mathematical optimization. His ideas have influenced psychology, economics, medicine, public policy, management, and artificial intelligence.",
+
+  "earlyLife": "Gigerenzer was born in Germany during the postwar period and developed interests in both the sciences and the humanities. During his academic studies he became fascinated by how people make judgments when information is incomplete and time is limited. Rather than viewing human decision-makers as flawed versions of ideal calculators, he became interested in understanding how real people solve practical problems in everyday life. These concerns eventually guided his research career toward cognition, uncertainty, and rational behavior.",
+
+  "scientificField": "Psychology, Cognitive Science, Decision Science, Behavioral Research, Risk Communication",
+
+  "majorContributions": "Gigerenzer developed the theory of ecological rationality, which proposes that the quality of a decision depends on how well a cognitive strategy fits the environment in which it is used. He demonstrated that simple heuristics can often outperform more complex methods when information is limited, uncertain, or costly to obtain. His research on fast and frugal heuristics showed how people make efficient decisions using minimal information. He also became a leading advocate for risk literacy, arguing that citizens, patients, and professionals should be taught how to understand probabilities, statistics, and uncertainty. His work has been especially influential in medicine, where clearer communication of risk can improve decision-making and reduce misunderstanding.",
+
+  "laterLife": "Throughout his career, Gigerenzer has directed major research centers devoted to human decision-making and cognition. He has written extensively for both academic and public audiences, seeking to improve understanding of risk, probability, and uncertainty. His later work expanded beyond laboratory psychology into public health, financial decision-making, education, and policy. Through books, lectures, and educational initiatives, he has become one of the most prominent advocates for practical statistical literacy in modern society.",
+
+  "whyImportant": "Gigerenzer is important because he transformed how psychologists think about rationality. Instead of defining good thinking solely by abstract mathematical standards, he emphasized how minds adapt to real-world environments. His findings showed that simplicity can often be a strength rather than a weakness. In addition, his efforts to improve public understanding of risk have had significant implications for medicine, public health, and democratic decision-making. His work continues to shape research on cognition, expertise, and human judgment.",
+
+  "quote1": "Intuition is not irrational; it is intelligence compressed by experience.",
+  "quote2": "A good decision does not guarantee a good outcome.",
+  "quote3": "Less information can sometimes lead to better decisions.",
+  "quote4": "Simple heuristics can be surprisingly powerful.",
+  "quote5": "Rationality depends on the environment.",
+  "quote6": "Uncertainty cannot always be reduced to risk.",
+  "quote7": "People need tools for understanding probabilities.",
+  "quote8": "Fast decisions are not necessarily poor decisions.",
+  "quote9": "The mind evolved to operate under uncertainty.",
+  "quote10": "Good judgment often relies on smart simplification.",
+  "quote11": "Risk literacy is an essential life skill.",
+  "quote12": "Complex problems do not always require complex solutions.",
+  "quote13": "Human intelligence includes knowing what to ignore.",
+  "quote14": "Heuristics are adaptive tools, not merely shortcuts.",
+  "quote15": "A model's elegance does not guarantee usefulness.",
+  "quote16": "Decision-making should be studied in real environments.",
+  "quote17": "Understanding uncertainty is central to rational action.",
+  "quote18": "Experts often rely on experience-based intuition.",
+  "quote19": "Statistical thinking empowers informed citizens.",
+  "quote20": "The best strategy is often the one that fits the situation."
+}

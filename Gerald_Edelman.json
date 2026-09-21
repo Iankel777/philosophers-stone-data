@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Gerald Edelman",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gerald_Edelman.jpg",
+  "indexLetter": "G",
+
+  "nationality": "American",
+  "occupation": "Biologist, Neuroscientist, Immunologist, Professor",
+  "school": "Neuroscience, Immunology, Theoretical Biology",
+
+  "born": "1 July 1929",
+  "died": "17 May 2014",
+
+  "knownFor1": "Theory of Neural Darwinism",
+  "knownFor2": "Nobel Prize in Physiology or Medicine",
+  "knownFor3": "Antibody Structure Research",
+  "knownFor4": "Consciousness Studies",
+  "knownFor5": "Neural Group Selection",
+  "knownFor6": "Theoretical Neuroscience",
+  "knownFor7": "Brain Development",
+  "knownFor8": "Biological Basis of Mind",
+
+  "legacy": "Gerald Edelman made groundbreaking contributions to two major scientific fields: immunology and neuroscience. Early in his career he helped explain how antibodies are structured and generated, work that transformed modern immunology. Later he turned his attention to the brain, where he developed an influential biological theory of consciousness and cognition. By applying principles inspired by evolutionary selection to neural development, he proposed new ways of understanding learning, perception, memory, and awareness. His interdisciplinary approach encouraged scientists to view the brain as a dynamic, self-organizing system rather than a fixed machine.",
+
+  "earlyLife": "Edelman was born in New York City and demonstrated strong interests in science, literature, and music from an early age. Although initially trained in medicine, he became increasingly attracted to research because it allowed him to investigate fundamental questions about life and knowledge. His scientific education exposed him to biology, chemistry, and physiology, fostering a broad intellectual outlook that would later characterize his work. Rather than remaining within a single discipline, he sought connections among diverse scientific domains.",
+
+  "scientificField": "Neuroscience, Immunology, Biology, Cognitive Science, Consciousness Research",
+
+  "majorContributions": "Edelman's first major achievement involved clarifying the molecular structure of antibodies, helping explain how the immune system recognizes a vast variety of foreign substances. This work contributed significantly to modern immunology and earned him international recognition. In the second phase of his career, he focused on the brain and developed the Theory of Neural Darwinism, also known as Neural Group Selection Theory. According to this framework, neural circuits compete and are selectively strengthened through experience, producing increasingly adaptive patterns of activity. He argued that consciousness emerges from ongoing interactions among distributed neural populations rather than from a single control center. His concepts of reentry, neural selection, and dynamic integration became influential topics in theoretical neuroscience.",
+
+  "laterLife": "Edelman devoted his later years to exploring the biological foundations of consciousness, cognition, and subjective experience. He founded research institutions dedicated to interdisciplinary neuroscience and collaborated with scientists from numerous fields. Through books, lectures, and theoretical work, he sought to explain how physical brain processes give rise to awareness and meaning. His final decades were marked by ambitious efforts to connect biology, evolution, psychology, and philosophy into a unified account of the mind.",
+
+  "whyImportant": "Edelman is important because he made major contributions to understanding both the immune system and the brain. His research helped reshape immunology while his theories challenged traditional computational views of cognition. By emphasizing variation, selection, and dynamic organization, he provided a biologically grounded framework for investigating consciousness and intelligence. His ideas continue to influence neuroscience, cognitive science, artificial intelligence, philosophy of mind, and complex systems research.",
+
+  "quote1": "The brain is not an instruction-driven machine but a selectional system.",
+  "quote2": "Consciousness arises from biological processes, not outside them.",
+  "quote3": "Perception is an active construction rather than passive reception.",
+  "quote4": "Complexity is a fundamental feature of living systems.",
+  "quote5": "The mind emerges from dynamic neural activity.",
+  "quote6": "Experience shapes the organization of the brain.",
+  "quote7": "Biology provides the foundation for understanding consciousness.",
+  "quote8": "No two brains are organized in exactly the same way.",
+  "quote9": "Neural development involves variation and selection.",
+  "quote10": "Knowledge begins with interaction between organism and world.",
+  "quote11": "The brain continuously reorganizes itself through experience.",
+  "quote12": "Awareness depends on integrated neural processes.",
+  "quote13": "Evolutionary principles extend beyond genetics.",
+  "quote14": "Memory is a dynamic process rather than a static storage system.",
+  "quote15": "Understanding the brain requires understanding its history.",
+  "quote16": "Living systems create order through self-organization.",
+  "quote17": "Conscious experience reflects ongoing neural integration.",
+  "quote18": "Scientific explanations must remain grounded in biology.",
+  "quote19": "The study of mind demands interdisciplinary thinking.",
+  "quote20": "Selection is one of nature's most powerful creative principles."
+}

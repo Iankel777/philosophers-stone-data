@@ -1,0 +1,54 @@
+{
+  "thinkerName": "George Berkeley",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/George_Berkeley_by_John_Smybert.jpg",
+  "indexLetter": "G",
+
+  "nationality": "Irish",
+  "occupation": "Philosopher, Bishop, Theologian",
+  "school": "Empiricism, Immaterialism, Idealism",
+
+  "born": "12 March 1685",
+  "died": "14 January 1753",
+
+  "knownFor1": "Immaterialism",
+  "knownFor2": "Subjective Idealism",
+  "knownFor3": "Esse est Percipi",
+  "knownFor4": "Empiricism",
+  "knownFor5": "Theory of Vision",
+  "knownFor6": "Critique of Material Substance",
+  "knownFor7": "Philosophy of Perception",
+  "knownFor8": "Three Dialogues Between Hylas and Philonous",
+
+  "legacy": "George Berkeley is considered one of the most influential philosophers of the early modern period. He challenged the existence of material substance and argued that reality consists of minds and ideas. His doctrine of immaterialism became one of the most original contributions to metaphysics and epistemology. Berkeley's work influenced later philosophers including David Hume, Immanuel Kant, Arthur Schopenhauer, and numerous twentieth-century philosophers interested in perception, consciousness, and idealism.",
+
+  "earlyLife": "Berkeley was born in County Kilkenny, Ireland. He attended Kilkenny College before entering Trinity College Dublin, where he studied classics, mathematics, philosophy, and theology. During his university years he became increasingly interested in the philosophical debates surrounding perception, knowledge, and the nature of reality. His early writings revealed an ambition to challenge the dominant philosophical assumptions of his time.",
+
+  "scientificField": "Philosophy, Metaphysics, Epistemology, Philosophy of Perception, Theology",
+
+  "majorContributions": "Berkeley developed the theory of immaterialism, arguing that physical objects do not exist independently of perception. His famous principle 'esse est percipi' maintained that to exist is to be perceived. He rejected the notion of material substance and claimed that all sensory experiences are ideas perceived by minds. To preserve the order and continuity of the world, Berkeley argued that God continuously perceives all things. His analysis of vision, perception, and knowledge anticipated later discussions in psychology and philosophy of mind.",
+
+  "laterLife": "Berkeley became Bishop of Cloyne in Ireland and devoted considerable energy to religious, educational, and social issues. He also pursued plans for establishing a college in Bermuda to educate clergy and missionaries, although the project never materialized. Throughout his later years he continued writing philosophical and theological works. He spent his final years in Oxford, where he died in 1753.",
+
+  "whyImportant": "Berkeley fundamentally challenged conventional assumptions about reality, perception, and knowledge. His arguments forced philosophers to address difficult questions concerning the relationship between mind and world. His influence can be seen in later idealist traditions, modern discussions of consciousness, theories of perception, and debates concerning the nature of existence. Berkeley remains one of the central figures in the history of British empiricism and modern philosophy.",
+
+  "quote1": "To be is to be perceived.",
+  "quote2": "The objects of sense exist only when they are perceived.",
+  "quote3": "Westward the course of empire takes its way.",
+  "quote4": "Truth is the cry of all, but the game of few.",
+  "quote5": "We perceive only our own ideas.",
+  "quote6": "Ideas can only be like ideas.",
+  "quote7": "The senses provide signs rather than substances.",
+  "quote8": "A thing exists insofar as it is perceived.",
+  "quote9": "Matter without perception is inconceivable.",
+  "quote10": "Knowledge begins with experience.",
+  "quote11": "The visible world depends upon mind.",
+  "quote12": "God perceives all things eternally.",
+  "quote13": "Reality is inseparable from perception.",
+  "quote14": "Abstract ideas are a source of confusion.",
+  "quote15": "Language often misleads philosophical inquiry.",
+  "quote16": "The world is sustained through divine perception.",
+  "quote17": "Philosophy should remove unnecessary abstractions.",
+  "quote18": "The mind knows ideas directly.",
+  "quote19": "Certainty is found in immediate experience.",
+  "quote20": "Perception reveals the order of creation."
+}

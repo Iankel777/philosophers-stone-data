@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Georg Gottlob",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/placeholder/Georg_Gottlob.jpg",
+  "indexLetter": "G",
+
+  "nationality": "Austrian",
+  "occupation": "Computer Scientist, Researcher, Professor",
+  "school": "Theoretical Computer Science, Database Theory, Artificial Intelligence",
+
+  "born": "1956",
+  "died": "",
+
+  "knownFor1": "Database Theory",
+  "knownFor2": "Knowledge Representation",
+  "knownFor3": "Logic in Computer Science",
+  "knownFor4": "Computational Complexity",
+  "knownFor5": "Artificial Intelligence",
+  "knownFor6": "Reasoning Systems",
+  "knownFor7": "Data Management",
+  "knownFor8": "Foundations of Information Systems",
+
+  "legacy": "Georg Gottlob is one of the leading figures in theoretical computer science, particularly in the fields of databases, logic, and artificial intelligence. His work helped establish rigorous mathematical foundations for managing, querying, and reasoning about large collections of information. By connecting formal logic with practical computing problems, he contributed to technologies that support modern databases, information systems, semantic web applications, and intelligent reasoning systems. His research continues to influence both academic computer science and industrial data technologies.",
+
+  "earlyLife": "Gottlob grew up in Austria during a period when computing was rapidly evolving from a specialized scientific activity into a global discipline. He developed strong interests in mathematics, logical reasoning, and problem-solving. These interests eventually led him toward computer science, where he became fascinated by questions concerning how knowledge can be represented, organized, and processed efficiently by machines. His mathematical background heavily influenced his later approach to computer science research.",
+
+  "scientificField": "Computer Science, Database Theory, Artificial Intelligence, Logic, Computational Complexity",
+
+  "majorContributions": "Gottlob made significant contributions to database theory, computational logic, and knowledge representation. His research helped improve the theoretical understanding of query languages, logical reasoning systems, and efficient methods for extracting information from complex data sources. He investigated how computers can manage uncertainty, represent structured knowledge, and answer sophisticated questions over large datasets. His work also contributed to the development of techniques for optimizing database systems and improving automated reasoning. By combining mathematical rigor with practical relevance, he helped shape modern research in data-intensive computing and intelligent information systems.",
+
+  "laterLife": "Throughout his academic career, Gottlob held influential research and teaching positions while collaborating with scientists across Europe and beyond. He published extensively on databases, artificial intelligence, logic, and computational complexity. His later work expanded into areas such as knowledge graphs, web data management, and advanced reasoning systems. As a mentor and researcher, he helped train many scholars who went on to contribute to computer science and information technology.",
+
+  "whyImportant": "Gottlob is important because he strengthened the theoretical foundations that make modern information systems reliable, scalable, and intelligent. His research helped bridge the gap between abstract mathematical logic and practical computing applications. Many advances in data management, automated reasoning, and artificial intelligence depend upon principles he helped develop. His influence extends across academia, industry, and technologies that rely on efficient processing of large amounts of information.",
+
+  "quote1": "Information becomes useful when it can be represented and reasoned about effectively.",
+  "quote2": "Logic provides a powerful language for understanding computation.",
+  "quote3": "Data management begins with clear structure.",
+  "quote4": "Theoretical foundations enable practical innovation.",
+  "quote5": "Complex information systems require rigorous reasoning.",
+  "quote6": "Knowledge representation is central to intelligent computing.",
+  "quote7": "Efficient queries depend on sound mathematical principles.",
+  "quote8": "Computer science advances through the union of theory and application.",
+  "quote9": "Reasoning systems transform information into knowledge.",
+  "quote10": "Good models make complexity manageable.",
+  "quote11": "Data without structure limits understanding.",
+  "quote12": "Formal methods provide reliability in computation.",
+  "quote13": "Large information spaces require intelligent organization.",
+  "quote14": "Mathematics remains one of computing's strongest foundations.",
+  "quote15": "Knowledge can often be described through relationships.",
+  "quote16": "Scientific progress depends upon precise definitions.",
+  "quote17": "Intelligent systems require both information and inference.",
+  "quote18": "Database theory connects logic with real-world applications.",
+  "quote19": "Understanding complexity helps create efficient solutions.",
+  "quote20": "The future of computing depends on managing knowledge effectively."
+}

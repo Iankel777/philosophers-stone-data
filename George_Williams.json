@@ -1,0 +1,54 @@
+{
+  "thinkerName": "George Williams",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/George_C_Williams.jpg",
+  "indexLetter": "G",
+
+  "nationality": "American",
+  "occupation": "Evolutionary Biologist, Professor, Theoretical Biologist",
+  "school": "Gene-Centered Evolution, Evolutionary Biology, Adaptationism",
+
+  "born": "12 May 1926",
+  "died": "8 September 2010",
+
+  "knownFor1": "Gene-Centered View of Evolution",
+  "knownFor2": "Adaptation and Natural Selection",
+  "knownFor3": "Antagonistic Pleiotropy",
+  "knownFor4": "Evolution of Aging",
+  "knownFor5": "Evolutionary Medicine",
+  "knownFor6": "Levels of Selection",
+  "knownFor7": "Natural Selection Theory",
+  "knownFor8": "Contemporary Evolutionary Biology",
+
+  "legacy": "George C. Williams was one of the most influential evolutionary theorists of the twentieth century. He helped bring greater conceptual precision to evolutionary biology by arguing that adaptive explanations should be accepted only when supported by strong evidence. His work strengthened the gene-centered interpretation of natural selection and shaped the way biologists think about adaptation, aging, reproduction, and evolutionary design. Many ideas that later became central to evolutionary psychology, behavioral ecology, and evolutionary medicine were influenced by principles that Williams helped establish.",
+
+  "earlyLife": "Williams was born in North Carolina and developed an early fascination with nature, animals, and scientific reasoning. As a student he became interested in how complex biological features could arise through natural processes. His education exposed him to debates about heredity, evolution, and adaptation, leading him toward a career in evolutionary biology. From an early stage, he showed a talent for questioning accepted assumptions and demanding clear explanatory standards.",
+
+  "scientificField": "Evolutionary Biology, Theoretical Biology, Genetics, Evolutionary Medicine",
+
+  "majorContributions": "Williams is best known for his influential analysis of adaptation and natural selection. He argued that natural selection should generally be understood as acting most effectively through genes rather than through groups or species. His book 'Adaptation and Natural Selection' became a landmark work that challenged weak or speculative evolutionary explanations and established more rigorous standards for evolutionary reasoning. He also made major contributions to the evolutionary study of aging through the theory of antagonistic pleiotropy, which proposes that genes beneficial early in life may persist even if they produce harmful effects later in life. In addition, he helped lay the foundations of evolutionary medicine by showing how diseases and health conditions can often be better understood from an evolutionary perspective.",
+
+  "laterLife": "Throughout his career, Williams continued refining evolutionary theory and participating in debates concerning adaptation, selection, and biological complexity. His writings combined conceptual clarity with analytical rigor and influenced researchers across numerous disciplines. During his later years, he focused increasingly on evolutionary explanations of health, disease, and life history. His work remained highly respected among both theoretical and empirical biologists until the end of his life.",
+
+  "whyImportant": "Williams is important because he helped clarify how natural selection operates and how evolutionary explanations should be constructed. His insistence on careful reasoning strengthened evolutionary biology as a scientific discipline. His ideas about genes, aging, adaptation, and biological design continue to influence research in genetics, medicine, ecology, psychology, and evolutionary theory. Few evolutionary biologists have had such a lasting impact on both the conceptual foundations and practical applications of evolutionary science.",
+
+  "quote1": "Adaptation should never be assumed without evidence.",
+  "quote2": "Natural selection favors what increases reproductive success.",
+  "quote3": "Evolution operates through competition among hereditary information.",
+  "quote4": "Biological design emerges without a designer.",
+  "quote5": "Scientific explanations should be as simple as the evidence permits.",
+  "quote6": "Complexity often arises from cumulative selection.",
+  "quote7": "Genes can have both benefits and costs.",
+  "quote8": "Aging itself may be a consequence of evolutionary trade-offs.",
+  "quote9": "Evolution explains function through history.",
+  "quote10": "Adaptive hypotheses require careful testing.",
+  "quote11": "Selection rewards effectiveness rather than perfection.",
+  "quote12": "Every biological trait has an evolutionary story.",
+  "quote13": "Evolutionary thinking provides unity across the life sciences.",
+  "quote14": "Natural selection produces solutions constrained by history.",
+  "quote15": "Trade-offs are fundamental to biological systems.",
+  "quote16": "The gene is a powerful unit of evolutionary analysis.",
+  "quote17": "Biology becomes clearer when viewed through evolution.",
+  "quote18": "Scientific progress depends on rigorous skepticism.",
+  "quote19": "Organisms reflect both adaptation and constraint.",
+  "quote20": "To understand life, one must understand its evolutionary origins."
+}

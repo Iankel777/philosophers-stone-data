@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Gary Kildall",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gary_Kildall_1988.jpg",
+  "indexLetter": "G",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Programmer, Entrepreneur",
+  "school": "Computer Science, Operating Systems, Microcomputer Computing",
+
+  "born": "19 May 1942",
+  "died": "11 July 1994",
+
+  "knownFor1": "CP/M Operating System",
+  "knownFor2": "Microcomputer Revolution",
+  "knownFor3": "Digital Research",
+  "knownFor4": "BIOS Concept",
+  "knownFor5": "Personal Computing Pioneer",
+  "knownFor6": "System Software Development",
+  "knownFor7": "Programming Languages",
+  "knownFor8": "Early Computer Industry Leadership",
+
+  "legacy": "Gary Kildall was one of the most important yet often underappreciated pioneers of personal computing. At a time when microcomputers were emerging from laboratories and hobbyist communities, he developed software that made these machines practical for everyday use. His operating systems allowed programs to run across different computer models, helping establish standards that accelerated the growth of the software industry. Many of the concepts now considered fundamental to personal computing, including hardware abstraction and portable operating-system design, were advanced through Kildall's work.",
+
+  "earlyLife": "Kildall was born in Seattle, Washington, and developed a strong interest in mathematics, science, and technology during his youth. After studying mathematics and later computer science, he became fascinated by the potential of microprocessors. While many researchers focused on large institutional computers, Kildall recognized that smaller, affordable machines could eventually become widely available. This vision drove him toward creating software specifically for the emerging microcomputer market.",
+
+  "scientificField": "Computer Science, Operating Systems, Software Engineering, Programming Systems",
+
+  "majorContributions": "Kildall's most significant achievement was the creation of CP/M (Control Program for Microcomputers), one of the first widely adopted operating systems for microcomputers. CP/M provided a standard environment in which software could be developed and executed across different hardware platforms. This portability greatly simplified software distribution and accelerated the growth of an independent software ecosystem. He also introduced influential concepts related to the Basic Input/Output System (BIOS), separating machine-specific hardware operations from higher-level software. This architectural approach later became a fundamental principle in computer-system design. Through his company, Digital Research, Kildall helped shape the early commercial software industry and advanced the practical usability of personal computers.",
+
+  "laterLife": "As the personal computer industry rapidly expanded, Kildall remained active as a technologist, entrepreneur, author, and public advocate for computing innovation. He continued developing operating systems and exploring new areas of software technology. Beyond research and business, he became known for communicating technical ideas to broader audiences and encouraging the growth of personal computing. Although later overshadowed by larger industry competitors, his influence remained visible in many technologies that became standard throughout the computer industry.",
+
+  "whyImportant": "Gary Kildall is important because he helped create the software foundations that allowed personal computers to become useful, accessible, and commercially viable. His work on operating systems, portability, and hardware abstraction shaped the structure of modern computing platforms. Long before personal computing became widespread, he recognized the importance of software standards and interoperable systems. His contributions helped transform microcomputers from experimental devices into practical tools used by businesses, educators, developers, and consumers around the world.",
+
+  "quote1": "The value of a computer depends on the software that makes it useful.",
+  "quote2": "Standardization accelerates innovation.",
+  "quote3": "Good operating systems allow users to focus on problems rather than machines.",
+  "quote4": "Computers become powerful when software is portable.",
+  "quote5": "Technology should reduce complexity for users.",
+  "quote6": "The future belongs to accessible computing.",
+  "quote7": "Software creates possibilities that hardware alone cannot provide.",
+  "quote8": "Open standards encourage broader innovation.",
+  "quote9": "A successful system balances flexibility and simplicity.",
+  "quote10": "Microcomputers have the potential to reach everyone.",
+  "quote11": "Engineering progress often depends on common platforms.",
+  "quote12": "Software architecture influences entire industries.",
+  "quote13": "Computing power becomes useful through practical design.",
+  "quote14": "Innovation grows when developers can build upon shared foundations.",
+  "quote15": "Technology should empower creativity.",
+  "quote16": "Compatibility expands opportunity.",
+  "quote17": "Every new platform requires a stable software environment.",
+  "quote18": "Computing advances when systems become easier to use.",
+  "quote19": "Portable software changes the economics of technology.",
+  "quote20": "The best systems make powerful technology widely available."
+}

@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Gene Kim",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/placeholder/Gene_Kim.jpg",
+  "indexLetter": "G",
+
+  "nationality": "American",
+  "occupation": "Author, Technology Researcher, DevOps Thought Leader",
+  "school": "DevOps, IT Management, Systems Thinking, Software Delivery",
+
+  "born": "1973",
+  "died": "",
+
+  "knownFor1": "The Phoenix Project",
+  "knownFor2": "DevOps Movement",
+  "knownFor3": "The Unicorn Project",
+  "knownFor4": "Technology Management",
+  "knownFor5": "Flow-Based Software Delivery",
+  "knownFor6": "Systems Thinking",
+  "knownFor7": "IT Organizational Transformation",
+  "knownFor8": "High-Performance Technology Organizations",
+
+  "legacy": "Gene Kim is one of the most influential voices in modern software delivery and organizational technology management. Through his books, research, conferences, and educational work, he helped translate complex engineering and management ideas into practical frameworks that organizations could apply at scale. His contributions popularized DevOps beyond a niche technical movement, helping executives, managers, and engineers understand how software delivery, operational reliability, and organizational culture are interconnected. His work has influenced thousands of companies seeking to improve innovation, productivity, and technical performance.",
+
+  "earlyLife": "Kim developed an early interest in computing, technology, and organizational problem-solving during the rapid expansion of enterprise software systems. As software became increasingly central to business operations, he became interested in why some organizations consistently delivered reliable systems while others struggled with delays, failures, and complexity. These questions led him toward studying technology organizations as systems rather than collections of isolated departments or technical teams.",
+
+  "scientificField": "Software Engineering, Information Technology Management, Organizational Systems, DevOps",
+
+  "majorContributions": "Kim's most influential contribution has been helping define and popularize the principles of DevOps. Through extensive research and collaboration with engineers, operations specialists, and technology leaders, he emphasized the importance of flow, feedback, continuous improvement, and cross-functional cooperation. His widely read books, particularly those written in narrative form, demonstrated how organizational structures influence software delivery outcomes. He helped promote practices such as continuous integration, continuous delivery, infrastructure automation, and systems-oriented thinking. His work emphasized that high-performing technology organizations succeed not merely through better tools but through improved communication, shared responsibility, and learning cultures.",
+
+  "laterLife": "As DevOps became a global movement, Kim emerged as one of its most visible educators and advocates. He organized conferences, published research findings, and engaged with technology leaders across numerous industries. His later work focused on large-scale organizational transformation, software architecture, developer productivity, and the relationship between technological capability and business performance. Through ongoing research and public engagement, he continued influencing how organizations design and manage technology systems.",
+
+  "whyImportant": "Gene Kim is important because he helped bridge the gap between software engineering, operations management, and organizational leadership. His work demonstrated that technical excellence depends on cultural, structural, and managerial factors as much as on software tools themselves. Many modern practices associated with DevOps, platform engineering, and continuous delivery have been shaped by ideas he helped explain and popularize. His influence extends across industries where software has become a critical component of organizational success.",
+
+  "quote1": "Technology work is fundamentally a team sport.",
+  "quote2": "The speed of delivery depends on the flow of work through the system.",
+  "quote3": "Local optimization often creates global inefficiency.",
+  "quote4": "Organizations perform according to the systems they create.",
+  "quote5": "Continuous improvement requires continuous learning.",
+  "quote6": "Reliability and innovation can reinforce each other.",
+  "quote7": "Feedback is essential for high-performance organizations.",
+  "quote8": "Software delivery is as much about people as technology.",
+  "quote9": "Complex systems require collaboration across boundaries.",
+  "quote10": "Transformation begins with understanding constraints.",
+  "quote11": "Visibility improves decision-making.",
+  "quote12": "The most valuable work is often the work that removes bottlenecks.",
+  "quote13": "Successful organizations optimize the whole system.",
+  "quote14": "Automation creates opportunities for creativity and improvement.",
+  "quote15": "Knowledge should flow as freely as code.",
+  "quote16": "Culture influences technical outcomes.",
+  "quote17": "Learning organizations outperform static organizations.",
+  "quote18": "Great technology depends on great communication.",
+  "quote19": "Systems thinking reveals hidden causes of failure.",
+  "quote20": "Improvement is a continuous process rather than a final destination."
+}

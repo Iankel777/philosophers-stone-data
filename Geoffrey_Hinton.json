@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Geoffrey Hinton",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Geoffrey_Hinton_2013.jpg",
+  "indexLetter": "G",
+
+  "nationality": "British-Canadian",
+  "occupation": "Computer Scientist, Cognitive Scientist, Artificial Intelligence Researcher",
+  "school": "Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks",
+
+  "born": "6 December 1947",
+  "died": "",
+
+  "knownFor1": "Deep Learning",
+  "knownFor2": "Artificial Neural Networks",
+  "knownFor3": "Backpropagation Research",
+  "knownFor4": "Representation Learning",
+  "knownFor5": "Boltzmann Machines",
+  "knownFor6": "Neural Network Revival",
+  "knownFor7": "Machine Learning",
+  "knownFor8": "Modern Artificial Intelligence",
+
+  "legacy": "Geoffrey Hinton is widely regarded as one of the most influential figures in the history of artificial intelligence. His research played a decisive role in transforming neural networks from a largely marginalized area of study into the dominant paradigm of modern AI. Many breakthroughs in image recognition, speech processing, machine translation, generative AI, and large language models were made possible by concepts and methods that Hinton helped develop. Often referred to as one of the 'godfathers of deep learning', he has shaped both the scientific foundations and practical applications of contemporary machine intelligence.",
+
+  "earlyLife": "Hinton was born in London, England, into a family with a strong intellectual tradition. From an early age he became interested in understanding how intelligence works and whether thinking could be explained through computational principles. During his academic studies he was drawn to psychology, neuroscience, and computer science, believing that the human brain could provide important clues about intelligent systems. This interdisciplinary curiosity guided his research throughout his entire career.",
+
+  "scientificField": "Artificial Intelligence, Machine Learning, Computer Science, Cognitive Science, Computational Neuroscience",
+
+  "majorContributions": "Hinton's most important contributions involve the development of artificial neural networks and deep learning. During periods when symbolic approaches dominated AI, he continued pursuing neural network research and helped demonstrate that learning systems inspired by the brain could solve complex computational problems. His work on distributed representations, backpropagation, Boltzmann machines, and deep neural architectures laid essential foundations for modern machine learning. He also contributed to advances in representation learning, enabling systems to discover meaningful patterns directly from data rather than relying exclusively on hand-crafted rules. His research was instrumental in the dramatic improvements achieved in computer vision, speech recognition, and generative AI during the twenty-first century.",
+
+  "laterLife": "As deep learning achieved remarkable success, Hinton became one of the most recognized voices in artificial intelligence research. He held influential academic positions, collaborated with major technology organizations, and mentored many researchers who later became leaders in AI. In his later years he increasingly reflected on both the opportunities and risks associated with advanced artificial intelligence, encouraging serious discussion about the societal implications of increasingly capable learning systems.",
+
+  "whyImportant": "Hinton is important because he helped establish the technological and theoretical foundations of modern artificial intelligence. Many AI systems used today depend on neural-network principles that he spent decades developing and defending. His work transformed scientific understanding of machine learning and accelerated progress across numerous fields, including healthcare, robotics, language technology, scientific discovery, and computer vision. Few researchers have had a greater influence on the direction of contemporary AI.",
+
+  "quote1": "To understand intelligence, we should try building systems that learn.",
+  "quote2": "Neural networks offer a powerful way to discover patterns in data.",
+  "quote3": "The future of intelligence research lies in learning systems.",
+  "quote4": "Machines can learn useful representations from experience.",
+  "quote5": "Complex behavior can emerge from simple learning mechanisms.",
+  "quote6": "The brain remains an important source of inspiration for AI.",
+  "quote7": "Intelligence is fundamentally about learning from experience.",
+  "quote8": "Progress often requires pursuing ideas long before they become popular.",
+  "quote9": "Learning systems improve through exposure to data.",
+  "quote10": "Representation learning is central to intelligent behavior.",
+  "quote11": "Scientific breakthroughs often begin as minority views.",
+  "quote12": "Artificial intelligence should be viewed as an evolving scientific journey.",
+  "quote13": "Large amounts of data can reveal unexpected patterns.",
+  "quote14": "The most effective systems learn rather than rely solely on rules.",
+  "quote15": "Neural computation provides insight into cognition.",
+  "quote16": "Innovation requires the courage to challenge prevailing assumptions.",
+  "quote17": "Machine intelligence is advancing faster than many expected.",
+  "quote18": "Research succeeds through persistence over decades.",
+  "quote19": "Understanding learning is one of science's great challenges.",
+  "quote20": "The development of intelligent machines will be one of humanity's defining achievements."
+}
