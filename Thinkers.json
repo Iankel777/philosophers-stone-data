@@ -308,9 +308,9 @@
 
   {"id":"gerty_cori","name":"Gerty Cori","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/960px-Gerty_Theresa_Cori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerty_Cori.json"},
 
-  {"id":"gilbert_herdt","name":"Gilbert Herdt","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Herdt.json"},
-  {"id":"gilbert_murray","name":"Gilbert Murray","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Murray.json"},
-  {"id":"gilbert_ryle","name":"Gilbert Ryle","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Ryle.json"},
+  {"id":"gilbert_herdt","name":"Gilbert Herdt","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/GilbertHerdt.jpg/960px-GilbertHerdt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gilbert_Herdt.json"},
+  {"id":"gilbert_murray","name":"Gilbert Murray","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Gilbert_Murray.jpg/960px-Gilbert_Murray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gilbert_Murray.json"},
+
   
   
   {"id":"gilles_brassard","name":"Gilles Brassard","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilles_Brassard.json"},
