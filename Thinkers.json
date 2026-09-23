@@ -298,8 +298,8 @@
 
   {"id":"gerald_edelman","name":"Gerald Edelman","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gerald_Edelman_%28cropped%29.jpg/960px-Gerald_Edelman_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerald_Edelman.json"},
 
-  {"id":"gerard_debreu","name":"Gérard Debreu","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerard_Debreu.json"},
-  {"id":"gerard_sarton","name":"George Sarton","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerard_Sarton.json"},
+  {"id":"gerard_debreu","name":"Gérard Debreu","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Gerard_Debreu_1997.jpg/960px-Gerard_Debreu_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerard_Debreu.json"},
+
   
   
   {"id":"gerd_gigerenzer","name":"Gerd Gigerenzer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerd_Gigerenzer.json"},
