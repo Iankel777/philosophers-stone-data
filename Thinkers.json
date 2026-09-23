@@ -272,7 +272,6 @@
   
  
   
-  {"id":"gavin_brown","name":"Gavin Brown","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gavin_Brown.json"},
   {"id":"gavin_king","name":"Gavin King","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gavin_King.json"},
   {"id":"gayatri_spivak","name":"Gayatri Chakravorty Spivak","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gayatri_Spivak.json"},
   {"id":"gene_grossman","name":"Gene Grossman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gene_Grossman.json"},
