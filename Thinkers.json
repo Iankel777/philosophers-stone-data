@@ -296,8 +296,8 @@
   
   {"id":"georges_simenon","name":"Georges Simenon","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Georges_Simenon_%281965%29.jpg/960px-Georges_Simenon_%281965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Georges_Simenon.json"},
 
-  {"id":"gerald_edelman","name":"Gerald Edelman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Edelman.json"},
-  {"id":"gerald_klerman","name":"Gerald Klerman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Klerman.json"},
+  {"id":"gerald_edelman","name":"Gerald Edelman","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gerald_Edelman_%28cropped%29.jpg/960px-Gerald_Edelman_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerald_Edelman.json"},
+
   {"id":"gerald_weinberg","name":"Gerald Weinberg","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerald_Weinberg.json"},
   {"id":"gerard_debreu","name":"Gérard Debreu","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerard_Debreu.json"},
   {"id":"gerard_sarton","name":"George Sarton","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerard_Sarton.json"},
