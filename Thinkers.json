@@ -308,7 +308,6 @@
 
   {"id":"gerty_cori","name":"Gerty Cori","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/960px-Gerty_Theresa_Cori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerty_Cori.json"},
 
-  {"id":"gianni_vattimo","name":"Gianni Vattimo","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gianni_Vattimo.json"},
   {"id":"gilbert_herdt","name":"Gilbert Herdt","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Herdt.json"},
   {"id":"gilbert_murray","name":"Gilbert Murray","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Murray.json"},
   {"id":"gilbert_ryle","name":"Gilbert Ryle","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilbert_Ryle.json"},
