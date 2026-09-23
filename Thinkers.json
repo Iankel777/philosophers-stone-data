@@ -295,7 +295,6 @@
   
   
 
-  {"id":"george_williams","name":"George Williams","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Williams.json"},
   {"id":"georges_canguilhem","name":"Georges Canguilhem","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Canguilhem.json"},
   {"id":"georges_politzer","name":"Georges Politzer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Politzer.json"},
   {"id":"georges_simenon","name":"Georges Simenon","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Simenon.json"},
