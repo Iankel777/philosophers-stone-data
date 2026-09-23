@@ -280,10 +280,10 @@
   {"id":"george_berkeley","name":"George Berkeley","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/George_Berkeley_by_John_Smibert.jpg/960px-George_Berkeley_by_John_Smibert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Berkeley.json"},
   {"id":"george_boole","name":"George Boole","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/George_Boole_color.jpg/960px-George_Boole_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Boole.json"},
 
-  {"id":"george_engel","name":"George Engel","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Engel.json"},
+  {"id":"george_engel","name":"George Engel","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Engels_1856.jpg/960px-Engels_1856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Engel.json"},
   
  
-  {"id":"george_kelly","name":"George Kelly","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Kelly.json"},
+
   {"id":"george_lakoff","name":"George Lakoff","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Lakoff.json"},
   {"id":"george_mead","name":"George Herbert Mead","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Mead.json"},
   {"id":"george_miller","name":"George Miller","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Miller.json"},
