@@ -324,7 +324,6 @@
   {"id":"gordon_bell","name":"Gordon Bell","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Gordon_Bell.jpg/960px-Gordon_Bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gordon_Bell.json"},
   {"id":"gore_vidal","name":"Gore Vidal","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Gore_Vidal_Shankbone_2009_NYC.jpg/960px-Gore_Vidal_Shankbone_2009_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gore_Vidal.json"},
   
-  {"id":"gottlob_frege","name":"Gottlob Frege","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gottlob_Frege.json"},
   {"id":"grace_hopper","name":"Grace Hopper","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Grace_Hopper.json"},
   {"id":"grady_booch","name":"Grady Booch","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Grady_Booch.json"},
   {"id":"graeme_rocher","name":"Graeme Rocher","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Graeme_Rocher.json"},
