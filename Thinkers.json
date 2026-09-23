@@ -289,9 +289,9 @@
 
   {"id":"george_orwell","name":"George Orwell","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/George_Orwell%2C_c._1940_%2841928180381%29.jpg/960px-George_Orwell%2C_c._1940_%2841928180381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Orwell.json"},
 
-  {"id":"george_santayana","name":"George Santayana","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Santayana.json"},
-  {"id":"george_simpson","name":"George Simpson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Simpson.json"},
-  {"id":"george_vaillant","name":"George Vaillant","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Vaillant.json"},
+  {"id":"george_santayana","name":"George Santayana","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/George_Santayana.jpg/960px-George_Santayana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Santayana.json"},
+
+  {"id":"george_vaillant","name":"George Vaillant","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/George_Vaillant_-_TEDxAMS_2014_-1.jpg/960px-George_Vaillant_-_TEDxAMS_2014_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Vaillant.json"},
   
   
   {"id":"george_waid","name":"George Waid","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Waid.json"},
