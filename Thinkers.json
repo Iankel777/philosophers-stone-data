@@ -284,8 +284,8 @@
   
  
 
-  {"id":"george_lakoff","name":"George Lakoff","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Lakoff.json"},
-  {"id":"george_mead","name":"George Herbert Mead","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Mead.json"},
+  {"id":"george_lakoff","name":"George Lakoff","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/George_Lakoff.jpg/960px-George_Lakoff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Lakoff.json"},
+  
   {"id":"george_miller","name":"George Miller","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Miller.json"},
   {"id":"george_orwell","name":"George Orwell","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Orwell.json"},
   {"id":"george_peter_murdock","name":"George Peter Murdock","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Peter_Murdock.json"},
