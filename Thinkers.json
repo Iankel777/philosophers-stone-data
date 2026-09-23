@@ -320,7 +320,7 @@
 
   
   
-  {"id":"gordon_allport","name":"Gordon Allport","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gordon_Allport.json"},
+
   {"id":"gordon_bell","name":"Gordon Bell","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gordon_Bell.json"},
   {"id":"gore_vidal","name":"Gore Vidal","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gore_Vidal.json"},
   {"id":"gottfried_haberler","name":"Gottfried Haberler","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gottfried_Haberler.json"},
