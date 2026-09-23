@@ -302,10 +302,10 @@
 
   
   
-  {"id":"gerd_gigerenzer","name":"Gerd Gigerenzer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerd_Gigerenzer.json"},
-  {"id":"gerhard_lenski","name":"Gerhard Lenski","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerhard_Lenski.json"},
-  {"id":"gershom_scholem","name":"Gershom Scholem","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gershom_Scholem.json"},
-  {"id":"gertrude_himmelfarb","name":"Gertrude Himmelfarb","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gertrude_Himmelfarb.json"},
+  {"id":"gerd_gigerenzer","name":"Gerd Gigerenzer","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Keynote_Gerd_Gigerenzer_%2826970155108%29.jpg/960px-Keynote_Gerd_Gigerenzer_%2826970155108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerd_Gigerenzer.json"},
+  {"id":"gerhard_lenski","name":"Gerhard Lenski","letter":"G","legend":true,"visible":true,"image":"https://th.bing.com/th/id/R.bb7aef751b04bd329dce2eb2a0ebdf76?rik=JsQ9yYBi41%2f6QA&riu=http%3a%2f%2fwww.payer.de%2fdharmashastra%2fdharma0507.gif&ehk=bN8U1jV0FjpaKMCtxmtai9Souj9epPky1CJqlN5Kyi4%3d&risl=&pid=ImgRaw&r=0","jsonFile":"Gerhard_Lenski.json"},
+  {"id":"gershom_scholem","name":"Gershom Scholem","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Gershom_Scholem_1935.jpg/960px-Gershom_Scholem_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gershom_Scholem.json"},
+
   {"id":"gerty_cori","name":"Gerty Cori","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gerty_Cori.json"},
   {"id":"geza_roheim","name":"Géza Róheim","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geza_Roheim.json"},
   {"id":"gianni_vattimo","name":"Gianni Vattimo","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gianni_Vattimo.json"},
