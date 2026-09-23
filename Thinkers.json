@@ -313,8 +313,8 @@
 
   
   
-  {"id":"gilles_brassard","name":"Gilles Brassard","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilles_Brassard.json"},
-  {"id":"gilles_deleuze","name":"Gilles Deleuze","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gilles_Deleuze.json"},
+  {"id":"gilles_brassard","name":"Gilles Brassard","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gilles_Brassard_%282019%29.jpg/960px-Gilles_Brassard_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gilles_Brassard.json"},
+ 
   {"id":"gillian_tett","name":"Gillian Tett","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gillian_Tett.json"},
   {"id":"giovanni_arrighi","name":"Giovanni Arrighi","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Giovanni_Arrighi.json"},
   {"id":"giovanni_boccaccio","name":"Giovanni Boccaccio","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Giovanni_Boccaccio.json"},
