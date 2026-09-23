@@ -269,8 +269,8 @@
   {"id":"gary_becker","name":"Gary Becker","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/37._St.Gallen_Symposium-Gary_S._Becker-HSGN_028-01898.JPG/960px-37._St.Gallen_Symposium-Gary_S._Becker-HSGN_028-01898.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gary_Becker.json"},
   
   
-  {"id":"geoffrey_hinton","name":"Geoffrey Hinton","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geoffrey_Hinton.json"},
-  {"id":"geoffrey_hodgson","name":"Geoffrey Hodgson","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geoffrey_Hodgson.json"},
+  {"id":"geoffrey_hinton","name":"Geoffrey Hinton","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Geoffrey_E._Hinton%2C_2024_Nobel_Prize_Laureate_in_Physics_%28cropped1%29.jpg/960px-Geoffrey_E._Hinton%2C_2024_Nobel_Prize_Laureate_in_Physics_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Geoffrey_Hinton.json"},
+  
   
   
   {"id":"geoffrey_west","name":"Geoffrey West","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Geoffrey_West.json"},
