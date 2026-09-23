@@ -319,8 +319,6 @@
   {"id":"giovanni_arrighi","name":"Giovanni Arrighi","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2007_Giovanni_Arrighi_lecture_in_South_Africa.jpg/960px-2007_Giovanni_Arrighi_lecture_in_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Giovanni_Arrighi.json"},
 
   
-  {"id":"glenn_bowman","name":"Glenn Bowman","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Glenn_Bowman.json"},
-  
   
   {"id":"gordon_allport","name":"Gordon Allport","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gordon_Allport.json"},
   {"id":"gordon_bell","name":"Gordon Bell","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Gordon_Bell.json"},
