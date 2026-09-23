@@ -294,7 +294,7 @@
   {"id":"george_vaillant","name":"George Vaillant","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/George_Vaillant_-_TEDxAMS_2014_-1.jpg/960px-George_Vaillant_-_TEDxAMS_2014_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Vaillant.json"},
   
   
-  {"id":"george_waid","name":"George Waid","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Waid.json"},
+
   {"id":"george_williams","name":"George Williams","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"George_Williams.json"},
   {"id":"georges_canguilhem","name":"Georges Canguilhem","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Canguilhem.json"},
   {"id":"georges_politzer","name":"Georges Politzer","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Georges_Politzer.json"},
