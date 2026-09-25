@@ -305,6 +305,109 @@
   {"id":"guy_steele","name":"Guy Steele","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Guy_Steele.jpg/960px-Guy_Steele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Guy_Steele.json"},
 
   
+
+
+
+  {"id":"hadi_hariri","name":"Hadi Hariri","letter":"H","visible":true,"jsonFile":"Hadi_Hariri.json"},
+  {"id":"halldor_laxness","name":"Halldor Laxness","letter":"H","visible":true,"jsonFile":"Halldor_Laxness.json"},
+  {"id":"hamilton_smith","name":"Hamilton Smith","letter":"H","visible":true,"jsonFile":"Hamilton_Smith.json"},
+  {"id":"hanif_kureishi","name":"Hanif Kureishi","letter":"H","visible":true,"jsonFile":"Hanif_Kureishi.json"},
+  {"id":"hanna_neuman","name":"Hanna Neuman","letter":"H","visible":true,"jsonFile":"Hanna_Neuman.json"},
+  {"id":"hannah_arendt","name":"Hannah Arendt","letter":"H","visible":true,"jsonFile":"Hannah_Arendt.json"},
+  {"id":"hans_berliner","name":"Hans Berliner","letter":"H","visible":true,"jsonFile":"Hans_Berliner.json"},
+  {"id":"hans_bremermann","name":"Hans Bremermann","letter":"H","visible":true,"jsonFile":"Hans_Bremermann.json"},
+  {"id":"hans_driesch","name":"Hans Driesch","letter":"H","visible":true,"jsonFile":"Hans_Driesch.json"},
+  {"id":"hans_eysenck","name":"Hans Eysenck","letter":"H","visible":true,"jsonFile":"Hans_Eysenck.json"},
+  {"id":"hans_gadamer","name":"Hans-Georg Gadamer","letter":"H","visible":true,"jsonFile":"Hans_Gadamer.json"},
+  {"id":"hans_jonas","name":"Hans Jonas","letter":"H","visible":true,"jsonFile":"Hans_Jonas.json"},
+  {"id":"hao_wang","name":"Hao Wang","letter":"H","visible":true,"jsonFile":"Hao_Wang.json"},
+  {"id":"har_gobind_khorana","name":"Har Gobind Khorana","letter":"H","visible":true,"jsonFile":"Har_Gobind_Khorana.json"},
+  {"id":"harald_sioli","name":"Harald Sioli","letter":"H","visible":true,"jsonFile":"Harald_Sioli.json"},
+  {"id":"harald_zur_hausen","name":"Harald zur Hausen","letter":"H","visible":true,"jsonFile":"Harald_zur_Hausen.json"},
+
+  {"id":"harlan_mills","name":"Harlan Mills","letter":"H","visible":true,"jsonFile":"Harlan_Mills.json"},
+  {"id":"harold_abelson","name":"Harold Abelson","letter":"H","visible":true,"jsonFile":"Harold_Abelson.json"}, 
+  {"id":"harold_bloom","name":"Harold Bloom","letter":"H","visible":true,"jsonFile":"Harold_Bloom.json"},
+  {"id":"harold_conklin","name":"Harold Conklin","letter":"H","visible":true,"jsonFile":"Harold_Conklin.json"},
+  {"id":"harold_hotelling","name":"Harold Hotelling","letter":"H","visible":true,"jsonFile":"Harold_Hotelling.json"},
+  {"id":"harold_innis","name":"Harold Innis","letter":"H","visible":true,"jsonFile":"Harold_Innis.json"},
+  {"id":"harold_kelley","name":"Harold Kelley","letter":"H","visible":true,"jsonFile":"Harold_Kelley.json"},
+  {"id":"harry_frankfurt","name":"Harry Frankfurt","letter":"H","visible":true,"jsonFile":"Harry_Frankfurt.json"},
+  {"id":"harry_guntrip","name":"Harry Guntrip","letter":"H","visible":true,"jsonFile":"Harry_Guntrip.json"},
+  {"id":"harry_harlow","name":"Harry Harlow","letter":"H","visible":true,"jsonFile":"Harry_Harlow.json"},
+  {"id":"harry_huskey","name":"Harry Huskey","letter":"H","visible":true,"jsonFile":"Harry_Huskey.json"},
+  {"id":"harry_markowitz","name":"Harry Markowitz","letter":"H","visible":true,"jsonFile":"Harry_Markowitz.json"},
+  {"id":"harry_stack_sullivan","name":"Harry Stack Sullivan","letter":"H","visible":true,"jsonFile":"Harry_Stack_Sullivan.json"},
+  {"id":"haskell_curry","name":"Haskell Curry","letter":"H","visible":true,"jsonFile":"Haskell_Curry.json"},
+  {"id":"hector_garcia","name":"Hector Garcia","letter":"H","visible":true,"jsonFile":"Hector_Garcia.json"},
+  {"id":"hedley_apperly","name":"Hedley Apperly","letter":"H","visible":true,"jsonFile":"Hedley_Apperly.json"},
+
+  {"id":"heidi_helfand","name":"Heidi Helfand","letter":"H","visible":true,"jsonFile":"Heidi_Helfand.json"},
+  {"id":"heinrich_boll","name":"Heinrich Boll","letter":"H","visible":true,"jsonFile":"Heinrich_Boll.json"},
+  {"id":"heinz_kohut","name":"Heinz Kohut","letter":"H","visible":true,"jsonFile":"Heinz_Kohut.json"},
+  {"id":"heinz_werner","name":"Heinz Werner","letter":"H","visible":true,"jsonFile":"Heinz_Werner.json"},
+  {"id":"helen_fisher","name":"Helen Fisher","letter":"H","visible":true,"jsonFile":"Helen_Fisher.json"},
+  {"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","visible":true,"jsonFile":"Helmut_Schmidt.json"},
+  {"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","visible":true,"jsonFile":"Helmuth_Plessner.json"},
+  {"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","visible":true,"jsonFile":"Hendrik_Houthakker.json"},
+  {"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","visible":true,"jsonFile":"Hendrik_Lorentz.json"},
+  {"id":"henri_bergson","name":"Henri Bergson","letter":"H","visible":true,"jsonFile":"Henri_Bergson.json"},
+  {"id":"henri_ey","name":"Henri Ey","letter":"H","visible":true,"jsonFile":"Henri_Ey.json"},
+  {"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","visible":true,"jsonFile":"Henri_Lefebvre.json"},
+  {"id":"henrika_kuklick","name":"Henrika Kuklick","letter":"H","visible":true,"jsonFile":"Henrika_Kuklick.json"},
+  {"id":"henry_baker","name":"Henry Baker","letter":"H","visible":true,"jsonFile":"Henry_Baker.json"},
+  {"id":"henry_more","name":"Henry More","letter":"H","visible":true,"jsonFile":"Henry_More.json"},
+  {"id":"henry_murray","name":"Henry Murray","letter":"H","visible":true,"jsonFile":"Henry_Murray.json"},
+
+{"id":"heraclitus","name":"Heraclitus","letter":"H","visible":true,"jsonFile":"Heraclitus.json"},
+{"id":"herb_sutter","name":"Herb Sutter","letter":"H","visible":true,"jsonFile":"Herb_Sutter.json"},
+{"id":"herbert_kelman","name":"Herbert Kelman","letter":"H","visible":true,"jsonFile":"Herbert_Kelman.json"},
+{"id":"herbert_simon","name":"Herbert Simon","letter":"H","visible":true,"jsonFile":"Herbert_Simon.json"},
+{"id":"herbert_spencer","name":"Herbert Spencer","letter":"H","visible":true,"jsonFile":"Herbert_Spencer.json"},
+{"id":"herman_witkin","name":"Herman Witkin","letter":"H","visible":true,"jsonFile":"Herman_Witkin.json"},
+{"id":"hermann_hollerith","name":"Hermann Hollerith","letter":"H","visible":true,"jsonFile":"Hermann_Hollerith.json"},
+{"id":"hermann_muller","name":"Hermann Muller","letter":"H","visible":true,"jsonFile":"Hermann_Muller.json"},
+{"id":"hermann_rorschach","name":"Hermann Rorschach","letter":"H","visible":true,"jsonFile":"Hermann_Rorschach.json"},
+{"id":"hermann_weyl","name":"Hermann Weyl","letter":"H","visible":true,"jsonFile":"Hermann_Weyl.json"},
+{"id":"herta_muller","name":"Herta Muller","letter":"H","visible":true,"jsonFile":"Herta_Muller.json"},
+{"id":"hideo_kojima","name":"Hideo Kojima","letter":"H","visible":true,"jsonFile":"Hideo_Kojima.json"},
+{"id":"hilary_koprowski","name":"Hilary Koprowski","letter":"H","visible":true,"jsonFile":"Hilary_Koprowski.json"},
+{"id":"hilary_putnam","name":"Hilary Putnam","letter":"H","visible":true,"jsonFile":"Hilary_Putnam.json"},
+{"id":"hilda_kuper","name":"Hilda Kuper","letter":"H","visible":true,"jsonFile":"Hilda_Kuper.json"},
+{"id":"howard_aiken","name":"Howard Aiken","letter":"H","visible":true,"jsonFile":"Howard_Aiken.json"},
+
+{"id":"howard_becker","name":"Howard Becker","letter":"H","visible":true,"jsonFile":"Howard_Becker.json"},
+{"id":"howard_gardner","name":"Howard Gardner","letter":"H","visible":true,"jsonFile":"Howard_Gardner.json"},
+{"id":"howard_temin","name":"Howard Temin","letter":"H","visible":true,"jsonFile":"Howard_Temin.json"},
+{"id":"hubert_markl","name":"Hubert Markl","letter":"H","visible":true,"jsonFile":"Hubert_Markl.json"},
+{"id":"hugh_brody","name":"Hugh Brody","letter":"H","visible":true,"jsonFile":"Hugh_Brody.json"},
+{"id":"hugh_maclennan","name":"Hugh MacLennan","letter":"H","visible":true,"jsonFile":"Hugh_MacLennan.json"},
+{"id":"hugo_de_garis","name":"Hugo de Garis","letter":"H","visible":true,"jsonFile":"Hugo_de_Garis.json"},
+{"id":"hugo_de_vries","name":"Hugo de Vries","letter":"H","visible":true,"jsonFile":"Hugo_de_Vries.json"},
+{"id":"hugo_munsterberg","name":"Hugo Münsterberg","letter":"H","visible":true,"jsonFile":"Hugo_Munsterberg.json"},
+{"id":"hyman_minsky","name":"Hyman Minsky","letter":"H","visible":true,"jsonFile":"Hyman_Minsky.json"},
+{"id":"hypatia","name":"Hypatia","letter":"H","visible":true,"jsonFile":"Hypatia.json"},
+{"id":"hyrum_wright","name":"Hyrum Wright","letter":"H","visible":true,"jsonFile":"Hyrum_Wright.json"},
+{"id":"watts_humphrey","name":"Watts Humphrey","letter":"H","visible":true,"jsonFile":"Watts_Humphrey.json"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
