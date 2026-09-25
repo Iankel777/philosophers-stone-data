@@ -322,9 +322,9 @@
 {"id":"harold_abelson","name":"Harold Abelson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hal_Abelson_%2811534640385%29.jpg/960px-Hal_Abelson_%2811534640385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Abelson.json"},
 {"id":"harold_bloom","name":"Harold Bloom","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Harold_Bloom%2C_literary_critic%2C_author%2C_teacher_at_Yale.jpg/960px-Harold_Bloom%2C_literary_critic%2C_author%2C_teacher_at_Yale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Bloom.json"},
 
-{"id":"harold_hotelling","name":"Harold Hotelling","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Hotelling.json"},
-{"id":"harold_innis","name":"Harold Innis","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Innis.json"},
-{"id":"harold_kelley","name":"Harold Kelley","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Kelley.json"},
+{"id":"harold_hotelling","name":"Harold Hotelling","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/en/thumb/4/49/Harold_Hotelling.jpg/250px-Harold_Hotelling.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail","jsonFile":"Harold_Hotelling.json"},
+{"id":"harold_innis","name":"Harold Innis","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Harold_Innis_public-domain_library_archives-canada.jpg/960px-Harold_Innis_public-domain_library_archives-canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Innis.json"},
+
 {"id":"harry_frankfurt","name":"Harry Frankfurt","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Frankfurt.json"},
 {"id":"harry_guntrip","name":"Harry Guntrip","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Guntrip.json"},
 {"id":"harry_harlow","name":"Harry Harlow","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Harlow.json"},
