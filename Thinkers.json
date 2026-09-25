@@ -316,8 +316,8 @@
  
   {"id":"hannah_arendt","name":"Hannah Arendt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg/960px-Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hannah_Arendt.json"},
  
-  {"id":"hans_bremermann","name":"Hans Bremermann","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Bremermann.json"},
-  {"id":"hans_driesch","name":"Hans Driesch","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Driesch.json"},
+  {"id":"hans_bremermann","name":"Hans Bremermann","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hans-Joachim_Bremermann_1989_%28re-scanned%29.jpg/960px-Hans-Joachim_Bremermann_1989_%28re-scanned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Bremermann.json"},
+  
   {"id":"hans_eysenck","name":"Hans Eysenck","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Eysenck.json"},
   {"id":"hans_gadamer","name":"Hans-Georg Gadamer","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Gadamer.json"},
   {"id":"hans_jonas","name":"Hans Jonas","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Jonas.json"},
