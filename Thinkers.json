@@ -322,8 +322,8 @@
   {"id":"hans_gadamer","name":"Hans-Georg Gadamer","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Hans-Georg_Gadamer.jpg/960px-Hans-Georg_Gadamer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Gadamer.json"},
   {"id":"hans_jonas","name":"Hans Jonas","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Hans_Jonas_an_der_Universit%C3%A4t_St._Gallen_%281983%29_HSGH_022-001945_%28cropped_2%29.jpg/960px-Hans_Jonas_an_der_Universit%C3%A4t_St._Gallen_%281983%29_HSGH_022-001945_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Jonas.json"},
   
-  {"id":"har_gobind_khorana","name":"Har Gobind Khorana","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Har_Gobind_Khorana.json"},
-  {"id":"harald_sioli","name":"Harald Sioli","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harald_Sioli.json"},
+  {"id":"har_gobind_khorana","name":"Har Gobind Khorana","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Har_Gobind_Khorana.jpg/960px-Har_Gobind_Khorana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Har_Gobind_Khorana.json"},
+
   {"id":"harald_zur_hausen","name":"Harald zur Hausen","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harald_zur_Hausen.json"},
 
 {"id":"harlan_mills","name":"Harlan Mills","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harlan_Mills.json"},
