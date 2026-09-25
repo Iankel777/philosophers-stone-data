@@ -319,7 +319,7 @@
   {"id":"harald_zur_hausen","name":"Harald zur Hausen","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Harald_zur_Hausen_01.jpg/960px-Harald_zur_Hausen_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harald_zur_Hausen.json"},
 
 
-{"id":"harold_abelson","name":"Harold Abelson","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Abelson.json"},
+{"id":"harold_abelson","name":"Harold Abelson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hal_Abelson_%2811534640385%29.jpg/960px-Hal_Abelson_%2811534640385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Abelson.json"},
 {"id":"harold_bloom","name":"Harold Bloom","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Bloom.json"},
 {"id":"harold_conklin","name":"Harold Conklin","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Conklin.json"},
 {"id":"harold_hotelling","name":"Harold Hotelling","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harold_Hotelling.json"},
