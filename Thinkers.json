@@ -275,16 +275,9 @@
   {"id":"george_orwell","name":"George Orwell","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/George_Orwell%2C_c._1940_%2841928180381%29.jpg/960px-George_Orwell%2C_c._1940_%2841928180381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Orwell.json"},
   {"id":"george_santayana","name":"George Santayana","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/George_Santayana.jpg/960px-George_Santayana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Santayana.json"},
   {"id":"george_vaillant","name":"George Vaillant","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/George_Vaillant_-_TEDxAMS_2014_-1.jpg/960px-George_Vaillant_-_TEDxAMS_2014_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"George_Vaillant.json"},
-  
-  
   {"id":"georges_simenon","name":"Georges Simenon","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Georges_Simenon_%281965%29.jpg/960px-Georges_Simenon_%281965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Georges_Simenon.json"},
-
   {"id":"gerald_edelman","name":"Gerald Edelman","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gerald_Edelman_%28cropped%29.jpg/960px-Gerald_Edelman_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerald_Edelman.json"},
-
   {"id":"gerard_debreu","name":"Gérard Debreu","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Gerard_Debreu_1997.jpg/960px-Gerard_Debreu_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerard_Debreu.json"},
-
-  
-  
   {"id":"gerd_gigerenzer","name":"Gerd Gigerenzer","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Keynote_Gerd_Gigerenzer_%2826970155108%29.jpg/960px-Keynote_Gerd_Gigerenzer_%2826970155108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gerd_Gigerenzer.json"},
   {"id":"gerhard_lenski","name":"Gerhard Lenski","letter":"G","legend":true,"visible":true,"image":"https://th.bing.com/th/id/R.bb7aef751b04bd329dce2eb2a0ebdf76?rik=JsQ9yYBi41%2f6QA&riu=http%3a%2f%2fwww.payer.de%2fdharmashastra%2fdharma0507.gif&ehk=bN8U1jV0FjpaKMCtxmtai9Souj9epPky1CJqlN5Kyi4%3d&risl=&pid=ImgRaw&r=0","jsonFile":"Gerhard_Lenski.json"},
   {"id":"gershom_scholem","name":"Gershom Scholem","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Gershom_Scholem_1935.jpg/960px-Gershom_Scholem_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gershom_Scholem.json"},
