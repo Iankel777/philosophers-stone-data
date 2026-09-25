@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Herb Sutter",
+  "thinkerImage": "",
+  "indexLetter": "H",
+
+  "nationality": "Canadian",
+  "occupation": "Software Engineer, Author, Programming Language Expert",
+  "school": "Modern C++, Generic Programming, Software Architecture",
+
+  "born": "1964",
+  "died": "",
+
+  "knownFor1": "Modern C++",
+  "knownFor2": "Exceptional C++ Series",
+  "knownFor3": "Concurrency in Software",
+  "knownFor4": "C++ Standards Committee Leadership",
+  "knownFor5": "Generic Programming",
+  "knownFor6": "Software Development Best Practices",
+  "knownFor7": "Systems Programming",
+  "knownFor8": "Programming Language Design",
+
+  "legacy": "Herb Sutter helped shape the way modern developers think about C++ programming. Through his books, articles, conference presentations, and leadership within the C++ standards community, he influenced generations of programmers to write software that is safer, clearer, faster, and easier to maintain. His explanations of difficult technical topics made advanced programming concepts accessible to a wide audience.",
+
+  "earlyLife": "From an early stage of his career, Sutter demonstrated a strong interest in software construction and programming language design. He pursued technical work focused on systems programming and gradually became recognized for his ability to explain complex engineering ideas in practical terms. His growing involvement with the C++ community established him as a respected technical educator and industry expert.",
+
+  "scientificField": "Software Engineering, Programming Languages, Concurrent Computing, Computer Science",
+
+  "majorContributions": "Sutter contributed extensively to the evolution of the C++ programming language and to software engineering practices. He promoted modern approaches to resource management, code correctness, performance, and concurrency. His writings clarified difficult topics such as multithreading, generic programming, object-oriented design, and large-scale software development. He also played a significant role in communicating the goals and features introduced in successive C++ language standards.",
+
+  "laterLife": "As his influence expanded internationally, Sutter became one of the most recognized advocates for modern C++ development. He continued advising software teams, participating in standards work, publishing educational material, and speaking at technology conferences. His later career emphasized balancing programmer productivity with software reliability and performance.",
+
+  "whyImportant": "Herb Sutter is important because he bridged the gap between programming language theory and day-to-day software engineering practice. Many developers learned modern C++ concepts through his educational work. His ideas helped organizations improve software quality while taking advantage of advances in programming language design and computer hardware.",
+
+  "quote1": "Clear code is a long-term investment in every software project.",
+  "quote2": "Good engineering reduces complexity before it reduces cost.",
+  "quote3": "Concurrency rewards discipline and exposes shortcuts.",
+  "quote4": "Performance matters most when correctness comes first.",
+  "quote5": "Software survives longer than most developers expect.",
+  "quote6": "Readable code is professional communication.",
+  "quote7": "Programming languages succeed when they help humans think clearly.",
+  "quote8": "Design decisions accumulate into software culture.",
+  "quote9": "Modern tools are valuable when paired with sound judgment.",
+  "quote10": "A bug prevented is better than a bug optimized.",
+  "quote11": "Abstraction should simplify rather than obscure.",
+  "quote12": "Reliable systems are built from consistent habits.",
+  "quote13": "Engineering excellence is achieved through iteration.",
+  "quote14": "Every shortcut creates future work for someone.",
+  "quote15": "Strong software design promotes adaptability.",
+  "quote16": "Efficiency and maintainability should cooperate, not compete.",
+  "quote17": "Technical debt grows fastest when ignored.",
+  "quote18": "Learning continuously is part of the programmer's craft.",
+  "quote19": "Well-designed interfaces encourage correct behavior.",
+  "quote20": "The best software solutions appear simple after the hard work is done."
+}

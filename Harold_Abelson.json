@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Harold Abelson",
+  "thinkerImage": "",
+  "indexLetter": "H",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Educator, Author",
+  "school": "Computer Science Education, Programming Languages, Computational Thinking",
+
+  "born": "1947",
+  "died": "",
+
+  "knownFor1": "Computer Science Education",
+  "knownFor2": "Structure and Interpretation of Computer Programs",
+  "knownFor3": "Computational Thinking",
+  "knownFor4": "Programming Language Design",
+  "knownFor5": "Open Knowledge Initiatives",
+  "knownFor6": "Digital Learning",
+  "knownFor7": "Educational Technology",
+  "knownFor8": "Ethical Computing",
+
+  "legacy": "Harold Abelson is widely recognized for making computer science accessible to students, educators, and the broader public. His educational philosophy emphasizes understanding the fundamental ideas behind computation rather than simply learning programming syntax. Through teaching, writing, and public engagement, he helped shape modern approaches to computer science education and inspired generations of learners to view computation as a powerful way of thinking about problems.",
+
+  "earlyLife": "Abelson developed an interest in mathematics, logic, and scientific inquiry at an early age. His academic experiences encouraged him to explore how abstract ideas could be represented through computational systems. As computing technologies became increasingly important, he became interested in teaching others how computers function and how computational methods could be applied to a wide variety of disciplines.",
+
+  "scientificField": "Computer Science, Programming Languages, Artificial Intelligence, Education",
+
+  "majorContributions": "Abelson contributed significantly to computer science education by promoting deep conceptual understanding of computation. He helped develop influential educational approaches that teach programming as a way of understanding systems, abstraction, and problem solving. His work encouraged students to think critically about how software is constructed and how algorithms shape the digital world. He also supported initiatives related to open access, digital learning, and responsible technological development.",
+
+  "laterLife": "Throughout the later stages of his career, Abelson continued teaching, writing, researching, and advocating for accessible technical education. He expanded his interests beyond programming instruction to include questions about technology policy, digital rights, and the social impact of computing. His educational influence continued through students, publications, and institutions shaped by his ideas.",
+
+  "whyImportant": "Harold Abelson is important because he helped define how computer science is taught to generations of students. His emphasis on abstraction, critical thinking, and conceptual understanding encouraged learners to see computing as more than a technical skill. His work strengthened the intellectual foundations of computer science education and promoted a deeper understanding of technology's role in society.",
+
+  "quote1": "Learning computation means learning new ways to think.",
+  "quote2": "A programming language is a tool for expressing ideas.",
+  "quote3": "Understanding principles matters more than memorizing details.",
+  "quote4": "Great education builds curiosity before expertise.",
+  "quote5": "Abstraction allows complexity to become manageable.",
+  "quote6": "Computers amplify the power of human reasoning.",
+  "quote7": "Every program reflects a way of thinking about a problem.",
+  "quote8": "Knowledge grows when it is openly shared.",
+  "quote9": "Technology should expand opportunities for learning.",
+  "quote10": "Clear thinking produces clearer software.",
+  "quote11": "The best education teaches students how to learn.",
+  "quote12": "Computational ideas reach far beyond computers themselves.",
+  "quote13": "Understanding systems is essential for solving difficult problems.",
+  "quote14": "Programming is both creative expression and disciplined reasoning.",
+  "quote15": "Questions often teach more than answers.",
+  "quote16": "Digital tools are most valuable when used thoughtfully.",
+  "quote17": "Learning happens through exploration and experimentation.",
+  "quote18": "Complex problems become approachable through careful abstraction.",
+  "quote19": "Education empowers people to shape technology responsibly.",
+  "quote20": "The purpose of knowledge is not only understanding but also application."
+}

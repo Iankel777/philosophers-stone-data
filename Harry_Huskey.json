@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Harry Huskey",
+  "thinkerImage": "",
+  "indexLetter": "H",
+
+  "nationality": "American",
+  "occupation": "Computer Pioneer, Mathematician, Computer Engineer",
+  "school": "Early Computing, Numerical Computation, Computer Engineering",
+
+  "born": "19 January 1916",
+  "died": "9 April 2017",
+
+  "knownFor1": "Early Computer Development",
+  "knownFor2": "Electronic Computing Systems",
+  "knownFor3": "Numerical Analysis",
+  "knownFor4": "Computer Architecture",
+  "knownFor5": "Scientific Computing",
+  "knownFor6": "Academic Computing Education",
+  "knownFor7": "Computer System Design",
+  "knownFor8": "Postwar Computing Research",
+
+  "legacy": "Harry Huskey is remembered as one of the pioneers who helped move computing from theoretical concepts to practical machines. His work contributed to the construction and improvement of some of the earliest electronic computers during a period when the field was still defining its foundations. Through research, engineering, and education, he helped establish computing as a serious scientific and technological discipline.",
+
+  "earlyLife": "Huskey showed strong abilities in mathematics and analytical thinking from a young age. His academic training provided a foundation in quantitative reasoning and scientific problem solving. As technological demands increased during the mid-twentieth century, he became interested in the possibility of using electronic systems to automate calculation and information processing.",
+
+  "scientificField": "Computer Science, Computer Engineering, Numerical Computing, Applied Mathematics",
+
+  "majorContributions": "Huskey contributed to the development of early computing machinery at a time when computers were still experimental systems. He worked on projects involving electronic computation, numerical problem solving, and machine architecture. His efforts helped improve the speed and practicality of computational systems, demonstrating that complex mathematical calculations could be performed more efficiently by machines. Beyond engineering, he also contributed to the education and training of future computer scientists and engineers.",
+
+  "laterLife": "Throughout the later years of his career, Huskey remained active in promoting computing education and preserving knowledge about the origins of computer technology. He shared insights from the formative years of the field and encouraged future generations to appreciate both the scientific and engineering challenges faced by early computer pioneers. His influence continued through teaching, mentorship, and historical contributions to computing scholarship.",
+
+  "whyImportant": "Harry Huskey is important because he belonged to the generation of engineers and scientists who established the technical foundations of modern computing. His contributions helped demonstrate the practical value of electronic computers and supported the transition from isolated experimental machines to broader applications in science, engineering, and industry. His work played a role in shaping a world increasingly dependent on computation.",
+
+  "quote1": "Innovation begins when limitations are treated as challenges.",
+  "quote2": "Early technology advances through persistence more than certainty.",
+  "quote3": "Every computing breakthrough starts with a difficult problem.",
+  "quote4": "Engineering progress depends on both theory and practice.",
+  "quote5": "Machines extend the reach of human calculation.",
+  "quote6": "Complex systems emerge from simple ideas refined over time.",
+  "quote7": "Scientific tools change how questions can be explored.",
+  "quote8": "Progress often follows countless small improvements.",
+  "quote9": "The future is built from today's experiments.",
+  "quote10": "Good design balances ambition with practicality.",
+  "quote11": "Technology advances when knowledge is shared.",
+  "quote12": "Computation expands what minds can accomplish.",
+  "quote13": "Reliable systems are the result of disciplined engineering.",
+  "quote14": "Discovery requires both imagination and evidence.",
+  "quote15": "Learning from earlier challenges strengthens future innovation.",
+  "quote16": "Engineering transforms possibility into reality.",
+  "quote17": "Every generation inherits tools from those who built before.",
+  "quote18": "Mathematics provides a foundation for technological growth.",
+  "quote19": "The value of a machine lies in the problems it can solve.",
+  "quote20": "Progress continues when curiosity meets determination."
+}

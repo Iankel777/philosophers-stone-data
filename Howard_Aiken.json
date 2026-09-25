@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Howard Aiken",
+  "thinkerImage": "",
+  "indexLetter": "H",
+
+  "nationality": "American",
+  "occupation": "Computer Pioneer, Engineer, Physicist",
+  "school": "Early Computing, Electromechanical Computation, Computer Engineering",
+
+  "born": "8 March 1900",
+  "died": "14 March 1973",
+
+  "knownFor1": "Harvard Mark I",
+  "knownFor2": "Automatic Computation",
+  "knownFor3": "Large-Scale Calculating Machines",
+  "knownFor4": "Computer Engineering",
+  "knownFor5": "Scientific Computing",
+  "knownFor6": "Computing Infrastructure",
+  "knownFor7": "Early Computer Development",
+  "knownFor8": "Applied Computational Systems",
+
+  "legacy": "Howard Aiken helped establish the foundation of modern computing by demonstrating that complex calculations could be automated through large programmable machines. His work encouraged scientists and engineers to view computation as a powerful tool for solving problems that would otherwise require enormous amounts of manual effort. The systems he helped develop influenced future generations of computer designers and expanded the practical role of computing in research, industry, and government.",
+
+  "earlyLife": "Aiken displayed a strong interest in science, engineering, and mathematics from an early age. His technical education strengthened his analytical abilities and exposed him to increasingly difficult computational problems. While working on scientific calculations, he became convinced that traditional manual methods were too slow for the growing demands of modern research, motivating his interest in automated computation.",
+
+  "scientificField": "Computer Engineering, Computing Systems, Applied Mathematics, Scientific Computing",
+
+  "majorContributions": "Aiken contributed to the development of some of the earliest large-scale automated computing systems. He promoted the idea that machines could perform lengthy sequences of calculations with speed and consistency. His efforts advanced the practical use of programmable devices for scientific and engineering purposes. By helping build sophisticated computational machinery, he demonstrated the value of automation in handling complex numerical tasks and encouraged broader investment in computer technology.",
+
+  "laterLife": "In the later part of his career, Aiken continued supporting computing research, technological innovation, and engineering education. He advocated for the expansion of computational methods into new areas of science and industry. His influence extended through the students, researchers, and engineers who adopted and expanded upon the principles demonstrated by his pioneering work.",
+
+  "whyImportant": "Howard Aiken is important because he helped transform computation from a largely manual activity into a machine-driven process. His vision contributed to the emergence of modern computer engineering and showed that automated systems could become essential tools for scientific discovery and technological progress. Many later advances in computing benefited from the foundations established by his work.",
+
+  "quote1": "Computation expands human capability when machines perform repetitive tasks.",
+  "quote2": "Engineering progress often begins with solving practical problems.",
+  "quote3": "Automation allows thinkers to focus on ideas rather than calculations.",
+  "quote4": "Complex tasks become manageable when broken into systematic steps.",
+  "quote5": "Every technological breakthrough starts with a clear objective.",
+  "quote6": "Scientific advancement depends on better tools as much as better theories.",
+  "quote7": "Reliable machines enable dependable results.",
+  "quote8": "Innovation grows from persistence and experimentation.",
+  "quote9": "A powerful machine is ultimately a tool for human understanding.",
+  "quote10": "Efficiency creates opportunities for deeper exploration.",
+  "quote11": "Engineering transforms imagination into practical reality.",
+  "quote12": "The value of a system is measured by the problems it can solve.",
+  "quote13": "Progress comes from improving both methods and instruments.",
+  "quote14": "Technology extends the reach of human reasoning.",
+  "quote15": "Large achievements are built through countless small improvements.",
+  "quote16": "Knowledge advances when limitations are challenged.",
+  "quote17": "A successful design balances ambition with practicality.",
+  "quote18": "Computing allows questions to be explored at unprecedented scale.",
+  "quote19": "The future belongs to those willing to build new tools.",
+  "quote20": "Every generation inherits opportunities created by earlier innovations."
+}

@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Hyrum Wright",
+  "thinkerImage": "",
+  "indexLetter": "H",
+
+  "nationality": "American",
+  "occupation": "Software Engineer, Systems Programmer, Technology Leader",
+  "school": "Large-Scale Software Engineering, Systems Programming, Software Infrastructure",
+
+  "born": "1970s",
+  "died": "",
+
+  "knownFor1": "Large-Scale Software Systems",
+  "knownFor2": "Software Infrastructure",
+  "knownFor3": "Programming Language Practices",
+  "knownFor4": "API Design",
+  "knownFor5": "Software Maintainability",
+  "knownFor6": "Developer Productivity",
+  "knownFor7": "Engineering Leadership",
+  "knownFor8": "Hyrum's Law",
+
+  "legacy": "Hyrum Wright is known for contributions to large-scale software engineering and for highlighting how users interact with software systems in ways that often exceed designers' expectations. His observations about software behavior, compatibility, and system evolution have influenced discussions about API design, maintainability, and long-term software reliability. His work has encouraged engineers to think more carefully about the real-world consequences of design decisions.",
+
+  "earlyLife": "Wright developed an interest in computing, systems design, and programming during the growth of modern software platforms. Exposure to increasingly complex software environments led him to focus on understanding how systems evolve over time and how engineering decisions affect both developers and users. These interests became central themes throughout his professional career.",
+
+  "scientificField": "Software Engineering, Systems Programming, Software Architecture, Computing Infrastructure",
+
+  "majorContributions": "Wright has contributed to the understanding of software behavior at scale, particularly in environments where large numbers of developers depend on shared systems and interfaces. He has emphasized the importance of compatibility, careful API design, maintainable codebases, and practical engineering processes. His discussions of software evolution helped engineers recognize that actual user behavior often shapes a system just as much as intended design. His work has promoted more thoughtful approaches to software stability and long-term maintenance.",
+
+  "laterLife": "As his influence within the software engineering community expanded, Wright became known for mentoring engineers, writing about software design challenges, and sharing practical lessons learned from operating large technical systems. He continued advocating for engineering approaches that balance innovation with reliability, helping teams build software that remains useful and maintainable over time.",
+
+  "whyImportant": "Hyrum Wright is important because he helped software engineers better understand the relationship between system design and user behavior. His ideas encourage developers to think beyond intended functionality and consider how software is actually used in practice. This perspective has improved discussions about compatibility, stability, and sustainable software development in large organizations.",
+
+  "quote1": "Software teaches its users as much as users shape software.",
+  "quote2": "Design decisions often live longer than expected.",
+  "quote3": "Every interface becomes part of someone's workflow.",
+  "quote4": "Reliability begins with understanding real usage patterns.",
+  "quote5": "Systems evolve through interaction, not intention alone.",
+  "quote6": "Compatibility is a promise that grows more valuable over time.",
+  "quote7": "Successful software adapts without losing stability.",
+  "quote8": "Engineers should study behavior, not just specifications.",
+  "quote9": "Complex systems reward careful observation.",
+  "quote10": "Small design choices can create large consequences.",
+  "quote11": "Maintainability is an investment in the future.",
+  "quote12": "The best infrastructure often operates quietly.",
+  "quote13": "Good software design respects its users' expectations.",
+  "quote14": "Scalability requires both technical and organizational thinking.",
+  "quote15": "A practical solution is often more valuable than a perfect one.",
+  "quote16": "Software quality emerges from consistent engineering habits.",
+  "quote17": "Understanding usage patterns improves decision making.",
+  "quote18": "Stable systems allow innovation to move faster.",
+  "quote19": "Engineering knowledge grows through experience and reflection.",
+  "quote20": "The most durable software earns trust through consistency."
+}

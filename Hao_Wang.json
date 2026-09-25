@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Hao Wang",
+  "thinkerImage": "",
+  "indexLetter": "H",
+
+  "nationality": "Chinese-American",
+  "occupation": "Logician, Philosopher, Mathematician, Computer Scientist",
+  "school": "Mathematical Logic, Philosophy of Mathematics, Computational Logic",
+
+  "born": "20 May 1921",
+  "died": "13 May 1995",
+
+  "knownFor1": "Mathematical Logic",
+  "knownFor2": "Automated Theorem Proving",
+  "knownFor3": "Computational Reasoning",
+  "knownFor4": "Foundations of Mathematics",
+  "knownFor5": "Philosophy of Logic",
+  "knownFor6": "Formal Systems",
+  "knownFor7": "Machine-Assisted Proofs",
+  "knownFor8": "Interdisciplinary Logic Research",
+
+  "legacy": "Hao Wang is remembered as an important bridge between mathematical logic, philosophy, and computer science. His work helped demonstrate that machines could assist in formal reasoning and proof construction, opening new possibilities for automated problem solving. By connecting abstract logical theory with practical computational methods, he influenced both the development of computer science and the study of human reasoning.",
+
+  "earlyLife": "Wang developed an early interest in mathematics, philosophy, and intellectual inquiry. His education exposed him to the rich traditions of logical reasoning and formal analysis. As modern computing began to emerge, he became fascinated by the possibility that symbolic reasoning could be represented and manipulated by machines, leading him toward research at the intersection of logic and computation.",
+
+  "scientificField": "Mathematical Logic, Computer Science, Philosophy, Automated Reasoning",
+
+  "majorContributions": "Wang contributed significantly to the study of formal logic and the emerging field of automated theorem proving. He explored how computational systems could perform logical operations and assist with mathematical proofs that traditionally required human reasoning. His research advanced understanding of formal systems, symbolic logic, and the relationship between computation and intelligence. He also examined philosophical questions concerning knowledge, reasoning, and the nature of mathematical truth, helping connect theoretical computer science with broader intellectual traditions.",
+
+  "laterLife": "During the later stages of his career, Wang continued exploring foundational questions in logic, mathematics, and philosophy. He published influential works that examined both technical and conceptual aspects of reasoning. His later writings reflected a broad intellectual perspective, combining rigorous analysis with reflections on the nature of knowledge, computation, and scientific understanding.",
+
+  "whyImportant": "Hao Wang is important because he helped establish connections between logical reasoning and computational processes. His contributions demonstrated that computers could become powerful tools for formal analysis and problem solving, influencing later developments in artificial intelligence, automated verification, and theoretical computer science. His interdisciplinary approach encouraged researchers to explore how logic, mathematics, philosophy, and computation can inform one another.",
+
+  "quote1": "Logic reveals the structure beneath complex ideas.",
+  "quote2": "Reasoning becomes clearer when expressed with precision.",
+  "quote3": "Computation extends the reach of formal thought.",
+  "quote4": "Knowledge advances through careful analysis.",
+  "quote5": "Mathematics provides a language for intellectual clarity.",
+  "quote6": "The study of logic is the study of disciplined thinking.",
+  "quote7": "Questions about reasoning are questions about understanding.",
+  "quote8": "Formal systems illuminate hidden relationships.",
+  "quote9": "Every proof is a journey from uncertainty to certainty.",
+  "quote10": "Machines can aid reasoning without replacing thought.",
+  "quote11": "Abstraction allows complex realities to be examined systematically.",
+  "quote12": "Great discoveries often emerge from foundational questions.",
+  "quote13": "Clarity is achieved through precise concepts.",
+  "quote14": "Logic connects ideas across disciplines.",
+  "quote15": "Understanding grows when assumptions are examined.",
+  "quote16": "Computation and reasoning are deeply related activities.",
+  "quote17": "Intellectual progress depends on asking better questions.",
+  "quote18": "The search for truth requires both rigor and curiosity.",
+  "quote19": "Theory provides direction for future innovation.",
+  "quote20": "The foundations of knowledge deserve continual exploration."
+}
