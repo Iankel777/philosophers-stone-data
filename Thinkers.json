@@ -318,10 +318,10 @@
  
   {"id":"hans_bremermann","name":"Hans Bremermann","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hans-Joachim_Bremermann_1989_%28re-scanned%29.jpg/960px-Hans-Joachim_Bremermann_1989_%28re-scanned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Bremermann.json"},
   
-  {"id":"hans_eysenck","name":"Hans Eysenck","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Eysenck.json"},
-  {"id":"hans_gadamer","name":"Hans-Georg Gadamer","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Gadamer.json"},
-  {"id":"hans_jonas","name":"Hans Jonas","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hans_Jonas.json"},
-  {"id":"hao_wang","name":"Hao Wang","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hao_Wang.json"},
+  {"id":"hans_eysenck","name":"Hans Eysenck","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hans_Eysenck_%28cropped%29.jpg/960px-Hans_Eysenck_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Eysenck.json"},
+  {"id":"hans_gadamer","name":"Hans-Georg Gadamer","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Hans-Georg_Gadamer.jpg/960px-Hans-Georg_Gadamer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Gadamer.json"},
+  {"id":"hans_jonas","name":"Hans Jonas","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Hans_Jonas_an_der_Universit%C3%A4t_St._Gallen_%281983%29_HSGH_022-001945_%28cropped_2%29.jpg/960px-Hans_Jonas_an_der_Universit%C3%A4t_St._Gallen_%281983%29_HSGH_022-001945_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Jonas.json"},
+  
   {"id":"har_gobind_khorana","name":"Har Gobind Khorana","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Har_Gobind_Khorana.json"},
   {"id":"harald_sioli","name":"Harald Sioli","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harald_Sioli.json"},
   {"id":"harald_zur_hausen","name":"Harald zur Hausen","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harald_zur_Hausen.json"},
