@@ -351,7 +351,7 @@
   {"id":"gustave_flaubert","name":"Gustave Flaubert","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Flaubert.jpg/960px-Gustave_Flaubert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gustave_Flaubert.json"},
   {"id":"gustave_le_bon","name":"Gustave Le Bon","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gustave_Le_Bon_about_1900.jpg/960px-Gustave_Le_Bon_about_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gustave_Le_Bon.json"},
  
-  {"id":"guy_steele","name":"Guy Steele","letter":"G","legend":true,"visible":true,"image":"","jsonFile":"Guy_Steele.json"},
+  {"id":"guy_steele","name":"Guy Steele","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Guy_Steele.jpg/960px-Guy_Steele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Guy_Steele.json"},
 
   
   
