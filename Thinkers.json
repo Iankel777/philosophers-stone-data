@@ -325,8 +325,8 @@
 {"id":"harold_hotelling","name":"Harold Hotelling","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/en/thumb/4/49/Harold_Hotelling.jpg/250px-Harold_Hotelling.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail","jsonFile":"Harold_Hotelling.json"},
 {"id":"harold_innis","name":"Harold Innis","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Harold_Innis_public-domain_library_archives-canada.jpg/960px-Harold_Innis_public-domain_library_archives-canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Innis.json"},
 
-{"id":"harry_frankfurt","name":"Harry Frankfurt","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Frankfurt.json"},
-{"id":"harry_guntrip","name":"Harry Guntrip","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Guntrip.json"},
+{"id":"harry_frankfurt","name":"Harry Frankfurt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Harry_Frankfurt_at_2017_ACLS_Annual_Meeting.jpg/960px-Harry_Frankfurt_at_2017_ACLS_Annual_Meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harry_Frankfurt.json"},
+
 {"id":"harry_harlow","name":"Harry Harlow","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Harlow.json"},
 {"id":"harry_huskey","name":"Harry Huskey","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Huskey.json"},
 {"id":"harry_markowitz","name":"Harry Markowitz","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Harry_Markowitz.json"},
