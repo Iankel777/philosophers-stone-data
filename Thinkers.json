@@ -308,7 +308,7 @@
 
 
 
-  {"id":"hadi_hariri","name":"Hadi Hariri","letter":"H","visible":true,"jsonFile":"Hadi_Hariri.json"},
+
   {"id":"halldor_laxness","name":"Halldor Laxness","letter":"H","visible":true,"jsonFile":"Halldor_Laxness.json"},
   {"id":"hamilton_smith","name":"Hamilton Smith","letter":"H","visible":true,"jsonFile":"Hamilton_Smith.json"},
   {"id":"hanif_kureishi","name":"Hanif Kureishi","letter":"H","visible":true,"jsonFile":"Hanif_Kureishi.json"},
