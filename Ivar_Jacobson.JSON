@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Ivar Jacobson",
+  "thinkerImage": "",
+  "indexLetter": "I",
+
+  "nationality": "Swedish",
+  "occupation": "Software Engineer, Methodologist, Entrepreneur",
+  "school": "Object-Oriented Software Engineering, Use-Case Driven Development, Unified Process",
+
+  "born": "27 September 1939",
+  "died": "",
+
+  "knownFor1": "Use Cases",
+  "knownFor2": "Object-Oriented Software Engineering",
+  "knownFor3": "Unified Modeling Language",
+  "knownFor4": "Rational Unified Process",
+  "knownFor5": "Software Development Methodology",
+  "knownFor6": "Requirements Engineering",
+  "knownFor7": "Component-Based Development",
+  "knownFor8": "Essence Framework",
+
+  "legacy": "Ivar Jacobson helped software engineering evolve from a coding-centered activity into a discipline focused on understanding user goals and system behavior. His emphasis on use cases provided teams with a practical way to describe requirements from the perspective of real users. Many modern software development practices continue to reflect concepts that he promoted throughout his career.",
+
+  "earlyLife": "Jacobson grew up in Sweden during a period when computing was beginning to emerge as an important technological field. His early interest in engineering and problem solving led him toward complex technical systems, where he developed a strong appreciation for structured design and clear communication between stakeholders and developers.",
+
+  "scientificField": "Software Engineering, Systems Analysis, Requirements Engineering, Modeling",
+
+  "majorContributions": "Jacobson introduced the use-case approach, allowing software teams to capture functional requirements through practical user interactions rather than purely technical specifications. He played a central role in object-oriented development methods and later contributed to the creation of the Unified Modeling Language and process frameworks used by organizations around the world. His work encouraged developers to think systematically about software architecture, requirements, and project organization.",
+
+  "laterLife": "Throughout the later stages of his career, Jacobson focused on improving software practices across industries. He founded and advised multiple technology organizations, wrote influential books, and promoted lightweight but disciplined methods for software development. His later work emphasized combining development practices into adaptable frameworks that could fit different project environments.",
+
+  "whyImportant": "Jacobson is important because he bridged the gap between business needs and technical implementation. His ideas helped development teams communicate more effectively, reduce ambiguity in requirements, and build software that better serves its intended users. Many modern analysis, design, and project-planning techniques trace part of their intellectual foundation to his work.",
+
+  "quote1": "Software succeeds when it solves a real human problem.",
+  "quote2": "A requirement is valuable only when it guides action.",
+  "quote3": "Understanding users is the first step toward understanding systems.",
+  "quote4": "Good design begins with clear intentions.",
+  "quote5": "Complexity becomes manageable when behavior is well described.",
+  "quote6": "Software models exist to improve communication.",
+  "quote7": "A project without shared understanding invites failure.",
+  "quote8": "Systems should be viewed through the eyes of their users.",
+  "quote9": "Requirements are the foundation of reliable development.",
+  "quote10": "Structure gives direction to innovation.",
+  "quote11": "Engineering is as much about clarity as creation.",
+  "quote12": "A useful model simplifies without distorting.",
+  "quote13": "Development methods should support people, not constrain them.",
+  "quote14": "Successful software reflects successful collaboration.",
+  "quote15": "Every feature should trace back to a user need.",
+  "quote16": "Architecture provides stability amid change.",
+  "quote17": "Communication failures often become software failures.",
+  "quote18": "Disciplined processes help creative teams excel.",
+  "quote19": "A system's value is proven through its use.",
+  "quote20": "Technology is most effective when guided by purpose."
+}
