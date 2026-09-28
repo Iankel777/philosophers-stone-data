@@ -317,8 +317,6 @@
   {"id":"hans_jonas","name":"Hans Jonas","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Hans_Jonas_an_der_Universit%C3%A4t_St._Gallen_%281983%29_HSGH_022-001945_%28cropped_2%29.jpg/960px-Hans_Jonas_an_der_Universit%C3%A4t_St._Gallen_%281983%29_HSGH_022-001945_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hans_Jonas.json"},
   {"id":"har_gobind_khorana","name":"Har Gobind Khorana","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Har_Gobind_Khorana.jpg/960px-Har_Gobind_Khorana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Har_Gobind_Khorana.json"},
   {"id":"harald_zur_hausen","name":"Harald zur Hausen","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Harald_zur_Hausen_01.jpg/960px-Harald_zur_Hausen_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harald_zur_Hausen.json"},
-
-
   {"id":"harold_abelson","name":"Harold Abelson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hal_Abelson_%2811534640385%29.jpg/960px-Hal_Abelson_%2811534640385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Abelson.json"},
   {"id":"harold_bloom","name":"Harold Bloom","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Harold_Bloom%2C_literary_critic%2C_author%2C_teacher_at_Yale.jpg/960px-Harold_Bloom%2C_literary_critic%2C_author%2C_teacher_at_Yale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harold_Bloom.json"},
   {"id":"harold_hotelling","name":"Harold Hotelling","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/en/thumb/4/49/Harold_Hotelling.jpg/250px-Harold_Hotelling.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail","jsonFile":"Harold_Hotelling.json"},
@@ -329,21 +327,15 @@
 
 
 
-
-
 {"id":"heinrich_boll","name":"Heinrich Boll","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg/960px-Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heinrich_Boll.json"},
-
-
-
 {"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bundeskanzler_Helmut_Schmidt.jpg/960px-Bundeskanzler_Helmut_Schmidt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmut_Schmidt.json"},
 {"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Helmuth_Plessner_1939.jpg/960px-Helmuth_Plessner_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmuth_Plessner.json"},
 {"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hendrik_S_Houthakker_%281969%29.jpg/960px-Hendrik_S_Houthakker_%281969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Houthakker.json"},
 {"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/H_A_Lorentz_%28Nobel%29.jpg/960px-H_A_Lorentz_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Lorentz.json"},
 {"id":"henri_bergson","name":"Henri Bergson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Henri_Bergson_%28Nobel%29.jpg/960px-Henri_Bergson_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Bergson.json"},
-
 {"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Henri_Lefebvre_1971.jpg/960px-Henri_Lefebvre_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Lefebvre.json"},
 
-{"id":"henry_murray","name":"Henry Murray","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henry_Murray.json"},
+
   
 
 {"id":"heraclitus","name":"Heraclitus","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Heraclitus.json"},
