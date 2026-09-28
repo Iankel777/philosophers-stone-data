@@ -357,8 +357,7 @@
 {"id":"iain_mcgilchrist","name":"Iain McGilchrist","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Iain_McGilchrist.png/960px-Iain_McGilchrist.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Iain_McGilchrist.json"},
 {"id":"ian_goldin","name":"Ian Goldin","letter":"I","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ian_Goldin_World_Economic_Forum_2013.jpg/960px-Ian_Goldin_World_Economic_Forum_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ian_Goldin.json"},
 {"id":"ian_hacking","name":"Ian Hacking","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ian_Hacking.jpg/960px-Ian_Hacking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ian_Hacking.json"},
-{"id":"ian_murdock","name":"Ian Murdock","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ian_Murdock.json"},
-{"id":"ian_sommerville","name":"Ian Sommerville","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ian_Sommerville.json"},
+{"id":"ian_murdock","name":"Ian Murdock","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ian_Murdock_at_Sun_Tech_Days%2C_Saint_Petersburg%2C_2008.jpg/960px-Ian_Murdock_at_Sun_Tech_Days%2C_Saint_Petersburg%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ian_Murdock.json"},
 {"id":"ian_spence","name":"Ian Spence","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ian_Spence.json"},
 
   
