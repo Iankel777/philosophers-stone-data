@@ -338,9 +338,9 @@
 
 {"id":"heraclitus","name":"Heraclitus","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg/960px-Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heraclitus.json"},
 
-{"id":"herbert_simon","name":"Herbert Simon","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Simon.json"},
-{"id":"herbert_spencer","name":"Herbert Spencer","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Spencer.json"},
-{"id":"herman_witkin","name":"Herman Witkin","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herman_Witkin.json"},
+{"id":"herbert_simon","name":"Herbert Simon","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Herbert_Simon%2C_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg/960px-Herbert_Simon%2C_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Herbert_Simon.json"},
+{"id":"herbert_spencer","name":"Herbert Spencer","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Herbert_Spencer.jpg/960px-Herbert_Spencer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Herbert_Spencer.json"},
+
 {"id":"hermann_hollerith","name":"Hermann Hollerith","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hermann_Hollerith.json"},
 {"id":"hermann_muller","name":"Hermann Muller","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hermann_Muller.json"},
 {"id":"hermann_rorschach","name":"Hermann Rorschach","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hermann_Rorschach.json"},
