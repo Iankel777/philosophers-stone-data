@@ -341,8 +341,8 @@
 {"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/H_A_Lorentz_%28Nobel%29.jpg/960px-H_A_Lorentz_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Lorentz.json"},
 {"id":"henri_bergson","name":"Henri Bergson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Henri_Bergson_%28Nobel%29.jpg/960px-Henri_Bergson_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Bergson.json"},
 
-{"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henri_Lefebvre.json"},
-{"id":"henrika_kuklick","name":"Henrika Kuklick","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henrika_Kuklick.json"},
+{"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Henri_Lefebvre_1971.jpg/960px-Henri_Lefebvre_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Lefebvre.json"},
+
 {"id":"henry_baker","name":"Henry Baker","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henry_Baker.json"},
 {"id":"henry_more","name":"Henry More","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henry_More.json"},
 {"id":"henry_murray","name":"Henry Murray","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henry_Murray.json"},
