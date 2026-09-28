@@ -368,7 +368,6 @@
 
 {"id":"irene_curie","name":"Irène Joliot-Curie","letter":"I","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Joliot-curie.jpg/960px-Joliot-curie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Irene_Curie.json"},
 
-{"id":"irvin_child","name":"Irvin Child","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Irvin_Child.json"},
 {"id":"irvin_yalom","name":"Irvin Yalom","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Irvin_Yalom.json"},
 {"id":"irving_fisher","name":"Irving Fisher","letter":"I","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Irving_Fisher.json"},
 {"id":"irving_hallowell","name":"Irving Hallowell","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Irving_Hallowell.json"},
