@@ -379,12 +379,11 @@
 
   
 {"id":"israel_kirzner","name":"Israel Kirzner","letter":"I","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Israel.kirzner.lecture.for.fee.july.28.2006_%28cropped%29.jpg/960px-Israel.kirzner.lecture.for.fee.july.28.2006_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Israel_Kirzner.json"},
-
-{"id":"ivan_illich","name":"Ivan Illich","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ivan_Illich.json"},
-{"id":"ivan_pavlov","name":"Ivan Pavlov","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ivan_Pavlov.json"},
-{"id":"ivan_sutherland","name":"Ivan Sutherland","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ivan_Sutherland.json"},
-{"id":"ivar_jacobson","name":"Ivar Jacobson","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ivar_Jacobson.json"},
-{"id":"ivo_andric","name":"Ivo Andrić","letter":"I","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Ivo_Andric.json"}
+{"id":"ivan_illich","name":"Ivan Illich","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/1969_press_photo_of_Ivan_Illich.jpg/960px-1969_press_photo_of_Ivan_Illich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ivan_Illich.json"},
+{"id":"ivan_pavlov","name":"Ivan Pavlov","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ivan_Pavlov_NLM3.jpg/960px-Ivan_Pavlov_NLM3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ivan_Pavlov.json"},
+{"id":"ivan_sutherland","name":"Ivan Sutherland","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ivan_Sutherland_at_CHM.jpg/960px-Ivan_Sutherland_at_CHM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ivan_Sutherland.json"},
+{"id":"ivar_jacobson","name":"Ivar Jacobson","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Ivar_Jacobson_%284759834031%29.jpg/960px-Ivar_Jacobson_%284759834031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ivar_Jacobson.json"},
+{"id":"ivo_andric","name":"Ivo Andrić","letter":"I","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/S._Kragujevic%2C_Ivo_Andric%2C_1961.jpg/960px-S._Kragujevic%2C_Ivo_Andric%2C_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ivo_Andric.json"}
 
 
 
