@@ -337,10 +337,8 @@
   
 
 {"id":"heraclitus","name":"Heraclitus","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg/960px-Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heraclitus.json"},
-
 {"id":"herbert_simon","name":"Herbert Simon","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Herbert_Simon%2C_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg/960px-Herbert_Simon%2C_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Herbert_Simon.json"},
 {"id":"herbert_spencer","name":"Herbert Spencer","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Herbert_Spencer.jpg/960px-Herbert_Spencer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Herbert_Spencer.json"},
-
 {"id":"hermann_hollerith","name":"Hermann Hollerith","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hollerith.jpg/960px-Hollerith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hermann_Hollerith.json"},
 {"id":"hermann_muller","name":"Hermann Muller","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Paul_Hermann_M%C3%BCller_nobel.jpg/960px-Paul_Hermann_M%C3%BCller_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hermann_Muller.json"},
 {"id":"hermann_rorschach","name":"Hermann Rorschach","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Hermann_Rorschach_c.1910.JPG/960px-Hermann_Rorschach_c.1910.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hermann_Rorschach.json"},
@@ -348,7 +346,7 @@
 {"id":"hideo_kojima","name":"Hideo Kojima","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hideo_Kojima_-_Game_Developers_Conference_2013.jpg/960px-Hideo_Kojima_-_Game_Developers_Conference_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hideo_Kojima.json"},
 {"id":"hilary_koprowski","name":"Hilary Koprowski","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2007.09.16._Hilary_Koprowski_by_Kubik_01.JPG/960px-2007.09.16._Hilary_Koprowski_by_Kubik_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hilary_Koprowski.json"},
 {"id":"hilary_putnam","name":"Hilary Putnam","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Hilary_Putnam.jpg/960px-Hilary_Putnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hilary_Putnam.json"},
-{"id":"howard_aiken","name":"Howard Aiken","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Howard_Aiken.json"},
+{"id":"howard_aiken","name":"Howard Aiken","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Aiken.jpeg/960px-Aiken.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Howard_Aiken.json"},
 
   
 
