@@ -374,11 +374,11 @@
 
   
 
-{"id":"isaiah_berlin","name":"Isaiah Berlin","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Isaiah_Berlin.json"},
-{"id":"isamu_akasaki","name":"Isamu Akasaki","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Isamu_Akasaki.json"},
-{"id":"isidor_isaac_rabi","name":"Isidor Isaac Rabi","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Isidor_Isaac_Rabi.json"},
-{"id":"israel_aharoni","name":"Israel Aharoni","letter":"I","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Israel_Aharoni.json"},
-{"id":"israel_gat","name":"Israel Gat","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Israel_Gat.json"},
+{"id":"isaiah_berlin","name":"Isaiah Berlin","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/IsaiahBerlin1983.jpg/960px-IsaiahBerlin1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Isaiah_Berlin.json"},
+{"id":"isamu_akasaki","name":"Isamu Akasaki","letter":"I","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Isamu_Akasaki_20141211.jpg/960px-Isamu_Akasaki_20141211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Isamu_Akasaki.json"},
+{"id":"isidor_isaac_rabi","name":"Isidor Isaac Rabi","letter":"I","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/II_Rabi.jpg/960px-II_Rabi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Isidor_Isaac_Rabi.json"},
+{"id":"israel_aharoni","name":"Israel Aharoni","letter":"I","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%94%D7%A8%D7%95%D7%A0%D7%99.jpg/960px-%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%94%D7%A8%D7%95%D7%A0%D7%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Israel_Aharoni.json"},
+
 
   
 {"id":"israel_kirzner","name":"Israel Kirzner","letter":"I","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Israel_Kirzner.json"},
