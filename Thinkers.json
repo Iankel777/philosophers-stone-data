@@ -361,7 +361,6 @@
 
   
 
-{"id":"igor_kopytoff","name":"Igor Kopytoff","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Igor_Kopytoff.json"},
 {"id":"igor_sysoev","name":"Igor Sysoev","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Igor_Sysoev.json"},
 {"id":"igor_tamm","name":"Igor Tamm","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Igor_Tamm.json"},
 {"id":"ihor_stefurak","name":"Ihor Stefurak","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ihor_Stefurak.json"},
