@@ -334,7 +334,7 @@
 {"id":"heinrich_boll","name":"Heinrich Boll","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg/960px-Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heinrich_Boll.json"},
 
 
-{"id":"helen_fisher","name":"Helen Fisher","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Helen_Fisher.json"},
+
 {"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Helmut_Schmidt.json"},
 {"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Helmuth_Plessner.json"},
 {"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hendrik_Houthakker.json"},
