@@ -350,7 +350,6 @@
 {"id":"howard_gardner","name":"Howard Gardner","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Howard_Gardner_2010.jpg/960px-Howard_Gardner_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Howard_Gardner.json"},
 {"id":"howard_temin","name":"Howard Temin","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Howard_Martin_Temin_2.jpg/960px-Howard_Martin_Temin_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Howard_Temin.json"},
 
-{"id":"hugh_maclennan","name":"Hugh MacLennan","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hugh_MacLennan.json"},
 {"id":"hugo_de_garis","name":"Hugo de Garis","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hugo_de_Garis.json"},
 {"id":"hugo_de_vries","name":"Hugo de Vries","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hugo_de_Vries.json"},
 {"id":"hugo_munsterberg","name":"Hugo Münsterberg","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hugo_Munsterberg.json"},
