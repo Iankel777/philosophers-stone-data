@@ -366,8 +366,8 @@
 {"id":"imre_kertesz","name":"Imre Kertész","letter":"I","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Kert%C3%A9sz_Imre_%28Frankl_Aliona%29.jpg/960px-Kert%C3%A9sz_Imre_%28Frankl_Aliona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Imre_Kertesz.json"},
 
 
-{"id":"ingrid_daubechies","name":"Ingrid Daubechies","letter":"I","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Ingrid_Daubechies.json"},
-{"id":"ingrid_rotter","name":"Ingrid Rotter","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ingrid_Rotter.json"},
+{"id":"ingrid_daubechies","name":"Ingrid Daubechies","letter":"I","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ingrid_Daubechies_ICM_2018_%2842687401960%29_%28cropped%29.jpg/960px-Ingrid_Daubechies_ICM_2018_%2842687401960%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ingrid_Daubechies.json"},
+
 {"id":"ino_rossi","name":"Ino Rossi","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ino_Rossi.json"},
 {"id":"ion_vianu","name":"Ion Vianu","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ion_Vianu.json"},
 
