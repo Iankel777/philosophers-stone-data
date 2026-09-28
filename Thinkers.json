@@ -338,7 +338,6 @@
 
 {"id":"heraclitus","name":"Heraclitus","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg/960px-Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heraclitus.json"},
 
-{"id":"herbert_kelman","name":"Herbert Kelman","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Kelman.json"},
 {"id":"herbert_simon","name":"Herbert Simon","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Simon.json"},
 {"id":"herbert_spencer","name":"Herbert Spencer","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Spencer.json"},
 {"id":"herman_witkin","name":"Herman Witkin","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herman_Witkin.json"},
