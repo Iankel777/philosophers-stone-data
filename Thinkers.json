@@ -353,12 +353,74 @@
 
 
 
+{"id":"iain_banks","name":"Iain Banks","letter":"I","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Iain_Banks.json"},
+{"id":"iain_mcgilchrist","name":"Iain McGilchrist","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Iain_McGilchrist.json"},
+{"id":"ian_foster","name":"Ian Foster","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ian_Foster.json"},
+{"id":"ian_goldin","name":"Ian Goldin","letter":"I","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Ian_Goldin.json"},
+{"id":"ian_hacking","name":"Ian Hacking","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ian_Hacking.json"},
+{"id":"ian_hodder","name":"Ian Hodder","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ian_Hodder.json"},
+{"id":"ian_little","name":"Ian Little","letter":"I","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Ian_Little.json"},
+{"id":"ian_murdock","name":"Ian Murdock","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ian_Murdock.json"},
+{"id":"ian_sommerville","name":"Ian Sommerville","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ian_Sommerville.json"},
+{"id":"ian_spence","name":"Ian Spence","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ian_Spence.json"},
 
+  
+{"id":"ian_wilmut","name":"Ian Wilmut","letter":"I","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Ian_Wilmut.json"},
+{"id":"ibn_sina","name":"Ibn Sina","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ibn_Sina.json"},
+{"id":"ichiro_satoh","name":"Ichiro Satoh","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ichiro_Satoh.json"},
+{"id":"igor_kopytoff","name":"Igor Kopytoff","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Igor_Kopytoff.json"},
+{"id":"igor_sysoev","name":"Igor Sysoev","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Igor_Sysoev.json"},
+{"id":"igor_tamm","name":"Igor Tamm","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Igor_Tamm.json"},
+{"id":"ihor_stefurak","name":"Ihor Stefurak","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ihor_Stefurak.json"},
+{"id":"ilya_frank","name":"Ilya Frank","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ilya_Frank.json"},
 
+  
+{"id":"ilya_mechnikov","name":"Ilya Mechnikov","letter":"I","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Ilya_Mechnikov.json"},
+{"id":"immanuel_kant","name":"Immanuel Kant","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Immanuel_Kant.json"},
+{"id":"imre_kertesz","name":"Imre Kertész","letter":"I","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Imre_Kertesz.json"},
+{"id":"inge_seiffge_krenke","name":"Inge Seiffge-Krenke","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Inge_Seiffge_Krenke.json"},
+{"id":"ingo_wegener","name":"Ingo Wegener","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ingo_Wegener.json"},
+{"id":"ingrid_daubechies","name":"Ingrid Daubechies","letter":"I","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Ingrid_Daubechies.json"},
+{"id":"ingrid_rotter","name":"Ingrid Rotter","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ingrid_Rotter.json"},
+{"id":"ino_rossi","name":"Ino Rossi","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ino_Rossi.json"},
+{"id":"ion_vianu","name":"Ion Vianu","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ion_Vianu.json"},
 
+  
+{"id":"irad_malkin","name":"Irad Malkin","letter":"I","category":"History","legend":true,"visible":true,"image":"","jsonFile":"Irad_Malkin.json"},
+{"id":"irene_curie","name":"Irène Joliot-Curie","letter":"I","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Irene_Curie.json"},
+{"id":"iris_murdoch","name":"Iris Murdoch","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Iris_Murdoch.json"},
+{"id":"irvin_child","name":"Irvin Child","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Irvin_Child.json"},
+{"id":"irvin_yalom","name":"Irvin Yalom","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Irvin_Yalom.json"},
+{"id":"irving_fisher","name":"Irving Fisher","letter":"I","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Irving_Fisher.json"},
+{"id":"irving_hallowell","name":"Irving Hallowell","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Irving_Hallowell.json"},
+{"id":"irving_john_good","name":"Irving John Good","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Irving_John_Good.json"},
+{"id":"irwin_rose","name":"Irwin Rose","letter":"I","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Irwin_Rose.json"},
 
+  
+{"id":"isaac_asimov","name":"Isaac Asimov","letter":"I","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Asimov.json"},
+{"id":"isaac_bashevis_singer","name":"Isaac Bashevis Singer","letter":"I","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Bashevis_Singer.json"},
+{"id":"isaac_chuang","name":"Isaac Chuang","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Chuang.json"},
+{"id":"isaac_khalatnikov","name":"Isaac Khalatnikov","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Khalatnikov.json"},
+{"id":"isaac_newton","name":"Isaac Newton","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Newton.json"},
+{"id":"isaac_prilleltensky","name":"Isaac Prilleltensky","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Prilleltensky.json"},
+{"id":"isaac_schapera","name":"Isaac Schapera","letter":"I","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Isaac_Schapera.json"},
 
+  
+{"id":"isabel_menzies_lyth","name":"Isabel Menzies Lyth","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Isabel_Menzies_Lyth.json"},
+{"id":"isaiah_berlin","name":"Isaiah Berlin","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Isaiah_Berlin.json"},
+{"id":"isamu_akasaki","name":"Isamu Akasaki","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Isamu_Akasaki.json"},
+{"id":"isidor_isaac_rabi","name":"Isidor Isaac Rabi","letter":"I","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Isidor_Isaac_Rabi.json"},
+{"id":"israel_aharoni","name":"Israel Aharoni","letter":"I","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Israel_Aharoni.json"},
+{"id":"israel_gat","name":"Israel Gat","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Israel_Gat.json"},
 
+  
+{"id":"israel_kirzner","name":"Israel Kirzner","letter":"I","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Israel_Kirzner.json"},
+{"id":"istvan_hont","name":"István Hont","letter":"I","category":"History","legend":true,"visible":true,"image":"","jsonFile":"Istvan_Hont.json"},
+{"id":"ivan_illich","name":"Ivan Illich","letter":"I","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ivan_Illich.json"},
+{"id":"ivan_pavlov","name":"Ivan Pavlov","letter":"I","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ivan_Pavlov.json"},
+{"id":"ivan_sutherland","name":"Ivan Sutherland","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ivan_Sutherland.json"},
+{"id":"ivar_jacobson","name":"Ivar Jacobson","letter":"I","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ivar_Jacobson.json"},
+{"id":"ivo_andric","name":"Ivo Andrić","letter":"I","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Ivo_Andric.json"}
 
 
 
