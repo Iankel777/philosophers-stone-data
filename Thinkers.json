@@ -303,10 +303,11 @@
   {"id":"gustave_flaubert","name":"Gustave Flaubert","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Flaubert.jpg/960px-Gustave_Flaubert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gustave_Flaubert.json"},
   {"id":"gustave_le_bon","name":"Gustave Le Bon","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gustave_Le_Bon_about_1900.jpg/960px-Gustave_Le_Bon_about_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Gustave_Le_Bon.json"},
   {"id":"guy_steele","name":"Guy Steele","letter":"G","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Guy_Steele.jpg/960px-Guy_Steele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Guy_Steele.json"},
-
   
-
-
+  
+  
+  
+  
   {"id":"halldor_laxness","name":"Halldor Laxness","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Halld%C3%B3r_Kiljan_Laxness_1955.jpg/960px-Halld%C3%B3r_Kiljan_Laxness_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Halldor_Laxness.json"},
   {"id":"hamilton_smith","name":"Hamilton Smith","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Hamilton_Smith%2C_2.jpg/960px-Hamilton_Smith%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hamilton_Smith.json"},
   {"id":"hanif_kureishi","name":"Hanif Kureishi","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Hanif_Kureishi.jpg/960px-Hanif_Kureishi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hanif_Kureishi.json"},
@@ -324,22 +325,19 @@
   {"id":"harry_frankfurt","name":"Harry Frankfurt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Harry_Frankfurt_at_2017_ACLS_Annual_Meeting.jpg/960px-Harry_Frankfurt_at_2017_ACLS_Annual_Meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harry_Frankfurt.json"},
   {"id":"harry_huskey","name":"Harry Huskey","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Harry_Huskey_2011.jpg/960px-Harry_Huskey_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Harry_Huskey.json"},
   {"id":"harry_stack_sullivan","name":"Harry Stack Sullivan","letter":"H","legend":true,"visible":true,"image":"https://th.bing.com/th/id/R.027e056454a6378562b2331a1e3ca248?rik=XpdzMfToPN8H6A&riu=http%3a%2f%2fpsyberia.ru%2fface%2fsullivan.jpg&ehk=6RtSPVr6ttajKF%2f1y2YDrZwGI3Q3FEdxNy69l%2f3tDng%3d&risl=&pid=ImgRaw&r=0","jsonFile":"Harry_Stack_Sullivan.json"},
-
-
-
-{"id":"heinrich_boll","name":"Heinrich Boll","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg/960px-Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heinrich_Boll.json"},
-{"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bundeskanzler_Helmut_Schmidt.jpg/960px-Bundeskanzler_Helmut_Schmidt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmut_Schmidt.json"},
-{"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Helmuth_Plessner_1939.jpg/960px-Helmuth_Plessner_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmuth_Plessner.json"},
-{"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hendrik_S_Houthakker_%281969%29.jpg/960px-Hendrik_S_Houthakker_%281969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Houthakker.json"},
-{"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/H_A_Lorentz_%28Nobel%29.jpg/960px-H_A_Lorentz_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Lorentz.json"},
-{"id":"henri_bergson","name":"Henri Bergson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Henri_Bergson_%28Nobel%29.jpg/960px-Henri_Bergson_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Bergson.json"},
-{"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Henri_Lefebvre_1971.jpg/960px-Henri_Lefebvre_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Lefebvre.json"},
+  {"id":"heinrich_boll","name":"Heinrich Boll","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg/960px-Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heinrich_Boll.json"},
+  {"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bundeskanzler_Helmut_Schmidt.jpg/960px-Bundeskanzler_Helmut_Schmidt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmut_Schmidt.json"},
+  {"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Helmuth_Plessner_1939.jpg/960px-Helmuth_Plessner_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmuth_Plessner.json"},
+  {"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hendrik_S_Houthakker_%281969%29.jpg/960px-Hendrik_S_Houthakker_%281969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Houthakker.json"},
+  {"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/H_A_Lorentz_%28Nobel%29.jpg/960px-H_A_Lorentz_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Lorentz.json"},
+  {"id":"henri_bergson","name":"Henri Bergson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Henri_Bergson_%28Nobel%29.jpg/960px-Henri_Bergson_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Bergson.json"},
+  {"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Henri_Lefebvre_1971.jpg/960px-Henri_Lefebvre_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Lefebvre.json"},
 
 
   
 
-{"id":"heraclitus","name":"Heraclitus","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Heraclitus.json"},
-{"id":"herb_sutter","name":"Herb Sutter","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herb_Sutter.json"},
+{"id":"heraclitus","name":"Heraclitus","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg/960px-Ca%27_Rezzonico_-_Eraclito_1705_-_Giuseppe_Torretti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heraclitus.json"},
+
 {"id":"herbert_kelman","name":"Herbert Kelman","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Kelman.json"},
 {"id":"herbert_simon","name":"Herbert Simon","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Simon.json"},
 {"id":"herbert_spencer","name":"Herbert Spencer","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Herbert_Spencer.json"},
@@ -354,6 +352,8 @@
 {"id":"hilary_putnam","name":"Hilary Putnam","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hilary_Putnam.json"},
 {"id":"hilda_kuper","name":"Hilda Kuper","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hilda_Kuper.json"},
 {"id":"howard_aiken","name":"Howard Aiken","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Howard_Aiken.json"},
+
+  
 
 {"id":"howard_becker","name":"Howard Becker","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Howard_Becker.json"},
 {"id":"howard_gardner","name":"Howard Gardner","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Howard_Gardner.json"},
