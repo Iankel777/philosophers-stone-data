@@ -335,12 +335,12 @@
 
 
 
-{"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Helmut_Schmidt.json"},
-{"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Helmuth_Plessner.json"},
-{"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hendrik_Houthakker.json"},
-{"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Hendrik_Lorentz.json"},
-{"id":"henri_bergson","name":"Henri Bergson","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henri_Bergson.json"},
-{"id":"henri_ey","name":"Henri Ey","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henri_Ey.json"},
+{"id":"helmut_schmidt","name":"Helmut Schmidt","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bundeskanzler_Helmut_Schmidt.jpg/960px-Bundeskanzler_Helmut_Schmidt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmut_Schmidt.json"},
+{"id":"helmuth_plessner","name":"Helmuth Plessner","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Helmuth_Plessner_1939.jpg/960px-Helmuth_Plessner_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Helmuth_Plessner.json"},
+{"id":"hendrik_houthakker","name":"Hendrik Houthakker","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hendrik_S_Houthakker_%281969%29.jpg/960px-Hendrik_S_Houthakker_%281969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Houthakker.json"},
+{"id":"hendrik_lorentz","name":"Hendrik Lorentz","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/H_A_Lorentz_%28Nobel%29.jpg/960px-H_A_Lorentz_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Hendrik_Lorentz.json"},
+{"id":"henri_bergson","name":"Henri Bergson","letter":"H","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Henri_Bergson_%28Nobel%29.jpg/960px-Henri_Bergson_%28Nobel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Henri_Bergson.json"},
+
 {"id":"henri_lefebvre","name":"Henri Lefebvre","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henri_Lefebvre.json"},
 {"id":"henrika_kuklick","name":"Henrika Kuklick","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henrika_Kuklick.json"},
 {"id":"henry_baker","name":"Henry Baker","letter":"H","legend":true,"visible":true,"image":"","jsonFile":"Henry_Baker.json"},
