@@ -386,8 +386,8 @@
 
  
 
-  {"id":"jack_london","name":"Jack London","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jack_London.json"},
-  {"id":"jacqueline_rose","name":"Jacqueline Rose","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacqueline_Rose.json"},
+  {"id":"jack_london","name":"Jack London","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/960px-Jack_London_young.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jack_London.json"},
+
   {"id":"jacques_derrida","name":"Jacques Derrida","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacques_Derrida.json"},
   {"id":"jacques_monod","name":"Jacques Monod","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacques_Monod.json"},
   {"id":"james_buchanan","name":"James Buchanan","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Buchanan.json"},
