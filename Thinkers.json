@@ -399,8 +399,8 @@
   
 {"id":"james_watson","name":"James Watson","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/James_D_Watson.jpg/960px-James_D_Watson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Watson.json"},
 
-{"id":"jane_goodall","name":"Jane Goodall","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jane_Goodall.json"},
-{"id":"jared_bernstein","name":"Jared Bernstein","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jared_Bernstein.json"},
+{"id":"jane_goodall","name":"Jane Goodall","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jane_Goodall_HK.jpg/960px-Jane_Goodall_HK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jane_Goodall.json"},
+
 {"id":"jared_diamond","name":"Jared Diamond","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jared_Diamond.json"},
 
   
