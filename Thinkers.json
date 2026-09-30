@@ -385,7 +385,7 @@
 
 
  
-  {"id":"jack_goody","name":"Jack Goody","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jack_Goody.json"},
+
   {"id":"jack_london","name":"Jack London","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jack_London.json"},
   {"id":"jacqueline_rose","name":"Jacqueline Rose","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacqueline_Rose.json"},
   {"id":"jacques_derrida","name":"Jacques Derrida","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacques_Derrida.json"},
