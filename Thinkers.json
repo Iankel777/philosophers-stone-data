@@ -404,8 +404,8 @@
 {"id":"jared_diamond","name":"Jared Diamond","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jared_Diamond.json"},
 
   
-{"id":"jaroslav_pelikan","name":"Jaroslav Pelikan","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jaroslav_Pelikan.json"},
-{"id":"jean_delay","name":"Jean Delay","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jean_Delay.json"},
+{"id":"jaroslav_pelikan","name":"Jaroslav Pelikan","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pelikan.jpg/960px-Pelikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jaroslav_Pelikan.json"},
+
 {"id":"jean_paul_sartre","name":"Jean-Paul Sartre","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jean_Paul_Sartre.json"},
 {"id":"jeannette_wing","name":"Jeannette Wing","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jeannette_Wing.json"},
 {"id":"jeff_dean","name":"Jeff Dean","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jeff_Dean.json"},
