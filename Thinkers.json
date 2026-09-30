@@ -398,20 +398,14 @@
  
   
 {"id":"james_watson","name":"James Watson","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/James_D_Watson.jpg/960px-James_D_Watson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Watson.json"},
-
 {"id":"jane_goodall","name":"Jane Goodall","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jane_Goodall_HK.jpg/960px-Jane_Goodall_HK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jane_Goodall.json"},
-
 {"id":"jared_diamond","name":"Jared Diamond","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jared_Diamond.json"},
-
-  
 {"id":"jaroslav_pelikan","name":"Jaroslav Pelikan","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pelikan.jpg/960px-Pelikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jaroslav_Pelikan.json"},
-
 {"id":"jean_paul_sartre","name":"Jean-Paul Sartre","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sartre_1967_crop.jpg/960px-Sartre_1967_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jean_Paul_Sartre.json"},
+{"id":"jeff_dean","name":"Jeff Dean","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jeff_Dean_in_2025_x.jpg/960px-Jeff_Dean_in_2025_x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jeff_Dean.json"},
+{"id":"jennifer_doudna","name":"Jennifer Doudna","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jennifer_Doudna_in_2021_at_the_Innovative_Genomics_Institute_05.jpg/960px-Jennifer_Doudna_in_2021_at_the_Innovative_Genomics_Institute_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jennifer_Doudna.json"},
 
-{"id":"jeff_dean","name":"Jeff Dean","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jeff_Dean.json"},
-{"id":"jennifer_doudna","name":"Jennifer Doudna","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jennifer_Doudna.json"},
-{"id":"jerome_bruner","name":"Jerome Bruner","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jerome_Bruner.json"},
-{"id":"jitendra_malik","name":"Jitendra Malik","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jitendra_Malik.json"},
+
 {"id":"joan_robinson","name":"Joan Robinson","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Joan_Robinson.json"},
 {"id":"joe_armstrong","name":"Joe Armstrong","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Joe_Armstrong.json"},
 
