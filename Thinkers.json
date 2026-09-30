@@ -387,18 +387,16 @@
  
 
   {"id":"jack_london","name":"Jack London","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/960px-Jack_London_young.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jack_London.json"},
-
-  {"id":"jacques_derrida","name":"Jacques Derrida","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacques_Derrida.json"},
-  {"id":"jacques_monod","name":"Jacques Monod","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jacques_Monod.json"},
-  {"id":"james_buchanan","name":"James Buchanan","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Buchanan.json"},
-  {"id":"james_clerk_maxwell","name":"James Clerk Maxwell","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Clerk_Maxwell.json"},
+  {"id":"jacques_derrida","name":"Jacques Derrida","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Jaques_Derrida_%28cropped%29.jpg/960px-Jaques_Derrida_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jacques_Derrida.json"},
+  {"id":"jacques_monod","name":"Jacques Monod","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Jacques_Monod_nobel.jpg/960px-Jacques_Monod_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jacques_Monod.json"},
+  {"id":"james_buchanan","name":"James Buchanan","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/James_Buchanan_%28cropped%29.jpg/960px-James_Buchanan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Buchanan.json"},
+  {"id":"james_franck","name":"James Franck","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/James_Franck_1925.jpg/960px-James_Franck_1925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Franck.json"},
+  {"id":"james_frazer","name":"James Frazer","letter":"J","category":"","legend":true,"visible":true,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7a/JamesGeorgeFrazer.jpg","jsonFile":"James_Frazer.json"},
+  {"id":"james_gosling","name":"James Gosling","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/960px-James_Gosling_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Gosling.json"},
+  {"id":"james_joyce","name":"James Joyce","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg/960px-James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Joyce.json"},
+  {"id":"james_tobin","name":"James Tobin","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/James_Tobin.png/960px-James_Tobin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Tobin.json"},
  
   
-  {"id":"james_franck","name":"James Franck","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Franck.json"},
-  {"id":"james_frazer","name":"James Frazer","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Frazer.json"},
-  {"id":"james_gosling","name":"James Gosling","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Gosling.json"},
-  {"id":"james_joyce","name":"James Joyce","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Joyce.json"},
-  {"id":"james_tobin","name":"James Tobin","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Tobin.json"},
   {"id":"james_watson","name":"James Watson","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"James_Watson.json"},
   {"id":"jamie_zawinski","name":"Jamie Zawinski","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jamie_Zawinski.json"},
   {"id":"jane_goodall","name":"Jane Goodall","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jane_Goodall.json"},
