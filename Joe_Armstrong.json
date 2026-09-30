@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Joe Armstrong",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/0/04/Joe_Armstrong.jpg",
+  "indexLetter": "J",
+
+  "nationality": "British",
+  "occupation": "Programmer, Software Engineer, Computer Scientist",
+  "school": "Concurrent Programming, Distributed Systems, Fault-Tolerant Computing",
+
+  "born": "27 December 1950",
+  "died": "20 April 2019",
+
+  "knownFor1": "Erlang Programming Language",
+  "knownFor2": "Concurrent Computing",
+  "knownFor3": "Distributed Systems",
+  "knownFor4": "Fault-Tolerant Software",
+  "knownFor5": "Telecommunications Software",
+  "knownFor6": "Actor Model Systems",
+  "knownFor7": "Scalable Computing",
+  "knownFor8": "Programming Language Design",
+
+  "legacy": "Joe Armstrong is remembered as one of the leading advocates of building software systems that continue functioning even when individual components fail. His ideas challenged the traditional goal of preventing every fault and instead emphasized designing systems that could recover gracefully from errors. Through the creation of Erlang and his broader influence on software architecture, he helped shape modern approaches to highly available and resilient computing.",
+
+  "earlyLife": "Armstrong developed an early fascination with mathematics, electronics, and computing. As computer systems became increasingly complex, he became interested in understanding how large networks of software could remain dependable despite inevitable failures. This practical concern for reliability guided much of his later research and engineering work.",
+
+  "scientificField": "Computer Science, Software Engineering, Distributed Computing",
+
+  "majorContributions": "Armstrong played a central role in the creation of Erlang, a programming language designed for concurrent and distributed applications. He promoted architectural principles that allowed software processes to operate independently while communicating efficiently. His work demonstrated how fault isolation, message passing, and automated recovery mechanisms could be combined to create systems capable of maintaining service under demanding conditions.",
+
+  "laterLife": "Throughout his later career, Armstrong continued teaching, writing, consulting, and speaking about software reliability and programming language design. He remained a respected voice in the computing community, encouraging developers to rethink how large systems should be structured. His ideas gained renewed attention as internet services, cloud platforms, and distributed applications became increasingly important.",
+
+  "whyImportant": "Joe Armstrong helped redefine how engineers think about reliability in software. Many modern cloud services, communication platforms, and distributed applications employ principles that resemble ideas he championed decades earlier. His emphasis on resilience, scalability, and fault tolerance continues to influence programmers building systems that must operate continuously and serve large numbers of users.",
+
+  "quote1": "Reliable systems are designed with failure in mind.",
+  "quote2": "Resilience is often more valuable than perfection.",
+  "quote3": "Software should expect the unexpected.",
+  "quote4": "A fault contained is a fault controlled.",
+  "quote5": "Scalability begins with simple communication between components.",
+  "quote6": "Independent processes create stronger systems.",
+  "quote7": "Robust design reduces the cost of mistakes.",
+  "quote8": "Complexity becomes manageable through clear boundaries.",
+  "quote9": "Distributed computing rewards careful architecture.",
+  "quote10": "The best systems recover faster than they fail.",
+  "quote11": "Engineering progress comes from practical solutions.",
+  "quote12": "Reliability is a feature users notice only when it disappears.",
+  "quote13": "Good software evolves without losing stability.",
+  "quote14": "Strong systems treat failures as ordinary events.",
+  "quote15": "Concurrency requires discipline as much as creativity.",
+  "quote16": "Simple rules can govern remarkably complex systems.",
+  "quote17": "Technology succeeds when it remains dependable under pressure.",
+  "quote18": "Software architecture shapes long-term success.",
+  "quote19": "Recovery mechanisms are as important as functionality.",
+  "quote20": "The future belongs to systems that adapt and endure."
+}

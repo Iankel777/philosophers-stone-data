@@ -1,0 +1,54 @@
+{
+  "thinkerName": "John Carmack",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/John_Carmack_at_GDC_2004.jpg",
+  "indexLetter": "J",
+
+  "nationality": "American",
+  "occupation": "Programmer, Software Engineer, Computer Scientist",
+  "school": "Game Engine Development, Computer Graphics, Virtual Reality",
+
+  "born": "20 August 1970",
+  "died": "",
+
+  "knownFor1": "3D Game Engines",
+  "knownFor2": "DOOM Engine",
+  "knownFor3": "Quake Engine",
+  "knownFor4": "Real-Time Graphics",
+  "knownFor5": "Video Game Programming",
+  "knownFor6": "Virtual Reality",
+  "knownFor7": "Software Optimization",
+  "knownFor8": "Technical Innovation",
+
+  "legacy": "John Carmack is regarded as one of the most influential programmers in the history of interactive computing. His work helped transform computer games from simple digital entertainment into technically sophisticated real-time simulations. Through innovations in graphics rendering, engine architecture, and performance optimization, he established standards that shaped modern game development and influenced generations of software engineers.",
+
+  "earlyLife": "From an early age, Carmack displayed a strong curiosity about computing, electronics, and problem solving. He devoted significant time to understanding how computer systems operated and became fascinated by the challenge of making software run faster and more efficiently. His enthusiasm for experimentation and self-directed learning laid the foundation for his future achievements in programming and technical innovation.",
+
+  "scientificField": "Computer Science, Software Engineering, Computer Graphics",
+
+  "majorContributions": "Carmack pioneered techniques that made fast real-time three-dimensional graphics practical on consumer hardware. He developed influential game engines that introduced new approaches to rendering, optimization, networking, and system architecture. His engineering philosophy emphasized simplicity, efficiency, and measurable performance. Later, he contributed to advances in virtual reality technology and immersive computing systems.",
+
+  "laterLife": "After achieving recognition in the game industry, Carmack expanded his focus to virtual reality, computing infrastructure, and advanced software research. He became known for discussing technical challenges openly and for promoting rigorous engineering practices. His later work continued exploring the boundaries of simulation, optimization, and human-computer interaction.",
+
+  "whyImportant": "John Carmack demonstrated how deep technical understanding can reshape an entire industry. His innovations enabled richer digital environments, accelerated the evolution of game technology, and influenced software development far beyond entertainment. Many techniques now considered standard in graphics programming and performance engineering can trace part of their popularity to ideas he helped advance.",
+
+  "quote1": "Performance is often the result of thousands of small improvements.",
+  "quote2": "Understanding a system deeply reveals opportunities others miss.",
+  "quote3": "Good engineering favors clarity over complication.",
+  "quote4": "Optimization begins with measurement, not assumptions.",
+  "quote5": "Complex problems become manageable when divided carefully.",
+  "quote6": "Technology advances through persistent experimentation.",
+  "quote7": "The best code balances speed and maintainability.",
+  "quote8": "Curiosity is a powerful engineering tool.",
+  "quote9": "Software improves when its limitations are understood.",
+  "quote10": "Elegant solutions often appear simple after they are discovered.",
+  "quote11": "Innovation requires both imagination and discipline.",
+  "quote12": "Every technical constraint can inspire creativity.",
+  "quote13": "Reliable systems are built through continuous refinement.",
+  "quote14": "Progress comes from testing ideas against reality.",
+  "quote15": "A programmer's greatest resource is careful thinking.",
+  "quote16": "Efficiency matters because computing resources are never infinite.",
+  "quote17": "Learning never stops in a rapidly changing field.",
+  "quote18": "Strong foundations enable ambitious projects.",
+  "quote19": "Engineering excellence grows from attention to detail.",
+  "quote20": "The pursuit of better solutions drives technological progress."
+}

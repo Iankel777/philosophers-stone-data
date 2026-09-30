@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Jon Bentley",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jon_Bentley.jpg",
+  "indexLetter": "J",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Software Engineer, Author",
+  "school": "Algorithms, Programming Methodology, Software Engineering",
+
+  "born": "20 February 1953",
+  "died": "",
+
+  "knownFor1": "Algorithm Design",
+  "knownFor2": "Programming Pearls",
+  "knownFor3": "Software Engineering",
+  "knownFor4": "Algorithm Analysis",
+  "knownFor5": "Computer Science Education",
+  "knownFor6": "Problem Solving",
+  "knownFor7": "Programming Techniques",
+  "knownFor8": "Technical Writing",
+
+  "legacy": "Jon Bentley is recognized for demonstrating that effective programming is as much about careful thinking as it is about writing code. Through his books, articles, and educational contributions, he helped generations of programmers develop stronger analytical skills. His emphasis on elegant solutions, efficiency, and clarity made algorithmic thinking more accessible to students, professionals, and educators around the world.",
+
+  "earlyLife": "Bentley developed an early interest in mathematics, logic, and computation. During his educational years he became fascinated by the challenge of solving complex problems through structured reasoning. This combination of mathematical rigor and practical curiosity guided his later work in algorithms, software development, and computer science education.",
+
+  "scientificField": "Computer Science, Algorithms, Software Engineering",
+
+  "majorContributions": "Bentley became widely known for presenting difficult programming concepts in a practical and understandable way. His work highlighted the importance of algorithmic efficiency, careful problem decomposition, and thoughtful software design. Through influential writing and educational efforts, he encouraged programmers to examine not only whether a program works but also how effectively it uses resources and how well it can be maintained.",
+
+  "laterLife": "Throughout his career, Bentley remained involved in research, software development, technical communication, and education. He continued exploring methods for improving programming practices and helping developers cultivate stronger problem-solving abilities. His later work reinforced the idea that good engineering emerges from disciplined reasoning and continuous learning.",
+
+  "whyImportant": "Jon Bentley helped bridge the gap between theoretical computer science and practical programming. His explanations of algorithms and software design inspired countless developers to think more critically about efficiency, structure, and maintainability. Many programmers credit his teachings with improving the way they approach technical challenges and software creation.",
+
+  "quote1": "A well-understood problem is already halfway solved.",
+  "quote2": "Elegant solutions often come from disciplined thinking.",
+  "quote3": "Algorithms turn ideas into practical results.",
+  "quote4": "The best code communicates its own logic.",
+  "quote5": "Efficiency begins with understanding constraints.",
+  "quote6": "Simple solutions deserve serious consideration.",
+  "quote7": "Programming rewards careful observation.",
+  "quote8": "Clarity is an engineering advantage.",
+  "quote9": "Good questions lead to better software.",
+  "quote10": "Every optimization should serve a purpose.",
+  "quote11": "Strong foundations make systems easier to improve.",
+  "quote12": "Understanding data is the key to understanding problems.",
+  "quote13": "Thoughtful design reduces future complexity.",
+  "quote14": "Programming is a craft refined through practice.",
+  "quote15": "Reliable software grows from reliable reasoning.",
+  "quote16": "A problem viewed differently may reveal a simpler answer.",
+  "quote17": "Learning from mistakes strengthens engineering judgment.",
+  "quote18": "Careful measurement is better than assumption.",
+  "quote19": "The pursuit of elegance encourages creativity.",
+  "quote20": "Great programmers cultivate both logic and curiosity."
+}

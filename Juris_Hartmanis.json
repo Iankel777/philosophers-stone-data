@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Juris Hartmanis",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/4/45/Juris_Hartmanis.jpg",
+  "indexLetter": "J",
+
+  "nationality": "Latvian-American",
+  "occupation": "Computer Scientist, Academic, Researcher",
+  "school": "Computational Complexity Theory, Theoretical Computer Science",
+
+  "born": "5 July 1928",
+  "died": "29 July 2022",
+
+  "knownFor1": "Computational Complexity Theory",
+  "knownFor2": "Complexity Classes",
+  "knownFor3": "Theoretical Computer Science",
+  "knownFor4": "Algorithm Analysis",
+  "knownFor5": "Computational Limits",
+  "knownFor6": "Theory of Computation",
+  "knownFor7": "Complexity Hierarchies",
+  "knownFor8": "Computer Science Research",
+
+  "legacy": "Juris Hartmanis helped establish the scientific study of computational difficulty. His work provided researchers with a framework for comparing problems according to the resources required to solve them. By clarifying the distinction between easy and difficult computations, he contributed to a deeper understanding of what computers can achieve efficiently and what challenges remain inherently demanding.",
+
+  "earlyLife": "Hartmanis grew up during a period of major political and social upheaval in Europe. His interest in mathematics and scientific reasoning developed early and eventually led him toward advanced studies in quantitative disciplines. As computing emerged as a new scientific frontier, he became interested in the theoretical principles governing computation rather than merely the construction of computing machines.",
+
+  "scientificField": "Computer Science, Computational Complexity, Theory of Computation",
+
+  "majorContributions": "Hartmanis played a foundational role in the development of computational complexity theory. His research introduced systematic ways of classifying computational problems according to the time and resources required to solve them. By helping establish complexity classes and formal measures of computational difficulty, he created tools that became central to theoretical computer science. His work influenced research in algorithms, cryptography, optimization, and computational mathematics.",
+
+  "laterLife": "Throughout his academic career, Hartmanis continued advancing theoretical computer science through research, teaching, and institutional leadership. He supported the growth of computer science as a rigorous scientific discipline and encouraged exploration of deep theoretical questions concerning computation, information, and mathematical reasoning. His influence extended through both his publications and the generations of researchers he helped inspire.",
+
+  "whyImportant": "Juris Hartmanis helped define one of the most important areas of modern computer science: understanding the limits of efficient computation. The conceptual tools that emerged from his work remain fundamental for studying algorithms, complexity classes, cybersecurity, artificial intelligence, and many other fields. His ideas continue to guide researchers exploring the boundaries between what is computationally practical and what remains computationally challenging.",
+
+  "quote1": "Understanding difficulty is essential to understanding computation.",
+  "quote2": "A problem's importance often lies in its limitations.",
+  "quote3": "Theory provides the map by which innovation travels.",
+  "quote4": "Complexity reveals the true cost of computation.",
+  "quote5": "Scientific progress begins with careful classification.",
+  "quote6": "The boundaries of computation deserve as much attention as its possibilities.",
+  "quote7": "Abstraction helps uncover deeper truths.",
+  "quote8": "Mathematics gives structure to computational thought.",
+  "quote9": "A rigorous question can be more valuable than a quick answer.",
+  "quote10": "Knowledge advances through precise definitions.",
+  "quote11": "Algorithms must be examined not only for correctness but also for efficiency.",
+  "quote12": "Understanding resources is central to understanding computation.",
+  "quote13": "Theoretical insights often shape practical advances decades later.",
+  "quote14": "Complexity theory studies the price of solving problems.",
+  "quote15": "Every scientific field benefits from strong foundations.",
+  "quote16": "Good theory clarifies what can and cannot be achieved.",
+  "quote17": "The most interesting questions often concern limits.",
+  "quote18": "Careful reasoning transforms confusion into understanding.",
+  "quote19": "Computational challenges reveal the structure of information.",
+  "quote20": "Progress in computer science depends upon both imagination and rigor."
+}

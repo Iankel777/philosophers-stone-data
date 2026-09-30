@@ -1,0 +1,54 @@
+{
+  "thinkerName": "John Watson",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/0/09/John_Broadus_Watson.jpg",
+  "indexLetter": "J",
+
+  "nationality": "American",
+  "occupation": "Psychologist, Academic, Behavioral Theorist",
+  "school": "Behaviorism, Experimental Psychology, Learning Theory",
+
+  "born": "9 January 1878",
+  "died": "25 September 1958",
+
+  "knownFor1": "Behaviorism",
+  "knownFor2": "Experimental Psychology",
+  "knownFor3": "Learning Theory",
+  "knownFor4": "Behavioral Research",
+  "knownFor5": "Psychological Methodology",
+  "knownFor6": "Stimulus-Response Theory",
+  "knownFor7": "Scientific Psychology",
+  "knownFor8": "Applied Psychology",
+
+  "legacy": "John B. Watson played a major role in transforming psychology into a discipline centered on observable behavior and measurable evidence. He argued that psychological research should focus on actions that can be studied systematically rather than relying primarily on introspection. His approach influenced decades of research, shaping educational practices, behavioral science, and experimental methods within psychology.",
+
+  "earlyLife": "Watson grew up in a rural environment where curiosity, observation, and persistence played important roles in daily life. As a student, he became increasingly interested in understanding why individuals behave as they do. His academic experiences led him toward scientific approaches to psychology, encouraging him to investigate behavior through observation and experimentation.",
+
+  "scientificField": "Psychology, Behavioral Science, Experimental Research",
+
+  "majorContributions": "Watson became the leading advocate of behaviorism, a perspective that emphasized the study of observable actions instead of unobservable mental processes. He promoted controlled experimentation and objective measurement as foundations for psychological inquiry. His work encouraged researchers to examine how environmental influences contribute to learning and behavioral development. By stressing scientific methodology, he helped establish standards that influenced generations of psychologists and researchers.",
+
+  "laterLife": "After achieving prominence in academic psychology, Watson applied behavioral principles to practical areas involving communication, persuasion, and human behavior. He continued discussing how scientific insights could be used to better understand learning, habit formation, and decision-making. His ideas remained influential throughout much of the twentieth century and continued to shape debates about the nature of human behavior.",
+
+  "whyImportant": "John B. Watson helped shift psychology toward empirical observation and experimental analysis. His behavioral approach encouraged researchers to seek measurable evidence when explaining human and animal actions. Although later psychologists expanded beyond behaviorism, many modern research methods, learning theories, and behavioral interventions continue to reflect principles associated with the movement he helped establish.",
+
+  "quote1": "Behavior becomes understandable when it is observed carefully.",
+  "quote2": "Scientific inquiry depends upon measurable evidence.",
+  "quote3": "Learning is shaped by interaction with the environment.",
+  "quote4": "Observation provides the foundation for explanation.",
+  "quote5": "Progress in psychology requires disciplined investigation.",
+  "quote6": "Reliable knowledge emerges from systematic research.",
+  "quote7": "Habits are built through repeated experience.",
+  "quote8": "Understanding behavior requires attention to context.",
+  "quote9": "A scientific approach seeks evidence before conclusions.",
+  "quote10": "Human actions can reveal patterns worthy of study.",
+  "quote11": "Careful experimentation strengthens understanding.",
+  "quote12": "The environment influences development in powerful ways.",
+  "quote13": "Research advances when questions become testable.",
+  "quote14": "Knowledge grows through observation and verification.",
+  "quote15": "Learning is an active process shaped by experience.",
+  "quote16": "Scientific methods help transform curiosity into understanding.",
+  "quote17": "Behavior often reflects the conditions in which it develops.",
+  "quote18": "Objective evidence strengthens psychological explanations.",
+  "quote19": "Discovery begins with attention to observable facts.",
+  "quote20": "Understanding behavior helps illuminate human potential."
+}

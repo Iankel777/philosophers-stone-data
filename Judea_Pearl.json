@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Judea Pearl",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Judea_Pearl.jpg",
+  "indexLetter": "J",
+
+  "nationality": "American-Israeli",
+  "occupation": "Computer Scientist, Philosopher of Science, Artificial Intelligence Researcher",
+  "school": "Artificial Intelligence, Causal Inference, Probabilistic Reasoning",
+
+  "born": "4 September 1936",
+  "died": "",
+
+  "knownFor1": "Causal Inference",
+  "knownFor2": "Bayesian Networks",
+  "knownFor3": "Probabilistic Reasoning",
+  "knownFor4": "Artificial Intelligence",
+  "knownFor5": "Causal Models",
+  "knownFor6": "Scientific Reasoning",
+  "knownFor7": "Decision Theory",
+  "knownFor8": "Machine Learning Foundations",
+
+  "legacy": "Judea Pearl transformed the study of cause-and-effect relationships in science and computing. His work provided researchers with rigorous methods for distinguishing correlation from causation, enabling more reliable explanations of complex phenomena. By connecting probability, logic, and reasoning, he helped establish a framework that has influenced artificial intelligence, medicine, economics, social science, and data analysis.",
+
+  "earlyLife": "Pearl developed a strong interest in mathematics, engineering, and scientific reasoning during his formative years. He was fascinated by how knowledge could be represented, analyzed, and used to make better decisions. This intellectual curiosity eventually led him toward studying uncertainty, inference, and the underlying principles that govern rational thought.",
+
+  "scientificField": "Computer Science, Artificial Intelligence, Causal Inference",
+
+  "majorContributions": "Pearl pioneered formal approaches to causal reasoning, showing how complex systems could be analyzed through structured models of cause and effect. He played a central role in popularizing Bayesian networks as tools for representing uncertainty and dependency. His work provided researchers with methods for evaluating interventions, predicting outcomes, and understanding why events occur rather than merely observing that they occur together.",
+
+  "laterLife": "In the later stages of his career, Pearl continued writing, teaching, and expanding the philosophical and scientific implications of causal reasoning. He engaged in discussions about artificial intelligence, scientific explanation, and the limits of purely statistical approaches to knowledge. His ideas remained influential across both academic research and practical applications in technology and policy.",
+
+  "whyImportant": "Judea Pearl helped researchers move beyond prediction toward explanation. His theories provided tools for understanding causality in a systematic way, influencing fields ranging from machine learning and epidemiology to economics and public policy. Many modern efforts to build more transparent and explainable intelligent systems draw upon principles that he helped establish.",
+
+  "quote1": "Understanding causes unlocks deeper understanding than observing patterns alone.",
+  "quote2": "Knowledge grows when questions move from what happened to why it happened.",
+  "quote3": "Correlation suggests possibilities; causation reveals mechanisms.",
+  "quote4": "Good science seeks explanations, not merely predictions.",
+  "quote5": "Reasoning improves when uncertainty is acknowledged rather than ignored.",
+  "quote6": "Every explanation is a bridge between observation and understanding.",
+  "quote7": "Intelligence depends on the ability to model consequences.",
+  "quote8": "A theory gains value when it clarifies decisions.",
+  "quote9": "Data becomes more meaningful when connected to causes.",
+  "quote10": "Scientific progress requires asking deeper questions.",
+  "quote11": "Prediction and explanation are related but distinct pursuits.",
+  "quote12": "Complex systems can often be understood through simple causal structures.",
+  "quote13": "Knowledge advances when assumptions become explicit.",
+  "quote14": "The search for causes is the search for understanding.",
+  "quote15": "Models help transform information into insight.",
+  "quote16": "Rational inquiry depends upon evaluating alternatives.",
+  "quote17": "Explanation gives direction to observation.",
+  "quote18": "Curiosity drives the investigation of cause and effect.",
+  "quote19": "Scientific thinking flourishes when ideas can be tested systematically.",
+  "quote20": "Understanding why something happens is often more powerful than knowing that it happens."
+}

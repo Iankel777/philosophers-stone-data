@@ -1,0 +1,54 @@
+{
+  "thinkerName": "John Maynard Smith",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/John_Maynard_Smith.jpg",
+  "indexLetter": "J",
+
+  "nationality": "British",
+  "occupation": "Evolutionary Biologist, Geneticist, Academic",
+  "school": "Evolutionary Biology, Population Genetics, Evolutionary Game Theory",
+
+  "born": "6 January 1920",
+  "died": "19 April 2004",
+
+  "knownFor1": "Evolutionary Game Theory",
+  "knownFor2": "Population Genetics",
+  "knownFor3": "Evolutionary Stability",
+  "knownFor4": "Animal Behavior Theory",
+  "knownFor5": "Adaptation Studies",
+  "knownFor6": "Theoretical Biology",
+  "knownFor7": "Evolutionary Models",
+  "knownFor8": "Behavioral Evolution",
+
+  "legacy": "John Maynard Smith is remembered as one of the most influential evolutionary thinkers of the twentieth century. He helped transform evolutionary biology into a more mathematically rigorous discipline by introducing analytical tools capable of explaining competition, cooperation, and adaptation in living organisms. His ideas provided new ways of understanding how biological strategies emerge and persist across generations.",
+
+  "earlyLife": "Maynard Smith developed interests in science, engineering, and logical analysis during his early years. His education encouraged a quantitative approach to problem solving, and over time he became increasingly fascinated by biological questions concerning inheritance, survival, and adaptation. His background in analytical thinking later became a defining feature of his scientific work.",
+
+  "scientificField": "Evolutionary Biology, Genetics, Theoretical Biology",
+
+  "majorContributions": "Maynard Smith pioneered the use of game-theoretic reasoning within evolutionary biology, creating models that explained how behaviors could evolve through natural selection. He helped develop the concept of evolutionary stability, demonstrating how certain strategies can persist within populations despite competition from alternatives. His research advanced the study of adaptation, animal behavior, sexual selection, and population dynamics, providing frameworks that remain central to modern evolutionary science.",
+
+  "laterLife": "During the later stages of his career, Maynard Smith remained deeply involved in research, teaching, and scientific discussion. He contributed to debates about evolution, genetics, development, and complexity while mentoring younger researchers. His writings helped make challenging theoretical concepts accessible to both scientists and educated general audiences.",
+
+  "whyImportant": "John Maynard Smith provided biology with powerful conceptual tools for understanding strategic behavior in nature. His work influenced fields ranging from ecology and genetics to economics and artificial intelligence. By showing how competition and cooperation could be examined through formal models, he expanded the explanatory power of evolutionary theory and deepened scientific understanding of biological adaptation.",
+
+  "quote1": "Evolution rewards strategies that persist, not merely those that appear strong.",
+  "quote2": "Competition reveals the structure of adaptation.",
+  "quote3": "Biology becomes clearer when behavior is studied systematically.",
+  "quote4": "Nature is shaped by interaction as much as by inheritance.",
+  "quote5": "A useful model simplifies without distorting reality.",
+  "quote6": "Scientific understanding grows through comparison and testing.",
+  "quote7": "Adaptation is a continuous process rather than a final state.",
+  "quote8": "Complex outcomes often emerge from simple rules.",
+  "quote9": "Mathematics can illuminate biological questions.",
+  "quote10": "Evolution operates through countless small decisions made by nature.",
+  "quote11": "The persistence of a strategy often matters more than its immediate advantage.",
+  "quote12": "Careful reasoning reveals patterns hidden within diversity.",
+  "quote13": "The study of behavior provides insight into survival.",
+  "quote14": "Good theories connect observation with explanation.",
+  "quote15": "Evolutionary success depends upon context.",
+  "quote16": "Scientific progress requires both imagination and evidence.",
+  "quote17": "Nature's complexity can be approached through clear principles.",
+  "quote18": "Understanding cooperation is as important as understanding competition.",
+  "quote19": "Biological systems reward flexibility and adaptation.",
+  "quote20": "The deeper we study evolution, the more interconnected life appears."
+}
