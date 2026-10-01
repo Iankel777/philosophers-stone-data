@@ -425,12 +425,8 @@
 {"id":"john_watson","name":"John B. Watson","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/John_Watson_philosopher.jpg/960px-John_Watson_philosopher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Watson.json"},
 {"id":"jon_kleinberg","name":"Jon Kleinberg","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Jon_Kleinberg.jpg/960px-Jon_Kleinberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jon_Kleinberg.json"},
 {"id":"joseph_stiglitz","name":"Joseph Stiglitz","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joseph_Stiglitz.jpg/960px-Joseph_Stiglitz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Joseph_Stiglitz.json"},
+{"id":"josiah_royce","name":"Josiah Royce","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Josiah_Royce.jpeg/960px-Josiah_Royce.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Josiah_Royce.json"},
 
-
-  
-
-{"id":"josiah_royce","name":"Josiah Royce","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Josiah_Royce.json"},
-{"id":"joy_paul_guilford","name":"Joy Paul Guilford","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Joy_Paul_Guilford.json"},
 {"id":"judd_marmor","name":"Judd Marmor","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Judd_Marmor.json"},
 {"id":"judea_pearl","name":"Judea Pearl","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Judea_Pearl.json"},
 {"id":"jules_angst","name":"Jules Angst","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jules_Angst.json"},
