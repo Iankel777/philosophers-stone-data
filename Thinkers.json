@@ -412,7 +412,7 @@
 
 {"id":"john_carmack","name":"John Carmack","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Carmack_E3_2006.jpg/960px-John_Carmack_E3_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Carmack.json"},
 
-{"id":"john_flavell","name":"John Flavell","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Flavell.json"},
+
 {"id":"john_hicks","name":"John Hicks","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Hicks.json"},
 {"id":"john_locke","name":"John Locke","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Locke.json"},
 {"id":"john_maynard_keynes","name":"John Maynard Keynes","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Maynard_Keynes.json"},
