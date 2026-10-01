@@ -424,7 +424,7 @@
 {"id":"john_von_neumann","name":"John von Neumann","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/John_von_Neumann.jpg/960px-John_von_Neumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_von_Neumann.json"},
 {"id":"john_watson","name":"John B. Watson","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/John_Watson_philosopher.jpg/960px-John_Watson_philosopher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Watson.json"},
 
-{"id":"jon_bentley","name":"Jon Bentley","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jon_Bentley.json"},
+
 {"id":"jon_kleinberg","name":"Jon Kleinberg","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jon_Kleinberg.json"},
 {"id":"jose_saramago","name":"José Saramago","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jose_Saramago.json"},
 {"id":"joseph_stiglitz","name":"Joseph Stiglitz","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Joseph_Stiglitz.json"},
