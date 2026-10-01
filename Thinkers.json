@@ -426,14 +426,10 @@
 {"id":"jon_kleinberg","name":"Jon Kleinberg","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Jon_Kleinberg.jpg/960px-Jon_Kleinberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jon_Kleinberg.json"},
 {"id":"joseph_stiglitz","name":"Joseph Stiglitz","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Joseph_Stiglitz.jpg/960px-Joseph_Stiglitz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Joseph_Stiglitz.json"},
 {"id":"josiah_royce","name":"Josiah Royce","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Josiah_Royce.jpeg/960px-Josiah_Royce.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Josiah_Royce.json"},
-
 {"id":"judea_pearl","name":"Judea Pearl","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Judea_and_Ruth_Pearl_lighting_a_menorah_at_the_White_House.jpg/960px-Judea_and_Ruth_Pearl_lighting_a_menorah_at_the_White_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Judea_Pearl.json"},
+{"id":"jules_verne","name":"Jules Verne","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_%28restoration%29.jpg/960px-F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_%28restoration%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Jules_Verne.json"},
+{"id":"julian_huxley","name":"Julian Huxley","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Hux-Oxon-72.jpg/960px-Hux-Oxon-72.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Julian_Huxley.json"},
 
-{"id":"jules_verne","name":"Jules Verne","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jules_Verne.json"},
-
-  
-{"id":"julian_huxley","name":"Julian Huxley","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Julian_Huxley.json"},
-{"id":"julian_rotter","name":"Julian Rotter","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Julian_Rotter.json"},
 {"id":"julian_schwinger","name":"Julian Schwinger","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Julian_Schwinger.json"},
 {"id":"jurgen_habermas","name":"Jürgen Habermas","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Jurgen_Habermas.json"},
 {"id":"juris_hartmanis","name":"Juris Hartmanis","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"Juris_Hartmanis.json"},
