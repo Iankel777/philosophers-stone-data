@@ -407,24 +407,18 @@
 
   
 {"id":"johan_huizinga","name":"Johan Huizinga","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Johan-huizinga1.jpg/960px-Johan-huizinga1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Johan_Huizinga.json"},
-
 {"id":"john_bardeen","name":"John Bardeen","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bardeen.jpg/960px-Bardeen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Bardeen.json"},
-
 {"id":"john_carmack","name":"John Carmack","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Carmack_E3_2006.jpg/960px-John_Carmack_E3_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Carmack.json"},
-
-
-{"id":"john_hicks","name":"John Hicks","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Hicks.json"},
-{"id":"john_locke","name":"John Locke","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Locke.json"},
-{"id":"john_maynard_keynes","name":"John Maynard Keynes","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Maynard_Keynes.json"},
- 
-  
-{"id":"john_maynard_smith","name":"John Maynard Smith","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Maynard_Smith.json"},
-{"id":"john_mccarthy","name":"John McCarthy","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_McCarthy.json"},
-{"id":"john_nash","name":"John Forbes Nash Jr.","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Nash.json"},
-{"id":"john_rawls","name":"John Rawls","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Rawls.json"},
-{"id":"john_ronald_reuel_tolkien","name":"John Ronald Reuel Tolkien","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Ronald_Tolkien.json"},
-{"id":"john_steinbeck","name":"John Steinbeck","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Steinbeck.json"},
-{"id":"john_stuart_mill","name":"John Stuart Mill","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_Stuart_Mill.json"},
+{"id":"john_hicks","name":"John Hicks","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/John_Hicks_1972.jpg/960px-John_Hicks_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Hicks.json"},
+{"id":"john_locke","name":"John Locke","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/960px-JohnLocke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Locke.json"},
+{"id":"john_maynard_keynes","name":"John Maynard Keynes","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/John_Maynard_Keynes_%281929%29.jpg/960px-John_Maynard_Keynes_%281929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Maynard_Keynes.json"},
+{"id":"john_maynard_smith","name":"John Maynard Smith","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/John_Maynard_Smith.jpg/960px-John_Maynard_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Maynard_Smith.json"},
+{"id":"john_mccarthy","name":"John McCarthy","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/John_McCarthy_Stanford.jpg/960px-John_McCarthy_Stanford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_McCarthy.json"},
+{"id":"john_nash","name":"John Forbes Nash Jr.","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/John_f_nash_20061102_3.jpg/960px-John_f_nash_20061102_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Nash.json"},
+{"id":"john_rawls","name":"John Rawls","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/John_Rawls_%281971_photo_portrait%29.jpg/960px-John_Rawls_%281971_photo_portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Rawls.json"},
+{"id":"john_ronald_reuel_tolkien","name":"John Ronald Reuel Tolkien","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/960px-J._R._R._Tolkien%2C_ca._1925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Ronald_Tolkien.json"},
+{"id":"john_steinbeck","name":"John Steinbeck","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/John_Steinbeck_1962.jpg/960px-John_Steinbeck_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Steinbeck.json"},
+{"id":"john_stuart_mill","name":"John Stuart Mill","letter":"J","category":"","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/960px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Stuart_Mill.json"},
 
   
 {"id":"john_von_neumann","name":"John von Neumann","letter":"J","category":"","legend":true,"visible":true,"image":"","jsonFile":"John_von_Neumann.json"},
