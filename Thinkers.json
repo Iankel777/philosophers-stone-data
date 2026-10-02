@@ -453,16 +453,14 @@
 {"id":"karlheinz_brandenburg","name":"Karlheinz Brandenburg","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2025-03-27_Event%2C_Leipziger_Buchmesse_und_Manga-Comic-Con_2025_STP_1663.jpg/960px-2025-03-27_Event%2C_Leipziger_Buchmesse_und_Manga-Comic-Con_2025_STP_1663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karlheinz_Brandenburg.json"},
 {"id":"kary_mullis","name":"Kary Mullis","letter":"K","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kary_Mullis.jpg/960px-Kary_Mullis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kary_Mullis.json"},
 {"id":"kaushik_basu","name":"Kaushik Basu","letter":"K","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kaushik_Basu_-_Festival_Economia_2013.JPG/960px-Kaushik_Basu_-_Festival_Economia_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kaushik_Basu.json"},
-
-
-  
 {"id":"kazimierz_kuratowski","name":"Kazimierz Kuratowski","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Kazimierz_Kuratowski_Polish_scientist.jpg/960px-Kazimierz_Kuratowski_Polish_scientist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kazimierz_Kuratowski.json"},
 {"id":"kees_immink","name":"Kees Immink","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Schouhamerimmink.jpg/960px-Schouhamerimmink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kees_Immink.json"},
 {"id":"keith_ward","name":"Keith Ward","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Keith_Ward_%28theologian%29%2C_2016_%28cropped%29.jpg/960px-Keith_Ward_%28theologian%29%2C_2016_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Keith_Ward.json"},
 {"id":"ken_kutaragi","name":"Ken Kutaragi","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014_%28cropped%29.jpg/960px-Ken_Kutaragi_-_Game_Developers_Choice_Awards_2014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ken_Kutaragi.json"},
 {"id":"ken_thompson","name":"Ken Thompson","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ken_Thompson%2C_2019.jpg/960px-Ken_Thompson%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ken_Thompson.json"},
-{"id":"kenneth_craik","name":"Kenneth Craik","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Craik.json"},
 {"id":"kenneth_gergen","name":"Kenneth Gergen","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Gergen.json"},
+
+  
 
   
 {"id":"kenneth_iverson","name":"Kenneth Iverson","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Iverson.json"},
