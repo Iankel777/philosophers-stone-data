@@ -461,7 +461,6 @@
 {"id":"kenneth_iverson","name":"Kenneth Iverson","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/KEI_with_ATW_NY_Aug_1989_%28cropped%29_-_Ken_Iverson.png/960px-KEI_with_ATW_NY_Aug_1989_%28cropped%29_-_Ken_Iverson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kenneth_Iverson.json"},
 {"id":"kenneth_pike","name":"Kenneth Pike","letter":"K","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Kenneth_L._Pike.jpg/960px-Kenneth_L._Pike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kenneth_Pike.json"},
 {"id":"kevin_ashton","name":"Kevin Ashton","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kevin_Ashton_2015.jpg/960px-Kevin_Ashton_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kevin_Ashton.json"},
-{"id":"kevin_mulligan","name":"Kevin Mulligan","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kevin_Mulligan.json"},
 {"id":"kevin_murphy","name":"Kevin M. Murphy","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Kevin_Murphy.json"},
 {"id":"kim_nasmyth","name":"Kim Nasmyth","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kim_Nasmyth.json"},
 
