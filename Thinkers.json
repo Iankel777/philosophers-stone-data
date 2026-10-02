@@ -437,7 +437,7 @@
 {"id":"heike_kamerlingh_onnes","name":"Heike Kamerlingh Onnes","letter":"K","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Kamerlingh_portret.jpg/960px-Kamerlingh_portret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heike_Kamerlingh_Onnes.json"},
 {"id":"kai_fu_lee","name":"Kai-Fu Lee","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2842690135980%29.jpg/960px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2842690135980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kai_Fu_Lee.json"},
 
-{"id":"kanwal_singh","name":"Kanwal Singh","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kanwal_Singh.json"},
+
 {"id":"karen_horney","name":"Karen Horney","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karen_Horney.json"},
 {"id":"karen_sparck_jones","name":"Karen Sparck Jones","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Karen_Sparck_Jones.json"},
 {"id":"karl_brunner","name":"Karl Brunner","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Brunner.json"},
