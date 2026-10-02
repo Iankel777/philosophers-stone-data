@@ -437,16 +437,17 @@
 {"id":"heike_kamerlingh_onnes","name":"Heike Kamerlingh Onnes","letter":"K","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Kamerlingh_portret.jpg/960px-Kamerlingh_portret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heike_Kamerlingh_Onnes.json"},
 {"id":"kai_fu_lee","name":"Kai-Fu Lee","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2842690135980%29.jpg/960px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2842690135980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kai_Fu_Lee.json"},
 {"id":"karen_sparck_jones","name":"Karen Sparck Jones","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Karen_Sp%C3%A4rck.jpg/960px-Karen_Sp%C3%A4rck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karen_Sparck_Jones.json"},
+{"id":"karl_ferdinand_braun","name":"Karl Ferdinand Braun","letter":"K","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ferdinand_Braun.jpg/960px-Ferdinand_Braun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Ferdinand_Braun.json"},
+{"id":"karl_gustav_jung","name":"Karl Gustav Jung","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/960px-CGJung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Gustav_Jung.json"},
+{"id":"karl_jaspers","name":"Karl Jaspers","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Karl_Jaspers_1946.jpg/960px-Karl_Jaspers_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Jaspers.json"},
+{"id":"karl_lashley","name":"Karl Lashley","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Karl_lashley.jpg/960px-Karl_lashley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Lashley.json"},
+{"id":"karl_marx","name":"Karl Marx","letter":"K","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png/960px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Marx.json"},
+{"id":"karl_menninger","name":"Karl Menninger","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/DR._AND_MRS._KARL_MENNINGER_ATTENDING_THE_SECOND_ANNUAL_TALLGRASS_PRAIRIE_NATIONAL_PARK_CONFERENCE_HELD_AT_ELMDALE..._-_NARA_-_557149.jpg/960px-DR._AND_MRS._KARL_MENNINGER_ATTENDING_THE_SECOND_ANNUAL_TALLGRASS_PRAIRIE_NATIONAL_PARK_CONFERENCE_HELD_AT_ELMDALE..._-_NARA_-_557149.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Menninger.json"},
 
 
   
-{"id":"karl_ferdinand_braun","name":"Karl Ferdinand Braun","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Ferdinand_Braun.json"},
-{"id":"karl_gustav_jung","name":"Karl Gustav Jung","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Gustav_Jung.json"},
-{"id":"karl_jaspers","name":"Karl Jaspers","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Karl_Jaspers.json"},
-{"id":"karl_lashley","name":"Karl Lashley","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Lashley.json"},
-{"id":"karl_marx","name":"Karl Marx","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Marx.json"},
-{"id":"karl_menninger","name":"Karl Menninger","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Menninger.json"},
-{"id":"karl_niklas","name":"Karl Niklas","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Niklas.json"},
+  
+  
 {"id":"karl_popper","name":"Karl Popper","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Karl_Popper.json"},
 {"id":"karl_von_frisch","name":"Karl von Frisch","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Karl_von_Frisch.json"},
 
