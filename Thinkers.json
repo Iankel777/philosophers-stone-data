@@ -461,20 +461,19 @@
 {"id":"kenneth_iverson","name":"Kenneth Iverson","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/KEI_with_ATW_NY_Aug_1989_%28cropped%29_-_Ken_Iverson.png/960px-KEI_with_ATW_NY_Aug_1989_%28cropped%29_-_Ken_Iverson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kenneth_Iverson.json"},
 {"id":"kenneth_pike","name":"Kenneth Pike","letter":"K","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Kenneth_L._Pike.jpg/960px-Kenneth_L._Pike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kenneth_Pike.json"},
 {"id":"kevin_ashton","name":"Kevin Ashton","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kevin_Ashton_2015.jpg/960px-Kevin_Ashton_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kevin_Ashton.json"},
-{"id":"kim_nasmyth","name":"Kim Nasmyth","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kim_Nasmyth.json"},
+{"id":"kim_nasmyth","name":"Kim Nasmyth","letter":"K","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/KimNasmyth.jpg/960px-KimNasmyth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kim_Nasmyth.json"},
 
-
-  
-  
-{"id":"kip_thorne","name":"Kip Thorne","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Kip_Thorne.json"},
-{"id":"kiyosi_ito","name":"Kiyosi Itô","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Kiyosi_Ito.json"},
-{"id":"klaus_hasselmann","name":"Klaus Hasselmann","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Klaus_Hasselmann.json"},
+{"id":"kip_thorne","name":"Kip Thorne","letter":"K","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kip_Thorne_in_2022_Home_03.jpg/960px-Kip_Thorne_in_2022_Home_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kip_Thorne.json"},
+{"id":"kiyosi_ito","name":"Kiyosi Itô","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Kiyoshi_Ito_19911212_large.jpg/960px-Kiyoshi_Ito_19911212_large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kiyosi_Ito.json"},
 {"id":"klaus_von_klitzing","name":"Klaus von Klitzing","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Klaus_von_Klitzing.json"},
 {"id":"knut_wicksell","name":"Knut Wicksell","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Knut_Wicksell.json"},
 {"id":"konrad_lorenz","name":"Konrad Lorenz","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Konrad_Lorenz.json"},
 {"id":"konrad_zuse","name":"Konrad Zuse","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Konrad_Zuse.json"},
 {"id":"krzysztof_apt","name":"Krzysztof Apt","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Krzysztof_Apt.json"},
 
+  
+
+  
   
 {"id":"kuno_fischer","name":"Kuno Fischer","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kuno_Fischer.json"},
 {"id":"kurt_baier","name":"Kurt Baier","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Baier.json"},
