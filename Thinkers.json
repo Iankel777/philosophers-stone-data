@@ -430,6 +430,110 @@
   {"id":"james_clerk_maxwell","name":"James Clerk Maxwell","letter":"J","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/960px-James-Clerk-Maxwell-1831-1879.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"James_Clerk_Maxwell.json"},
   {"id":"john_cocke","name":"John Cocke","letter":"J","category":"Computer Science","legend":true,"visible":true,"image":"https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/arc/cf/ul/g/d7/34/5847_JC_2.jpeg/_jcr_content/renditions/cq5dam.web.3840.3840.jpeg","jsonFile":"John_Cocke.json"},
   {"id":"john_horton_conway","name":"John Horton Conway","letter":"J","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/John_Conway_browses_Genius_at_Play.jpg/960px-John_Conway_browses_Genius_at_Play.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"John_Horton_Conway.json"},
+  
+  
+  
+
+{"id":"heike_kamerlingh_onnes","name":"Heike Kamerlingh Onnes","letter":"K","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Kamerlingh_portret.jpg/960px-Kamerlingh_portret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Heike_Kamerlingh_Onnes.json"},
+{"id":"kai_fu_lee","name":"Kai-Fu Lee","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2842690135980%29.jpg/960px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2842690135980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kai_Fu_Lee.json"},
+
+{"id":"kanwal_singh","name":"Kanwal Singh","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kanwal_Singh.json"},
+{"id":"karen_horney","name":"Karen Horney","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karen_Horney.json"},
+{"id":"karen_sparck_jones","name":"Karen Sparck Jones","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Karen_Sparck_Jones.json"},
+{"id":"karl_brunner","name":"Karl Brunner","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Brunner.json"},
+
+  
+{"id":"karl_ferdinand_braun","name":"Karl Ferdinand Braun","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Ferdinand_Braun.json"},
+{"id":"karl_gustav_jung","name":"Karl Gustav Jung","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Gustav_Jung.json"},
+{"id":"karl_jaspers","name":"Karl Jaspers","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Karl_Jaspers.json"},
+{"id":"karl_lashley","name":"Karl Lashley","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Lashley.json"},
+{"id":"karl_marx","name":"Karl Marx","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Marx.json"},
+{"id":"karl_menninger","name":"Karl Menninger","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Menninger.json"},
+{"id":"karl_niklas","name":"Karl Niklas","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Karl_Niklas.json"},
+{"id":"karl_popper","name":"Karl Popper","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Karl_Popper.json"},
+{"id":"karl_von_frisch","name":"Karl von Frisch","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Karl_von_Frisch.json"},
+
+  
+{"id":"karl_weierstrass","name":"Karl Weierstrass","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Karl_Weierstrass.json"},
+{"id":"karlheinz_brandenburg","name":"Karlheinz Brandenburg","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Karlheinz_Brandenburg.json"},
+{"id":"karsten_harries","name":"Karsten Harries","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Karsten_Harries.json"},
+{"id":"kary_mullis","name":"Kary Mullis","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kary_Mullis.json"},
+{"id":"katherine_esau","name":"Katherine Esau","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Katherine_Esau.json"},
+{"id":"kathleen_booth","name":"Kathleen Booth","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kathleen_Booth.json"},
+{"id":"katia_sycara","name":"Katia Sycara","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Katia_Sycara.json"},
+{"id":"kaushik_basu","name":"Kaushik Basu","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Kaushik_Basu.json"},
+{"id":"kay_milton","name":"Kay Milton","letter":"K","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Kay_Milton.json"},
+{"id":"kay_redfield_jamison","name":"Kay Redfield Jamison","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kay_Redfield_Jamison.json"},
+
+  
+{"id":"kazimierz_kuratowski","name":"Kazimierz Kuratowski","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Kazimierz_Kuratowski.json"},
+{"id":"kees_immink","name":"Kees Immink","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kees_Immink.json"},
+{"id":"keith_ward","name":"Keith Ward","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Keith_Ward.json"},
+{"id":"ken_goldberg","name":"Ken Goldberg","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ken_Goldberg.json"},
+{"id":"ken_kutaragi","name":"Ken Kutaragi","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ken_Kutaragi.json"},
+{"id":"ken_thompson","name":"Ken Thompson","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ken_Thompson.json"},
+{"id":"kenneth_arrow","name":"Kenneth Arrow","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Arrow.json"},
+{"id":"kenneth_batcher","name":"Kenneth Batcher","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Batcher.json"},
+{"id":"kenneth_boulding","name":"Kenneth Boulding","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Boulding.json"},
+{"id":"kenneth_craik","name":"Kenneth Craik","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Craik.json"},
+{"id":"kenneth_gergen","name":"Kenneth Gergen","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Gergen.json"},
+
+  
+{"id":"kenneth_iverson","name":"Kenneth Iverson","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Iverson.json"},
+{"id":"kenneth_kardong","name":"Kenneth Kardong","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Kardong.json"},
+{"id":"kenneth_pike","name":"Kenneth Pike","letter":"K","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Pike.json"},
+{"id":"kenneth_rogoff","name":"Kenneth Rogoff","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Kenneth_Rogoff.json"},
+{"id":"kent_berridge","name":"Kent Berridge","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kent_Berridge.json"},
+{"id":"kerstin_lindblad_toh","name":"Kerstin Lindblad-Toh","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kerstin_Lindblad_Toh.json"},
+{"id":"kevin_ashton","name":"Kevin Ashton","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kevin_Ashton.json"},
+{"id":"kevin_davies","name":"Kevin Davies","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kevin_Davies.json"},
+{"id":"kevin_mulligan","name":"Kevin Mulligan","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kevin_Mulligan.json"},
+{"id":"kevin_murphy","name":"Kevin M. Murphy","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Kevin_Murphy.json"},
+{"id":"kim_nasmyth","name":"Kim Nasmyth","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kim_Nasmyth.json"},
+
+  
+{"id":"kip_thorne","name":"Kip Thorne","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Kip_Thorne.json"},
+{"id":"kiyosi_ito","name":"Kiyosi Itô","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Kiyosi_Ito.json"},
+{"id":"klaus_hasselmann","name":"Klaus Hasselmann","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Klaus_Hasselmann.json"},
+{"id":"klaus_von_klitzing","name":"Klaus von Klitzing","letter":"K","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Klaus_von_Klitzing.json"},
+{"id":"knut_wicksell","name":"Knut Wicksell","letter":"K","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Knut_Wicksell.json"},
+{"id":"konrad_lorenz","name":"Konrad Lorenz","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Konrad_Lorenz.json"},
+{"id":"konrad_zuse","name":"Konrad Zuse","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Konrad_Zuse.json"},
+{"id":"krzysztof_apt","name":"Krzysztof Apt","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Krzysztof_Apt.json"},
+
+  
+{"id":"kuno_fischer","name":"Kuno Fischer","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kuno_Fischer.json"},
+{"id":"kurt_baier","name":"Kurt Baier","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Baier.json"},
+{"id":"kurt_godel","name":"Kurt Gödel","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Godel.json"},
+{"id":"kurt_goldstein","name":"Kurt Goldstein","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Goldstein.json"},
+{"id":"kurt_koffka","name":"Kurt Koffka","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Koffka.json"},
+{"id":"kurt_lewin","name":"Kurt Lewin","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Lewin.json"},
+{"id":"kurt_mehlhorn","name":"Kurt Mehlhorn","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Mehlhorn.json"},
+{"id":"kwame_anthony_appiah","name":"Kwame Anthony Appiah","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kwame_Anthony_Appiah.json"},
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   {"id":"luigi_cremona","name":"Luigi Cremona","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Luigi_cremona3.jpeg/960px-Luigi_cremona3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luigi_Cremona.json"},
   
 
