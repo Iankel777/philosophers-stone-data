@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Kenneth Iverson",
+  "thinkerImage": "",
+  "indexLetter": "K",
+
+  "nationality": "Canadian",
+  "occupation": "Computer Scientist, Mathematician, Software Pioneer",
+  "school": "Array Programming, Programming Language Design, Computational Thinking",
+
+  "born": "17 December 1920",
+  "died": "19 October 2004",
+
+  "knownFor1": "Creation of APL",
+  "knownFor2": "Array Programming",
+  "knownFor3": "Mathematical Notation for Computing",
+  "knownFor4": "Programming Language Innovation",
+  "knownFor5": "Computational Modeling",
+  "knownFor6": "Interactive Computing",
+  "knownFor7": "Concise Program Expression",
+  "knownFor8": "Turing Award Achievement",
+
+  "legacy": "Kenneth Iverson transformed the way programmers think about expressing computations. Rather than viewing software as long sequences of instructions, he promoted the idea that complex operations could be represented through compact mathematical expressions. His influence extended beyond the language he created and helped inspire generations of language designers seeking greater clarity, expressiveness, and elegance in programming.",
+
+  "earlyLife": "Iverson developed a strong interest in mathematics and analytical problem solving at a young age. His education cultivated a practical and theoretical appreciation for structured reasoning. As computing technology began to emerge as a new discipline, he recognized that mathematics could provide a more powerful and intuitive way to communicate computational ideas.",
+
+  "scientificField": "Computer Science, Programming Languages, Mathematics, Software Engineering",
+
+  "majorContributions": "Iverson created APL, a programming language built around powerful symbolic notation and operations on entire collections of data. His work demonstrated that many computational tasks could be expressed more clearly through mathematical structures rather than lengthy procedural instructions. He encouraged programmers to focus on the underlying relationships within problems and helped establish new approaches to language design, abstraction, and software development.",
+
+  "laterLife": "Throughout the later stages of his career, Iverson continued refining ideas about programming notation, language simplicity, and computational expression. He remained active in research and development, collaborating with colleagues who shared his belief that programming should become increasingly elegant, expressive, and intellectually accessible. His ideas continued to influence emerging programming environments and language research.",
+
+  "whyImportant": "Kenneth Iverson is important because he expanded the conceptual boundaries of programming. He demonstrated that programming languages could serve not only as engineering tools but also as frameworks for thought. Many modern ideas concerning data-oriented computation, concise syntax, and expressive language design can be traced to principles he championed. His work encouraged generations of programmers to think more deeply about how knowledge can be represented in software.",
+
+  "quote1": "A good notation reveals the structure of a problem.",
+  "quote2": "Simplicity allows ideas to travel farther.",
+  "quote3": "Programming is a language for expressing thought.",
+  "quote4": "Clear symbols often uncover hidden patterns.",
+  "quote5": "The value of a tool lies in the ideas it enables.",
+  "quote6": "Well-designed notation reduces unnecessary effort.",
+  "quote7": "Abstraction helps transform complexity into understanding.",
+  "quote8": "Mathematics and computing grow stronger together.",
+  "quote9": "Elegant solutions often arise from careful observation.",
+  "quote10": "A concise expression can carry profound meaning.",
+  "quote11": "Insight matters more than volume.",
+  "quote12": "Software reflects the quality of our reasoning.",
+  "quote13": "Patterns become visible when representation improves.",
+  "quote14": "Good design balances power and clarity.",
+  "quote15": "Progress begins with better ways of thinking.",
+  "quote16": "Knowledge becomes useful when it can be expressed clearly.",
+  "quote17": "Computation is ultimately about relationships.",
+  "quote18": "Strong ideas deserve simple presentations.",
+  "quote19": "The best systems help people think as well as compute.",
+  "quote20": "Innovation often starts with a new language for old problems."
+}

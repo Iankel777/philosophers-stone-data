@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Ken Thompson",
+  "thinkerImage": "",
+  "indexLetter": "K",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Software Engineer, Programmer",
+  "school": "Unix Philosophy, Systems Programming, Computer Science",
+
+  "born": "4 February 1943",
+  "died": "",
+
+  "knownFor1": "Co-Creation of Unix",
+  "knownFor2": "Development of the B Programming Language",
+  "knownFor3": "Contributions to C Language Foundations",
+  "knownFor4": "Plan 9 Operating System",
+  "knownFor5": "Inferno Operating System",
+  "knownFor6": "UTF-8 Development",
+  "knownFor7": "Computer Systems Design",
+  "knownFor8": "Software Engineering Innovation",
+
+  "legacy": "Ken Thompson helped establish many of the principles that guide modern computing. His work on operating systems, programming tools, and software simplicity influenced generations of engineers and shaped the foundations of today's digital infrastructure. The design ideas associated with his software continue to be visible in operating systems, cloud platforms, and development environments used around the world.",
+
+  "earlyLife": "Ken Thompson grew up during a period when electronic computing was rapidly emerging. From an early stage he developed an interest in mathematics, logic, and problem solving. His education provided a strong technical foundation and introduced him to the possibilities of computer systems at a time when the field was still very young.",
+
+  "scientificField": "Computer Science, Operating Systems, Programming Languages, Software Engineering",
+
+  "majorContributions": "Thompson played a central role in creating Unix, an operating system designed around clarity, portability, and modularity. He contributed to the development of programming tools that enabled efficient software creation and participated in the design of technologies that improved how computers process text, manage data, and support communication between programs. His approach emphasized elegant solutions rather than unnecessary complexity.",
+
+  "laterLife": "Throughout his career, Thompson continued exploring new ideas in computing. He participated in advanced operating-system research and worked on projects focused on reliability, distributed computing, and language design. His influence remained strong through mentorship, technical leadership, and the continued adoption of ideas that originated in his early work.",
+
+  "whyImportant": "Ken Thompson is important because many of the concepts that define modern software development can be traced to his work. His emphasis on building small, efficient, and reusable software components transformed the way engineers think about system design. Countless technologies in use today build upon principles that he helped introduce and demonstrate.",
+
+  "quote1": "Good software grows from clear thinking.",
+  "quote2": "Simplicity often outperforms complexity.",
+  "quote3": "A useful system solves real problems.",
+  "quote4": "Programs should be easy to understand before they are easy to extend.",
+  "quote5": "Efficiency begins with careful design.",
+  "quote6": "Small tools can achieve remarkable results together.",
+  "quote7": "Engineering is the art of removing unnecessary obstacles.",
+  "quote8": "Reliable systems are built one good decision at a time.",
+  "quote9": "The best solution is often the simplest one that works.",
+  "quote10": "Curiosity drives technological progress.",
+  "quote11": "Every abstraction should serve a purpose.",
+  "quote12": "Clear interfaces create stronger systems.",
+  "quote13": "Well-designed software rewards its users.",
+  "quote14": "Practical ideas leave lasting impacts.",
+  "quote15": "Innovation thrives when experimentation is encouraged.",
+  "quote16": "Computing advances through shared knowledge.",
+  "quote17": "Understanding a problem matters more than rushing toward an answer.",
+  "quote18": "Powerful systems emerge from simple foundations.",
+  "quote19": "Good engineering values both elegance and usefulness.",
+  "quote20": "Technology succeeds when it empowers people."
+}

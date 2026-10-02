@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Karen Sparck Jones",
+  "thinkerImage": "",
+  "indexLetter": "K",
+
+  "nationality": "British",
+  "occupation": "Computer Scientist, Information Retrieval Researcher, Academic",
+  "school": "Information Retrieval, Natural Language Processing, Artificial Intelligence",
+
+  "born": "26 August 1935",
+  "died": "4 April 2007",
+
+  "knownFor1": "Information Retrieval Research",
+  "knownFor2": "Inverse Document Frequency",
+  "knownFor3": "Natural Language Processing",
+  "knownFor4": "Search Technology Foundations",
+  "knownFor5": "Text Analysis Methods",
+  "knownFor6": "Statistical Language Processing",
+  "knownFor7": "Artificial Intelligence Research",
+  "knownFor8": "Computational Linguistics",
+
+  "legacy": "Karen Spärck Jones helped transform the way computers organize, evaluate, and retrieve information. Her research laid intellectual foundations for modern search systems by demonstrating how statistical patterns in language could improve the relevance of results. Many of the principles she explored remain visible in contemporary search engines, document ranking systems, and language technologies.",
+
+  "earlyLife": "Spärck Jones developed an early interest in language, reasoning, and the organization of knowledge. Her academic background exposed her to both the humanities and emerging computational methods. As computers became increasingly capable of handling textual information, she recognized that language could be studied systematically and that statistical techniques could help machines process information more effectively.",
+
+  "scientificField": "Computer Science, Information Retrieval, Natural Language Processing, Artificial Intelligence",
+
+  "majorContributions": "Spärck Jones pioneered methods for evaluating the importance of words within collections of documents. Her research demonstrated how statistical evidence could improve information retrieval and automate aspects of language processing. She contributed to document ranking, linguistic analysis, knowledge organization, and computational approaches to understanding text. Her work helped establish information retrieval as a rigorous scientific discipline and influenced generations of researchers working on search and language technologies.",
+
+  "laterLife": "During the later stages of her career, Spärck Jones remained an influential voice in computing research. She contributed to discussions surrounding the future of information systems, language technology, and artificial intelligence. Through research, teaching, and mentorship, she helped shape new directions in computational linguistics and information science while encouraging stronger connections between theoretical understanding and practical applications.",
+
+  "whyImportant": "Karen Spärck Jones is important because she demonstrated how computers could make better use of language and information. Her ideas helped move information retrieval from simple keyword matching toward more intelligent approaches that evaluate relevance and context. Many systems used today to search, classify, and organize digital information rely on concepts that evolved from the research tradition she helped establish.",
+
+  "quote1": "Information becomes valuable when people can actually find it.",
+  "quote2": "Language contains patterns waiting to be discovered.",
+  "quote3": "Good retrieval connects questions with knowledge.",
+  "quote4": "Technology succeeds when it helps people navigate complexity.",
+  "quote5": "Words reveal structure beyond their surface meaning.",
+  "quote6": "Research advances through curiosity and evidence.",
+  "quote7": "Better information systems create better decisions.",
+  "quote8": "Understanding language is a step toward understanding knowledge.",
+  "quote9": "Useful tools grow from careful observation.",
+  "quote10": "The challenge is not storing information but making it accessible.",
+  "quote11": "Discovery depends on the ability to locate what matters.",
+  "quote12": "Computing gains power when combined with linguistic insight.",
+  "quote13": "Innovation often comes from connecting different fields.",
+  "quote14": "Questions drive progress more than answers.",
+  "quote15": "Knowledge should be organized for human benefit.",
+  "quote16": "Good science seeks patterns beneath complexity.",
+  "quote17": "Relevance is the bridge between information and understanding.",
+  "quote18": "Language technology expands access to knowledge.",
+  "quote19": "Careful analysis reveals opportunities hidden in data.",
+  "quote20": "The ultimate purpose of information systems is to support human understanding."
+}

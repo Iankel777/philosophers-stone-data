@@ -1,0 +1,54 @@
+{
+  "thinkerName": "Ken Goldberg",
+  "thinkerImage": "",
+  "indexLetter": "K",
+
+  "nationality": "American",
+  "occupation": "Computer Scientist, Roboticist, Researcher",
+  "school": "Robotics, Artificial Intelligence, Automation",
+
+  "born": "1961",
+  "died": "",
+
+  "knownFor1": "Robotics Research",
+  "knownFor2": "Networked Robotics",
+  "knownFor3": "Artificial Intelligence Applications",
+  "knownFor4": "Human-Robot Interaction",
+  "knownFor5": "Automation Systems",
+  "knownFor6": "Robot Manipulation Research",
+  "knownFor7": "Telepresence Technologies",
+  "knownFor8": "Interdisciplinary Computing",
+
+  "legacy": "Ken Goldberg helped broaden the understanding of robotics by exploring how machines can operate intelligently in complex and uncertain environments. His work encouraged researchers to view robots not simply as mechanical devices, but as systems that combine perception, reasoning, communication, and interaction. Through research and education, he contributed to the growth of robotics as an interdisciplinary scientific field.",
+
+  "earlyLife": "Goldberg developed interests in mathematics, engineering, creative problem solving, and technology from an early age. As computing and automation advanced, he became fascinated by the challenge of building systems capable of interacting with the physical world. His academic training combined technical rigor with a curiosity about how intelligent systems can extend human capabilities.",
+
+  "scientificField": "Computer Science, Robotics, Artificial Intelligence, Automation",
+
+  "majorContributions": "Goldberg conducted influential research in robotics, focusing on robot manipulation, automation, machine intelligence, and networked systems. He explored methods allowing robots to operate under uncertainty, use information effectively, and perform tasks requiring coordination between sensing and action. His work contributed to advances in teleoperation, industrial automation, robotic learning, and the integration of intelligent machines into practical environments.",
+
+  "laterLife": "Throughout his career, Goldberg remained active as a researcher, educator, and advocate for interdisciplinary innovation. He collaborated across scientific and engineering fields while mentoring students and supporting new directions in robotics research. His later work continued examining the relationship between humans, intelligent machines, and emerging technological systems.",
+
+  "whyImportant": "Ken Goldberg is important because he helped expand the scope of modern robotics beyond traditional automation. His research demonstrated that intelligent machines can benefit from communication, adaptability, and collaboration. By combining ideas from computer science, engineering, and artificial intelligence, he contributed to a deeper understanding of how robots can assist people in industry, research, and everyday life.",
+
+  "quote1": "Robotics advances when machines learn to work with uncertainty.",
+  "quote2": "Innovation grows from the connection of different disciplines.",
+  "quote3": "Technology is most valuable when it extends human capability.",
+  "quote4": "Complex challenges require creative engineering solutions.",
+  "quote5": "Intelligence is revealed through effective action.",
+  "quote6": "Automation should amplify human potential rather than limit it.",
+  "quote7": "Research begins where existing solutions reach their limits.",
+  "quote8": "Good design balances precision with adaptability.",
+  "quote9": "Every intelligent system depends on meaningful information.",
+  "quote10": "Curiosity remains one of the strongest drivers of discovery.",
+  "quote11": "Robots succeed when they can respond to the unexpected.",
+  "quote12": "Progress is built through experimentation and refinement.",
+  "quote13": "Engineering transforms ideas into practical possibilities.",
+  "quote14": "Collaboration often produces better solutions than isolation.",
+  "quote15": "Understanding uncertainty is central to intelligent systems.",
+  "quote16": "Innovation requires both imagination and discipline.",
+  "quote17": "Technology should make difficult tasks more manageable.",
+  "quote18": "Knowledge becomes more powerful when it can be applied.",
+  "quote19": "The future of robotics lies in adaptability and cooperation.",
+  "quote20": "Scientific progress emerges from asking better questions."
+}
