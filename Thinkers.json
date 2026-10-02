@@ -450,10 +450,8 @@
   
 {"id":"karl_popper","name":"Karl Popper","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Karl_Popper.jpg/960px-Karl_Popper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_Popper.json"},
 {"id":"karl_von_frisch","name":"Karl von Frisch","letter":"K","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Karl_von_Frisch_-_Atelier_Veritas%2C_c._1926.jpg/960px-Karl_von_Frisch_-_Atelier_Veritas%2C_c._1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karl_von_Frisch.json"},
+{"id":"karlheinz_brandenburg","name":"Karlheinz Brandenburg","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2025-03-27_Event%2C_Leipziger_Buchmesse_und_Manga-Comic-Con_2025_STP_1663.jpg/960px-2025-03-27_Event%2C_Leipziger_Buchmesse_und_Manga-Comic-Con_2025_STP_1663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Karlheinz_Brandenburg.json"},
 
-
-{"id":"karlheinz_brandenburg","name":"Karlheinz Brandenburg","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Karlheinz_Brandenburg.json"},
-{"id":"karsten_harries","name":"Karsten Harries","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Karsten_Harries.json"},
 {"id":"kary_mullis","name":"Kary Mullis","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Kary_Mullis.json"},
 {"id":"katherine_esau","name":"Katherine Esau","letter":"K","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Katherine_Esau.json"},
 {"id":"kathleen_booth","name":"Kathleen Booth","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kathleen_Booth.json"},
