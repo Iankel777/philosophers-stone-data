@@ -473,8 +473,8 @@
 {"id":"kurt_godel","name":"Kurt Gödel","letter":"K","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg/960px-Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kurt_Godel.json"},
 {"id":"kurt_goldstein","name":"Kurt Goldstein","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/KurtGoldstein_1_%28cropped%29.jpg/960px-KurtGoldstein_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kurt_Goldstein.json"},
 {"id":"kurt_koffka","name":"Kurt Koffka","letter":"K","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kurt_Koffka.jpg/960px-Kurt_Koffka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kurt_Koffka.json"},
-{"id":"kurt_mehlhorn","name":"Kurt Mehlhorn","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Kurt_Mehlhorn.json"},
-{"id":"kwame_anthony_appiah","name":"Kwame Anthony Appiah","letter":"K","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Kwame_Anthony_Appiah.json"},
+{"id":"kurt_mehlhorn","name":"Kurt Mehlhorn","letter":"K","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mehlhorn.jpg/960px-Mehlhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Kurt_Mehlhorn.json"},
+
   
   
   
@@ -489,17 +489,7 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  {"id":"luigi_cremona","name":"Luigi Cremona","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Luigi_cremona3.jpeg/960px-Luigi_cremona3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luigi_Cremona.json"},
+   {"id":"luigi_cremona","name":"Luigi Cremona","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Luigi_cremona3.jpeg/960px-Luigi_cremona3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luigi_Cremona.json"},
   
 
 
