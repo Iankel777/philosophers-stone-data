@@ -505,11 +505,10 @@
 
 
 {"id":"lightner_witmer","name":"Lightner Witmer","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lightner_Witmer.jpg/960px-Lightner_Witmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lightner_Witmer.json"},
-{"id":"linus_pauling","name":"Linus Pauling","letter":"L","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Linus_Pauling.json"},
-{"id":"linus_torvalds","name":"Linus Torvalds","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Linus_Torvalds.json"},
-{"id":"lionel_robbins","name":"Lionel Robbins","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Lionel_Robbins.json"},
-{"id":"lisa_randall","name":"Lisa Randall","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Lisa_Randall.json"},
-{"id":"liu_xiaobo","name":"Liu Xiaobo","letter":"L","category":"Peace","legend":true,"visible":true,"image":"","jsonFile":"Liu_Xiaobo.json"},
+{"id":"linus_pauling","name":"Linus Pauling","letter":"L","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Linus_Pauling_in_the_1940s.jpg/960px-Linus_Pauling_in_the_1940s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Linus_Pauling.json"},
+{"id":"linus_torvalds","name":"Linus Torvalds","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/960px-Linus_Torvalds.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Linus_Torvalds.json"},
+{"id":"lionel_robbins","name":"Lionel Robbins","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Lionel_Robbins.jpg/960px-Lionel_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lionel_Robbins.json"},
+{"id":"lisa_randall","name":"Lisa Randall","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Lisa_randall_by_christopher_michel_02.jpg/960px-Lisa_randall_by_christopher_michel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lisa_Randall.json"},
 {"id":"lloyd_old","name":"Lloyd Old","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Lloyd_Old.json"},
   
   
