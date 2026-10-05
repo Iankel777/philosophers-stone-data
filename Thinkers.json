@@ -491,16 +491,15 @@
 {"id":"lawrence_klein","name":"Lawrence Klein","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lawrence_Robert_Klein.jpg/960px-Lawrence_Robert_Klein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lawrence_Klein.json"},
 {"id":"lene_hau","name":"Lene Hau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/HauLene2007.jpg/960px-HauLene2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lene_Hau.json"},
 {"id":"leon_cooper","name":"Leon Cooper","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Nobel_Laureate_Leon_Cooper_in_2007.jpg/960px-Nobel_Laureate_Leon_Cooper_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leon_Cooper.json"},
-  
-
-  
 {"id":"leon_eisenberg","name":"Leon Eisenberg","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Leoneisenberg.jpg/960px-Leoneisenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leon_Eisenberg.json"},
-{"id":"leon_jouhaux","name":"Léon Jouhaux","letter":"L","category":"Peace","legend":true,"visible":true,"image":"","jsonFile":"Leon_Jouhaux.json"},
-{"id":"leon_walras","name":"Leon Walras","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Leon_Walras.json"},
-{"id":"leonard_adleman","name":"Leonard Adleman","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Leonard_Adleman.json"},
-{"id":"leonhard_euler","name":"Leonhard Euler","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Leonhard_Euler.json"},
-{"id":"leonid_hurwicz","name":"Leonid Hurwicz","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Leonid_Hurwicz.json"},
-{"id":"leroy_hood","name":"Leroy Hood","letter":"L","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Leroy_Hood.json"},
+{"id":"leon_jouhaux","name":"Léon Jouhaux","letter":"L","category":"Peace","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/L%C3%A9on_Jouhaux_nobel.jpg/960px-L%C3%A9on_Jouhaux_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leon_Jouhaux.json"},
+{"id":"leon_walras","name":"Leon Walras","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_L%C3%A9on_Walras_1862_extract.png/960px-Portrait_of_L%C3%A9on_Walras_1862_extract.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leon_Walras.json"},
+{"id":"leonard_adleman","name":"Leonard Adleman","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Len-mankin-pic.jpg/960px-Len-mankin-pic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leonard_Adleman.json"},
+{"id":"leonhard_euler","name":"Leonhard Euler","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/960px-Leonhard_Euler_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leonhard_Euler.json"},
+{"id":"leonid_hurwicz","name":"Leonid Hurwicz","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Leonid_Hurwicz_%28square%29.jpg/960px-Leonid_Hurwicz_%28square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leonid_Hurwicz.json"},
+{"id":"leroy_hood","name":"Leroy Hood","letter":"L","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lee_Hood%2C_MD%2C_PhD%2C_President_and_Co-found_of_the_Institute_for_Systems_Biology.jpg/960px-Lee_Hood%2C_MD%2C_PhD%2C_President_and_Co-found_of_the_Institute_for_Systems_Biology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leroy_Hood.json"},
+
+
   
   
 {"id":"leslie_lamport","name":"Leslie Lamport","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Leslie_Lamport.json"},
