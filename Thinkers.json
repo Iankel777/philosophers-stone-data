@@ -480,10 +480,10 @@
 
 {"id":"laozi","name":"Laozi","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg/960px-Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Laozi.json"},
 
-{"id":"larry_page","name":"Larry Page","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Larry_Page.json"},
-{"id":"larry_tesler","name":"Larry Tesler","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Larry_Tesler.json"},
-{"id":"larry_wall","name":"Larry Wall","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Larry_Wall.json"},
-{"id":"lars_leksell","name":"Lars Leksell","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Lars_Leksell.json"},
+{"id":"larry_page","name":"Larry Page","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Larry_Page_in_the_European_Parliament%2C_17.06.2009.jpg/960px-Larry_Page_in_the_European_Parliament%2C_17.06.2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Larry_Page.json"},
+{"id":"larry_tesler","name":"Larry Tesler","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Larry_Tesler_Smiles_at_Whisper.jpeg/960px-Larry_Tesler_Smiles_at_Whisper.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Larry_Tesler.json"},
+{"id":"larry_wall","name":"Larry Wall","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/FOSDEM_2015_Larry_Wall_and_Camelia_the_Perl6_logo.jpg/960px-FOSDEM_2015_Larry_Wall_and_Camelia_the_Perl6_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Larry_Wall.json"},
+
 {"id":"lars_onsager","name":"Lars Onsager","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Lars_Onsager.json"},
 {"id":"lars_peter_hansen","name":"Lars Peter Hansen","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Lars_Peter_Hansen.json"},
   
