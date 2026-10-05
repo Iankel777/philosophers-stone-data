@@ -500,12 +500,11 @@
   
 {"id":"leslie_lamport","name":"Leslie Lamport","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Leslie_Lamport.jpg/960px-Leslie_Lamport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leslie_Lamport.json"},
 {"id":"leslie_valiant","name":"Leslie Valiant","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Leslie_Valiant.jpg/960px-Leslie_Valiant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leslie_Valiant.json"},
-{"id":"leszek_kolakowski","name":"Leszek Kołakowski","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Leszek_Kolakowski.json"},
-{"id":"lev_landau","name":"Lev Landau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Lev_Landau.json"},
-{"id":"lev_pontryagin","name":"Lev Pontryagin","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Lev_Pontryagin.json"},
-{"id":"lev_shestov","name":"Lev Shestov","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Lev_Shestov.json"},
-{"id":"lev_vygotsky","name":"Lev Vygotsky","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Lev_Vygotsky.json"},
-{"id":"lewis_terman","name":"Lewis Terman","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Lewis_Terman.json"},
+{"id":"leszek_kolakowski","name":"Leszek Kołakowski","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Leszek_Ko%C5%82akowski_Anefo.jpg/960px-Leszek_Ko%C5%82akowski_Anefo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leszek_Kolakowski.json"},
+{"id":"lev_landau","name":"Lev Landau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/960px-Landau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lev_Landau.json"},
+{"id":"lev_pontryagin","name":"Lev Pontryagin","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/960px-Landau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lev_Pontryagin.json"},
+{"id":"lev_shestov","name":"Lev Shestov","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Si_L%C3%A9on_Chestov_noong_1927.jpg/960px-Si_L%C3%A9on_Chestov_noong_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lev_Shestov.json"},
+
   
 
 
