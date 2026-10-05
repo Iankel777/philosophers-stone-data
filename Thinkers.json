@@ -504,8 +504,7 @@
   
 
 
-{"id":"lightner_witmer","name":"Lightner Witmer","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Lightner_Witmer.json"},
-{"id":"linda_trinkaus_zagzebski","name":"Linda Trinkaus Zagzebski","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Linda_Zagzebski.json"},
+{"id":"lightner_witmer","name":"Lightner Witmer","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lightner_Witmer.jpg/960px-Lightner_Witmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lightner_Witmer.json"},
 {"id":"linus_pauling","name":"Linus Pauling","letter":"L","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Linus_Pauling.json"},
 {"id":"linus_torvalds","name":"Linus Torvalds","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Linus_Torvalds.json"},
 {"id":"lionel_robbins","name":"Lionel Robbins","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Lionel_Robbins.json"},
