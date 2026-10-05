@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Larry Page",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Larry_Page_in_the_European_Parliament,_17.06.2009_(cropped).jpg",
+  "imageLicense": "CC BY 2.0",
+  "imageAttribution": "World Economic Forum",
+
+  "indexLetter": "L",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Entrepreneur",
+
+  "school": "Information Retrieval, Search Technology, Internet Computing",
+
+  "born": "26 March 1973",
+  "died": "",
+
+  "knownFor1": "Google",
+  "knownFor2": "PageRank Algorithm",
+  "knownFor3": "Search Engine Technology",
+  "knownFor4": "Web Information Retrieval",
+  "knownFor5": "Internet Innovation",
+  "knownFor6": "Large-Scale Data Systems",
+  "knownFor7": "Technology Entrepreneurship",
+  "knownFor8": "Digital Knowledge Discovery",
+
+  "legacy": "Larry Page helped redefine how people access information in the digital age. Through innovations in web search and information ranking, he contributed to making vast amounts of online knowledge more discoverable and useful. His work influenced not only search technology but also the broader development of internet services that billions of people use daily.",
+
+  "earlyLife": "Growing up in a family with strong connections to computing and technology, Page developed an early interest in how machines process information. He explored both engineering and computer science concepts from a young age and became fascinated with organizing large collections of digital information efficiently.",
+
+  "scientificField": "Computer Science, Information Retrieval, Internet Technologies",
+
+  "majorContributions": "Page co-developed the PageRank algorithm, a method for evaluating the importance of web pages based on connections between them. This innovation significantly improved the quality of search results during the early growth of the internet. He also helped build technological systems capable of indexing and processing enormous quantities of information at global scale, influencing the evolution of modern search engines and data-driven services.",
+
+  "laterLife": "As his career progressed, Page became increasingly interested in ambitious technological projects involving artificial intelligence, large-scale computing, sustainable technologies, and future-oriented engineering initiatives. He continued supporting innovation through investment, research, and long-term technological exploration.",
+
+  "whyImportant": "Finding relevant information quickly is one of the central challenges of the digital era. Page helped create technologies that dramatically improved how knowledge is located, ranked, and accessed on the internet. His influence extends across education, business, research, communication, and nearly every field that relies on digital information.",
+
+  "quote1": "Information becomes valuable when it can be found efficiently.",
+  "quote2": "Innovation often begins with a simple question.",
+  "quote3": "Technology should help people navigate complexity.",
+  "quote4": "Great systems organize knowledge in useful ways.",
+  "quote5": "Curiosity fuels technological progress.",
+  "quote6": "Useful information creates new opportunities.",
+  "quote7": "Scale reveals both challenges and possibilities.",
+  "quote8": "The best tools help people think more clearly.",
+  "quote9": "Discovery becomes easier when information is connected.",
+  "quote10": "Ambitious goals inspire ambitious solutions.",
+  "quote11": "Knowledge grows through accessibility.",
+  "quote12": "Good engineering serves human needs.",
+  "quote13": "Search is fundamentally about understanding relevance.",
+  "quote14": "Technology advances through continuous experimentation.",
+  "quote15": "Big problems deserve bold approaches.",
+  "quote16": "Data can illuminate hidden patterns.",
+  "quote17": "Progress depends on transforming ideas into reality.",
+  "quote18": "Innovation rewards persistence and imagination.",
+  "quote19": "Understanding information is a pathway to understanding the world.",
+  "quote20": "Powerful systems begin with clear principles."
+}

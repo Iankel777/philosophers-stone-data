@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Leslie Valiant",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Leslie_Valiant.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Leslie_Valiant.jpg",
+  "imageLicense": "Check Wikimedia File Page",
+  "imageAttribution": "Original File Contributor",
+
+  "indexLetter": "L",
+
+  "nationality": "British-American",
+
+  "occupation": "Computer Scientist",
+
+  "school": "Computational Learning Theory, Theoretical Computer Science, Artificial Intelligence",
+
+  "born": "28 March 1949",
+  "died": "",
+
+  "knownFor1": "Computational Learning Theory",
+  "knownFor2": "Probably Approximately Correct (PAC) Learning",
+  "knownFor3": "Theoretical Computer Science",
+  "knownFor4": "Machine Learning Foundations",
+  "knownFor5": "Computational Complexity",
+  "knownFor6": "Parallel Computation",
+  "knownFor7": "Valiant's Learning Model",
+  "knownFor8": "Artificial Intelligence Theory",
+
+  "legacy": "Leslie Valiant helped establish a rigorous scientific framework for understanding how machines can learn from experience. His ideas provided mathematical foundations that transformed learning from a largely intuitive concept into a precise field of study. Many modern developments in machine learning and artificial intelligence trace part of their theoretical heritage to principles he helped formulate.",
+
+  "earlyLife": "Valiant demonstrated strong abilities in mathematics and analytical reasoning from an early age. His academic interests gradually expanded toward computation, logic, and the limits of what machines can achieve. These interests led him to explore fundamental questions about learning, intelligence, and efficient computation.",
+
+  "scientificField": "Computer Science, Machine Learning Theory, Computational Complexity",
+
+  "majorContributions": "Valiant introduced the PAC learning framework, providing a mathematical model for studying how systems can learn useful patterns from limited information. This concept helped researchers evaluate what can be learned efficiently and under what conditions learning is possible. His work also contributed to computational complexity theory and parallel computation, advancing understanding of efficient information processing.",
+
+  "laterLife": "As machine learning became increasingly important, Valiant continued refining theories about learning and intelligence. He explored connections between computation, cognition, and biological systems while encouraging deeper scientific investigation into how knowledge can be acquired and represented.",
+
+  "whyImportant": "Modern artificial intelligence relies not only on technological advances but also on theoretical foundations. Valiant helped provide those foundations by clarifying how learning can be studied mathematically. His work gave researchers tools for evaluating learning systems and understanding both their capabilities and limitations.",
+
+  "quote1": "Learning becomes powerful when it can be understood rigorously.",
+  "quote2": "Knowledge grows through patterns discovered over time.",
+  "quote3": "Theory provides direction for innovation.",
+  "quote4": "Intelligence emerges from successful adaptation.",
+  "quote5": "Good models reveal hidden possibilities.",
+  "quote6": "Understanding learning requires understanding information.",
+  "quote7": "Progress often begins with precise questions.",
+  "quote8": "Complex behavior can arise from simple principles.",
+  "quote9": "Science advances when assumptions are tested carefully.",
+  "quote10": "Mathematics can illuminate the mechanisms of learning.",
+  "quote11": "Reasoning and evidence are partners in discovery.",
+  "quote12": "Learning systems thrive on meaningful experience.",
+  "quote13": "Abstraction helps transform complexity into understanding.",
+  "quote14": "The strongest explanations unite theory and observation.",
+  "quote15": "Efficiency matters when knowledge must scale.",
+  "quote16": "Scientific progress depends on measurable ideas.",
+  "quote17": "Intelligence is revealed through successful adaptation.",
+  "quote18": "Questions about learning are questions about knowledge itself.",
+  "quote19": "Computation provides a language for understanding complexity.",
+  "quote20": "Lasting breakthroughs often begin with foundational insights."
+}

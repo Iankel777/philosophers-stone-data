@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Leslie Lamport",
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/2/28/Leslie_Lamport_2015.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Leslie_Lamport_2015.jpg",
+  "imageLicense": "CC BY 4.0",
+  "imageAttribution": "Heinz Nixdorf MuseumsForum",
+
+  "indexLetter": "L",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Software Engineer",
+
+  "school": "Distributed Computing, Formal Methods, Concurrent Systems",
+
+  "born": "7 February 1941",
+  "died": "",
+
+  "knownFor1": "Logical Clocks",
+  "knownFor2": "Paxos Consensus Algorithm",
+  "knownFor3": "TLA+ Specification Language",
+  "knownFor4": "Distributed Systems Theory",
+  "knownFor5": "LaTeX Development",
+  "knownFor6": "Fault-Tolerant Computing",
+  "knownFor7": "Concurrent System Verification",
+  "knownFor8": "Formal Methods",
+
+  "legacy": "Leslie Lamport helped establish many of the intellectual foundations that allow modern distributed systems to operate reliably. His ideas gave engineers practical ways to reason about coordination, communication, and correctness across networks of independent machines. Concepts associated with his work continue to influence cloud computing, large-scale databases, and critical software infrastructure.",
+
+  "earlyLife": "Growing up with a strong interest in mathematics and analytical thinking, Lamport developed an appreciation for logical precision early in life. His academic training strengthened his ability to tackle complex abstract problems, eventually leading him toward questions involving computation, communication, and system reliability.",
+
+  "scientificField": "Computer Science, Distributed Systems, Software Engineering, Formal Verification",
+
+  "majorContributions": "Lamport introduced logical clocks, providing a breakthrough method for reasoning about the order of events in distributed environments. He played a major role in advancing consensus algorithms, demonstrating how separate machines can reach reliable agreement despite failures and uncertainty. Through TLA+ and related formal methods, he encouraged mathematically rigorous approaches to software design and verification.",
+
+  "laterLife": "In later years Lamport became a leading advocate for formal specification and software correctness. He dedicated substantial effort to promoting methods that allow software systems to be analyzed before deployment, reducing the likelihood of costly failures in complex environments.",
+
+  "whyImportant": "Many technologies that support modern digital life depend on large collections of computers working together. Lamport's ideas supplied essential tools for understanding and managing that coordination. His work has helped improve reliability, scalability, and trustworthiness across numerous classes of software systems.",
+
+  "quote1": "Reliable software begins with reliable reasoning.",
+  "quote2": "Clarity is often the strongest engineering tool.",
+  "quote3": "Complex systems reward careful thinking.",
+  "quote4": "Precision today prevents confusion tomorrow.",
+  "quote5": "Well-defined behavior is the basis of trust.",
+  "quote6": "Coordination becomes possible when assumptions are explicit.",
+  "quote7": "Mathematics can reveal hidden weaknesses in design.",
+  "quote8": "A specification is a promise before implementation.",
+  "quote9": "Robust systems anticipate failure rather than ignore it.",
+  "quote10": "Good models make difficult problems understandable.",
+  "quote11": "Engineering advances when ambiguity decreases.",
+  "quote12": "Correctness should guide development from the beginning.",
+  "quote13": "Large systems depend on small logical principles.",
+  "quote14": "Verification transforms confidence into evidence.",
+  "quote15": "Every assumption deserves examination.",
+  "quote16": "Distributed computing is fundamentally about coordination.",
+  "quote17": "Simple rules can support vast systems.",
+  "quote18": "Understanding event order reveals system structure.",
+  "quote19": "Careful design is cheaper than repeated repair.",
+  "quote20": "Logic remains one of software's most dependable tools."
+}
