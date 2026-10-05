@@ -519,7 +519,6 @@
   
 {"id":"luca_cardelli","name":"Luca Cardelli","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2026-10-03_Selfie_London.jpg/960px-2026-10-03_Selfie_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luca_Cardelli.json"},
 {"id":"luciano_floridi","name":"Luciano Floridi","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Luciano_Floridi_a_Milano.jpg/960px-Luciano_Floridi_a_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luciano_Floridi.json"},
-{"id":"ludwig_binswanger","name":"Ludwig Binswanger","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ludwig_Binswanger.json"},
 {"id":"ludwig_guttmann","name":"Ludwig Guttmann","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ludwig_Guttmann.json"},
 {"id":"ludwig_von_mises","name":"Ludwig von Mises","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Ludwig_von_Mises.json"},
 {"id":"ludwig_wittgenstein","name":"Ludwig Wittgenstein","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ludwig_Wittgenstein.json"},
