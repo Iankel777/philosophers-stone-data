@@ -514,8 +514,8 @@
 {"id":"louis_de_broglie","name":"Louis de Broglie","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Broglie_Big.jpg/960px-Broglie_Big.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Louis_de_Broglie.json"},
 {"id":"louis_leon_thurstone","name":"Louis Leon Thurstone","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Louis_Leon_Thurstone_%281887_1955%29.jpg/960px-Louis_Leon_Thurstone_%281887_1955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Louis_Leon_Thurstone.json"},
 {"id":"louis_pasteur","name":"Louis Pasteur","letter":"L","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/960px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Louis_Pasteur.json"},
-{"id":"luc_ferry","name":"Luc Ferry","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Luc_Ferry.json"},
-{"id":"luc_montagnier","name":"Luc Montagnier","letter":"L","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Luc_Montagnier.json"},
+{"id":"luc_ferry","name":"Luc Ferry","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Paris_-_Salon_du_livre_de_Paris_2017_-_Luc_Ferry_-_005.jpg/960px-Paris_-_Salon_du_livre_de_Paris_2017_-_Luc_Ferry_-_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luc_Ferry.json"},
+
 
 
   
