@@ -489,13 +489,12 @@
 
 {"id":"laurent_schwartz","name":"Laurent Schwartz","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Laurent_Schwartz.jpg/960px-Laurent_Schwartz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Laurent_Schwartz.json"},
 {"id":"lawrence_klein","name":"Lawrence Klein","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lawrence_Robert_Klein.jpg/960px-Lawrence_Robert_Klein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lawrence_Klein.json"},
-{"id":"lene_hau","name":"Lene Hau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Lene_Hau.json"},
-{"id":"leon_cooper","name":"Leon Cooper","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Leon_Cooper.json"},
+{"id":"lene_hau","name":"Lene Hau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/HauLene2007.jpg/960px-HauLene2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lene_Hau.json"},
+{"id":"leon_cooper","name":"Leon Cooper","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Nobel_Laureate_Leon_Cooper_in_2007.jpg/960px-Nobel_Laureate_Leon_Cooper_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leon_Cooper.json"},
   
 
   
-{"id":"leon_eisenberg","name":"Leon Eisenberg","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Leon_Eisenberg.json"},
-{"id":"leon_festinger","name":"Leon Festinger","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Leon_Festinger.json"},
+{"id":"leon_eisenberg","name":"Leon Eisenberg","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Leoneisenberg.jpg/960px-Leoneisenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Leon_Eisenberg.json"},
 {"id":"leon_jouhaux","name":"Léon Jouhaux","letter":"L","category":"Peace","legend":true,"visible":true,"image":"","jsonFile":"Leon_Jouhaux.json"},
 {"id":"leon_walras","name":"Leon Walras","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Leon_Walras.json"},
 {"id":"leonard_adleman","name":"Leonard Adleman","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Leonard_Adleman.json"},
