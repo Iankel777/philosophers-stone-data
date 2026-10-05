@@ -500,21 +500,16 @@
   {"id":"lev_landau","name":"Lev Landau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/960px-Landau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lev_Landau.json"},
   {"id":"lev_pontryagin","name":"Lev Pontryagin","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%D0%9F%D0%BE%D0%BD%D1%82%D1%80%D1%8F%D0%B3%D0%B8%D0%BD_%D0%9B%D0%B5%D0%B2_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg/960px-%D0%9F%D0%BE%D0%BD%D1%82%D1%80%D1%8F%D0%B3%D0%B8%D0%BD_%D0%9B%D0%B5%D0%B2_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lev_Pontryagin.json"},
   {"id":"lev_shestov","name":"Lev Shestov","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Si_L%C3%A9on_Chestov_noong_1927.jpg/960px-Si_L%C3%A9on_Chestov_noong_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lev_Shestov.json"},
-
-  
-
-
-{"id":"lightner_witmer","name":"Lightner Witmer","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lightner_Witmer.jpg/960px-Lightner_Witmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lightner_Witmer.json"},
-{"id":"linus_pauling","name":"Linus Pauling","letter":"L","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Linus_Pauling_in_the_1940s.jpg/960px-Linus_Pauling_in_the_1940s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Linus_Pauling.json"},
-{"id":"linus_torvalds","name":"Linus Torvalds","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/960px-Linus_Torvalds.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Linus_Torvalds.json"},
-{"id":"lionel_robbins","name":"Lionel Robbins","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Lionel_Robbins.jpg/960px-Lionel_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lionel_Robbins.json"},
-{"id":"lisa_randall","name":"Lisa Randall","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Lisa_randall_by_christopher_michel_02.jpg/960px-Lisa_randall_by_christopher_michel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lisa_Randall.json"},
-{"id":"lloyd_old","name":"Lloyd Old","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lloyd_J._Old%2C_M.D.%2C_c._1995.jpg/960px-Lloyd_J._Old%2C_M.D.%2C_c._1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lloyd_Old.json"},
+  {"id":"lightner_witmer","name":"Lightner Witmer","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lightner_Witmer.jpg/960px-Lightner_Witmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lightner_Witmer.json"},
+  {"id":"linus_pauling","name":"Linus Pauling","letter":"L","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Linus_Pauling_in_the_1940s.jpg/960px-Linus_Pauling_in_the_1940s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Linus_Pauling.json"},
+  {"id":"linus_torvalds","name":"Linus Torvalds","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/960px-Linus_Torvalds.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Linus_Torvalds.json"},
+  {"id":"lionel_robbins","name":"Lionel Robbins","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Lionel_Robbins.jpg/960px-Lionel_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lionel_Robbins.json"},
+  {"id":"lisa_randall","name":"Lisa Randall","letter":"L","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Lisa_randall_by_christopher_michel_02.jpg/960px-Lisa_randall_by_christopher_michel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lisa_Randall.json"},
+  {"id":"lloyd_old","name":"Lloyd Old","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lloyd_J._Old%2C_M.D.%2C_c._1995.jpg/960px-Lloyd_J._Old%2C_M.D.%2C_c._1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lloyd_Old.json"},
   
   
   
-{"id":"lloyd_shapley","name":"Lloyd Shapley","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Lloyd_Shapley.json"},
-{"id":"loren_eiseley","name":"Loren Eiseley","letter":"L","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Loren_Eiseley.json"},
+{"id":"lloyd_shapley","name":"Lloyd Shapley","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Lloyd_Shapley_2_2012.jpg/960px-Lloyd_Shapley_2_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lloyd_Shapley.json"},
 {"id":"lotfi_zadeh","name":"Lotfi Zadeh","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Lotfi_Zadeh.json"},
 {"id":"louis_de_broglie","name":"Louis de Broglie","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Louis_de_Broglie.json"},
 {"id":"louis_leon_thurstone","name":"Louis Leon Thurstone","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Louis_Leon_Thurstone.json"},
@@ -522,6 +517,8 @@
 {"id":"louise_gluck","name":"Louise Glück","letter":"L","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Louise_Gluck.json"},
 {"id":"luc_ferry","name":"Luc Ferry","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Luc_Ferry.json"},
 {"id":"luc_montagnier","name":"Luc Montagnier","letter":"L","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Luc_Montagnier.json"},
+
+
   
   
 {"id":"luca_cardelli","name":"Luca Cardelli","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Luca_Cardelli.json"},
