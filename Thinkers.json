@@ -487,9 +487,8 @@
   
   
 
-{"id":"laurent_schwartz","name":"Laurent Schwartz","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Laurent_Schwartz.json"},
-{"id":"lawrence_klein","name":"Lawrence Klein","letter":"L","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Lawrence_Klein.json"},
-{"id":"lawrence_kohlberg","name":"Lawrence Kohlberg","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Lawrence_Kohlberg.json"},
+{"id":"laurent_schwartz","name":"Laurent Schwartz","letter":"L","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Laurent_Schwartz.jpg/960px-Laurent_Schwartz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Laurent_Schwartz.json"},
+{"id":"lawrence_klein","name":"Lawrence Klein","letter":"L","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lawrence_Robert_Klein.jpg/960px-Lawrence_Robert_Klein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Lawrence_Klein.json"},
 {"id":"lee_cronbach","name":"Lee Cronbach","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Lee_Cronbach.json"},
 {"id":"leland_hartwell","name":"Leland Hartwell","letter":"L","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Leland_Hartwell.json"},
 {"id":"lene_hau","name":"Lene Hau","letter":"L","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Lene_Hau.json"},
