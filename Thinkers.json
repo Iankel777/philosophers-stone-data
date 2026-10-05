@@ -504,8 +504,6 @@
   
 
 
-  
-{"id":"leymah_gbowee","name":"Leymah Gbowee","letter":"L","category":"Peace","legend":true,"visible":true,"image":"","jsonFile":"Leymah_Gbowee.json"},
 {"id":"lightner_witmer","name":"Lightner Witmer","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Lightner_Witmer.json"},
 {"id":"linda_trinkaus_zagzebski","name":"Linda Trinkaus Zagzebski","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Linda_Zagzebski.json"},
 {"id":"linus_pauling","name":"Linus Pauling","letter":"L","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Linus_Pauling.json"},
