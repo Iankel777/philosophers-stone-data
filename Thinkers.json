@@ -517,9 +517,8 @@
 
   
   
-{"id":"luca_cardelli","name":"Luca Cardelli","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Luca_Cardelli.json"},
-{"id":"luciano_floridi","name":"Luciano Floridi","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Luciano_Floridi.json"},
-{"id":"lucien_leape","name":"Lucien Leape","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Lucien_Leape.json"},
+{"id":"luca_cardelli","name":"Luca Cardelli","letter":"L","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2026-10-03_Selfie_London.jpg/960px-2026-10-03_Selfie_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luca_Cardelli.json"},
+{"id":"luciano_floridi","name":"Luciano Floridi","letter":"L","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Luciano_Floridi_a_Milano.jpg/960px-Luciano_Floridi_a_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Luciano_Floridi.json"},
 {"id":"lucy_mair","name":"Lucy Mair","letter":"L","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Lucy_Mair.json"},
 {"id":"ludwig_binswanger","name":"Ludwig Binswanger","letter":"L","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ludwig_Binswanger.json"},
 {"id":"ludwig_guttmann","name":"Ludwig Guttmann","letter":"L","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ludwig_Guttmann.json"},
