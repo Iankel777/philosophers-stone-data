@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Margaret Hamilton",
+
+  "thinkerImage": "PLACE_IMAGE_URL_HERE",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "PLACE_WIKIMEDIA_FILE_URL_HERE",
+  "imageLicense": "Public Domain / Applicable Wikimedia License",
+  "imageAttribution": "Author listed on Wikimedia Commons",
+
+  "indexLetter": "M",
+
+  "nationality": "American",
+
+  "occupation": "Software Engineer, Computer Scientist, Systems Designer",
+
+  "school": "Software Engineering, Reliable Computing, Aerospace Software",
+
+  "born": "17 August 1936",
+
+  "died": "",
+
+  "knownFor1": "Apollo Guidance Software",
+  "knownFor2": "Software Reliability",
+  "knownFor3": "Asynchronous Computing",
+  "knownFor4": "Mission-Critical Systems",
+  "knownFor5": "Error Detection Methods",
+  "knownFor6": "Software Engineering Leadership",
+  "knownFor7": "Apollo Program",
+  "knownFor8": "Defensive Software Design",
+
+  "legacy": "Margaret Hamilton demonstrated that software should be treated as a rigorous engineering discipline rather than a secondary technical task. Her work helped establish standards for reliability, fault tolerance, and systematic software development in environments where failure could have severe consequences. Many engineering practices used in modern critical systems reflect principles that she championed decades ago.",
+
+  "earlyLife": "Margaret Hamilton developed strong interests in mathematics and logical problem solving from an early age. Her academic training encouraged analytical thinking and precision, qualities that later became central to her work in computing. Before becoming widely recognized in software engineering, she worked on projects that strengthened her understanding of complex systems and computational problem solving.",
+
+  "scientificField": "Software Engineering, Computer Science, Systems Reliability, Aerospace Computing",
+
+  "majorContribution": "Hamilton directed development efforts for software used during NASA's Apollo missions. Her team created programs capable of managing unexpected conditions while maintaining critical operations. The software's ability to prioritize essential tasks during periods of heavy computational demand became a notable example of resilient system design.",
+
+  "laterLife": "During the later phases of her career, Hamilton continued promoting disciplined software development methods and advocating for greater recognition of software engineering as a formal engineering field. Through research, publications, and leadership roles, she encouraged the creation of safer and more dependable computer systems.",
+
+  "whyImportant": "Modern transportation systems, spacecraft, medical technologies, financial networks, and digital infrastructure rely on dependable software. Hamilton's work helped establish the idea that software must be designed with reliability, verification, and fault recovery in mind. Her influence remains visible wherever computers are trusted with critical responsibilities.",
+
+  "quote1": "Reliable software begins with disciplined thinking.",
+  "quote2": "Complex systems demand careful anticipation of failure.",
+  "quote3": "Engineering progress is measured by dependable results.",
+  "quote4": "A small software decision can influence an entire mission.",
+  "quote5": "Preparation reduces the impact of unexpected events.",
+  "quote6": "Innovation succeeds when reliability accompanies creativity.",
+  "quote7": "Well-designed systems remain effective under pressure.",
+  "quote8": "Testing transforms assumptions into evidence.",
+  "quote9": "Software quality is built long before deployment.",
+  "quote10": "Complexity should be managed, not ignored.",
+  "quote11": "Critical systems require disciplined verification.",
+  "quote12": "Every error teaches a valuable engineering lesson.",
+  "quote13": "Robust design prepares for unusual circumstances.",
+  "quote14": "Dependability is a feature, not an afterthought.",
+  "quote15": "Engineering excellence grows through continuous refinement.",
+  "quote16": "Careful planning creates resilient technology.",
+  "quote17": "Reliable systems protect important goals.",
+  "quote18": "Attention to detail strengthens innovation.",
+  "quote19": "Technical success often depends on preparation.",
+  "quote20": "Software engineering combines logic, creativity, and responsibility."
+}

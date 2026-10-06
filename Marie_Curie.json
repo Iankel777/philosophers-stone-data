@@ -1,54 +1,64 @@
 {
   "thinkerName": "Marie Curie",
-  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Marie_Curie_%281900%29.jpg/960px-Marie_Curie_%281900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+
+  "thinkerImage": "PLACE_IMAGE_URL_HERE",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "PLACE_WIKIMEDIA_FILE_URL_HERE",
+  "imageLicense": "Public Domain / Applicable Wikimedia Commons License",
+  "imageAttribution": "Author listed on Wikimedia Commons",
+
   "indexLetter": "M",
 
   "nationality": "Polish-French",
-  "occupation": "Physicist, Chemist, Researcher",
-  "school": "Radioactivity, Experimental Physics",
+
+  "occupation": "Physicist, Chemist, Scientific Pioneer",
+
+  "school": "Physics, Chemistry, Radioactivity Research",
 
   "born": "7 November 1867",
+
   "died": "4 July 1934",
 
-  "knownFor1": "Radioactivity",
-  "knownFor2": "Discovery of Polonium",
-  "knownFor3": "Discovery of Radium",
-  "knownFor4": "Nobel Prize in Physics",
-  "knownFor5": "Nobel Prize in Chemistry",
-  "knownFor6": "Nuclear Science",
-  "knownFor7": "Medical Radiography",
-  "knownFor8": "Pioneering Women in Science",
+  "knownFor1": "Radioactivity Research",
+  "knownFor2": "Polonium Discovery",
+  "knownFor3": "Radium Discovery",
+  "knownFor4": "Nuclear Science Foundations",
+  "knownFor5": "Experimental Physics",
+  "knownFor6": "Radiation Studies",
+  "knownFor7": "Scientific Innovation",
+  "knownFor8": "Medical Applications of Radiation",
 
-  "legacy": "Marie Curie was one of the most influential scientists in history. Her pioneering research on radioactivity transformed physics, chemistry, and medicine. She became the first woman to win a Nobel Prize, the first person to win Nobel Prizes in two different scientific disciplines, and a symbol of scientific excellence, perseverance, and discovery. Her work laid the foundation for modern nuclear physics, cancer treatments, and medical imaging technologies.",
+  "legacy": "Marie Curie became one of the most influential scientists in history through her groundbreaking investigations into radioactive substances and the structure of matter. Her discoveries opened entirely new fields of research and demonstrated how persistent experimentation can transform scientific understanding. Her achievements inspired generations of researchers and helped establish new possibilities for both scientific exploration and medical treatment.",
 
-  "earlyLife": "Maria Salomea Skłodowska was born in Warsaw, Poland, then under Russian rule. Raised in a family devoted to education, she demonstrated exceptional academic ability from a young age. Because women were barred from many educational opportunities in Poland, she worked as a tutor and governess before moving to Paris to study at the Sorbonne. There she excelled in physics and mathematics despite living in difficult financial conditions.",
+  "earlyLife": "Marie Curie developed a deep interest in learning, mathematics, and science from an early age. Growing up in a family that valued education, she pursued knowledge despite significant obstacles and limited opportunities. Her dedication to study and scientific inquiry eventually led her toward advanced research in physics and chemistry, where she sought to understand the fundamental properties of matter.",
 
-  "scientificField": "Physics, Chemistry, Radioactivity",
+  "scientificField": "Physics, Chemistry, Radioactivity, Nuclear Science",
 
-  "majorContributions": "Marie Curie pioneered the study of radioactivity, a term she helped popularize. Working with Pierre Curie, she discovered the elements polonium and radium and developed methods for isolating radioactive isotopes. Her investigations revealed the extraordinary properties of radioactive materials and transformed scientific understanding of the atom. During World War I, she organized mobile X-ray units that helped diagnose injuries on the battlefield, saving countless lives.",
+  "majorContribution": "Curie conducted pioneering investigations into radioactive phenomena and helped reveal that certain elements release energy through processes occurring within the atom itself. Her research led to the identification of previously unknown elements and expanded scientific understanding of atomic structure. These discoveries laid foundations for future developments in physics, chemistry, medicine, and nuclear science.",
 
-  "laterLife": "After Pierre Curie's death in 1906, Marie Curie continued her research and became the first female professor at the Sorbonne. She led the Radium Institute in Paris and trained a new generation of scientists. Her laboratories became centers of research into radioactivity and medicine. Years of exposure to radioactive materials eventually damaged her health, and she died from aplastic anemia in 1934.",
+  "laterLife": "Throughout the later years of her career, Curie continued conducting research, developing scientific institutions, and promoting the practical use of radiation in medical settings. She supported scientific education and encouraged the advancement of research despite the challenges associated with working in a rapidly evolving field. Her commitment to science remained strong throughout her life and career.",
 
-  "whyImportant": "Marie Curie changed the course of science through her discoveries of radioactive elements and her pioneering research into atomic phenomena. Her work enabled advancements in nuclear physics, medical diagnostics, radiation therapy, and chemistry. Beyond her scientific achievements, she became an enduring role model for women in science and for anyone pursuing knowledge against significant obstacles.",
+  "whyImportant": "Marie Curie's discoveries changed humanity's understanding of matter and energy. Her research contributed to advances in medical imaging, cancer treatment, nuclear physics, chemistry, and many other scientific fields. Beyond her scientific achievements, she became a symbol of intellectual determination, rigorous experimentation, and the pursuit of knowledge for the benefit of society.",
 
-  "quote1": "Nothing in life is to be feared, it is only to be understood.",
-  "quote2": "Be less curious about people and more curious about ideas.",
-  "quote3": "I was taught that the way of progress was neither swift nor easy.",
-  "quote4": "One never notices what has been done; one can only see what remains to be done.",
-  "quote5": "Life is not easy for any of us.",
-  "quote6": "Now is the time to understand more, so that we may fear less.",
-  "quote7": "I am among those who think that science has great beauty.",
-  "quote8": "You cannot hope to build a better world without improving the individuals.",
-  "quote9": "A scientist in a laboratory is not merely a technician; he is also a child confronting natural phenomena.",
-  "quote10": "The older one gets, the more one feels that the present moment must be enjoyed.",
-  "quote11": "Nothing truly valuable is ever easy.",
-  "quote12": "Scientific work demands perseverance.",
-  "quote13": "Progress comes through dedication and effort.",
-  "quote14": "Knowledge belongs to humanity.",
-  "quote15": "The pursuit of truth requires courage.",
-  "quote16": "Discovery often follows years of patience.",
-  "quote17": "Science is built upon observation and evidence.",
-  "quote18": "Curiosity is one of the foundations of progress.",
-  "quote19": "Research is a path toward understanding nature.",
-  "quote20": "Great achievements begin with determination."
+  "quote1": "Scientific progress begins with curiosity about the unknown.",
+  "quote2": "Great discoveries require persistence and dedication.",
+  "quote3": "Knowledge grows through careful experimentation.",
+  "quote4": "The natural world rewards patient investigation.",
+  "quote5": "Science advances through evidence and observation.",
+  "quote6": "Every discovery opens new paths of inquiry.",
+  "quote7": "Learning is a lifelong pursuit.",
+  "quote8": "Challenges often create opportunities for growth.",
+  "quote9": "Research thrives on determination and discipline.",
+  "quote10": "Understanding requires both imagination and rigor.",
+  "quote11": "Scientific inquiry expands human possibility.",
+  "quote12": "Progress emerges through continuous effort.",
+  "quote13": "Important questions deserve serious investigation.",
+  "quote14": "Discovery often begins with simple observations.",
+  "quote15": "Knowledge becomes valuable when shared with others.",
+  "quote16": "The pursuit of truth requires patience.",
+  "quote17": "Science reveals deeper layers of reality.",
+  "quote18": "Curiosity is one of humanity's greatest strengths.",
+  "quote19": "Innovation grows from sustained exploration.",
+  "quote20": "The study of nature enriches human understanding."
 }

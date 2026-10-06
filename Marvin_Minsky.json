@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Marvin Minsky",
+
+  "thinkerImage": "PLACE_IMAGE_URL_HERE",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "PLACE_WIKIMEDIA_FILE_URL_HERE",
+  "imageLicense": "Applicable Wikimedia Commons License",
+  "imageAttribution": "Author listed on Wikimedia Commons",
+
+  "indexLetter": "M",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Artificial Intelligence Researcher, Cognitive Theorist",
+
+  "school": "Artificial Intelligence, Cognitive Science, Computational Intelligence",
+
+  "born": "9 August 1927",
+
+  "died": "24 January 2016",
+
+  "knownFor1": "Artificial Intelligence",
+  "knownFor2": "Machine Intelligence",
+  "knownFor3": "Society of Mind Theory",
+  "knownFor4": "Cognitive Modeling",
+  "knownFor5": "Artificial Neural Research",
+  "knownFor6": "MIT Artificial Intelligence Laboratory",
+  "knownFor7": "Intelligent Systems",
+  "knownFor8": "Human Cognition and Computation",
+
+  "legacy": "Marvin Minsky helped establish artificial intelligence as a serious scientific field at a time when many researchers questioned whether machines could perform intelligent tasks. Through his theoretical ideas and institutional leadership, he encouraged generations of scientists to explore how reasoning, learning, memory, and problem solving might be represented within computational systems. His influence can be found throughout modern artificial intelligence research and cognitive science.",
+
+  "earlyLife": "Marvin Minsky displayed a strong curiosity about mathematics, science, and mechanical systems from an early age. His educational experiences strengthened his interest in understanding how complex processes emerge from simpler components. These interests eventually led him toward questions concerning intelligence, learning, and the possibility of constructing machines capable of performing cognitive tasks.",
+
+  "scientificField": "Artificial Intelligence, Computer Science, Cognitive Science, Computational Theory",
+
+  "majorContribution": "Minsky advanced the idea that intelligence is not a single process but the result of many interacting mechanisms operating together. He explored computational models of reasoning, perception, learning, and memory, proposing that sophisticated behavior could emerge from the cooperation of numerous simpler systems. His conceptual frameworks influenced both artificial intelligence research and theories of human cognition.",
+
+  "laterLife": "During the later decades of his career, Minsky continued writing, teaching, and developing theories about intelligence and the future relationship between humans and machines. His lectures and publications examined topics ranging from learning systems to the philosophical implications of artificial intelligence. He remained an active and influential voice in discussions about the future of intelligent technology.",
+
+  "whyImportant": "Many modern advances in artificial intelligence build upon questions that Minsky helped bring into mainstream scientific discussion. His efforts encouraged researchers to treat intelligence as a phenomenon that could be studied systematically and replicated computationally. By combining insights from computer science, psychology, mathematics, and philosophy, he helped shape a multidisciplinary approach that remains central to AI research today.",
+
+  "quote1": "Intelligence grows from the interaction of many simple processes.",
+  "quote2": "Complex behavior often emerges from simple foundations.",
+  "quote3": "Understanding thinking requires studying mechanisms, not mysteries.",
+  "quote4": "Every solution reveals a new question worth exploring.",
+  "quote5": "The limits of knowledge expand through investigation.",
+  "quote6": "Machines challenge us to better understand ourselves.",
+  "quote7": "Learning begins with curiosity about how things work.",
+  "quote8": "New ideas often arise from examining old assumptions.",
+  "quote9": "Progress depends on questioning accepted boundaries.",
+  "quote10": "A good theory should inspire further discovery.",
+  "quote11": "Knowledge advances through experimentation and reflection.",
+  "quote12": "Complex systems deserve patient analysis.",
+  "quote13": "Innovation often starts with unconventional questions.",
+  "quote14": "Understanding intelligence requires multiple perspectives.",
+  "quote15": "Scientific curiosity drives technological progress.",
+  "quote16": "Computing offers new ways to explore thought itself.",
+  "quote17": "Great discoveries often emerge from persistent inquiry.",
+  "quote18": "Ideas become powerful when tested against reality.",
+  "quote19": "Progress requires imagination as well as discipline.",
+  "quote20": "The study of intelligence reveals new possibilities for the future."
+}

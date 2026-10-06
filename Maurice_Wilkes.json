@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Maurice Wilkes",
+
+  "thinkerImage": "PLACE_IMAGE_URL_HERE",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "PLACE_WIKIMEDIA_FILE_URL_HERE",
+  "imageLicense": "Applicable Wikimedia Commons License",
+  "imageAttribution": "Author listed on Wikimedia Commons",
+
+  "indexLetter": "M",
+
+  "nationality": "British",
+
+  "occupation": "Computer Scientist, Computer Engineer, Academic",
+
+  "school": "Computer Science, Computer Engineering, Systems Computing",
+
+  "born": "26 June 1913",
+
+  "died": "29 November 2010",
+
+  "knownFor1": "EDSAC Computer",
+  "knownFor2": "Stored-Program Computing",
+  "knownFor3": "Microprogramming",
+  "knownFor4": "Computer Architecture",
+  "knownFor5": "Programming Systems",
+  "knownFor6": "Early Computing Research",
+  "knownFor7": "Computer Laboratory Leadership",
+  "knownFor8": "Practical Computer Design",
+
+  "legacy": "Maurice Wilkes helped move computing from theoretical possibility to practical reality. His work demonstrated that electronic computers could become dependable tools for scientific research, engineering, and information processing. Through both technical achievements and academic leadership, he influenced generations of computer scientists and contributed to the foundations upon which modern computing systems were built.",
+
+  "earlyLife": "Maurice Wilkes developed a strong interest in mathematics, electronics, and scientific instruments during his youth. These interests led him toward technical and academic pursuits, where he became fascinated by the challenge of automating calculation and information processing. His early experiences with scientific equipment shaped his practical approach to engineering and computation.",
+
+  "scientificField": "Computer Science, Computer Engineering, Computer Architecture, Electronic Computing",
+
+  "majorContribution": "Wilkes played a major role in the development of early electronic computers and advanced techniques for organizing computer instructions. His contributions to machine design and programming methods made computers easier to operate and more effective for solving complex problems. He also promoted architectural ideas that improved efficiency and influenced later generations of computing hardware.",
+
+  "laterLife": "Throughout the later stages of his career, Wilkes continued contributing to computer research, teaching, and technological development. His extensive experience allowed him to provide valuable historical and technical perspectives on the rapid evolution of computing. He remained a respected figure whose observations connected the earliest decades of computing with the modern digital era.",
+
+  "whyImportant": "Modern computers depend on architectural principles and engineering practices that emerged during the formative years of computing. Wilkes helped establish many of those foundations by demonstrating how electronic computers could be designed, programmed, and applied in practical settings. His influence can be found in both computer hardware and software development traditions.",
+
+  "quote1": "Practical engineering transforms ideas into useful tools.",
+  "quote2": "Progress often begins with a willingness to experiment.",
+  "quote3": "Complex systems are built from understandable components.",
+  "quote4": "Innovation grows through persistent refinement.",
+  "quote5": "Reliable machines require disciplined design.",
+  "quote6": "Scientific advancement depends upon effective tools.",
+  "quote7": "Computing expands the range of solvable problems.",
+  "quote8": "Engineering success is achieved one improvement at a time.",
+  "quote9": "Careful planning reduces unnecessary complexity.",
+  "quote10": "Great systems emerge from practical solutions.",
+  "quote11": "Technical progress rewards patience and precision.",
+  "quote12": "Good design makes difficult tasks manageable.",
+  "quote13": "Knowledge advances through construction and testing.",
+  "quote14": "Efficient systems create new opportunities for discovery.",
+  "quote15": "Strong foundations support future innovation.",
+  "quote16": "Every generation benefits from earlier experimentation.",
+  "quote17": "Technology succeeds when it serves real needs.",
+  "quote18": "Curiosity and engineering often advance together.",
+  "quote19": "Computers became powerful because people improved them continuously.",
+  "quote20": "Practical achievement is the bridge between theory and application."
+}

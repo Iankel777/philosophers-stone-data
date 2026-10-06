@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Martin Fowler",
+
+  "thinkerImage": "PLACE_IMAGE_URL_HERE",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "PLACE_WIKIMEDIA_FILE_URL_HERE",
+  "imageLicense": "Applicable Wikimedia Commons License",
+  "imageAttribution": "Author listed on Wikimedia Commons",
+
+  "indexLetter": "M",
+
+  "nationality": "British",
+
+  "occupation": "Software Engineer, Author, Software Architect",
+
+  "school": "Software Engineering, Enterprise Software, Agile Development",
+
+  "born": "18 December 1963",
+
+  "died": "",
+
+  "knownFor1": "Refactoring",
+  "knownFor2": "Enterprise Software Architecture",
+  "knownFor3": "Design Patterns Advocacy",
+  "knownFor4": "Continuous Delivery",
+  "knownFor5": "Agile Software Development",
+  "knownFor6": "Domain-Specific Languages",
+  "knownFor7": "Software Design Quality",
+  "knownFor8": "Evolutionary Architecture",
+
+  "legacy": "Martin Fowler helped transform software development from a practice centered on simply making programs work into one that emphasizes maintainability, clarity, and long-term adaptability. His writings encouraged developers to continuously improve code structure, reducing technical debt and helping teams produce systems that remain useful as requirements evolve.",
+
+  "earlyLife": "Martin Fowler developed an early interest in logical systems and problem solving. His academic background exposed him to computing during a period when software engineering was rapidly expanding as a professional discipline. These experiences encouraged a lasting focus on how complex software systems can be designed, understood, and improved.",
+
+  "scientificField": "Software Engineering, Software Architecture, Programming Methodology, Enterprise Computing",
+
+  "majorContribution": "Fowler popularized systematic techniques for improving existing software without changing its external behavior. By promoting structured refactoring practices, he provided developers with practical methods for making large codebases easier to understand, test, and maintain. His ideas became widely adopted across both commercial and open-source software projects.",
+
+  "laterLife": "Throughout his career, Fowler remained an influential voice in software architecture and development practices. Through books, articles, conference presentations, and consulting work, he continued helping organizations build software systems that balance business needs with technical quality. His later work explored topics such as distributed systems, organizational design, and modern development workflows.",
+
+  "whyImportant": "Modern software often survives for decades and must continuously adapt to changing technologies and user expectations. Fowler's work provided developers with practical tools for controlling complexity and preventing systems from becoming difficult to maintain. Many contemporary engineering teams rely on concepts he helped popularize when designing and evolving software.",
+
+  "quote1": "Clear code reduces future uncertainty.",
+  "quote2": "Improvement is easier when performed continuously.",
+  "quote3": "Software quality grows through deliberate refinement.",
+  "quote4": "Readable systems are easier to extend.",
+  "quote5": "Complexity should be managed before it accumulates.",
+  "quote6": "Good architecture supports future change.",
+  "quote7": "Maintainability is a long-term investment.",
+  "quote8": "Small improvements often produce large benefits.",
+  "quote9": "Understanding a system is the first step toward improving it.",
+  "quote10": "Design decisions shape future possibilities.",
+  "quote11": "Healthy codebases evolve gradually.",
+  "quote12": "Technical excellence strengthens business outcomes.",
+  "quote13": "Software succeeds when it remains adaptable.",
+  "quote14": "Refinement is a continuous engineering activity.",
+  "quote15": "Simple solutions are often the most durable.",
+  "quote16": "Thoughtful design reduces unnecessary effort.",
+  "quote17": "Engineering discipline supports innovation.",
+  "quote18": "Reliable development depends on clear feedback.",
+  "quote19": "Good systems encourage understanding rather than confusion.",
+  "quote20": "Every codebase can become better through steady improvement."
+}

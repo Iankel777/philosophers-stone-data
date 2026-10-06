@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Michael Stonebraker",
+
+  "thinkerImage": "PLACE_IMAGE_URL_HERE",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "PLACE_WIKIMEDIA_FILE_URL_HERE",
+  "imageLicense": "Applicable Wikimedia Commons License",
+  "imageAttribution": "Author listed on Wikimedia Commons",
+
+  "indexLetter": "M",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Database Researcher, Software Innovator",
+
+  "school": "Database Systems, Distributed Computing, Data Management",
+
+  "born": "11 October 1943",
+
+  "died": "",
+
+  "knownFor1": "Relational Databases",
+  "knownFor2": "Ingres Database",
+  "knownFor3": "Postgres Project",
+  "knownFor4": "Database Architecture",
+  "knownFor5": "Data Management Systems",
+  "knownFor6": "Stream Processing",
+  "knownFor7": "Distributed Databases",
+  "knownFor8": "Large-Scale Data Platforms",
+
+  "legacy": "Michael Stonebraker played a central role in shaping how modern organizations store, manage, and analyze information. His research bridged academic theory and practical implementation, leading to database technologies that influenced generations of software systems. Many concepts that became standard in data management gained visibility and maturity through projects he helped create and guide.",
+
+  "earlyLife": "Michael Stonebraker developed an interest in mathematics, engineering, and computing during the early years of the computer revolution. His academic experiences exposed him to the growing challenge of organizing large quantities of digital information efficiently. These interests eventually led him toward database research, where he focused on improving the ways computers store and retrieve data.",
+
+  "scientificField": "Computer Science, Database Systems, Data Engineering, Distributed Computing",
+
+  "majorContribution": "Stonebraker contributed to the development of influential database systems that advanced the capabilities of structured data management. His work explored how databases could become more efficient, scalable, and adaptable to changing technological requirements. Through research and system development, he introduced ideas that helped organizations process increasingly large and complex collections of information.",
+
+  "laterLife": "During the later stages of his career, Stonebraker continued leading research initiatives and technology ventures focused on next-generation data systems. He examined challenges involving cloud computing, real-time analytics, big data, and distributed architectures. His ongoing work helped connect academic innovation with practical solutions used across industries.",
+
+  "whyImportant": "Modern businesses, governments, scientific institutions, and online services depend on databases to organize and access information. Stonebraker's contributions helped improve the performance and flexibility of these systems, enabling organizations to manage data on a scale that would otherwise be difficult to achieve. His influence remains visible in many contemporary database technologies and data-driven applications.",
+
+  "quote1": "Information creates value only when it can be used effectively.",
+  "quote2": "Good system design anticipates future growth.",
+  "quote3": "Data management is a foundation of modern computing.",
+  "quote4": "Innovation emerges when practical needs meet technical insight.",
+  "quote5": "Efficient systems allow ideas to scale.",
+  "quote6": "Technology advances through continuous experimentation.",
+  "quote7": "Performance matters when information grows rapidly.",
+  "quote8": "Reliable data supports better decisions.",
+  "quote9": "Large problems require scalable solutions.",
+  "quote10": "Engineering progress depends on solving real-world challenges.",
+  "quote11": "Every generation of technology creates new opportunities.",
+  "quote12": "Good architecture simplifies future development.",
+  "quote13": "Complexity should be controlled through thoughtful design.",
+  "quote14": "Data systems succeed when they remain adaptable.",
+  "quote15": "Research becomes powerful when applied in practice.",
+  "quote16": "The best technologies evolve with changing needs.",
+  "quote17": "Scalability is essential for lasting success.",
+  "quote18": "Innovation often begins by rethinking assumptions.",
+  "quote19": "Useful information depends upon reliable organization.",
+  "quote20": "Strong foundations enable future discoveries."
+}
