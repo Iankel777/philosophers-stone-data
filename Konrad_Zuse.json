@@ -1,6 +1,13 @@
 {
   "thinkerName": "Konrad Zuse",
   "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Konrad_Zuse_%281992%29.jpg/960px-Konrad_Zuse_%281992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Konrad_Zuse_%281992%29.jpg/960px-Konrad_Zuse_%281992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution-Share Alike 3.0",
+  "imageAttribution": "Wolfgang Hunscher, Dortmund",
+  
+  
   "indexLetter": "K",
 
   "nationality": "German",
