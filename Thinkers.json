@@ -557,11 +557,10 @@
 
 
 
-{"id":"michael_posner","name":"Michael Posner","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Posner.json"},
-{"id":"michael_rabin","name":"Michael Rabin","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Michael_Rabin.json"},
-{"id":"michael_rosbash","name":"Michael Rosbash","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Rosbash.json"},
-{"id":"michael_stonebraker","name":"Michael Stonebraker","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Michael_Stonebraker.json"},
-{"id":"michael_taussig","name":"Michael Taussig","letter":"M","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Taussig.json"},
+{"id":"michael_posner","name":"Michael Posner","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Michael_Posner_at_September_28_Press_Conference_in_Geneva.jpg/960px-Michael_Posner_at_September_28_Press_Conference_in_Geneva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Posner.json"},
+{"id":"michael_rabin","name":"Michael Rabin","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/M_O_Rabin.jpg/960px-M_O_Rabin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Rabin.json"},
+{"id":"michael_rosbash","name":"Michael Rosbash","letter":"M","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Michael_Rosbash_EM1B8756_%2838847326642%29.jpg/960px-Michael_Rosbash_EM1B8756_%2838847326642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Rosbash.json"},
+{"id":"michael_stonebraker","name":"Michael Stonebraker","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Michael_Stonebraker_P1120062.jpg/960px-Michael_Stonebraker_P1120062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Stonebraker.json"},
 {"id":"michel_foucault","name":"Michel Foucault","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Michel_Foucault.json"},
 
 
