@@ -1,6 +1,14 @@
 {
   "thinkerName": "Karl Lashley",
   "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Karl_lashley.jpg/960px-Karl_lashley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Karl_lashley.jpg/960px-Karl_lashley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Public domain",
+  "imageAttribution": "Unknown author",
+  
+  
+  
   "indexLetter": "K",
 
   "nationality": "American",
