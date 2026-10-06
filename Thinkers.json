@@ -556,7 +556,7 @@
 {"id":"michael_faraday","name":"Michael Faraday","letter":"M","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Faraday-Millikan-Gale-1913.jpg/960px-Faraday-Millikan-Gale-1913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Faraday.json"},
 
 
-{"id":"michael_lynch","name":"Michael Lynch","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Lynch.json"},
+
 {"id":"michael_posner","name":"Michael Posner","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Posner.json"},
 {"id":"michael_rabin","name":"Michael Rabin","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Michael_Rabin.json"},
 {"id":"michael_rosbash","name":"Michael Rosbash","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Rosbash.json"},
