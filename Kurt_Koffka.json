@@ -1,6 +1,13 @@
 {
   "thinkerName": "Kurt Koffka",
   "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kurt_Koffka.jpg/960px-Kurt_Koffka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kurt_Koffka.jpg/960px-Kurt_Koffka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Public domain",
+  "imageAttribution": "Uknown",
+  
+  
   "indexLetter": "K",
 
   "nationality": "German",
