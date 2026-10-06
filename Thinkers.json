@@ -527,7 +527,6 @@
 
 
 {"id":"mamie_phipps_clark","name":"Mamie Phipps Clark","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Mamie_Clark_1958.jpg/960px-Mamie_Clark_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mamie_Phipps_Clark.json"},
-{"id":"manuel_blum","name":"Manuel Blum","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Manuel_Blum.json"},
 {"id":"marc_kirschner","name":"Marc Kirschner","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Marc_Kirschner.json"},
 {"id":"marcello_malpighi","name":"Marcello Malpighi","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Marcello_Malpighi.json"},
 {"id":"marcus_fleming","name":"Marcus Fleming","letter":"M","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Marcus_Fleming.json"},
