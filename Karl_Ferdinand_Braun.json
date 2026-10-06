@@ -1,6 +1,13 @@
 {
   "thinkerName": "Karl Ferdinand Braun",
   "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ferdinand_Braun.jpg/960px-Ferdinand_Braun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ferdinand_Braun.jpg/960px-Ferdinand_Braun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Public domain",
+  "imageAttribution": "unknown",
+  
+  
   "indexLetter": "K",
 
   "nationality": "German",
