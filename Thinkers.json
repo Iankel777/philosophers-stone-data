@@ -529,14 +529,12 @@
 {"id":"mamie_phipps_clark","name":"Mamie Phipps Clark","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Mamie_Clark_1958.jpg/960px-Mamie_Clark_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mamie_Phipps_Clark.json"},
 {"id":"marc_kirschner","name":"Marc Kirschner","letter":"M","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Plos_kirschner.jpg/960px-Plos_kirschner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Marc_Kirschner.json"},
 {"id":"marcello_malpighi","name":"Marcello Malpighi","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Marcello_Malpighi_by_Carlo_Cignani.jpg/960px-Marcello_Malpighi_by_Carlo_Cignani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Marcello_Malpighi.json"},
-{"id":"margaret_hamilton","name":"Margaret Hamilton","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Margaret_Hamilton.json"},
+{"id":"margaret_hamilton","name":"Margaret Hamilton","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Margaret_Hamilton_-_restoration.jpg/960px-Margaret_Hamilton_-_restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Margaret_Hamilton.json"},
+{"id":"margaret_mead","name":"Margaret Mead","letter":"M","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Margaret_Mead_1951_SLNSW_FL16371554.jpg/960px-Margaret_Mead_1951_SLNSW_FL16371554.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Margaret_Mead.json"},
+{"id":"maria_goeppert_mayer","name":"Maria Goeppert Mayer","letter":"M","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Maria_Goeppert-Mayer_portrait.jpg/960px-Maria_Goeppert-Mayer_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Maria_Goeppert_Mayer.json"},
+
+
   
-  
-  
-  
-{"id":"margaret_mead","name":"Margaret Mead","letter":"M","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Margaret_Mead.json"},
-{"id":"maria_goeppert_mayer","name":"Maria Goeppert Mayer","letter":"M","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Maria_Goeppert_Mayer.json"},
-{"id":"mariana_mazzucato","name":"Mariana Mazzucato","letter":"M","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Mariana_Mazzucato.json"},
 {"id":"marie_curie","name":"Marie Curie","letter":"M","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Marie_Curie.json"},
 {"id":"mario_molina","name":"Mario Molina","letter":"M","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Mario_Molina.json"},
 {"id":"mark_kac","name":"Mark Kac","letter":"M","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Mark_Kac.json"},
