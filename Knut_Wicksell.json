@@ -1,6 +1,13 @@
 {
   "thinkerName": "Knut Wicksell",
   "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Knut_Wicksell_by_Albert_Rahmn_c1906.jpg/960px-Knut_Wicksell_by_Albert_Rahmn_c1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Knut_Wicksell_by_Albert_Rahmn_c1906.jpg/960px-Knut_Wicksell_by_Albert_Rahmn_c1906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Public domain",
+  "imageAttribution": "Albert Wilhelm Rahmn",
+  
+  
   "indexLetter": "K",
 
   "nationality": "Swedish",
