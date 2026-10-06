@@ -544,16 +544,15 @@
 
 {"id":"marvin_minsky","name":"Marvin Minsky","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Marvin_Minsky_at_OLPCb.jpg/960px-Marvin_Minsky_at_OLPCb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Marvin_Minsky.json"},
 {"id":"mary_midgley","name":"Mary Midgley","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mary_Midgley.JPG/960px-Mary_Midgley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mary_Midgley.json"},
-  
-  
-{"id":"matthew_meselson","name":"Matthew Meselson","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Matthew_Meselson.json"},
-{"id":"maurice_wilkes","name":"Maurice Wilkes","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Maurice_Wilkes.json"},
-{"id":"max_born","name":"Max Born","letter":"M","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Max_Born.json"},
-{"id":"max_planck","name":"Max Planck","letter":"M","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Max_Planck.json"},
-{"id":"max_stirner","name":"Max Stirner","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Max_Stirner.json"},
-{"id":"max_theiler","name":"Max Theiler","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Max_Theiler.json"},
-{"id":"maxwell_jones","name":"Maxwell Jones","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Maxwell_Jones.json"},
+{"id":"matthew_meselson","name":"Matthew Meselson","letter":"M","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Matthew_Meselson_2010.jpg/960px-Matthew_Meselson_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Matthew_Meselson.json"},
+{"id":"maurice_wilkes","name":"Maurice Wilkes","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Maurice_Vincent_Wilkes_1980_%283%29.jpg/960px-Maurice_Vincent_Wilkes_1980_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Maurice_Wilkes.json"},
+{"id":"max_born","name":"Max Born","letter":"M","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Max_Born.jpg/960px-Max_Born.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Max_Born.json"},
+{"id":"max_planck","name":"Max Planck","letter":"M","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/960px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Max_Planck.json"},
+{"id":"max_stirner","name":"Max Stirner","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Anarchoegoist_flag.jpg/960px-Anarchoegoist_flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Max_Stirner.json"},
+{"id":"max_theiler","name":"Max Theiler","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Max_Theiler_nobel.jpg/960px-Max_Theiler_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Max_Theiler.json"},
 
+
+  
 {"id":"melanie_klein","name":"Melanie Klein","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Melanie_Klein.json"},
 {"id":"mencius","name":"Mencius","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Mencius.json"},
 {"id":"merton_miller","name":"Merton Miller","letter":"M","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Merton_Miller.json"},
