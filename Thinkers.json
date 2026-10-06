@@ -552,11 +552,10 @@
 {"id":"melanie_klein","name":"Melanie Klein","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Melanie_Klein_1952.jpg/960px-Melanie_Klein_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Melanie_Klein.json"},
 {"id":"mencius","name":"Mencius","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg/960px-Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mencius.json"},
 {"id":"michael_atiyah","name":"Michael Atiyah","letter":"M","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Michael_Atiyah_at_a_1996_Chern_symposium_%28portion_A%2C_1000_dpi%29.jpg/960px-Michael_Atiyah_at_a_1996_Chern_symposium_%28portion_A%2C_1000_dpi%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Atiyah.json"},
-{"id":"michael_debakey","name":"Michael DeBakey","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Michael_DeBakey.json"},
+{"id":"michael_debakey","name":"Michael DeBakey","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Michael_E._DeBakey.jpeg/960px-Michael_E._DeBakey.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_DeBakey.json"},
+{"id":"michael_faraday","name":"Michael Faraday","letter":"M","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Faraday-Millikan-Gale-1913.jpg/960px-Faraday-Millikan-Gale-1913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Michael_Faraday.json"},
 
-  
-{"id":"michael_faraday","name":"Michael Faraday","letter":"M","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Michael_Faraday.json"},
-{"id":"michael_feathers","name":"Michael Feathers","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Michael_Feathers.json"},
+
 {"id":"michael_lynch","name":"Michael Lynch","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Lynch.json"},
 {"id":"michael_posner","name":"Michael Posner","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Posner.json"},
 {"id":"michael_rabin","name":"Michael Rabin","letter":"M","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Michael_Rabin.json"},
