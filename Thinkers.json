@@ -551,7 +551,6 @@
   
 {"id":"melanie_klein","name":"Melanie Klein","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Melanie_Klein_1952.jpg/960px-Melanie_Klein_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Melanie_Klein.json"},
 {"id":"mencius","name":"Mencius","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg/960px-Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mencius.json"},
-{"id":"meyer_fortes","name":"Meyer Fortes","letter":"M","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Meyer_Fortes.json"},
 {"id":"michael_atiyah","name":"Michael Atiyah","letter":"M","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Michael_Atiyah.json"},
 {"id":"michael_balint","name":"Michael Balint","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Michael_Balint.json"},
 {"id":"michael_debakey","name":"Michael DeBakey","letter":"M","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Michael_DeBakey.json"},
