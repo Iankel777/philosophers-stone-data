@@ -564,9 +564,7 @@
   {"id":"morton_deutsch","name":"Morton Deutsch","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Morton_Deutsch_Photo_2.jpg/960px-Morton_Deutsch_Photo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Morton_Deutsch.json"},
   
   
-  
 
-{"id":"moses_abramovitz","name":"Moses Abramovitz","letter":"M","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Moses_Abramovitz.json"},
 {"id":"moses_maimonides","name":"Moses Maimonides","letter":"M","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Moses_Maimonides.json"},
 {"id":"mother_teresa","name":"Mother Teresa","letter":"M","category":"Humanitarianism","legend":true,"visible":true,"image":"","jsonFile":"Mother_Teresa.json"},
 {"id":"motoo_kimura","name":"Motoo Kimura","letter":"M","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Motoo_Kimura.json"},
