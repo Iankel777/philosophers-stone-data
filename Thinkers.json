@@ -600,7 +600,7 @@
 
  
   
-{"id":"nina_zakharenko","name":"Nina Zakharenko","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nina_Zakharenko.json"},
+
 {"id":"nishida_kitaro","name":"Nishida Kitaro","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nishida_Kitaro.json"},
 {"id":"noam_nisan","name":"Noam Nisan","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Noam_Nisan.json"},
 {"id":"norbert_wiener","name":"Norbert Wiener","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Norbert_Wiener.json"},
