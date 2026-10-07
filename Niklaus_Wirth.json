@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Niklaus Wirth",
+
+  "thinkerImage": "",
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "N",
+
+  "nationality": "Swiss",
+
+  "occupation": "Computer Scientist, Software Engineer, Programming Language Designer",
+
+  "school": "Structured Programming, Software Engineering, Programming Language Design",
+
+  "born": "15 February 1934",
+
+  "died": "1 January 2024",
+
+  "knownFor1": "Pascal Programming Language",
+  "knownFor2": "Modula",
+  "knownFor3": "Modula-2",
+  "knownFor4": "Oberon",
+  "knownFor5": "Structured Programming",
+  "knownFor6": "Compiler Construction",
+  "knownFor7": "Software Simplicity Principles",
+  "knownFor8": "Turing Award",
+
+  "legacy": "Niklaus Wirth demonstrated that powerful software does not require unnecessary complexity. Throughout his career he promoted clarity, disciplined program structure, and elegant language design. Many generations of programmers first learned algorithmic thinking through technologies influenced by his ideas. His emphasis on simplicity continues to influence programming-language design, software architecture, and computer-science education.",
+
+  "earlyLife": "Niklaus Wirth grew up in Switzerland during a period when electronic computing was still emerging. His interest in mathematics and engineering gradually evolved into a fascination with computation. During his academic training he became interested in how programming languages could help developers express ideas more clearly and reduce mistakes in large software projects.",
+
+  "scientificField": "Computer Science, Software Engineering, Programming Languages, Compiler Design",
+
+  "majorContributions": "Wirth created several influential programming languages, most notably Pascal, which became one of the most widely used educational languages in the world. He also contributed to Modula, Modula-2, and Oberon, each exploring improved methods for organizing software systems. Beyond language design, he advocated structured programming practices that encouraged programmers to build software using logical, understandable components. His work helped establish the principle that language simplicity can be a strength rather than a limitation.",
+
+  "laterLife": "In his later years Wirth continued researching software design, language development, and computer-system architecture. Rather than pursuing increasingly complex solutions, he remained committed to reducing unnecessary complications in computing. His lectures, books, and academic work continued to influence students, educators, and practicing software engineers around the world.",
+
+  "whyImportant": "Modern software engineering depends heavily on readability, maintainability, and disciplined program organization. Wirth helped popularize these values long before software systems reached today's scale. His ideas influenced both programming education and professional software development, making him one of the most important figures in the history of programming languages.",
+
+  "quote1": "Simplicity is often the strongest foundation for reliable software.",
+  "quote2": "A clear program teaches its purpose before it performs its task.",
+  "quote3": "Good design removes confusion rather than adding features.",
+  "quote4": "Programming is strengthened when elegance accompanies functionality.",
+  "quote5": "Complex systems benefit from simple rules.",
+  "quote6": "Understanding should come before optimization.",
+  "quote7": "Readable code is an investment in the future.",
+  "quote8": "Software quality grows from disciplined thinking.",
+  "quote9": "A language should help developers avoid preventable mistakes.",
+  "quote10": "Engineering thrives when unnecessary complexity is removed.",
+  "quote11": "Every abstraction should justify its existence.",
+  "quote12": "Structure gives software durability.",
+  "quote13": "The best tools are often the easiest to understand.",
+  "quote14": "Clarity transforms programming into communication.",
+  "quote15": "Design decisions shape maintenance long after implementation.",
+  "quote16": "Simple ideas can support remarkably powerful systems.",
+  "quote17": "A programmer's first responsibility is understanding.",
+  "quote18": "Reliable software begins with careful organization.",
+  "quote19": "Innovation and simplicity are not opposites.",
+  "quote20": "Progress in computing depends on making complexity manageable."
+}

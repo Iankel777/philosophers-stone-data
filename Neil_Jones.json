@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Neil Jones",
+
+  "thinkerImage": "",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "N",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Theoretical Computer Scientist, Educator",
+
+  "school": "Computability Theory, Programming Language Theory, Computational Complexity",
+
+  "born": "25 December 1941",
+
+  "died": "",
+
+  "knownFor1": "Computability Theory",
+  "knownFor2": "Computational Complexity",
+  "knownFor3": "Programming Language Theory",
+  "knownFor4": "Partial Evaluation",
+  "knownFor5": "Self-Reference in Computation",
+  "knownFor6": "Algorithm Analysis",
+  "knownFor7": "Theoretical Computer Science",
+  "knownFor8": "Computer Science Education",
+
+  "legacy": "Neil Jones is recognized for helping deepen the theoretical understanding of computation and programming languages. His work explored the boundaries of what computers can efficiently calculate and how programs can reason about other programs. By combining mathematical rigor with practical questions about software, he helped strengthen the foundations of theoretical computer science.",
+
+  "earlyLife": "Neil Jones developed an interest in mathematics, logic, and formal reasoning during his academic years. As computing technology expanded rapidly, he became fascinated by fundamental questions regarding algorithms, efficiency, and the nature of computation itself. These interests guided him toward a career focused on theoretical computer science.",
+
+  "scientificField": "Computer Science, Computational Complexity, Computability Theory, Programming Languages",
+
+  "majorContributions": "Jones made important contributions to the study of computability, complexity theory, and program transformation techniques. He explored how programs can analyze, optimize, and even generate other programs. His research on partial evaluation demonstrated how computational processes could be specialized and improved automatically. He also helped clarify fundamental relationships between algorithms, information, and computational resources, providing insights that influenced both theory and software development.",
+
+  "laterLife": "In later stages of his career, Jones continued researching foundational questions in computer science while teaching and mentoring new generations of researchers. His publications helped organize complex theoretical ideas into forms that were more accessible to students and scholars. He remained an influential voice in discussions about the limits and possibilities of computation.",
+
+  "whyImportant": "Modern computing depends not only on faster machines but also on a deeper understanding of what computation can achieve. Jones helped advance that understanding by examining how programs behave, how efficiently they operate, and what theoretical limits govern them. His work remains valuable for researchers studying algorithms, programming languages, and the nature of computation itself.",
+
+  "quote1": "Understanding computation begins with understanding its limits.",
+  "quote2": "A program can be both a tool and an object of study.",
+  "quote3": "Theory reveals structures that practice alone may overlook.",
+  "quote4": "Every algorithm reflects a set of assumptions.",
+  "quote5": "Efficiency is meaningful only when measured carefully.",
+  "quote6": "Complexity is often hidden beneath simple instructions.",
+  "quote7": "Programs communicate ideas as much as they perform tasks.",
+  "quote8": "Mathematical precision brings clarity to computation.",
+  "quote9": "The study of limits often reveals new possibilities.",
+  "quote10": "A deeper model can explain a surprising amount of behavior.",
+  "quote11": "Computation becomes more interesting when it examines itself.",
+  "quote12": "Good theory provides a foundation for future innovation.",
+  "quote13": "Algorithms are expressions of organized reasoning.",
+  "quote14": "Scientific progress depends on clear definitions.",
+  "quote15": "Understanding a problem is the first step toward solving it.",
+  "quote16": "Abstraction allows complexity to become manageable.",
+  "quote17": "Computability asks not what is easy, but what is possible.",
+  "quote18": "Powerful ideas often emerge from simple principles.",
+  "quote19": "Knowledge grows when assumptions are challenged.",
+  "quote20": "The foundations of computing remain as important as its applications."
+}

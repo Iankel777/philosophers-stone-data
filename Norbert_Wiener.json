@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Norbert Wiener",
+
+  "thinkerImage": "",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "N",
+
+  "nationality": "American",
+
+  "occupation": "Mathematician, Philosopher, Computer Science Pioneer",
+
+  "school": "Cybernetics, Applied Mathematics, Systems Theory",
+
+  "born": "26 November 1894",
+
+  "died": "18 March 1964",
+
+  "knownFor1": "Cybernetics",
+  "knownFor2": "Control Systems Theory",
+  "knownFor3": "Information Science",
+  "knownFor4": "Mathematical Analysis",
+  "knownFor5": "Feedback Systems",
+  "knownFor6": "Automation Theory",
+  "knownFor7": "Probability Theory",
+  "knownFor8": "Foundations of Modern Systems Thinking",
+
+  "legacy": "Norbert Wiener helped create an entirely new way of thinking about communication, control, and complex systems. His ideas connected mathematics, engineering, biology, and computing through the shared concept of feedback. Long before the rise of modern artificial intelligence, digital networks, and autonomous systems, he envisioned a world in which information would become a central force shaping technology and society. His influence extends across computer science, robotics, neuroscience, economics, and systems engineering.",
+
+  "earlyLife": "Norbert Wiener displayed extraordinary intellectual ability from an early age. Deeply interested in mathematics, logic, languages, and science, he pursued advanced studies while still very young. His broad intellectual curiosity encouraged him to explore connections between disciplines rather than focusing on a single field. This interdisciplinary approach would later become one of the distinguishing features of his work.",
+
+  "scientificField": "Mathematics, Cybernetics, Systems Theory, Information Science",
+
+  "majorContributions": "Wiener founded the field of cybernetics, which examines how systems regulate themselves through communication, feedback, and control. He demonstrated that principles governing machines, biological organisms, and organizations could often be understood using similar concepts. His work contributed to signal processing, probability theory, automation, communication systems, and early computer science. By emphasizing information flow and adaptive feedback, he established intellectual foundations that later influenced artificial intelligence, robotics, network science, and modern control engineering.",
+
+  "laterLife": "During the later years of his career, Wiener became increasingly interested in the social and ethical consequences of technology. He wrote extensively about automation, human responsibility, and the future impact of intelligent machines. He encouraged scientists and engineers to consider how technological progress might affect society and warned against developing powerful technologies without understanding their long-term implications.",
+
+  "whyImportant": "Norbert Wiener is important because he helped establish many of the conceptual foundations underlying modern computing and systems science. His insights into feedback, communication, and information continue to influence technologies that power contemporary life. Equally important, he was among the first major thinkers to examine the ethical responsibilities associated with advanced technological development.",
+
+  "quote1": "Information gains value when it improves understanding and action.",
+  "quote2": "Complex systems often depend on simple feedback principles.",
+  "quote3": "Communication links individual parts into functioning wholes.",
+  "quote4": "Technology should serve humanity rather than direct it.",
+  "quote5": "Understanding systems requires examining their interactions.",
+  "quote6": "Knowledge grows when disciplines learn from one another.",
+  "quote7": "Feedback transforms information into adaptation.",
+  "quote8": "Scientific progress carries social responsibilities.",
+  "quote9": "The flow of information shapes the behavior of systems.",
+  "quote10": "Innovation becomes meaningful when guided by purpose.",
+  "quote11": "Complexity often emerges from interconnected simplicity.",
+  "quote12": "Mathematics provides tools for understanding change.",
+  "quote13": "Every system reveals itself through its patterns of communication.",
+  "quote14": "The future depends on how technology and humanity evolve together.",
+  "quote15": "Control without understanding creates new risks.",
+  "quote16": "Interdisciplinary thinking often produces the most original ideas.",
+  "quote17": "Automation should expand human capability, not diminish it.",
+  "quote18": "The study of information is the study of organization.",
+  "quote19": "Scientific curiosity is strongest when boundaries disappear.",
+  "quote20": "Understanding connections is often more important than understanding isolated parts."
+}

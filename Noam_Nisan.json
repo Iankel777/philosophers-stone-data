@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Noam Nisan",
+
+  "thinkerImage": "",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "N",
+
+  "nationality": "Israeli",
+
+  "occupation": "Computer Scientist, Economist, Researcher",
+
+  "school": "Theoretical Computer Science, Algorithmic Game Theory, Computational Economics",
+
+  "born": "1959",
+
+  "died": "",
+
+  "knownFor1": "Algorithmic Game Theory",
+  "knownFor2": "Computational Economics",
+  "knownFor3": "Mechanism Design",
+  "knownFor4": "Electronic Auctions",
+  "knownFor5": "Theoretical Computer Science",
+  "knownFor6": "Computational Complexity",
+  "knownFor7": "Market Design",
+  "knownFor8": "Multi-Agent Systems",
+
+  "legacy": "Noam Nisan helped bridge the gap between computer science and economics by showing how algorithms, incentives, and strategic decision making interact within digital environments. His research contributed to the development of modern algorithmic game theory and provided foundations for understanding online markets, auctions, and computational systems involving multiple participants with competing interests.",
+
+  "earlyLife": "Noam Nisan developed an interest in mathematics, logic, and computation during his education. As computer science expanded into new domains, he became increasingly interested in questions involving decision making, incentives, and the behavior of individuals within computational systems. These interests eventually led him toward research that combined ideas from economics and theoretical computer science.",
+
+  "scientificField": "Computer Science, Algorithmic Game Theory, Computational Economics, Theoretical Computer Science",
+
+  "majorContributions": "Nisan played an important role in establishing algorithmic game theory as a major research field. His work explored how algorithms operate when users have their own goals, strategies, and incentives. He contributed to the study of auctions, market mechanisms, computational efficiency, and strategic interaction in digital environments. His research helped create mathematical frameworks for analyzing online platforms, electronic marketplaces, and large-scale economic systems driven by software.",
+
+  "laterLife": "Throughout his later career, Nisan continued researching the interaction between computation and economic behavior. He remained active as a scholar, educator, and collaborator while helping shape emerging research areas related to digital markets, platform economics, and computational social systems. His work continued influencing both academic research and practical technology applications.",
+
+  "whyImportant": "Many of today's online platforms involve millions of users making decisions simultaneously. Nisan helped provide the theoretical foundations needed to understand how such systems function and how incentives affect outcomes. His contributions made it easier for researchers and engineers to design digital markets that are more efficient, predictable, and resilient.",
+
+  "quote1": "Algorithms are most interesting when people become part of the system.",
+  "quote2": "Good design accounts for incentives as carefully as computation.",
+  "quote3": "Markets and algorithms often solve similar coordination problems.",
+  "quote4": "Understanding behavior is essential to understanding digital systems.",
+  "quote5": "Efficiency matters most when resources are limited.",
+  "quote6": "A successful mechanism aligns individual goals with collective outcomes.",
+  "quote7": "Technology increasingly shapes economic interaction.",
+  "quote8": "Complex systems become manageable through clear models.",
+  "quote9": "Strategic behavior cannot be ignored in large networks.",
+  "quote10": "Mathematics provides a language for analyzing incentives.",
+  "quote11": "Digital markets depend on both computation and trust.",
+  "quote12": "The best systems perform well even when participants disagree.",
+  "quote13": "Economic reasoning enriches computational thinking.",
+  "quote14": "Rules determine outcomes as much as participants do.",
+  "quote15": "Innovation often emerges where disciplines overlap.",
+  "quote16": "Good theory reveals hidden structures in complex interactions.",
+  "quote17": "Designing systems means designing incentives.",
+  "quote18": "Computational limits influence economic possibilities.",
+  "quote19": "Large-scale coordination requires careful architecture.",
+  "quote20": "Understanding strategy is a key part of understanding intelligence."
+}

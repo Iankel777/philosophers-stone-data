@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Nils Nilsson",
+
+  "thinkerImage": "",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "N",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Artificial Intelligence Researcher, Educator",
+
+  "school": "Artificial Intelligence, Robotics, Automated Reasoning",
+
+  "born": "17 February 1933",
+
+  "died": "23 April 2019",
+
+  "knownFor1": "Artificial Intelligence",
+  "knownFor2": "Robotics Research",
+  "knownFor3": "Automated Planning",
+  "knownFor4": "Search Algorithms",
+  "knownFor5": "Problem Solving Systems",
+  "knownFor6": "Shakey Robot Project",
+  "knownFor7": "Knowledge Representation",
+  "knownFor8": "AI Education",
+
+  "legacy": "Nils Nilsson helped establish artificial intelligence as a serious scientific discipline during its formative decades. His research demonstrated how machines could reason about goals, evaluate possible actions, and solve complex problems. Through both his technical achievements and educational writings, he influenced generations of scientists working in artificial intelligence, robotics, and intelligent systems.",
+
+  "earlyLife": "Nils Nilsson developed a strong interest in mathematics, engineering, and logical reasoning during his education. As computers became increasingly capable, he became fascinated by the possibility that machines could perform tasks traditionally associated with human intelligence. This interest guided him toward research at the intersection of computation, reasoning, and decision making.",
+
+  "scientificField": "Computer Science, Artificial Intelligence, Robotics, Machine Reasoning",
+
+  "majorContributions": "Nilsson contributed foundational ideas to artificial intelligence research, particularly in automated problem solving, planning systems, and robotic decision making. His work explored how intelligent agents could analyze situations, select actions, and pursue objectives in dynamic environments. He also helped advance the development of autonomous robots capable of reasoning about their surroundings and making informed choices. His writings provided clear frameworks that helped organize and advance AI research for decades.",
+
+  "laterLife": "Throughout his later career, Nilsson remained active as a researcher, author, and educator. He devoted considerable effort to explaining the history, methods, and future possibilities of artificial intelligence. By reflecting on both successes and limitations within the field, he encouraged researchers to pursue ambitious goals while maintaining scientific rigor.",
+
+  "whyImportant": "Many modern AI technologies build upon concepts that researchers such as Nilsson helped develop. His contributions advanced understanding of machine reasoning, planning, and autonomous behavior. By demonstrating how intelligent systems could be designed using logical and computational principles, he played an important role in shaping the foundations of contemporary artificial intelligence.",
+
+  "quote1": "Intelligent systems emerge from disciplined reasoning and careful design.",
+  "quote2": "Every complex problem becomes manageable when divided into meaningful steps.",
+  "quote3": "Machines can assist understanding when guided by sound principles.",
+  "quote4": "Progress in artificial intelligence begins with asking better questions.",
+  "quote5": "Reasoning is a process of exploring possibilities systematically.",
+  "quote6": "Innovation grows where imagination meets computation.",
+  "quote7": "Complex environments demand adaptable solutions.",
+  "quote8": "Knowledge gains value when it can support action.",
+  "quote9": "A good model simplifies reality without ignoring its essentials.",
+  "quote10": "Scientific progress depends on both creativity and evidence.",
+  "quote11": "Machines expand human capabilities when used thoughtfully.",
+  "quote12": "Understanding intelligence requires studying decisions as well as knowledge.",
+  "quote13": "Effective planning transforms goals into achievable actions.",
+  "quote14": "The future of computing depends on learning from difficult problems.",
+  "quote15": "Robust systems are built upon reliable representations of information.",
+  "quote16": "Discovery often begins with experimentation.",
+  "quote17": "Artificial intelligence advances through continuous refinement.",
+  "quote18": "Good science welcomes both success and correction.",
+  "quote19": "Reasoning is most powerful when paired with adaptability.",
+  "quote20": "The pursuit of intelligence is also a pursuit of understanding."
+}
