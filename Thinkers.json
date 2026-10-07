@@ -577,9 +577,9 @@
 {"id":"nandor_fodor","name":"Nandor Fodor","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nandor_Fodor_parapsychologist.png/960px-Nandor_Fodor_parapsychologist.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nandor_Fodor.json"},
 
 
-{"id":"nassim_nicholas_taleb","name":"Nassim Nicholas Taleb","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nassim_Nicholas_Taleb.json"},
-{"id":"nate_silver","name":"Nate Silver","letter":"N","category":"Statistics","legend":true,"visible":true,"image":"","jsonFile":"Nate_Silver.json"},
-{"id":"nathan_jacobson","name":"Nathan Jacobson","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Nathan_Jacobson.json"},
+{"id":"nassim_nicholas_taleb","name":"Nassim Nicholas Taleb","letter":"N","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Nassim_Taleb_Lecturing.jpg/960px-Nassim_Taleb_Lecturing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nassim_Nicholas_Taleb.json"},
+{"id":"nate_silver","name":"Nate Silver","letter":"N","category":"Statistics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nate_Silver_2009.png/960px-Nate_Silver_2009.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nate_Silver.json"},
+
 {"id":"nathan_smith_davis","name":"Nathan Smith Davis","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Nathan_Smith_Davis.json"},
 {"id":"nazli_bayram","name":"Nazli Bayram","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nazli_Bayram.json"},
 {"id":"neal_miller","name":"Neal Miller","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Neal_Miller.json"},
