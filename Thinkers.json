@@ -582,8 +582,6 @@
 
 {"id":"nathan_smith_davis","name":"Nathan Smith Davis","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Nathan_Smith_Davis3.jpg/960px-Nathan_Smith_Davis3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nathan_Smith_Davis.json"},
 
-
-{"id":"neil_jones","name":"Neil Jones","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Neil_Jones.json"},
 {"id":"nelson_mandela","name":"Nelson Mandela","letter":"N","category":"Politics","legend":true,"visible":true,"image":"","jsonFile":"Nelson_Mandela.json"},
  
   
