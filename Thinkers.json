@@ -589,7 +589,6 @@
   
 {"id":"nicolai_basov","name":"Nicolai Basov","letter":"N","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Basov.jpg/960px-Basov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nicolai_Basov.json"},
 
-{"id":"nicolas_bourbaki","name":"Nicolas Bourbaki","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Nicolas_Bourbaki.json"},
 {"id":"nicolas_malebranche","name":"Nicolas Malebranche","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nicolas_Malebranche.json"},
 {"id":"niels_bohr","name":"Niels Bohr","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Niels_Bohr.json"},
 {"id":"niels_henrik_abel","name":"Niels Henrik Abel","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Niels_Henrik_Abel.json"},
