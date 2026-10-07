@@ -600,8 +600,8 @@
 {"id":"nikolai_semenov","name":"Nikolai Semenov","letter":"N","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Nikolay_Semyonov_Nobel.jpg/960px-Nikolay_Semyonov_Nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nikolai_Semenov.json"},
 {"id":"nikolas_rose","name":"Nikolas Rose","letter":"N","category":"Sociology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nikolas_Rose_-_2021.jpg/960px-Nikolas_Rose_-_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nikolas_Rose.json"},
 
-{"id":"nikolay_pirogov","name":"Nikolay Pirogov","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Nikolay_Pirogov.json"},
-{"id":"niles_eldredge","name":"Niles Eldredge","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Niles_Eldredge.json"},
+{"id":"nikolay_pirogov","name":"Nikolay Pirogov","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ilya_Repin_Portrait_of_the_Surgeon_Nikolay_Pirogov_1881.jpg/960px-Ilya_Repin_Portrait_of_the_Surgeon_Nikolay_Pirogov_1881.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nikolay_Pirogov.json"},
+
 {"id":"nils_gottfries","name":"Nils Gottfries","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nils_Gottfries.json"},
 {"id":"nils_nilsson","name":"Nils Nilsson","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nils_Nilsson.json"},
  
