@@ -585,8 +585,8 @@
 {"id":"nelson_mandela","name":"Nelson Mandela","letter":"N","category":"Politics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nelson_Mandela.jpg/960px-Nelson_Mandela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nelson_Mandela.json"},
  
 
-{"id":"nettie_stevens","name":"Nettie Stevens","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Nettie_Stevens.json"},
-{"id":"nevill_mott","name":"Nevill Mott","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nevill_Mott.json"},
+{"id":"nettie_stevens","name":"Nettie Stevens","letter":"N","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Nettie_Stevens2.jpg/960px-Nettie_Stevens2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nettie_Stevens.json"},
+
 {"id":"neville_symington","name":"Neville Symington","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Neville_Symington.json"},
 {"id":"nevitt_sanford","name":"Nevitt Sanford","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nevitt_Sanford.json"},
 {"id":"niall_douglas","name":"Niall Douglas","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Niall_Douglas.json"},
