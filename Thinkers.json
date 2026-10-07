@@ -587,9 +587,9 @@
 
 {"id":"nettie_stevens","name":"Nettie Stevens","letter":"N","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Nettie_Stevens2.jpg/960px-Nettie_Stevens2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nettie_Stevens.json"},
 
-{"id":"niccolo_machiavelli","name":"Niccolo Machiavelli","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Niccolo_Machiavelli.json"},
-{"id":"nicholas_humphrey","name":"Nicholas Humphrey","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nicholas_Humphrey.json"},
-{"id":"nicholas_kaldor","name":"Nicholas Kaldor","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nicholas_Kaldor.json"},
+{"id":"niccolo_machiavelli","name":"Niccolo Machiavelli","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/960px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Niccolo_Machiavelli.json"},
+{"id":"nicholas_humphrey","name":"Nicholas Humphrey","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nick_Humphrey.jpg/960px-Nick_Humphrey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nicholas_Humphrey.json"},
+
 {"id":"nicola_cabibbo","name":"Nicola Cabibbo","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nicola_Cabibbo.json"},
 {"id":"nicolaas_bloembergen","name":"Nicolaas Bloembergen","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nicolaas_Bloembergen.json"},
   
