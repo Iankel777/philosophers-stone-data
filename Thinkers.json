@@ -572,6 +572,80 @@
   
   
   
+
+{"id":"nadine_gordimer","name":"Nadine Gordimer","letter":"N","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nadine_Gordimer_01.JPG/960px-Nadine_Gordimer_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nadine_Gordimer.json"},
+{"id":"nancy_hughes","name":"Nancy Scheper-Hughes","letter":"N","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Nancy_Hughes.json"},
+{"id":"nancy_lynch","name":"Nancy Lynch","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nancy_Lynch.json"},
+{"id":"nancy_moran","name":"Nancy Moran","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Nancy_Moran.json"},
+{"id":"nancy_stokey","name":"Nancy Stokey","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nancy_Stokey.json"},
+{"id":"nandor_fodor","name":"Nandor Fodor","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nandor_Fodor.json"},
+{"id":"nagarjuna","name":"Nagarjuna","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nagarjuna.json"},
+ 
+  
+  
+{"id":"narayana_kocherlakota","name":"Narayana Kocherlakota","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Narayana_Kocherlakota.json"},
+{"id":"nassim_nicholas_taleb","name":"Nassim Nicholas Taleb","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nassim_Nicholas_Taleb.json"},
+{"id":"nate_silver","name":"Nate Silver","letter":"N","category":"Statistics","legend":true,"visible":true,"image":"","jsonFile":"Nate_Silver.json"},
+{"id":"nathan_jacobson","name":"Nathan Jacobson","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Nathan_Jacobson.json"},
+{"id":"nathan_smith_davis","name":"Nathan Smith Davis","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Nathan_Smith_Davis.json"},
+{"id":"nazli_bayram","name":"Nazli Bayram","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nazli_Bayram.json"},
+{"id":"neal_miller","name":"Neal Miller","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Neal_Miller.json"},
+{"id":"neil_jones","name":"Neil Jones","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Neil_Jones.json"},
+{"id":"nelson_mandela","name":"Nelson Mandela","letter":"N","category":"Politics","legend":true,"visible":true,"image":"","jsonFile":"Nelson_Mandela.json"},
+ 
+  
+  
+{"id":"nergis_mavalvala","name":"Nergis Mavalvala","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nergis_Mavalvala.json"},
+{"id":"nettie_stevens","name":"Nettie Stevens","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Nettie_Stevens.json"},
+{"id":"nevill_mott","name":"Nevill Mott","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nevill_Mott.json"},
+{"id":"neville_symington","name":"Neville Symington","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Neville_Symington.json"},
+{"id":"nevitt_sanford","name":"Nevitt Sanford","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nevitt_Sanford.json"},
+{"id":"niall_douglas","name":"Niall Douglas","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Niall_Douglas.json"},
+{"id":"niccolo_machiavelli","name":"Niccolo Machiavelli","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Niccolo_Machiavelli.json"},
+{"id":"nicholas_humphrey","name":"Nicholas Humphrey","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nicholas_Humphrey.json"},
+{"id":"nicholas_kaldor","name":"Nicholas Kaldor","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nicholas_Kaldor.json"},
+{"id":"nicola_cabibbo","name":"Nicola Cabibbo","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nicola_Cabibbo.json"},
+{"id":"nicolaas_bloembergen","name":"Nicolaas Bloembergen","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nicolaas_Bloembergen.json"},
+  
+  
+  
+{"id":"nicolai_basov","name":"Nicolai Basov","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nicolai_Basov.json"},
+{"id":"nicolai_hartmann","name":"Nicolai Hartmann","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nicolai_Hartmann.json"},
+{"id":"nicolas_bourbaki","name":"Nicolas Bourbaki","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Nicolas_Bourbaki.json"},
+{"id":"nicolas_malebranche","name":"Nicolas Malebranche","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nicolas_Malebranche.json"},
+{"id":"niels_bohr","name":"Niels Bohr","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Niels_Bohr.json"},
+{"id":"niels_henrik_abel","name":"Niels Henrik Abel","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Niels_Henrik_Abel.json"},
+{"id":"niels_ryberg_finsen","name":"Niels Ryberg Finsen","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Niels_Ryberg_Finsen.json"},
+{"id":"nigel_barley","name":"Nigel Barley","letter":"N","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Nigel_Barley.json"},
+{"id":"niklaus_wirth","name":"Niklaus Wirth","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Niklaus_Wirth.json"},
+{"id":"niko_besnier","name":"Niko Besnier","letter":"N","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Niko_Besnier.json"},
+ 
+  
+{"id":"nikolaas_tinbergen","name":"Nikolaas Tinbergen","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Nikolaas_Tinbergen.json"},
+{"id":"nikolai_kondratiev","name":"Nikolai Kondratiev","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nikolai_Kondratiev.json"},
+{"id":"nikolai_lobachevsky","name":"Nikolai Lobachevsky","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Nikolai_Lobachevsky.json"},
+{"id":"nikolai_luzin","name":"Nikolai Luzin","letter":"N","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Nikolai_Luzin.json"},
+{"id":"nikolai_semenov","name":"Nikolai Semenov","letter":"N","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Nikolai_Semenov.json"},
+{"id":"nikolas_rose","name":"Nikolas Rose","letter":"N","category":"Sociology","legend":true,"visible":true,"image":"","jsonFile":"Nikolas_Rose.json"},
+{"id":"nikolay_kim","name":"Nikolay Kim","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nikolay_Kim.json"},
+{"id":"nikolay_pirogov","name":"Nikolay Pirogov","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Nikolay_Pirogov.json"},
+{"id":"niles_eldredge","name":"Niles Eldredge","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Niles_Eldredge.json"},
+{"id":"nils_gottfries","name":"Nils Gottfries","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nils_Gottfries.json"},
+{"id":"nils_nilsson","name":"Nils Nilsson","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nils_Nilsson.json"},
+ 
+  
+{"id":"nina_zakharenko","name":"Nina Zakharenko","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nina_Zakharenko.json"},
+{"id":"nishida_kitaro","name":"Nishida Kitaro","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nishida_Kitaro.json"},
+{"id":"noam_nisan","name":"Noam Nisan","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Noam_Nisan.json"},
+{"id":"norbert_wiener","name":"Norbert Wiener","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Norbert_Wiener.json"},
+{"id":"norberto_bobbio","name":"Norberto Bobbio","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Norberto_Bobbio.json"},
+{"id":"norman_anderson","name":"Norman Anderson","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Norman_Anderson.json"},
+{"id":"norman_bethune","name":"Norman Bethune","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Norman_Bethune.json"},
+{"id":"norman_borlaug","name":"Norman Borlaug","letter":"N","category":"Agriculture","legend":true,"visible":true,"image":"","jsonFile":"Norman_Borlaug.json"},
+{"id":"norman_myers","name":"Norman Myers","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Norman_Myers.json"},
+{"id":"norman_sartorius","name":"Norman Sartorius","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Norman_Sartorius.json"},
+{"id":"nouriel_roubini","name":"Nouriel Roubini","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nouriel_Roubini.json"},
+{"id":"nuria_oliver","name":"Nuria Oliver","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nuria_Oliver.json"},
   
   
   
