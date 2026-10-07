@@ -574,7 +574,6 @@
   
 
 {"id":"nadine_gordimer","name":"Nadine Gordimer","letter":"N","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nadine_Gordimer_01.JPG/960px-Nadine_Gordimer_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nadine_Gordimer.json"},
-{"id":"nancy_moran","name":"Nancy Moran","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Nancy_Moran.json"},
 {"id":"nancy_stokey","name":"Nancy Stokey","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nancy_Stokey.json"},
 {"id":"nandor_fodor","name":"Nandor Fodor","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nandor_Fodor.json"},
 {"id":"nagarjuna","name":"Nagarjuna","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nagarjuna.json"},
