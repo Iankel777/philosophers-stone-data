@@ -582,11 +582,9 @@
 
 {"id":"nathan_smith_davis","name":"Nathan Smith Davis","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Nathan_Smith_Davis3.jpg/960px-Nathan_Smith_Davis3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nathan_Smith_Davis.json"},
 
-{"id":"nelson_mandela","name":"Nelson Mandela","letter":"N","category":"Politics","legend":true,"visible":true,"image":"","jsonFile":"Nelson_Mandela.json"},
+{"id":"nelson_mandela","name":"Nelson Mandela","letter":"N","category":"Politics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nelson_Mandela.jpg/960px-Nelson_Mandela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nelson_Mandela.json"},
  
-  
-  
-{"id":"nergis_mavalvala","name":"Nergis Mavalvala","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nergis_Mavalvala.json"},
+
 {"id":"nettie_stevens","name":"Nettie Stevens","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Nettie_Stevens.json"},
 {"id":"nevill_mott","name":"Nevill Mott","letter":"N","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Nevill_Mott.json"},
 {"id":"neville_symington","name":"Neville Symington","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Neville_Symington.json"},
