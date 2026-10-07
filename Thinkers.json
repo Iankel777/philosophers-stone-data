@@ -606,9 +606,9 @@
 {"id":"norbert_wiener","name":"Norbert Wiener","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Norbert_Wiener.webp/960px-Norbert_Wiener.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norbert_Wiener.json"},
 
 
-{"id":"norman_bethune","name":"Norman Bethune","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Norman_Bethune.json"},
-{"id":"norman_borlaug","name":"Norman Borlaug","letter":"N","category":"Agriculture","legend":true,"visible":true,"image":"","jsonFile":"Norman_Borlaug.json"},
-{"id":"norman_myers","name":"Norman Myers","letter":"N","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Norman_Myers.json"},
+{"id":"norman_bethune","name":"Norman Bethune","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Norman_Bethune_graduation_1922.jpg/960px-Norman_Bethune_graduation_1922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norman_Bethune.json"},
+{"id":"norman_borlaug","name":"Norman Borlaug","letter":"N","category":"Agriculture","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Norman_Borlaug.jpg/960px-Norman_Borlaug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norman_Borlaug.json"},
+
 {"id":"norman_sartorius","name":"Norman Sartorius","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Norman_Sartorius.json"},
 {"id":"nouriel_roubini","name":"Nouriel Roubini","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nouriel_Roubini.json"},
 {"id":"nuria_oliver","name":"Nuria Oliver","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nuria_Oliver.json"},
