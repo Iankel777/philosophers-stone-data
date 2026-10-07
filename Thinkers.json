@@ -562,8 +562,8 @@
 {"id":"mihaly_csikszentmihalyi","name":"Mihaly Csikszentmihalyi","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mihaly_Csikszentmihalyi.jpg/960px-Mihaly_Csikszentmihalyi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mihaly_Csikszentmihalyi.json"},
 {"id":"mikhail_gromov","name":"Mikhail Gromov","letter":"M","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Mikhael_Gromov.jpg/960px-Mikhael_Gromov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Mikhail_Gromov.json"},
 {"id":"milton_friedman","name":"Milton Friedman","letter":"M","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/960px-Portrait_of_Milton_Friedman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Milton_Friedman.json"},
-{"id":"montagu_norman","name":"Montagu Norman","letter":"M","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Montagu_Norman.json"},
-{"id":"morton_deutsch","name":"Morton Deutsch","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Morton_Deutsch.json"},
+{"id":"montagu_norman","name":"Montagu Norman","letter":"M","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Norman_cropped.png/960px-Norman_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Montagu_Norman.json"},
+{"id":"morton_deutsch","name":"Morton Deutsch","letter":"M","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Morton_Deutsch_Photo_2.jpg/960px-Morton_Deutsch_Photo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Morton_Deutsch.json"},
   
   
   
