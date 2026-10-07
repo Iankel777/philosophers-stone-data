@@ -604,14 +604,10 @@
 {"id":"nishida_kitaro","name":"Nishida Kitaro","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Portrait-of-Kitaro-Nishida.png/960px-Portrait-of-Kitaro-Nishida.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nishida_Kitaro.json"},
 {"id":"noam_nisan","name":"Noam Nisan","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%D7%A0%D7%A2%D7%9D_%D7%A0%D7%99%D7%A1%D7%9F.jpg/960px-%D7%A0%D7%A2%D7%9D_%D7%A0%D7%99%D7%A1%D7%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Noam_Nisan.json"},
 {"id":"norbert_wiener","name":"Norbert Wiener","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Norbert_Wiener.webp/960px-Norbert_Wiener.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norbert_Wiener.json"},
-
-
 {"id":"norman_bethune","name":"Norman Bethune","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Norman_Bethune_graduation_1922.jpg/960px-Norman_Bethune_graduation_1922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norman_Bethune.json"},
 {"id":"norman_borlaug","name":"Norman Borlaug","letter":"N","category":"Agriculture","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Norman_Borlaug.jpg/960px-Norman_Borlaug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norman_Borlaug.json"},
+{"id":"nouriel_roubini","name":"Nouriel Roubini","letter":"N","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Nouriel_Roubini_05.jpg/960px-Nouriel_Roubini_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nouriel_Roubini.json"},
 
-
-{"id":"nouriel_roubini","name":"Nouriel Roubini","letter":"N","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Nouriel_Roubini.json"},
-{"id":"nuria_oliver","name":"Nuria Oliver","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Nuria_Oliver.json"},
   
   
   
