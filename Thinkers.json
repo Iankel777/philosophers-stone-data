@@ -601,10 +601,10 @@
  
   
 
-{"id":"nishida_kitaro","name":"Nishida Kitaro","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Nishida_Kitaro.json"},
-{"id":"noam_nisan","name":"Noam Nisan","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Noam_Nisan.json"},
-{"id":"norbert_wiener","name":"Norbert Wiener","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Norbert_Wiener.json"},
-{"id":"norberto_bobbio","name":"Norberto Bobbio","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Norberto_Bobbio.json"},
+{"id":"nishida_kitaro","name":"Nishida Kitaro","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Portrait-of-Kitaro-Nishida.png/960px-Portrait-of-Kitaro-Nishida.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nishida_Kitaro.json"},
+{"id":"noam_nisan","name":"Noam Nisan","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%D7%A0%D7%A2%D7%9D_%D7%A0%D7%99%D7%A1%D7%9F.jpg/960px-%D7%A0%D7%A2%D7%9D_%D7%A0%D7%99%D7%A1%D7%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Noam_Nisan.json"},
+{"id":"norbert_wiener","name":"Norbert Wiener","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Norbert_Wiener.webp/960px-Norbert_Wiener.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Norbert_Wiener.json"},
+
 {"id":"norman_anderson","name":"Norman Anderson","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Norman_Anderson.json"},
 {"id":"norman_bethune","name":"Norman Bethune","letter":"N","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Norman_Bethune.json"},
 {"id":"norman_borlaug","name":"Norman Borlaug","letter":"N","category":"Agriculture","legend":true,"visible":true,"image":"","jsonFile":"Norman_Borlaug.json"},
