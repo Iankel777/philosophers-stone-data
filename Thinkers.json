@@ -587,7 +587,7 @@
 
 {"id":"nettie_stevens","name":"Nettie Stevens","letter":"N","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Nettie_Stevens2.jpg/960px-Nettie_Stevens2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nettie_Stevens.json"},
 
-{"id":"neville_symington","name":"Neville Symington","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Neville_Symington.json"},
+
 {"id":"nevitt_sanford","name":"Nevitt Sanford","letter":"N","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Nevitt_Sanford.json"},
 {"id":"niall_douglas","name":"Niall Douglas","letter":"N","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Niall_Douglas.json"},
 {"id":"niccolo_machiavelli","name":"Niccolo Machiavelli","letter":"N","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Niccolo_Machiavelli.json"},
