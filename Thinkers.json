@@ -643,8 +643,7 @@
 {"id":"orley_ashenfelter","name":"Orley Ashenfelter","letter":"O","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Orley_Ashenfelter_SantiagoWEAI2017.jpg/960px-Orley_Ashenfelter_SantiagoWEAI2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Orley_Ashenfelter.json"},
 
 
-  
-{"id":"oskar_morgenstern","name":"Oskar Morgenstern","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Morgenstern.json"},
+
 {"id":"oswald_veblen","name":"Oswald Veblen","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Oswald_Veblen.json"},
 {"id":"otto_butschli","name":"Otto Bütschli","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Butschli.json"},
 {"id":"otto_holder","name":"Otto Hölder","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Otto_Holder.json"},
