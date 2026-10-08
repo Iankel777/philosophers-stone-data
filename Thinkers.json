@@ -608,9 +608,9 @@
 
 
   
-{"id":"octavio_paz","name":"Octavio Paz","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Octavio_Paz.json"},
-{"id":"ogyu_sorai","name":"Ogyū Sorai","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ogyu_Sorai.json"},
-{"id":"olga_kennard","name":"Olga Kennard","letter":"O","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Olga_Kennard.json"},
+{"id":"octavio_paz","name":"Octavio Paz","letter":"O","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Octavio_Paz_1984.jpg/960px-Octavio_Paz_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Octavio_Paz.json"},
+{"id":"ogyu_sorai","name":"Ogyū Sorai","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ogyuh_Sorai.jpg/960px-Ogyuh_Sorai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ogyu_Sorai.json"},
+
 {"id":"oliver_smithies","name":"Oliver Smithies","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Smithies.json"},
 {"id":"omar_khayyam","name":"Omar Khayyam","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Omar_Khayyam.json"},
 {"id":"orhan_pamuk","name":"Orhan Pamuk","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Orhan_Pamuk.json"},
