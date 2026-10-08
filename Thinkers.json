@@ -634,8 +634,8 @@
 
 {"id":"oded_goldreich","name":"Oded Goldreich","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Oded_Goldreich.jpg/960px-Oded_Goldreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oded_Goldreich.json"},
 
-{"id":"olga_taussky_todd","name":"Olga Taussky-Todd","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Olga_Taussky_Todd.json"},
-{"id":"olivier_ameisen","name":"Olivier Ameisen","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Ameisen.json"},
+{"id":"olga_taussky_todd","name":"Olga Taussky-Todd","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Olga_Taussky-Todd.jpeg/960px-Olga_Taussky-Todd.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Olga_Taussky_Todd.json"},
+
 {"id":"omer_rana","name":"Omer Rana","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Omer_Rana.json"},
 
   
