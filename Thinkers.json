@@ -636,9 +636,9 @@
   
 {"id":"otto_heinrich_warburg","name":"Otto Heinrich Warburg","letter":"O","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Otto_Warburg.jpg/960px-Otto_Warburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Otto_Heinrich_Warburg.json"},
 
-{"id":"owen_chamberlain","name":"Owen Chamberlain","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Owen_Chamberlain.json"},
-{"id":"odysseas_elytis","name":"Odysseas Elytis","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Odysseas_Elytis.json"},
-{"id":"ole_johan_dahl","name":"Ole Johan Dahl","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ole_Johan_Dahl.json"},
+{"id":"owen_chamberlain","name":"Owen Chamberlain","letter":"O","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Owen_Chamberlain.jpg/960px-Owen_Chamberlain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Owen_Chamberlain.json"},
+{"id":"odysseas_elytis","name":"Odysseas Elytis","letter":"O","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Odysseas_Elytis_1974.jpg/960px-Odysseas_Elytis_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Odysseas_Elytis.json"},
+
 {"id":"oliver_heaviside","name":"Oliver Heaviside","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Heaviside.json"},
 {"id":"olivier_blanchard","name":"Olivier Blanchard","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Blanchard.json"},
 
