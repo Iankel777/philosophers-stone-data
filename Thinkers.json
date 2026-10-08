@@ -635,17 +635,15 @@
 
   
 {"id":"otto_heinrich_warburg","name":"Otto Heinrich Warburg","letter":"O","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Otto_Warburg.jpg/960px-Otto_Warburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Otto_Heinrich_Warburg.json"},
-
 {"id":"owen_chamberlain","name":"Owen Chamberlain","letter":"O","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Owen_Chamberlain.jpg/960px-Owen_Chamberlain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Owen_Chamberlain.json"},
 {"id":"odysseas_elytis","name":"Odysseas Elytis","letter":"O","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Odysseas_Elytis_1974.jpg/960px-Odysseas_Elytis_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Odysseas_Elytis.json"},
+{"id":"oliver_heaviside","name":"Oliver Heaviside","letter":"O","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Heaviside_face.jpg/960px-Heaviside_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oliver_Heaviside.json"},
+{"id":"olivier_blanchard","name":"Olivier Blanchard","letter":"O","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oliver_Blanchard%2C_IMF_98BlanchardWEO1_lg.jpg/960px-Oliver_Blanchard%2C_IMF_98BlanchardWEO1_lg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Olivier_Blanchard.json"},
+{"id":"oren_etzioni","name":"Oren Etzioni","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Oren_Etzioni_for_AI2.jpg/960px-Oren_Etzioni_for_AI2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oren_Etzioni.json"},
+{"id":"orley_ashenfelter","name":"Orley Ashenfelter","letter":"O","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Orley_Ashenfelter_SantiagoWEAI2017.jpg/960px-Orley_Ashenfelter_SantiagoWEAI2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Orley_Ashenfelter.json"},
 
-{"id":"oliver_heaviside","name":"Oliver Heaviside","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Heaviside.json"},
-{"id":"olivier_blanchard","name":"Olivier Blanchard","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Blanchard.json"},
 
   
-{"id":"oren_etzioni","name":"Oren Etzioni","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oren_Etzioni.json"},
-{"id":"orley_ashenfelter","name":"Orley Ashenfelter","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Orley_Ashenfelter.json"},
-{"id":"oscar_lewis","name":"Oscar Lewis","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Lewis.json"},
 {"id":"oskar_morgenstern","name":"Oskar Morgenstern","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Morgenstern.json"},
 {"id":"oswald_veblen","name":"Oswald Veblen","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Oswald_Veblen.json"},
 {"id":"otto_butschli","name":"Otto Bütschli","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Butschli.json"},
