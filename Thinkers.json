@@ -632,13 +632,12 @@
 {"id":"otto_rank","name":"Otto Rank","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Otto_Rank_1920_%28cropped%29.jpg/960px-Otto_Rank_1920_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Otto_Rank.json"},
 {"id":"oded_goldreich","name":"Oded Goldreich","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Oded_Goldreich.jpg/960px-Oded_Goldreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oded_Goldreich.json"},
 {"id":"olga_taussky_todd","name":"Olga Taussky-Todd","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Olga_Taussky-Todd.jpeg/960px-Olga_Taussky-Todd.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Olga_Taussky_Todd.json"},
+{"id":"oscar_krisen_buros","name":"Oscar Krisen Buros","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Oscar_Buros_picture.jpg/960px-Oscar_Buros_picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oscar_Krisen_Buros.json"},
+{"id":"oskar_klein","name":"Oskar Klein","letter":"O","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/OskarKlein.jpg/960px-OskarKlein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oskar_Klein.json"},
 
 
 
-
-{"id":"oscar_krisen_buros","name":"Oscar Krisen Buros","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Krisen_Buros.json"},
-{"id":"oskar_klein","name":"Oskar Klein","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Klein.json"},
-{"id":"otmar_von_verschuer","name":"Otmar von Verschuer","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Otmar_von_Verschuer.json"},
+  
 {"id":"otto_heinrich_warburg","name":"Otto Heinrich Warburg","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Heinrich_Warburg.json"},
 {"id":"otto_schmitt","name":"Otto Schmitt","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Schmitt.json"},
 {"id":"owen_chamberlain","name":"Owen Chamberlain","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Owen_Chamberlain.json"},
