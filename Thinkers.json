@@ -624,7 +624,7 @@
 {"id":"ovide_decroly","name":"Ovide Decroly","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ovide_Decroly_%281871-1932%29.jpg/960px-Ovide_Decroly_%281871-1932%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ovide_Decroly.json"},
 {"id":"oded_galor","name":"Oded Galor","letter":"O","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Oded_Galor.jpg/960px-Oded_Galor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oded_Galor.json"},
 
-{"id":"olga_soffer","name":"Olga Soffer","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Olga_Soffer.json"},
+
 {"id":"oliver_williamson","name":"Oliver Williamson","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Williamson.json"},
 {"id":"omar_yaghi","name":"Omar Yaghi","letter":"O","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Omar_Yaghi.json"},
 {"id":"origen","name":"Origen","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Origen.json"},
