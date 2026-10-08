@@ -611,15 +611,15 @@
 {"id":"octavio_paz","name":"Octavio Paz","letter":"O","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Octavio_Paz_1984.jpg/960px-Octavio_Paz_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Octavio_Paz.json"},
 {"id":"ogyu_sorai","name":"Ogyū Sorai","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ogyuh_Sorai.jpg/960px-Ogyuh_Sorai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ogyu_Sorai.json"},
 
-{"id":"oliver_smithies","name":"Oliver Smithies","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Smithies.json"},
-{"id":"omar_khayyam","name":"Omar Khayyam","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Omar_Khayyam.json"},
-{"id":"orhan_pamuk","name":"Orhan Pamuk","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Orhan_Pamuk.json"},
-{"id":"osamu_shimomura","name":"Osamu Shimomura","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Osamu_Shimomura.json"},
-{"id":"oscar_nierstrasz","name":"Oscar Nierstrasz","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Nierstrasz.json"},
-{"id":"oswald_avery","name":"Oswald Avery","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Oswald_Avery.json"},
+{"id":"oliver_smithies","name":"Oliver Smithies","letter":"O","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Oliver_Smithies_HD2009_AIC_Gold_Medal_portrait_%28cropped%29.JPG/960px-Oliver_Smithies_HD2009_AIC_Gold_Medal_portrait_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oliver_Smithies.json"},
+{"id":"omar_khayyam","name":"Omar Khayyam","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Omar_Khayyam2.JPG/960px-Omar_Khayyam2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Omar_Khayyam.json"},
+{"id":"orhan_pamuk","name":"Orhan Pamuk","letter":"O","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Orhan_Pamuk3.jpg/960px-Orhan_Pamuk3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Orhan_Pamuk.json"},
+{"id":"osamu_shimomura","name":"Osamu Shimomura","letter":"O","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Osamu_Shimomura-press_conference_Dec_06th%2C_2008-2.jpg/960px-Osamu_Shimomura-press_conference_Dec_06th%2C_2008-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Osamu_Shimomura.json"},
+{"id":"oscar_nierstrasz","name":"Oscar Nierstrasz","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Oscar-happy2008.jpg/960px-Oscar-happy2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oscar_Nierstrasz.json"},
+{"id":"oswald_avery","name":"Oswald Avery","letter":"O","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Oswald_T._Avery_portrait_1937.jpg/960px-Oswald_T._Avery_portrait_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oswald_Avery.json"},
 
   
-{"id":"otfried_cheong","name":"Otfried Cheong","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Otfried_Cheong.json"},
+
 {"id":"otto_friedmann","name":"Otto Friedmann","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Otto_Friedmann.json"},
 {"id":"otto_neurath","name":"Otto Neurath","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Otto_Neurath.json"},
 {"id":"ovide_decroly","name":"Ovide Decroly","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ovide_Decroly.json"},
