@@ -605,7 +605,87 @@
   {"id":"nicolaus_copernicus","name":"Nicolaus Copernicus","letter":"N","category":"Astronomy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/960px-Nikolaus_Kopernikus_MOT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Nicolaus_Copernicus.json"},
   {"id":"noam_chomsky","name":"Noam Chomsky","letter":"N","category":"Linguistics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Noam_Chomsky_%281977%29.jpg/960px-Noam_Chomsky_%281977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Noam_Chomsky.json"},
   
+
+
   
+{"id":"octavio_paz","name":"Octavio Paz","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Octavio_Paz.json"},
+{"id":"ogyu_sorai","name":"Ogyū Sorai","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ogyu_Sorai.json"},
+{"id":"olga_kennard","name":"Olga Kennard","letter":"O","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Olga_Kennard.json"},
+{"id":"oliver_smithies","name":"Oliver Smithies","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Smithies.json"},
+{"id":"omar_khayyam","name":"Omar Khayyam","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Omar_Khayyam.json"},
+{"id":"orhan_pamuk","name":"Orhan Pamuk","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Orhan_Pamuk.json"},
+{"id":"osamu_shimomura","name":"Osamu Shimomura","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Osamu_Shimomura.json"},
+{"id":"oscar_nierstrasz","name":"Oscar Nierstrasz","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Nierstrasz.json"},
+{"id":"oswald_avery","name":"Oswald Avery","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Oswald_Avery.json"},
+
+  
+{"id":"otfried_cheong","name":"Otfried Cheong","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Otfried_Cheong.json"},
+{"id":"otto_friedmann","name":"Otto Friedmann","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Otto_Friedmann.json"},
+{"id":"otto_neurath","name":"Otto Neurath","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Otto_Neurath.json"},
+{"id":"ovide_decroly","name":"Ovide Decroly","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ovide_Decroly.json"},
+{"id":"oded_galor","name":"Oded Galor","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oded_Galor.json"},
+{"id":"ola_olsson","name":"Ola Olsson","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Ola_Olsson.json"},
+{"id":"olga_soffer","name":"Olga Soffer","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Olga_Soffer.json"},
+{"id":"oliver_williamson","name":"Oliver Williamson","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Williamson.json"},
+{"id":"omar_yaghi","name":"Omar Yaghi","letter":"O","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Omar_Yaghi.json"},
+{"id":"origen","name":"Origen","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Origen.json"},
+
+  
+{"id":"oscar_hertwig","name":"Oscar Hertwig","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Hertwig.json"},
+{"id":"oscar_pfister","name":"Oscar Pfister","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Pfister.json"},
+{"id":"oswald_kulpe","name":"Oswald Külpe","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Oswald_Kulpe.json"},
+{"id":"otmar_issing","name":"Otmar Issing","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Otmar_Issing.json"},
+{"id":"otto_frisch","name":"Otto Frisch","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Otto_Frisch.json"},
+{"id":"otto_rank","name":"Otto Rank","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Rank.json"},
+{"id":"owen_astrachan","name":"Owen Astrachan","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Owen_Astrachan.json"},
+{"id":"oded_goldreich","name":"Oded Goldreich","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oded_Goldreich.json"},
+{"id":"olaf_stapledon","name":"Olaf Stapledon","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Olaf_Stapledon.json"},
+{"id":"olga_taussky_todd","name":"Olga Taussky-Todd","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Olga_Taussky_Todd.json"},
+{"id":"olivier_ameisen","name":"Olivier Ameisen","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Ameisen.json"},
+{"id":"omer_rana","name":"Omer Rana","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Omer_Rana.json"},
+
+  
+{"id":"orin_starn","name":"Orin Starn","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Orin_Starn.json"},
+{"id":"oscar_krisen_buros","name":"Oscar Krisen Buros","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Krisen_Buros.json"},
+{"id":"oskar_klein","name":"Oskar Klein","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Klein.json"},
+{"id":"otmar_von_verschuer","name":"Otmar von Verschuer","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Otmar_von_Verschuer.json"},
+{"id":"otto_heinrich_warburg","name":"Otto Heinrich Warburg","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Heinrich_Warburg.json"},
+{"id":"otto_schmitt","name":"Otto Schmitt","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Schmitt.json"},
+{"id":"owen_chamberlain","name":"Owen Chamberlain","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Owen_Chamberlain.json"},
+{"id":"odysseas_elytis","name":"Odysseas Elytis","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Odysseas_Elytis.json"},
+{"id":"ole_johan_dahl","name":"Ole Johan Dahl","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ole_Johan_Dahl.json"},
+{"id":"oliver_heaviside","name":"Oliver Heaviside","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Heaviside.json"},
+{"id":"olivier_blanchard","name":"Olivier Blanchard","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Blanchard.json"},
+
+  
+{"id":"oren_etzioni","name":"Oren Etzioni","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oren_Etzioni.json"},
+{"id":"orley_ashenfelter","name":"Orley Ashenfelter","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Orley_Ashenfelter.json"},
+{"id":"oscar_lewis","name":"Oscar Lewis","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Lewis.json"},
+{"id":"oskar_morgenstern","name":"Oskar Morgenstern","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Morgenstern.json"},
+{"id":"oswald_veblen","name":"Oswald Veblen","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Oswald_Veblen.json"},
+{"id":"otto_butschli","name":"Otto Bütschli","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Butschli.json"},
+{"id":"otto_holder","name":"Otto Hölder","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Otto_Holder.json"},
+{"id":"otto_stern","name":"Otto Stern","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Otto_Stern.json"},
+
+  
+{"id":"owen_lovejoy","name":"Owen Lovejoy","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Owen_Lovejoy.json"},
+{"id":"oene_bottema","name":"Oene Bottema","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Oene_Bottema.json"},
+{"id":"oleg_belakovsky","name":"Oleg Belakovsky","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Oleg_Belakovsky.json"},
+{"id":"oliver_sacks","name":"Oliver Sacks","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Sacks.json"},
+{"id":"olivier_danvy","name":"Olivier Danvy","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Danvy.json"},
+{"id":"oren_patashnik","name":"Oren Patashnik","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oren_Patashnik.json"},
+{"id":"orna_grumberg","name":"Orna Grumberg","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Orna_Grumberg.json"},
+
+  
+{"id":"oscar_london","name":"Oscar London","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Oscar_London.json"},
+{"id":"oskar_schlemmer","name":"Oskar Schlemmer","letter":"O","category":"Arts","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Schlemmer.json"},
+{"id":"otfrid_hoffe","name":"Otfrid Höffe","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Otfrid_Hoffe.json"},
+{"id":"otto_fenichel","name":"Otto Fenichel","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Fenichel.json"},
+{"id":"otto_kernberg","name":"Otto Kernberg","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Kernberg.json"},
+{"id":"ove_arup","name":"Ove Arup","letter":"O","category":"Engineering","legend":true,"visible":true,"image":"","jsonFile":"Ove_Arup.json"},
+{"id":"owen_renik","name":"Owen Renik","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Owen_Renik.json"},
+
+
   
   
   
