@@ -628,8 +628,8 @@
 
 
   
-{"id":"otmar_issing","name":"Otmar Issing","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Otmar_Issing.json"},
-{"id":"otto_frisch","name":"Otto Frisch","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Otto_Frisch.json"},
+{"id":"otmar_issing","name":"Otmar Issing","letter":"O","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Otmar_Issing%2C_Prof_Dr_Dr_hc_mult.jpeg/960px-Otmar_Issing%2C_Prof_Dr_Dr_hc_mult.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Otmar_Issing.json"},
+
 {"id":"otto_rank","name":"Otto Rank","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Rank.json"},
 {"id":"owen_astrachan","name":"Owen Astrachan","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Owen_Astrachan.json"},
 {"id":"oded_goldreich","name":"Oded Goldreich","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oded_Goldreich.json"},
