@@ -635,8 +635,7 @@
 
 
 
-  
-{"id":"orin_starn","name":"Orin Starn","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Orin_Starn.json"},
+
 {"id":"oscar_krisen_buros","name":"Oscar Krisen Buros","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Krisen_Buros.json"},
 {"id":"oskar_klein","name":"Oskar Klein","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Klein.json"},
 {"id":"otmar_von_verschuer","name":"Otmar von Verschuer","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Otmar_von_Verschuer.json"},
