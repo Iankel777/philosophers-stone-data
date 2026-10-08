@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Orna Grumberg",
+  "thinkerImage": "",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "O",
+
+  "nationality": "Israeli",
+
+  "occupation": "Computer Scientist, Formal Methods Researcher, Verification Specialist",
+
+  "school": "Formal Verification, Model Checking, Theoretical Computer Science",
+
+  "born": "1952",
+
+  "died": "",
+
+  "knownFor1": "Model Checking",
+  "knownFor2": "Formal Verification",
+  "knownFor3": "Hardware Verification",
+  "knownFor4": "Software Verification",
+  "knownFor5": "Temporal Logic Applications",
+  "knownFor6": "Automated Reasoning",
+  "knownFor7": "System Correctness Analysis",
+  "knownFor8": "Verification Methodologies",
+
+  "legacy": "Orna Grumberg helped advance techniques that allow engineers to verify whether complex computer systems behave as intended. By strengthening methods for the automatic analysis of hardware and software, she contributed to making modern computing systems more dependable, predictable, and trustworthy.",
+
+  "earlyLife": "During her academic development, Grumberg demonstrated strong interests in mathematics, logic, and analytical reasoning. As computer systems became increasingly complex, she became interested in the challenge of proving whether technological systems operated correctly under all possible conditions. This interest guided her toward theoretical computer science and formal verification.",
+
+  "scientificField": "Computer Science, Formal Methods, Verification, Logic",
+
+  "majorContribution": "Grumberg contributed to the development and refinement of model-checking techniques and formal verification methodologies. Her work helped researchers and engineers identify errors in system designs before deployment, improving reliability in both software and hardware environments.",
+
+  "laterLife": "Throughout her career, Grumberg participated in research, education, and the advancement of verification technologies. Her scholarly work influenced both academic research and practical engineering approaches, helping formal verification become an important part of modern system development.",
+
+  "whyImportant": "Many critical technologies, including communication systems, computing platforms, and digital infrastructure, depend upon reliable operation. Grumberg's contributions helped strengthen the techniques used to verify that such systems behave correctly, reducing risks and increasing confidence in technological systems.",
+
+  "quote1": "Reliability begins with careful verification.",
+  "quote2": "A system deserves trust only after rigorous examination.",
+  "quote3": "Logic provides clarity where complexity obscures understanding.",
+  "quote4": "Questions about correctness are essential questions.",
+  "quote5": "Strong foundations produce dependable technologies.",
+  "quote6": "Verification transforms assumptions into evidence.",
+  "quote7": "Complex systems require disciplined analysis.",
+  "quote8": "Understanding failure helps prevent it.",
+  "quote9": "Precision guides meaningful scientific progress.",
+  "quote10": "Technology advances when confidence grows in its foundations.",
+  "quote11": "Mathematical rigor strengthens engineering practice.",
+  "quote12": "Every correct system begins with careful reasoning.",
+  "quote13": "Systematic validation protects against hidden errors.",
+  "quote14": "Knowledge grows through examination and proof.",
+  "quote15": "Trustworthy systems are built, not assumed.",
+  "quote16": "Formal methods reveal what intuition can miss.",
+  "quote17": "Good design welcomes verification.",
+  "quote18": "Scientific discipline turns uncertainty into understanding.",
+  "quote19": "The search for correctness drives technological improvement.",
+  "quote20": "Reliable innovation depends on reliable foundations."
+}

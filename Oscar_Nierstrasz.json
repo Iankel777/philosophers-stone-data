@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Oscar Nierstrasz",
+  "thinkerImage": "",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "O",
+
+  "nationality": "Canadian",
+
+  "occupation": "Computer Scientist, Software Engineer, Programming Languages Researcher",
+
+  "school": "Software Engineering, Object-Oriented Programming, Programming Languages",
+
+  "born": "1956",
+
+  "died": "",
+
+  "knownFor1": "Software Evolution",
+  "knownFor2": "Object-Oriented Programming",
+  "knownFor3": "Programming Language Design",
+  "knownFor4": "Software Reengineering",
+  "knownFor5": "Code Analysis",
+  "knownFor6": "Software Maintenance",
+  "knownFor7": "Development Tools",
+  "knownFor8": "Agile Software Research",
+
+  "legacy": "Oscar Nierstrasz contributed to the understanding of how software systems evolve over time. His research helped developers examine, improve, and maintain complex software projects, encouraging approaches that make large codebases easier to understand and adapt. His work strengthened the connection between software theory and practical development.",
+
+  "earlyLife": "Nierstrasz developed an early interest in logical systems, technology, and problem solving. As computing expanded into a major scientific field, he became interested in the challenges involved in designing software that could remain useful, understandable, and adaptable for long periods of time.",
+
+  "scientificField": "Computer Science, Software Engineering, Programming Languages",
+
+  "majorContribution": "Nierstrasz contributed to research on software evolution, object-oriented systems, code analysis techniques, and software reengineering. His work helped create methods that allow developers to better understand existing systems and improve software quality throughout a project's lifespan.",
+
+  "laterLife": "Throughout his career, Nierstrasz remained active in research, teaching, mentoring, and collaborative software projects. He continued exploring methods for improving software development practices while helping educate future generations of computer scientists and software engineers.",
+
+  "whyImportant": "Modern software systems often remain in use for many years and require continuous maintenance. Nierstrasz's work helped advance techniques that allow developers to improve, extend, and understand software more effectively, supporting the long-term reliability of critical digital systems.",
+
+  "quote1": "Software succeeds when it can adapt to change.",
+  "quote2": "Understanding code is as important as writing it.",
+  "quote3": "Good design makes future improvements possible.",
+  "quote4": "Complex systems require clear structure.",
+  "quote5": "Maintenance is a form of ongoing innovation.",
+  "quote6": "Software quality grows through careful refinement.",
+  "quote7": "Every codebase tells the story of its evolution.",
+  "quote8": "Improvement begins with understanding.",
+  "quote9": "Well-structured software supports long-term success.",
+  "quote10": "Readable code is a valuable asset.",
+  "quote11": "Development is a continuous learning process.",
+  "quote12": "Large systems are managed one improvement at a time.",
+  "quote13": "Clear abstractions simplify complexity.",
+  "quote14": "Software engineering combines creativity with discipline.",
+  "quote15": "Reliable systems emerge from thoughtful design.",
+  "quote16": "Progress often comes from improving existing ideas.",
+  "quote17": "Technology evolves, and software must evolve with it.",
+  "quote18": "Careful observation reveals opportunities for improvement.",
+  "quote19": "Knowledge sharing strengthens engineering practice.",
+  "quote20": "The future of software depends on sustainable design."
+}

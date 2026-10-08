@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Omer Rana",
+  "thinkerImage": "",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "O",
+
+  "nationality": "British",
+
+  "occupation": "Computer Scientist, Distributed Systems Researcher, Cloud Computing Specialist",
+
+  "school": "Distributed Computing, Cloud Computing, Data-Intensive Systems",
+
+  "born": "1960s",
+
+  "died": "",
+
+  "knownFor1": "Distributed Computing",
+  "knownFor2": "Cloud Computing",
+  "knownFor3": "Service-Oriented Architectures",
+  "knownFor4": "Data-Intensive Systems",
+  "knownFor5": "High-Performance Computing",
+  "knownFor6": "Resource Management",
+  "knownFor7": "Digital Infrastructure Research",
+  "knownFor8": "Scalable Computing Platforms",
+
+  "legacy": "Omer Rana contributed to the development of computing methods that allow large numbers of machines and services to work together efficiently. His research helped advance the understanding of how distributed resources can be coordinated, enabling systems capable of handling complex workloads across networks and cloud environments.",
+
+  "earlyLife": "During his academic development, Rana became interested in the growing challenge of connecting computational resources across multiple locations. His early interests in technology, systems design, and large-scale problem solving encouraged him to explore how computing environments could become more collaborative, flexible, and scalable.",
+
+  "scientificField": "Computer Science, Distributed Systems, Cloud Computing, Data Science",
+
+  "majorContribution": "Rana helped expand research into distributed and cloud-based computing systems by investigating methods for resource coordination, workload management, and service integration. His work supported the development of computing environments capable of processing large amounts of information across interconnected infrastructures.",
+
+  "laterLife": "Throughout his professional career, Rana remained active in research, teaching, and scientific collaboration. His work continued to explore emerging challenges involving large-scale digital infrastructures, data management, and the efficient use of computational resources in modern networked environments.",
+
+  "whyImportant": "Many of today's online services, scientific platforms, and data-processing systems depend on distributed computing principles. Rana's research contributed to the advancement of technologies that make large-scale computing more reliable, efficient, and capable of supporting growing digital demands.",
+
+  "quote1": "Scalable systems begin with scalable ideas.",
+  "quote2": "Collaboration between resources creates new possibilities.",
+  "quote3": "Complex networks require thoughtful coordination.",
+  "quote4": "Technology succeeds when systems work together effectively.",
+  "quote5": "Efficient resource management unlocks greater capability.",
+  "quote6": "Modern computing depends on connected infrastructures.",
+  "quote7": "Innovation grows when barriers between systems are reduced.",
+  "quote8": "Data becomes valuable when it can be processed efficiently.",
+  "quote9": "Distributed solutions expand computational potential.",
+  "quote10": "Large challenges inspire large-scale thinking.",
+  "quote11": "Reliable infrastructure supports meaningful progress.",
+  "quote12": "Computing power is amplified through cooperation.",
+  "quote13": "Flexible systems adapt to changing demands.",
+  "quote14": "Scientific progress increasingly depends on shared resources.",
+  "quote15": "A connected world requires connected technologies.",
+  "quote16": "Performance improves when complexity is managed carefully.",
+  "quote17": "The future of computing lies in intelligent coordination.",
+  "quote18": "Growth requires both innovation and efficiency.",
+  "quote19": "Digital infrastructure forms the foundation of modern services.",
+  "quote20": "Effective systems transform resources into opportunities."
+}

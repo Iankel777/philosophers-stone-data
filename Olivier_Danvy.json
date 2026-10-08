@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Olivier Danvy",
+  "thinkerImage": "",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "O",
+
+  "nationality": "French",
+
+  "occupation": "Computer Scientist, Programming Languages Researcher, Software Theorist",
+
+  "school": "Programming Languages, Compiler Theory, Functional Programming",
+
+  "born": "1964",
+
+  "died": "",
+
+  "knownFor1": "Programming Languages",
+  "knownFor2": "Compiler Theory",
+  "knownFor3": "Functional Programming",
+  "knownFor4": "Program Transformation",
+  "knownFor5": "Partial Evaluation",
+  "knownFor6": "Programming Semantics",
+  "knownFor7": "Continuation Techniques",
+  "knownFor8": "Computational Abstraction",
+
+  "legacy": "Olivier Danvy contributed to the theoretical foundations of programming languages and program transformation techniques. His work helped researchers better understand how programs can be analyzed, simplified, optimized, and translated into more efficient forms. Through both research and education, he influenced the way computer scientists think about the structure and behavior of software.",
+
+  "earlyLife": "Danvy developed an interest in mathematics, logic, and formal reasoning during his academic years. As computer science matured into a rigorous scientific discipline, he became increasingly interested in understanding the deeper principles that govern programming languages and computational systems.",
+
+  "scientificField": "Computer Science, Programming Languages, Compiler Design, Software Theory",
+
+  "majorContribution": "Danvy advanced methods for analyzing and transforming computer programs. His research improved understanding of continuations, partial evaluation, compiler construction, and programming language semantics, helping bridge theoretical insights and practical software development.",
+
+  "laterLife": "Throughout his career, Danvy remained active in research, mentorship, and international collaboration. His publications became widely studied by researchers interested in programming language design, compiler technology, and the mathematical foundations of software.",
+
+  "whyImportant": "Modern software depends upon efficient programming languages, compilers, and optimization techniques. Danvy's work contributed to the theoretical tools that help software become more reliable, expressive, and efficient.",
+
+  "quote1": "Understanding a program begins with understanding its structure.",
+  "quote2": "Abstraction allows complexity to become manageable.",
+  "quote3": "Good theory often leads to practical improvements.",
+  "quote4": "Programming languages shape how problems are expressed.",
+  "quote5": "Careful analysis reveals hidden opportunities for improvement.",
+  "quote6": "Software benefits from both creativity and rigor.",
+  "quote7": "Optimization starts with deeper understanding.",
+  "quote8": "Mathematical thinking strengthens program design.",
+  "quote9": "Elegant solutions often emerge from simple principles.",
+  "quote10": "Computation is a language of transformation.",
+  "quote11": "Clear models support reliable reasoning.",
+  "quote12": "Scientific progress grows through refinement of ideas.",
+  "quote13": "Programs communicate intentions as well as instructions.",
+  "quote14": "Theory provides direction for innovation.",
+  "quote15": "Complex systems become clearer through decomposition.",
+  "quote16": "Every algorithm reflects a way of thinking.",
+  "quote17": "Understanding precedes optimization.",
+  "quote18": "Powerful tools emerge from strong foundations.",
+  "quote19": "Knowledge advances through systematic exploration.",
+  "quote20": "The study of computation is the study of organized reasoning."
+}
