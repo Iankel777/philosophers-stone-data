@@ -620,7 +620,7 @@
 
   
 
-{"id":"otto_friedmann","name":"Otto Friedmann","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Otto_Friedmann.json"},
+
 {"id":"otto_neurath","name":"Otto Neurath","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Otto_Neurath.json"},
 {"id":"ovide_decroly","name":"Ovide Decroly","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ovide_Decroly.json"},
 {"id":"oded_galor","name":"Oded Galor","letter":"O","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Oded_Galor.json"},
