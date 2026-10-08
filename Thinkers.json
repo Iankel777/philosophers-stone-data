@@ -632,8 +632,8 @@
 
 {"id":"otto_rank","name":"Otto Rank","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Otto_Rank_1920_%28cropped%29.jpg/960px-Otto_Rank_1920_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Otto_Rank.json"},
 
-{"id":"oded_goldreich","name":"Oded Goldreich","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oded_Goldreich.json"},
-{"id":"olaf_stapledon","name":"Olaf Stapledon","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Olaf_Stapledon.json"},
+{"id":"oded_goldreich","name":"Oded Goldreich","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Oded_Goldreich.jpg/960px-Oded_Goldreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oded_Goldreich.json"},
+
 {"id":"olga_taussky_todd","name":"Olga Taussky-Todd","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Olga_Taussky_Todd.json"},
 {"id":"olivier_ameisen","name":"Olivier Ameisen","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Ameisen.json"},
 {"id":"omer_rana","name":"Omer Rana","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Omer_Rana.json"},
