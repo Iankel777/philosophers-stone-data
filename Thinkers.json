@@ -634,8 +634,8 @@
 
 
   
-{"id":"otto_heinrich_warburg","name":"Otto Heinrich Warburg","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Heinrich_Warburg.json"},
-{"id":"otto_schmitt","name":"Otto Schmitt","letter":"O","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Schmitt.json"},
+{"id":"otto_heinrich_warburg","name":"Otto Heinrich Warburg","letter":"O","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Otto_Warburg.jpg/960px-Otto_Warburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Otto_Heinrich_Warburg.json"},
+
 {"id":"owen_chamberlain","name":"Owen Chamberlain","letter":"O","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Owen_Chamberlain.json"},
 {"id":"odysseas_elytis","name":"Odysseas Elytis","letter":"O","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Odysseas_Elytis.json"},
 {"id":"ole_johan_dahl","name":"Ole Johan Dahl","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ole_Johan_Dahl.json"},
