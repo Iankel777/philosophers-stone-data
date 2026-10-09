@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Per Brinch Hansen",
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "P",
+
+  "nationality": "Danish",
+
+  "occupation": "Computer Scientist, Software Engineer, Systems Researcher",
+
+  "school": "Operating Systems, Concurrent Programming, Software Engineering, Distributed Computing",
+
+  "born": "13 November 1938",
+  "died": "31 July 2007",
+
+  "knownFor1": "Concurrent Programming",
+  "knownFor2": "Operating System Design",
+  "knownFor3": "Process Synchronization",
+  "knownFor4": "Software Architecture",
+  "knownFor5": "Distributed Computing",
+  "knownFor6": "Resource Sharing Methods",
+  "knownFor7": "System Programming",
+  "knownFor8": "Computer Science Education",
+
+  "legacy": "Per Brinch Hansen helped establish many of the practical foundations of modern concurrent computing. His work encouraged software engineers to design systems that could safely coordinate multiple tasks at the same time. By emphasizing simplicity, reliability, and clear communication between processes, he influenced generations of operating-system designers and software developers.",
+
+  "earlyLife": "Per Brinch Hansen developed a strong interest in mathematics, engineering, and logical problem solving during his education. As computers became more capable, he became fascinated by the challenge of coordinating multiple computational activities efficiently. This interest led him toward research focused on system design and software reliability.",
+
+  "scientificField": "Computer Science, Operating Systems, Concurrent Programming, Software Engineering",
+
+  "majorContributions": "Brinch Hansen advanced techniques that allowed multiple software processes to cooperate without interfering with one another. He promoted structured approaches to synchronization and communication that improved the stability of complex systems. His research demonstrated that carefully designed abstractions could simplify software development while reducing the likelihood of system failures and unpredictable behavior.",
+
+  "laterLife": "Throughout his later career, Brinch Hansen remained dedicated to teaching, writing, and refining ideas in systems programming. He produced influential educational materials that helped students understand difficult concepts in operating systems and concurrent computation. His emphasis on clarity and discipline continued to shape how software engineers approached large-scale system design.",
+
+  "whyImportant": "Per Brinch Hansen is important because he helped make concurrent computing both understandable and practical. Many modern computing environments depend on principles of coordination, synchronization, and resource management that his work helped clarify. His contributions strengthened the theoretical and practical foundations of reliable software systems.",
+
+  "quote1": "Reliable systems begin with disciplined design.",
+  "quote2": "Concurrency requires cooperation as much as computation.",
+  "quote3": "Simple rules often produce robust software.",
+  "quote4": "Clear communication is essential between both people and processes.",
+  "quote5": "Software quality emerges from thoughtful structure.",
+  "quote6": "A well-designed system reduces opportunities for error.",
+  "quote7": "Complexity should be organized before it is expanded.",
+  "quote8": "Good abstractions help developers focus on important problems.",
+  "quote9": "Efficiency gains value when paired with reliability.",
+  "quote10": "System design is the practice of managing interactions.",
+  "quote11": "Programming grows stronger through clarity and precision.",
+  "quote12": "Coordination is one of the hidden challenges of computing.",
+  "quote13": "Engineers build confidence by reducing uncertainty.",
+  "quote14": "Software should be understandable by those who maintain it.",
+  "quote15": "Stable systems are built on predictable behavior.",
+  "quote16": "Every process should have a clear role and responsibility.",
+  "quote17": "Progress in computing depends on managing complexity.",
+  "quote18": "Maintainability is a feature, not an afterthought.",
+  "quote19": "Good architecture makes future improvements possible.",
+  "quote20": "The best systems balance power with simplicity."
+}

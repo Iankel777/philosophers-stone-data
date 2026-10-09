@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Peter Naur",
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "P",
+
+  "nationality": "Danish",
+
+  "occupation": "Computer Scientist, Programmer, Software Engineer, Academic",
+
+  "school": "Programming Language Design, Software Engineering, Computer Science, Human-Centered Computing",
+
+  "born": "25 October 1928",
+  "died": "3 January 2016",
+
+  "knownFor1": "ALGOL Development",
+  "knownFor2": "Programming Methodology",
+  "knownFor3": "Computer Science Education",
+  "knownFor4": "Human-Centered Software Development",
+  "knownFor5": "Dataology",
+  "knownFor6": "Software System Design",
+  "knownFor7": "Formal Language Research",
+  "knownFor8": "Turing Award",
+
+  "legacy": "Peter Naur left a lasting mark on computing by emphasizing that successful software development depends as much on human understanding as on formal rules. His ideas encouraged programmers to view software as a product of accumulated knowledge, judgment, and experience rather than merely a collection of instructions. His work continues to influence discussions about documentation, software maintenance, and developer expertise.",
+
+  "earlyLife": "Peter Naur developed strong interests in science, mathematics, and systematic reasoning from an early age. His academic training exposed him to both theoretical and practical scientific work, fostering a habit of questioning assumptions and seeking clear explanations. As computing emerged as a new discipline, he became interested in how people organize knowledge and communicate complex technical ideas.",
+
+  "scientificField": "Computer Science, Software Engineering, Programming Languages, Information Systems",
+
+  "majorContributions": "Naur played an important role in the development of programming language standards and helped promote clearer ways of describing algorithms and software systems. He argued that programming is fundamentally a process of building understanding within the minds of developers. His perspective challenged purely mechanical views of software construction and encouraged greater attention to knowledge transfer, system comprehension, and long-term maintainability.",
+
+  "laterLife": "During the later stages of his career, Naur explored broader questions concerning information, cognition, and scientific methodology. He continued writing about the relationship between human thinking and technical systems, advocating approaches that placed people rather than formal abstractions at the center of computing practice. His later work expanded beyond programming into reflections on how knowledge itself is organized and communicated.",
+
+  "whyImportant": "Peter Naur is important because he helped shape both the technical and intellectual foundations of modern computing. Beyond contributing to programming language development, he highlighted the human dimension of software engineering. His insights helped future generations appreciate that successful systems depend not only on correct code but also on the understanding possessed by the people who create and maintain it.",
+
+  "quote1": "A program succeeds when understanding grows alongside functionality.",
+  "quote2": "Software development is ultimately a process of building knowledge.",
+  "quote3": "Clear thinking produces clearer systems.",
+  "quote4": "A language shapes the way programmers solve problems.",
+  "quote5": "The value of code depends on how well it can be understood.",
+  "quote6": "Technical progress requires both precision and judgment.",
+  "quote7": "Good documentation preserves knowledge beyond the original developer.",
+  "quote8": "Complexity should be managed before it must be controlled.",
+  "quote9": "Programming is an intellectual craft, not merely a mechanical task.",
+  "quote10": "Every design decision carries assumptions that deserve examination.",
+  "quote11": "Knowledge lost is often more costly than code lost.",
+  "quote12": "The best systems are guided by simplicity of thought.",
+  "quote13": "Understanding a problem is the first stage of solving it.",
+  "quote14": "A programmer's experience becomes part of the software itself.",
+  "quote15": "Human insight remains essential in technical work.",
+  "quote16": "Maintainable software reflects maintainable reasoning.",
+  "quote17": "Progress comes from refining understanding, not only adding features.",
+  "quote18": "Software quality grows from disciplined learning.",
+  "quote19": "Technical tools are most effective when they support human judgment.",
+  "quote20": "Lasting innovation emerges when knowledge can be shared and preserved."
+}

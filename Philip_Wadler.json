@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Philip Wadler",
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "P",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Programming Language Researcher, Academic",
+
+  "school": "Functional Programming, Type Systems, Programming Language Theory, Software Engineering",
+
+  "born": "8 April 1956",
+  "died": "",
+
+  "knownFor1": "Functional Programming",
+  "knownFor2": "Type Systems",
+  "knownFor3": "Programming Language Theory",
+  "knownFor4": "Language Design",
+  "knownFor5": "Generic Programming",
+  "knownFor6": "Software Correctness",
+  "knownFor7": "Lambda Calculus Applications",
+  "knownFor8": "Research in Programming Abstractions",
+
+  "legacy": "Philip Wadler helped make advanced programming concepts more accessible to both researchers and practitioners. His work demonstrated that strong mathematical foundations can lead to software that is more reliable, expressive, and easier to maintain. Through research, teaching, and language design, he influenced how programmers think about abstraction, correctness, and code organization.",
+
+  "earlyLife": "Philip Wadler developed interests in mathematics, logic, and computation during his education. He was drawn to questions concerning how programming languages could help people express complex ideas more clearly. This fascination with the structure of computation led him toward research at the intersection of mathematics and software development.",
+
+  "scientificField": "Computer Science, Programming Languages, Type Theory, Software Engineering",
+
+  "majorContributions": "Wadler contributed to the development and popularization of functional programming techniques that encourage modular and predictable software. His research explored ways to use types as tools for reasoning about program behavior and reducing errors. He also helped bridge the gap between theoretical computer science and practical software engineering by showing how elegant abstractions can improve real-world programming.",
+
+  "laterLife": "Throughout his later career, Wadler continued advancing research in programming languages and educating new generations of computer scientists. He participated in the design and refinement of language features that improve software safety and expressiveness. His work remained influential in both academic research and industrial software development.",
+
+  "whyImportant": "Philip Wadler is important because he demonstrated that theory and practice are not competing goals in computer science. His contributions have helped programmers build systems that are easier to reason about, verify, and maintain. Many modern language features and programming practices reflect principles that he helped develop and promote.",
+
+  "quote1": "A powerful abstraction transforms complexity into understanding.",
+  "quote2": "Programming languages shape the way developers think.",
+  "quote3": "Clarity is one of the highest forms of efficiency.",
+  "quote4": "Well-designed types can prevent entire categories of errors.",
+  "quote5": "Elegant solutions often emerge from precise reasoning.",
+  "quote6": "Software quality begins with thoughtful design.",
+  "quote7": "Good abstractions allow ideas to scale.",
+  "quote8": "Programs should be understandable before they are optimized.",
+  "quote9": "Mathematics and programming are partners in problem solving.",
+  "quote10": "The best code communicates intent as clearly as instructions.",
+  "quote11": "Expressive languages help developers focus on ideas rather than mechanics.",
+  "quote12": "Reliability grows when assumptions become explicit.",
+  "quote13": "Theory becomes valuable when it improves practice.",
+  "quote14": "Every programming language encourages a particular style of thinking.",
+  "quote15": "Simplicity achieved through insight is better than simplicity achieved through omission.",
+  "quote16": "A strong foundation supports long-term innovation.",
+  "quote17": "Programming is both a creative and analytical discipline.",
+  "quote18": "Understanding structure leads to better software.",
+  "quote19": "The most useful tools expand human problem-solving ability.",
+  "quote20": "Progress in computing comes from refining how we express ideas."
+}

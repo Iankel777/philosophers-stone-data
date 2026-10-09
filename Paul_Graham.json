@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Paul Graham",
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "P",
+
+  "nationality": "American",
+
+  "occupation": "Programmer, Software Engineer, Entrepreneur, Essayist",
+
+  "school": "Lisp Programming, Startup Development, Software Design, Venture Creation",
+
+  "born": "13 November 1964",
+  "died": "",
+
+  "knownFor1": "Lisp Programming",
+  "knownFor2": "Viaweb",
+  "knownFor3": "Y Combinator",
+  "knownFor4": "Startup Mentorship",
+  "knownFor5": "Software Essays",
+  "knownFor6": "Web Application Development",
+  "knownFor7": "Founder Funding Model",
+  "knownFor8": "Technology Entrepreneurship",
+
+  "legacy": "Paul Graham helped shape the modern startup ecosystem by combining technical excellence with practical business guidance. His writings influenced generations of programmers and founders by emphasizing simplicity, independent thinking, and product-focused development. Many successful technology companies emerged from environments and funding models that he helped popularize.",
+
+  "earlyLife": "Paul Graham developed an early interest in computing, problem-solving, and analytical thinking. His academic path combined technical study with curiosity about design and creative expression. This blend of engineering discipline and intellectual exploration later became visible in both his software work and his writing.",
+
+  "scientificField": "Computer Science, Software Engineering, Programming Languages, Entrepreneurship",
+
+  "majorContributions": "Graham became widely recognized for demonstrating the power of Lisp in commercial software projects and for advocating rapid software development. Through Viaweb he helped show how internet-based business applications could be delivered through a browser. Later, through Y Combinator, he supported ambitious founders and encouraged a culture of experimentation, fast iteration, and product-market learning.",
+
+  "laterLife": "After achieving success as a software entrepreneur, Graham devoted significant attention to writing, investment, and startup mentorship. His essays explored topics ranging from programming and innovation to education and creativity. These writings became widely discussed among engineers, founders, and independent thinkers.",
+
+  "whyImportant": "Paul Graham is important because he connected software engineering with entrepreneurial execution. He showed that strong technical ideas can become transformative companies when combined with rapid iteration and a deep understanding of user needs. His influence extends beyond code into how modern startups are built, funded, and scaled.",
+
+  "quote1": "Great software often begins as a simple solution to a real problem.",
+  "quote2": "Programming rewards clarity more than complexity.",
+  "quote3": "Curiosity is frequently the starting point of innovation.",
+  "quote4": "Small improvements repeated consistently create remarkable systems.",
+  "quote5": "The best products earn attention by solving genuine needs.",
+  "quote6": "Independent thinking is an advantage in every technical field.",
+  "quote7": "Speed matters when learning from reality.",
+  "quote8": "A prototype teaches more than a lengthy debate.",
+  "quote9": "Engineers create value by reducing unnecessary difficulty.",
+  "quote10": "Good ideas become powerful when paired with execution.",
+  "quote11": "Technology advances through experimentation and feedback.",
+  "quote12": "Focus is often more valuable than additional resources.",
+  "quote13": "Simple designs are easier to improve over time.",
+  "quote14": "The strongest startups remain close to their users.",
+  "quote15": "Building teaches lessons that planning cannot provide.",
+  "quote16": "Every great system begins with a first version.",
+  "quote17": "Progress depends on a willingness to revise assumptions.",
+  "quote18": "Understanding users is as important as understanding code.",
+  "quote19": "Creative work grows from sustained attention.",
+  "quote20": "Useful software ultimately reflects useful thinking."
+}
