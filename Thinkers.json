@@ -645,9 +645,9 @@
 
   
   
-{"id":"owen_lovejoy","name":"Owen Lovejoy","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Owen_Lovejoy.json"},
-{"id":"oene_bottema","name":"Oene Bottema","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Oene_Bottema.json"},
-{"id":"oleg_belakovsky","name":"Oleg Belakovsky","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Oleg_Belakovsky.json"},
+{"id":"owen_lovejoy","name":"Owen Lovejoy","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Owen_Lovejoy%2C_1859.jpg/960px-Owen_Lovejoy%2C_1859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Owen_Lovejoy.json"},
+{"id":"oene_bottema","name":"Oene Bottema","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Prof.dr._O._Bottema%2C_1959.jpg/960px-Prof.dr._O._Bottema%2C_1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oene_Bottema.json"},
+
 {"id":"oliver_sacks","name":"Oliver Sacks","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Oliver_Sacks.json"},
 {"id":"olivier_danvy","name":"Olivier Danvy","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Olivier_Danvy.json"},
 {"id":"oren_patashnik","name":"Oren Patashnik","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Oren_Patashnik.json"},
