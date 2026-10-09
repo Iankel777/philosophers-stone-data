@@ -650,8 +650,6 @@
 {"id":"orna_grumberg","name":"Orna Grumberg","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Orna_Grumberg_2006.jpg/960px-Orna_Grumberg_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Orna_Grumberg.json"},
 
   
-
-{"id":"otto_fenichel","name":"Otto Fenichel","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Fenichel.json"},
 {"id":"otto_kernberg","name":"Otto Kernberg","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Kernberg.json"},
 {"id":"ove_arup","name":"Ove Arup","letter":"O","category":"Engineering","legend":true,"visible":true,"image":"","jsonFile":"Ove_Arup.json"},
 {"id":"owen_renik","name":"Owen Renik","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Owen_Renik.json"},
