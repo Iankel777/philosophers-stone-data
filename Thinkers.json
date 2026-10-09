@@ -651,7 +651,6 @@
 
   
 
-{"id":"otfrid_hoffe","name":"Otfrid Höffe","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Otfrid_Hoffe.json"},
 {"id":"otto_fenichel","name":"Otto Fenichel","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Fenichel.json"},
 {"id":"otto_kernberg","name":"Otto Kernberg","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Kernberg.json"},
 {"id":"ove_arup","name":"Ove Arup","letter":"O","category":"Engineering","legend":true,"visible":true,"image":"","jsonFile":"Ove_Arup.json"},
