@@ -643,18 +643,14 @@
 
 
 
-  
-  
 {"id":"owen_lovejoy","name":"Owen Lovejoy","letter":"O","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Owen_Lovejoy%2C_1859.jpg/960px-Owen_Lovejoy%2C_1859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Owen_Lovejoy.json"},
 {"id":"oene_bottema","name":"Oene Bottema","letter":"O","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Prof.dr._O._Bottema%2C_1959.jpg/960px-Prof.dr._O._Bottema%2C_1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oene_Bottema.json"},
-
 {"id":"oliver_sacks","name":"Oliver Sacks","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Oliversacks.jpg/960px-Oliversacks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Oliver_Sacks.json"},
 {"id":"olivier_danvy","name":"Olivier Danvy","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Olivier_Danvy_May_2005.jpg/960px-Olivier_Danvy_May_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Olivier_Danvy.json"},
-
-{"id":"orna_grumberg","name":"Orna Grumberg","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Orna_Grumberg.json"},
+{"id":"orna_grumberg","name":"Orna Grumberg","letter":"O","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Orna_Grumberg_2006.jpg/960px-Orna_Grumberg_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Orna_Grumberg.json"},
 
   
-{"id":"oscar_london","name":"Oscar London","letter":"O","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Oscar_London.json"},
+
 {"id":"oskar_schlemmer","name":"Oskar Schlemmer","letter":"O","category":"Arts","legend":true,"visible":true,"image":"","jsonFile":"Oskar_Schlemmer.json"},
 {"id":"otfrid_hoffe","name":"Otfrid Höffe","letter":"O","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Otfrid_Hoffe.json"},
 {"id":"otto_fenichel","name":"Otto Fenichel","letter":"O","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Otto_Fenichel.json"},
