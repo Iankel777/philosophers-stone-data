@@ -669,21 +669,18 @@
   {"id":"paul_ricoeur","name":"Paul Ricoeur","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Paul_Ricoeur_Balzan.png/960px-Paul_Ricoeur_Balzan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Ricoeur.json"},
   {"id":"paul_romer","name":"Paul Romer","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Paul_Romer%2C_2005_%28cropped%29.jpg/960px-Paul_Romer%2C_2005_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Romer.json"},
   {"id":"paul_samuelson","name":"Paul Samuelson","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Paul_A._Samuelson%2C_economist%2C_edited.jpg/960px-Paul_A._Samuelson%2C_economist%2C_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Samuelson.json"},
-  
-  
-
-{"id":"paul_zoll","name":"Paul Zoll","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Paul_Maurice_Zoll.jpg/960px-Paul_Maurice_Zoll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Zoll.json"},
-{"id":"pavel_alexandrov","name":"Pavel Alexandrov","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Paul_S_Alexandroff_2.jpg/960px-Paul_S_Alexandroff_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pavel_Alexandrov.json"},
-{"id":"pavel_cherenkov","name":"Pavel Cherenkov","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cerenkov.jpg/960px-Cerenkov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pavel_Cherenkov.json"},
-{"id":"per_brinch_hansen","name":"Per Brinch Hansen","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Per_Brinch_Hansen_-_1959.jpg/960px-Per_Brinch_Hansen_-_1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Per_Brinch_Hansen.json"},
-{"id":"percivall_pott","name":"Percivall Pott","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg/960px-Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Percivall_Pott.json"},
-{"id":"peter_debye","name":"Peter Debye","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Debye.jpg/960px-Debye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Debye.json"},
+  {"id":"paul_zoll","name":"Paul Zoll","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Paul_Maurice_Zoll.jpg/960px-Paul_Maurice_Zoll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Zoll.json"},
+  {"id":"pavel_alexandrov","name":"Pavel Alexandrov","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Paul_S_Alexandroff_2.jpg/960px-Paul_S_Alexandroff_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pavel_Alexandrov.json"},
+  {"id":"pavel_cherenkov","name":"Pavel Cherenkov","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cerenkov.jpg/960px-Cerenkov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pavel_Cherenkov.json"},
+  {"id":"per_brinch_hansen","name":"Per Brinch Hansen","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Per_Brinch_Hansen_-_1959.jpg/960px-Per_Brinch_Hansen_-_1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Per_Brinch_Hansen.json"},
+  {"id":"percivall_pott","name":"Percivall Pott","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg/960px-Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Percivall_Pott.json"},
+  {"id":"peter_debye","name":"Peter Debye","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Debye.jpg/960px-Debye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Debye.json"},
   
 
 
 
   
-{"id":"peter_deutsch","name":"Peter Deutsch","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Peter_Deutsch.json"},
+
 {"id":"peter_diamond","name":"Peter Diamond","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Peter_Diamond.json"},
 {"id":"peter_fonagy","name":"Peter Fonagy","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Peter_Fonagy.json"},
 {"id":"peter_higgs","name":"Peter Higgs","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Peter_Higgs.json"},
@@ -691,6 +688,9 @@
 {"id":"peter_medawar","name":"Peter Medawar","letter":"P","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Peter_Medawar.json"},
 {"id":"peter_naur","name":"Peter Naur","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Peter_Naur.json"},
 {"id":"peter_raven","name":"Peter Raven","letter":"P","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Peter_Raven.json"},
+
+
+
   
 
 {"id":"peter_salovey","name":"Peter Salovey","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Peter_Salovey.json"},
