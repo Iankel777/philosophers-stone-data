@@ -686,16 +686,17 @@
 
 
   
+  
 {"id":"peter_scholze","name":"Peter Scholze","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Peter_Scholze_2014_cropped.jpg/960px-Peter_Scholze_2014_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Scholze.json"},
 {"id":"peter_singer","name":"Peter Singer","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2018_Peter-Singer.jpg/960px-2018_Peter-Singer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Singer.json"},
-
 {"id":"philip_anderson","name":"Philip Anderson","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Andersonphoto.jpg/960px-Andersonphoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Anderson.json"},
+{"id":"philip_dybvig","name":"Philip Dybvig","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/ASSA_2025_-_Philip_Dybvig_01.jpg/960px-ASSA_2025_-_Philip_Dybvig_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Dybvig.json"},
+{"id":"philip_morrison","name":"Philip Morrison","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Philip_Morrison_%281976%29.jpg/960px-Philip_Morrison_%281976%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Morrison.json"},
+{"id":"philip_noel_baker","name":"Philip Noel-Baker","letter":"P","category":"Politics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Noel-Baker_1942.jpg/960px-Philip_Noel-Baker_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Noel_Baker.json"},
 
-{"id":"philip_dybvig","name":"Philip Dybvig","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Philip_Dybvig.json"},
-{"id":"philip_morrison","name":"Philip Morrison","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Philip_Morrison.json"},
-{"id":"philip_noel_baker","name":"Philip Noel-Baker","letter":"P","category":"Politics","legend":true,"visible":true,"image":"","jsonFile":"Philip_Noel_Baker.json"},
 
 
+  
   
   
 {"id":"philip_wadler","name":"Philip Wadler","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Philip_Wadler.json"},
