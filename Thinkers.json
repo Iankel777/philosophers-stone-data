@@ -692,10 +692,9 @@
 
 
   
-{"id":"philip_wadler","name":"Philip Wadler","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Philip_Wadler.json"},
-{"id":"philip_zimbardo","name":"Philip Zimbardo","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Philip_Zimbardo.json"},
-{"id":"philippe_pinel","name":"Philippe Pinel","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Philippe_Pinel.json"},
-{"id":"philodemus","name":"Philodemus","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Philodemus.json"},
+{"id":"philip_wadler","name":"Philip Wadler","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Wadler2.JPG/960px-Wadler2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Wadler.json"},
+{"id":"philip_zimbardo","name":"Philip Zimbardo","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Professor_Zimbardo_%28cropped%29.jpg/960px-Professor_Zimbardo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Zimbardo.json"},
+{"id":"philippe_pinel","name":"Philippe Pinel","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Philippe_Pinel_%281745_-_1826%29.jpg/960px-Philippe_Pinel_%281745_-_1826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philippe_Pinel.json"},
 {"id":"pierre_clastres","name":"Pierre Clastres","letter":"P","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Pierre_Clastres.json"},
 {"id":"pierre_de_fermat","name":"Pierre de Fermat","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Pierre_de_Fermat.json"},
   
