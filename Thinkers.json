@@ -659,12 +659,12 @@
  
   
   
-{"id":"paul_dirac","name":"Paul Dirac","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Paul_Dirac.json"},
-{"id":"paul_dudley_white","name":"Paul Dudley White","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Paul_Dudley_White.json"},
-{"id":"paul_ehrlich","name":"Paul Ehrlich","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Paul_Ehrlich.json"},
-{"id":"paul_ekman","name":"Paul Ekman","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Paul_Ekman.json"},
-{"id":"paul_eugen_bleuler","name":"Paul Eugen Bleuler","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Paul_Eugen_Bleuler.json"},
-{"id":"paul_farmer","name":"Paul Farmer","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Paul_Farmer.json"},
+{"id":"paul_dirac","name":"Paul Dirac","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_Dirac%2C_1933.jpg/960px-Paul_Dirac%2C_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Dirac.json"},
+{"id":"paul_dudley_white","name":"Paul Dudley White","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_Dudley_White_%28cropped%29.jpg/960px-Paul_Dudley_White_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Dudley_White.json"},
+{"id":"paul_ehrlich","name":"Paul Ehrlich","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Paul_Ehrlich_3.jpg/960px-Paul_Ehrlich_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Ehrlich.json"},
+{"id":"paul_ekman","name":"Paul Ekman","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paulekman_bio.jpg/960px-Paulekman_bio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Ekman.json"},
+{"id":"paul_eugen_bleuler","name":"Paul Eugen Bleuler","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Eugen_Bleuler.png/960px-Eugen_Bleuler.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Eugen_Bleuler.json"},
+{"id":"paul_farmer","name":"Paul Farmer","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Paul_Farmer_giving_MacLean_Prize_Lecture_in_2017.jpg/960px-Paul_Farmer_giving_MacLean_Prize_Lecture_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Farmer.json"},
   
   
 {"id":"paul_feyerabend","name":"Paul Feyerabend","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Paul_Feyerabend.json"},
