@@ -675,25 +675,17 @@
   {"id":"per_brinch_hansen","name":"Per Brinch Hansen","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Per_Brinch_Hansen_-_1959.jpg/960px-Per_Brinch_Hansen_-_1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Per_Brinch_Hansen.json"},
   {"id":"percivall_pott","name":"Percivall Pott","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg/960px-Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Percivall_Pott.json"},
   {"id":"peter_debye","name":"Peter Debye","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Debye.jpg/960px-Debye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Debye.json"},
-  
+  {"id":"peter_diamond","name":"Peter Diamond","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Nobel_Prize_2010-Press_Conference_KVA-DSC_7424.jpg/960px-Nobel_Prize_2010-Press_Conference_KVA-DSC_7424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Diamond.json"},
+  {"id":"peter_fonagy","name":"Peter Fonagy","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fonagy_in_2008.jpg/960px-Fonagy_in_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Fonagy.json"},
+  {"id":"peter_higgs","name":"Peter Higgs","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Higgs%2C_Peter_%281929%295.jpg/960px-Higgs%2C_Peter_%281929%295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Higgs.json"},
+  {"id":"peter_lax","name":"Peter Lax","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Peter_Lax_in_Tokyo.jpg/960px-Peter_Lax_in_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Lax.json"},
+  {"id":"peter_medawar","name":"Peter Medawar","letter":"P","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Peter_Medawar_c1969_%28cropped%29.jpg/960px-Peter_Medawar_c1969_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Medawar.json"},
+  {"id":"peter_naur","name":"Peter Naur","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Peternaur.JPG/960px-Peternaur.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Naur.json"},
+  {"id":"peter_raven","name":"Peter Raven","letter":"P","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Peter_Raven_smiling%2C_October_16%2C_2007.jpg/960px-Peter_Raven_smiling%2C_October_16%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Raven.json"},
 
 
 
   
-
-{"id":"peter_diamond","name":"Peter Diamond","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Nobel_Prize_2010-Press_Conference_KVA-DSC_7424.jpg/960px-Nobel_Prize_2010-Press_Conference_KVA-DSC_7424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Diamond.json"},
-{"id":"peter_fonagy","name":"Peter Fonagy","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fonagy_in_2008.jpg/960px-Fonagy_in_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Fonagy.json"},
-{"id":"peter_higgs","name":"Peter Higgs","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Higgs%2C_Peter_%281929%295.jpg/960px-Higgs%2C_Peter_%281929%295.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Higgs.json"},
-{"id":"peter_lax","name":"Peter Lax","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Peter_Lax_in_Tokyo.jpg/960px-Peter_Lax_in_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Lax.json"},
-{"id":"peter_medawar","name":"Peter Medawar","letter":"P","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Peter_Medawar_c1969_%28cropped%29.jpg/960px-Peter_Medawar_c1969_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Medawar.json"},
-{"id":"peter_naur","name":"Peter Naur","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Peternaur.JPG/960px-Peternaur.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Naur.json"},
-{"id":"peter_raven","name":"Peter Raven","letter":"P","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Peter_Raven_smiling%2C_October_16%2C_2007.jpg/960px-Peter_Raven_smiling%2C_October_16%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Raven.json"},
-
-
-
-  
-
-{"id":"peter_salovey","name":"Peter Salovey","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Peter_Salovey.json"},
 {"id":"peter_scholze","name":"Peter Scholze","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Peter_Scholze.json"},
 {"id":"peter_singer","name":"Peter Singer","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Peter_Singer.json"},
 {"id":"phil_katz","name":"Phil Katz","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Phil_Katz.json"},
@@ -702,6 +694,8 @@
 {"id":"philip_dybvig","name":"Philip Dybvig","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Philip_Dybvig.json"},
 {"id":"philip_morrison","name":"Philip Morrison","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Philip_Morrison.json"},
 {"id":"philip_noel_baker","name":"Philip Noel-Baker","letter":"P","category":"Politics","legend":true,"visible":true,"image":"","jsonFile":"Philip_Noel_Baker.json"},
+
+
   
   
 {"id":"philip_wadler","name":"Philip Wadler","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Philip_Wadler.json"},
