@@ -677,9 +677,11 @@
 {"id":"pavel_cherenkov","name":"Pavel Cherenkov","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cerenkov.jpg/960px-Cerenkov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pavel_Cherenkov.json"},
 {"id":"per_brinch_hansen","name":"Per Brinch Hansen","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Per_Brinch_Hansen_-_1959.jpg/960px-Per_Brinch_Hansen_-_1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Per_Brinch_Hansen.json"},
 {"id":"percivall_pott","name":"Percivall Pott","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg/960px-Portrait_of_Percivall_Pott_%281713%E2%80%931788%29_%28by_George_Romney%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Percivall_Pott.json"},
-
-{"id":"peter_debye","name":"Peter Debye","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Peter_Debye.json"},
+{"id":"peter_debye","name":"Peter Debye","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Debye.jpg/960px-Debye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Peter_Debye.json"},
   
+
+
+
   
 {"id":"peter_deutsch","name":"Peter Deutsch","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Peter_Deutsch.json"},
 {"id":"peter_diamond","name":"Peter Diamond","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Peter_Diamond.json"},
