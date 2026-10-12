@@ -651,10 +651,10 @@
 
 
 {"id":"pafnuty_chebyshev","name":"Pafnuty Chebyshev","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Pafnuty_Chebyshev.json"},  {"id":"paolo_apolito","name":"Paolo Apolito","letter":"P","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Paolo_Apolito.json"},
-{"id":"parmenides","name":"Parmenides","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Parmenides.json"},
-{"id":"partha_dasgupta","name":"Partha Dasgupta","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Partha_Dasgupta.json"},
-{"id":"pascal_salin","name":"Pascal Salin","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Pascal_Salin.json"},
-{"id":"patch_adams","name":"Patch Adams","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Patch_Adams.json"},
+{"id":"parmenides","name":"Parmenides","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Busto_di_Parmenide_%28cropped%29.jpg/960px-Busto_di_Parmenide_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Parmenides.json"},
+{"id":"partha_dasgupta","name":"Partha Dasgupta","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Partha_Dasgupta_-_Trento_2013_01.JPG/960px-Partha_Dasgupta_-_Trento_2013_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Partha_Dasgupta.json"},
+{"id":"pascal_salin","name":"Pascal Salin","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pascal_Salin_donnant_une_conf%C3%A9rence_en_2018.png/960px-Pascal_Salin_donnant_une_conf%C3%A9rence_en_2018.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pascal_Salin.json"},
+
 {"id":"patricia_churchland","name":"Patricia Churchland","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Patricia_Churchland.json"},
 {"id":"patricia_draper","name":"Patricia Draper","letter":"P","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Patricia_Draper.json"},
 {"id":"patricia_greenfield","name":"Patricia Greenfield","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Patricia_Greenfield.json"},
