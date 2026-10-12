@@ -688,23 +688,18 @@
   {"id":"philip_dybvig","name":"Philip Dybvig","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/ASSA_2025_-_Philip_Dybvig_01.jpg/960px-ASSA_2025_-_Philip_Dybvig_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Dybvig.json"},
   {"id":"philip_morrison","name":"Philip Morrison","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Philip_Morrison_%281976%29.jpg/960px-Philip_Morrison_%281976%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Morrison.json"},
   {"id":"philip_noel_baker","name":"Philip Noel-Baker","letter":"P","category":"Politics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Noel-Baker_1942.jpg/960px-Philip_Noel-Baker_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Noel_Baker.json"},
-
-
-
-  
-{"id":"philip_wadler","name":"Philip Wadler","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Wadler2.JPG/960px-Wadler2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Wadler.json"},
-{"id":"philip_zimbardo","name":"Philip Zimbardo","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Professor_Zimbardo_%28cropped%29.jpg/960px-Professor_Zimbardo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Zimbardo.json"},
-{"id":"philippe_pinel","name":"Philippe Pinel","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Philippe_Pinel_%281745_-_1826%29.jpg/960px-Philippe_Pinel_%281745_-_1826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philippe_Pinel.json"},
-{"id":"pierre_de_fermat","name":"Pierre de Fermat","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pierre_de_Fermat.jpg/960px-Pierre_de_Fermat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pierre_de_Fermat.json"},
+  {"id":"philip_wadler","name":"Philip Wadler","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Wadler2.JPG/960px-Wadler2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Wadler.json"},
+  {"id":"philip_zimbardo","name":"Philip Zimbardo","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Professor_Zimbardo_%28cropped%29.jpg/960px-Professor_Zimbardo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philip_Zimbardo.json"},
+  {"id":"philippe_pinel","name":"Philippe Pinel","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Philippe_Pinel_%281745_-_1826%29.jpg/960px-Philippe_Pinel_%281745_-_1826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Philippe_Pinel.json"},
+  {"id":"pierre_de_fermat","name":"Pierre de Fermat","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pierre_de_Fermat.jpg/960px-Pierre_de_Fermat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pierre_de_Fermat.json"},
   
 
 
   
-{"id":"pierre_hadot","name":"Pierre Hadot","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Pierre_Hadot.json"},
-{"id":"pierre_janet","name":"Pierre Janet","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Pierre_Janet.json"},
-{"id":"pieter_zeeman","name":"Pieter Zeeman","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Pieter_Zeeman.json"},
-{"id":"plato","name":"Plato","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Plato.json"},
-{"id":"priscilla_white","name":"Priscilla White","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Priscilla_White.json"},
+{"id":"pierre_hadot","name":"Pierre Hadot","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/PierreHadot.jpg/960px-PierreHadot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pierre_Hadot.json"},
+{"id":"pierre_janet","name":"Pierre Janet","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Photo_of_Pierre_Janet.jpg/960px-Photo_of_Pierre_Janet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pierre_Janet.json"},
+{"id":"pieter_zeeman","name":"Pieter Zeeman","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Pieter_Zeeman.jpg/960px-Pieter_Zeeman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pieter_Zeeman.json"},
+{"id":"plato","name":"Plato","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Raffael_067.jpg/960px-Raffael_067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Plato.json"},
 {"id":"pyotr_kapitsa","name":"Pyotr Kapitsa","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Pyotr_Kapitsa.json"},
 
   
