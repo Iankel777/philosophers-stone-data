@@ -665,8 +665,8 @@
   
   
 
-{"id":"paul_graham","name":"Paul Graham","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Paul_Graham.json"},
-{"id":"paul_krugman","name":"Paul Krugman","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Paul_Krugman.json"},
+{"id":"paul_graham","name":"Paul Graham","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Paul_Graham_TechCrunch_Disrupt_New_York_May_2011.jpg/960px-Paul_Graham_TechCrunch_Disrupt_New_York_May_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Paul_Graham.json"},
+
 {"id":"paul_meehl","name":"Paul Meehl","letter":"P","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Paul_Meehl.json"},
 {"id":"paul_milgrom","name":"Paul Milgrom","letter":"P","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Paul_Milgrom.json"},
 {"id":"paul_nurse","name":"Paul Nurse","letter":"P","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Paul_Nurse.json"},
