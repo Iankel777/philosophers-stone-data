@@ -659,9 +659,6 @@
  
   
   
-
-
-{"id":"paul_baran","name":"Paul Baran","letter":"P","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Paul_Baran.json"},
 {"id":"paul_dirac","name":"Paul Dirac","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Paul_Dirac.json"},
 {"id":"paul_dudley_white","name":"Paul Dudley White","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Paul_Dudley_White.json"},
 {"id":"paul_ehrlich","name":"Paul Ehrlich","letter":"P","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Paul_Ehrlich.json"},
