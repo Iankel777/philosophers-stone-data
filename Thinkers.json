@@ -650,13 +650,12 @@
 
 
 
-{"id":"pafnuty_chebyshev","name":"Pafnuty Chebyshev","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Pafnuty_Chebyshev.json"},  {"id":"paolo_apolito","name":"Paolo Apolito","letter":"P","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Paolo_Apolito.json"},
+{"id":"pafnuty_chebyshev","name":"Pafnuty Chebyshev","letter":"P","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pafnuty_Lvovich_Chebyshev.jpg/960px-Pafnuty_Lvovich_Chebyshev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pafnuty_Chebyshev.json"},  
 {"id":"parmenides","name":"Parmenides","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Busto_di_Parmenide_%28cropped%29.jpg/960px-Busto_di_Parmenide_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Parmenides.json"},
 {"id":"partha_dasgupta","name":"Partha Dasgupta","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Partha_Dasgupta_-_Trento_2013_01.JPG/960px-Partha_Dasgupta_-_Trento_2013_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Partha_Dasgupta.json"},
 {"id":"pascal_salin","name":"Pascal Salin","letter":"P","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pascal_Salin_donnant_une_conf%C3%A9rence_en_2018.png/960px-Pascal_Salin_donnant_une_conf%C3%A9rence_en_2018.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Pascal_Salin.json"},
-
 {"id":"patricia_churchland","name":"Patricia Churchland","letter":"P","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Patricia_Churchland_at_STEP_2005_a.jpg/960px-Patricia_Churchland_at_STEP_2005_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Patricia_Churchland.json"},
-{"id":"patrick_blackett","name":"Patrick Blackett","letter":"P","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Patrick_Blackett.json"},
+{"id":"patrick_blackett","name":"Patrick Blackett","letter":"P","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Blackett.jpg/960px-Blackett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Patrick_Blackett.json"},
  
   
   
