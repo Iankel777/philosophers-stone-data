@@ -709,8 +709,6 @@
 {"id":"qiang_yang","name":"Qiang Yang","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Qiang_Yang.jpg/960px-Qiang_Yang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qiang_Yang.json"},
 
 
-  
-{"id":"qin_ling","name":"Qin Ling","letter":"Q","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Qin_Ling.json"},
 {"id":"qin_sheng","name":"Qin Sheng","letter":"Q","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Qin_Sheng.json"},
 {"id":"qin_xiao","name":"Qin Xiao","letter":"Q","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Qin_Xiao.json"},
 {"id":"qin_yanwen","name":"Qin Yanwen","letter":"Q","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Qin_Yanwen.json"},
