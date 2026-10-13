@@ -701,14 +701,9 @@
 
 
 
-
-{"id":"qi_lu","name":"Qi Lu","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Qi_Lu.jpg/960px-Qi_Lu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qi_Lu.json"},
-{"id":"qian_sanqiang","name":"Qian Sanqiang","letter":"Q","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg/960px-%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qian_Sanqiang.json"},
-{"id":"qiang_yang","name":"Qiang Yang","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Qiang_Yang.jpg/960px-Qiang_Yang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qiang_Yang.json"},
-
-
-{"id":"qudsia_hassan","name":"Qudsia Hassan","letter":"Q","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Qudsia_Hassan.json"},
-
+  {"id":"qi_lu","name":"Qi Lu","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Qi_Lu.jpg/960px-Qi_Lu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qi_Lu.json"},
+  {"id":"qian_sanqiang","name":"Qian Sanqiang","letter":"Q","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg/960px-%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qian_Sanqiang.json"},
+  {"id":"qiang_yang","name":"Qiang Yang","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Qiang_Yang.jpg/960px-Qiang_Yang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qiang_Yang.json"},
 
 
 
@@ -717,11 +712,16 @@
 
   
 
-  
-  
   {"id":"robert_curl","name":"Robert Curl","letter":"R","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Robert_Curl_crop_2009_CHAO.jpg/960px-Robert_Curl_crop_2009_CHAO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Curl.json"},
   {"id":"ronald_coase","name":"Ronald Coase","letter":"R","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coase_working_2000s.jpg/960px-Coase_working_2000s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ronald_Coase.json"},
  
+  
+  
+  
+  
+ 
+  
+  
   
   
   {"id":"steven_chu","name":"Steven Chu","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Steven_Chu_official_portrait.jpg/960px-Steven_Chu_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Steven_Chu.json"},
