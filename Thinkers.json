@@ -708,7 +708,7 @@
 
 {"id":"qian_sanqiang","name":"Qian Sanqiang","letter":"Q","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg/960px-%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qian_Sanqiang.json"},
 
-{"id":"qiang_fu","name":"Qiang Fu","letter":"Q","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Qiang_Fu.json"},
+
 {"id":"qiang_xiong","name":"Qiang Xiong","letter":"Q","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Qiang_Xiong.json"},
 {"id":"qiang_yang","name":"Qiang Yang","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Qiang_Yang.json"},
 {"id":"qin_jiushao","name":"Qin Jiushao","letter":"Q","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Qin_Jiushao.json"},
