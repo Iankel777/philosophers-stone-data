@@ -708,8 +708,6 @@
 {"id":"qian_sanqiang","name":"Qian Sanqiang","letter":"Q","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg/960px-%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qian_Sanqiang.json"},
 {"id":"qiang_yang","name":"Qiang Yang","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Qiang_Yang.jpg/960px-Qiang_Yang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qiang_Yang.json"},
 
-
-{"id":"qing_wang","name":"Qing Wang","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Qing_Wang.json"},
 {"id":"qing_zhao","name":"Qing Zhao","letter":"Q","category":"Engineering","legend":true,"visible":true,"image":"","jsonFile":"Qing_Zhao.json"},
 {"id":"qing_zhou","name":"Qing Zhou","letter":"Q","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Qing_Zhou.json"},
 
