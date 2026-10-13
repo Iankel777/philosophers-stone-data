@@ -706,7 +706,6 @@
 
 {"id":"qi_lu","name":"Qi Lu","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Qi_Lu.jpg/960px-Qi_Lu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qi_Lu.json"},
 
-{"id":"qian_congjian","name":"Qian Congjian","letter":"Q","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Qian_Congjian.json"},
 {"id":"qian_miao","name":"Qian Miao","letter":"Q","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Qian_Miao.json"},
 
   
