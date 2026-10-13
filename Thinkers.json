@@ -701,7 +701,7 @@
 
 
 
-{"id":"qamar_ahsan","name":"Qamar Ahsan","letter":"Q","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Qamar_Ahsan.json"},
+
 {"id":"qamar_zaman","name":"Qamar Zaman","letter":"Q","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Qamar_Zaman.json"},
 {"id":"qazi_rahman","name":"Qazi Rahman","letter":"Q","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Qazi_Rahman.json"},
 {"id":"qi_lu","name":"Qi Lu","letter":"Q","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Qi_Lu.json"},
