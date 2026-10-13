@@ -708,7 +708,6 @@
 
 {"id":"qian_sanqiang","name":"Qian Sanqiang","letter":"Q","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg/960px-%E5%B9%B4%E8%BD%BB%E7%9A%84%E9%92%B1%E4%B8%89%E5%BC%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Qian_Sanqiang.json"},
 
-{"id":"qian_zonglu","name":"Qian Zonglu","letter":"Q","category":"Agricultural Science","legend":true,"visible":true,"image":"","jsonFile":"Qian_Zonglu.json"},
 {"id":"qianben_wang","name":"Qianben Wang","letter":"Q","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Qianben_Wang.json"},
 
   
