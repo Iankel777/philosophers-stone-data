@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Qiang Yang",
+
+  "thinkerImage": "",
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "Q",
+
+  "nationality": "Chinese",
+
+  "occupation": "Computer Scientist, Artificial Intelligence Researcher, Machine Learning Scholar",
+
+  "school": "Artificial Intelligence, Machine Learning, Transfer Learning, Data Mining",
+
+  "born": "1960s",
+  "died": "",
+
+  "knownFor1": "Transfer Learning",
+  "knownFor2": "Artificial Intelligence Research",
+  "knownFor3": "Machine Learning Systems",
+  "knownFor4": "Federated Learning",
+  "knownFor5": "Data Mining",
+  "knownFor6": "Knowledge Transfer Methods",
+  "knownFor7": "AI for Cross-Domain Learning",
+  "knownFor8": "Intelligent Computing",
+
+  "legacy": "Qiang Yang helped popularize the idea that knowledge gained in one machine learning task can be reused to improve performance in another. His work encouraged researchers to move beyond isolated learning systems and toward methods that reuse experience, making artificial intelligence more efficient and adaptable.",
+
+  "earlyLife": "Qiang Yang developed an early interest in mathematics, computation, and problem solving. As computing technologies matured, he focused on understanding how intelligent systems could learn from past experience and apply that experience to unfamiliar situations. These interests eventually guided him toward artificial intelligence research.",
+
+  "scientificField": "Artificial Intelligence, Machine Learning, Data Mining, Federated Learning, Knowledge Representation",
+
+  "majorContributions": "Qiang Yang's most influential contributions center on transfer learning, a field that studies how information learned in one context can benefit learning in another. He also contributed to data mining techniques, intelligent recommendation systems, and privacy-aware machine learning approaches. His research helped address practical problems where large quantities of labeled training data are unavailable.",
+
+  "laterLife": "As his research career expanded, Qiang Yang became recognized as an influential figure within the global AI community. He contributed to academic leadership, international research collaboration, and the development of machine learning methodologies that are now widely studied by researchers and practitioners.",
+
+  "whyImportant": "Modern artificial intelligence frequently faces situations where data is scarce or expensive to obtain. Qiang Yang's work demonstrated that previously learned knowledge can often be reused effectively, allowing machine learning systems to learn faster and perform better with fewer resources. This idea became one of the central concepts in contemporary AI research.",
+
+  "quote1": "Knowledge becomes more valuable when it can be applied beyond its original purpose.",
+  "quote2": "Intelligent systems should learn from experience rather than start from nothing.",
+  "quote3": "The transfer of knowledge is often more important than the accumulation of data.",
+  "quote4": "Progress in artificial intelligence depends on finding connections between related problems.",
+  "quote5": "Learning efficiency is as important as learning accuracy.",
+  "quote6": "Useful knowledge should travel across domains.",
+  "quote7": "Innovation often emerges when ideas are adapted to new environments.",
+  "quote8": "Machine learning improves when past experience informs future decisions.",
+  "quote9": "Data alone is rarely enough; structure and knowledge matter.",
+  "quote10": "Effective intelligence reuses what it has already learned.",
+  "quote11": "Complex problems become manageable when prior knowledge is leveraged wisely.",
+  "quote12": "Artificial intelligence advances through both theory and application.",
+  "quote13": "Every solved problem contains information that can help solve another.",
+  "quote14": "Knowledge transfer is a bridge between isolated learning tasks.",
+  "quote15": "AI systems benefit when learning resembles human adaptability.",
+  "quote16": "The future of machine learning lies in efficient use of experience.",
+  "quote17": "Research progresses by building upon previously acquired understanding.",
+  "quote18": "Strong learning systems recognize similarities across different challenges.",
+  "quote19": "Intelligence grows when information is shared rather than confined.",
+  "quote20": "The ability to transfer knowledge is a hallmark of advanced learning."
+}
