@@ -1,15 +1,12 @@
 {
   "thinkerName": "Ramon Llull",
 
-  "thinkerImage": "Ramon_Llull.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ramon_Llull.jpg/960px-Ramon_Llull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/ramon_llull_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ramon_Llull.jpg/960px-Ramon_Llull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown artist",
+  "imageAttribution": "unknown (from the collection of Friderici Roth-Scholtzii Noriberg)",
 
   "indexLetter": "R",
 
