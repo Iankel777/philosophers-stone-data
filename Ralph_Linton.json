@@ -1,15 +1,12 @@
 {
   "thinkerName": "Ralph Linton",
 
-  "thinkerImage": "Ralph_Linton.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ralph_Linton_%28American_anthropologist%29.jpg/960px-Ralph_Linton_%28American_anthropologist%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/ralph_linton_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ralph_Linton_%28American_anthropologist%29.jpg/960px-Ralph_Linton_%28American_anthropologist%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageAttribution": "Clyde Kluckhohn, author. National Academy of Sciences (Washington, DC), publisher.",
 
   "indexLetter": "R",
 
