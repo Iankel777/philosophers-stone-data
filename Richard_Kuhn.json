@@ -1,15 +1,12 @@
 {
   "thinkerName": "Richard Kuhn",
 
-  "thinkerImage": "Richard_Kuhn.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Richard_Kuhn_ETH-Bib_Dia_248-065.jpg/960px-Richard_Kuhn_ETH-Bib_Dia_248-065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
   "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/richard_kuhn_portrait",
-
-  "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Richard_Kuhn_ETH-Bib_Dia_248-065.jpg/960px-Richard_Kuhn_ETH-Bib_Dia_248-065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution-Share Alike 3.0",
+  "imageAttribution": "ETH Zürich",
 
   "indexLetter": "R",
 
