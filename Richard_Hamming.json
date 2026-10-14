@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Richard Hamming",
+  "thinkerImage": "Richard_Hamming.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "American",
+
+  "occupation": "Mathematician, Computer Scientist, Educator",
+
+  "school": "Information Theory, Numerical Analysis, Computer Science",
+
+  "born": "11 February 1915",
+
+  "died": "7 January 1998",
+
+  "knownFor1": "Hamming Code",
+  "knownFor2": "Error-Correcting Codes",
+  "knownFor3": "Information Theory",
+  "knownFor4": "Numerical Methods",
+  "knownFor5": "Computer Science Foundations",
+  "knownFor6": "Reliable Computing",
+  "knownFor7": "Scientific Computing",
+  "knownFor8": "Digital Communication Systems",
+
+  "legacy": "Richard Hamming helped make digital communication more reliable by developing methods that allowed computers and communication systems to detect and correct errors automatically. His ideas became essential to modern computing, telecommunications, data storage, and information transfer technologies used around the world.",
+
+  "earlyLife": "Richard Hamming showed an early fascination with mathematics, logical analysis, and scientific problem solving. During his academic development, he became interested in applying mathematical reasoning to practical challenges, particularly those involving accuracy, reliability, and computation.",
+
+  "scientificField": "Computer Science, Mathematics, Information Theory, Numerical Analysis",
+
+  "majorContribution": "Hamming developed error-correcting techniques that allowed machines to recover from certain transmission and storage errors without requiring complete retransmission of information. His work demonstrated how mathematical structures could significantly improve the reliability of digital systems operating in imperfect environments.",
+
+  "laterLife": "Throughout his career, Hamming remained active as a researcher, educator, and author. He promoted interdisciplinary thinking and encouraged scientists and engineers to pursue important problems with intellectual courage and curiosity. His lectures and writings continued influencing generations of researchers long after their publication.",
+
+  "whyImportant": "Modern computers, satellites, mobile networks, internet systems, and storage devices depend heavily on reliable information processing. Hamming's contributions provided practical methods for reducing errors and increasing trust in digital technologies, making large-scale computing and communication systems substantially more dependable.",
+
+  "quote1": "Important problems deserve sustained attention.",
+  "quote2": "Reliability is a foundation of meaningful technology.",
+  "quote3": "Mathematics becomes powerful when connected to real challenges.",
+  "quote4": "Progress begins with asking worthwhile questions.",
+  "quote5": "Knowledge grows through disciplined curiosity.",
+  "quote6": "Good ideas often emerge from persistent effort.",
+  "quote7": "Complex systems require dependable foundations.",
+  "quote8": "Innovation depends on understanding limitations.",
+  "quote9": "Scientific thinking benefits from broad perspectives.",
+  "quote10": "Errors can become opportunities for improvement.",
+  "quote11": "The quality of a solution depends on the quality of the question.",
+  "quote12": "Great advances often begin with simple insights.",
+  "quote13": "Understanding is more valuable than memorization.",
+  "quote14": "Technology succeeds when it remains trustworthy.",
+  "quote15": "Curiosity and discipline are powerful partners.",
+  "quote16": "The pursuit of excellence requires persistence.",
+  "quote17": "Mathematical clarity can reveal practical solutions.",
+  "quote18": "Strong foundations support future discoveries.",
+  "quote19": "Learning never ends for a serious thinker.",
+  "quote20": "Lasting contributions often solve problems others overlook."
+}

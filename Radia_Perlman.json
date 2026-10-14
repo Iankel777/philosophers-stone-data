@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Radia Perlman",
+  "thinkerImage": "Radia_Perlman.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "American",
+
+  "occupation": "Software Engineer, Computer Scientist, Network Engineer",
+
+  "school": "Computer Networking, Network Protocols, Internet Architecture",
+
+  "born": "18 December 1951",
+
+  "died": "",
+
+  "knownFor1": "Spanning Tree Protocol",
+  "knownFor2": "Network Routing",
+  "knownFor3": "Ethernet Networking",
+  "knownFor4": "Internet Infrastructure",
+  "knownFor5": "Network Scalability",
+  "knownFor6": "Protocol Design",
+  "knownFor7": "Distributed Networking Systems",
+  "knownFor8": "Computer Communications",
+
+  "legacy": "Radia Perlman transformed the development of modern computer networks by creating methods that allowed large collections of connected devices to communicate reliably and efficiently. Her work helped make network growth manageable, supporting the expansion of local networks, enterprise systems, and the global internet.",
+
+  "earlyLife": "Radia Perlman demonstrated strong abilities in mathematics and logical reasoning from an early age. As computing technologies evolved, she became interested in designing systems capable of connecting computers while maintaining reliability, simplicity, and resilience in increasingly complex environments.",
+
+  "scientificField": "Computer Science, Networking, Communication Systems, Software Engineering",
+
+  "majorContribution": "Perlman developed influential networking techniques that simplified the operation of complex digital networks. Her work provided practical solutions for preventing communication loops, improving reliability, and allowing network infrastructures to expand without sacrificing stability. These innovations became foundational building blocks in modern networking environments.",
+
+  "laterLife": "Throughout her professional career, Perlman continued researching network architecture, security, and protocol design. She contributed to both industrial innovation and technical education, helping engineers understand the principles required to build reliable communication systems at large scale.",
+
+  "whyImportant": "Modern organizations depend on stable and efficient networks to support communication, cloud services, data exchange, and internet access. Perlman's contributions helped establish techniques that allow these systems to operate dependably despite increasing complexity. Many networking technologies continue to rely on principles connected to her work.",
+
+  "quote1": "Reliable communication begins with thoughtful design.",
+  "quote2": "Simplicity is often the foundation of scalability.",
+  "quote3": "Networks succeed when complexity is carefully managed.",
+  "quote4": "Good engineering prevents problems before they appear.",
+  "quote5": "Technology should remain dependable as it grows.",
+  "quote6": "Strong infrastructure enables innovation everywhere else.",
+  "quote7": "The best systems balance efficiency and resilience.",
+  "quote8": "Communication networks are built on trust and reliability.",
+  "quote9": "Practical solutions often outlast fashionable ideas.",
+  "quote10": "Scalability requires planning for future demands.",
+  "quote11": "Clear architecture simplifies maintenance and growth.",
+  "quote12": "Engineering excellence emerges from disciplined thinking.",
+  "quote13": "Connectivity creates opportunities for collaboration.",
+  "quote14": "Robust systems anticipate failure and adapt to it.",
+  "quote15": "Innovation gains value when it solves real problems.",
+  "quote16": "The quality of a network is reflected in its reliability.",
+  "quote17": "Effective protocols create order from complexity.",
+  "quote18": "Long-lasting technologies are built on strong principles.",
+  "quote19": "Every connected device depends on invisible infrastructure.",
+  "quote20": "Progress in networking expands possibilities for society."
+}

@@ -1,0 +1,67 @@
+{
+  "thinkerName": "Rene Descartes",
+
+  "thinkerImage": "Rene_Descartes.jpg",
+
+  "imageSource": "Public Domain Archive",
+
+  "imageSourceUrl": "https://example.org/rene_descartes_portrait",
+
+  "imageLicense": "Public Domain",
+
+  "imageAttribution": "Unknown artist",
+
+  "indexLetter": "R",
+
+  "nationality": "French",
+
+  "occupation": "Philosopher, Mathematician, Scientist",
+
+  "school": "Rationalism, Early Modern Philosophy",
+
+  "born": "31 March 1596",
+
+  "died": "11 February 1650",
+
+  "knownFor1": "Methodic Doubt",
+  "knownFor2": "Rationalism",
+  "knownFor3": "Analytic Geometry",
+  "knownFor4": "Mind-Body Dualism",
+  "knownFor5": "Cogito Principle",
+  "knownFor6": "Modern Epistemology",
+  "knownFor7": "Deductive Reasoning",
+  "knownFor8": "Scientific Method Development",
+
+  "legacy": "René Descartes helped reshape intellectual inquiry by arguing that knowledge should be examined through disciplined reasoning instead of unquestioned tradition. His approach encouraged generations of philosophers and scientists to seek certainty through careful analysis, making him one of the most influential figures in the transition from medieval to modern thought.",
+
+  "earlyLife": "Descartes was educated in France during a period of major intellectual and religious change. He displayed a strong interest in mathematics and logic from an early age and became dissatisfied with explanations that relied primarily on authority. These experiences motivated his lifelong search for reliable foundations of knowledge.",
+
+  "scientificField": "Philosophy, Mathematics, Logic, Natural Science",
+
+  "majorContribution": "Descartes proposed a systematic approach to investigation based on questioning assumptions and building conclusions from clear principles. In mathematics, he connected algebra and geometry in a way that transformed problem-solving and laid foundations for many later developments in scientific analysis.",
+
+  "laterLife": "During his later years, Descartes continued refining his philosophical system and corresponded with scholars across Europe. His ideas spread widely through published works and private exchanges, influencing debates about science, religion, knowledge, and the nature of the human mind.",
+
+  "whyImportant": "Many modern discussions about knowledge, consciousness, reasoning, and scientific inquiry can be traced to questions that Descartes helped formulate. His insistence on rigorous thinking inspired new standards for intellectual investigation and became a cornerstone of modern philosophy.",
+
+  "quote1": "Careful questioning often reveals stronger foundations than quick certainty.",
+  "quote2": "Reason grows when assumptions are examined rather than accepted.",
+  "quote3": "Clear thinking begins with the courage to doubt.",
+  "quote4": "Knowledge advances when ideas survive critical inspection.",
+  "quote5": "Method is the bridge between curiosity and understanding.",
+  "quote6": "A disciplined mind seeks evidence before agreement.",
+  "quote7": "Complex problems yield to patient analysis.",
+  "quote8": "Certainty is strongest when built step by step.",
+  "quote9": "Questions often teach more than immediate answers.",
+  "quote10": "The pursuit of truth demands intellectual honesty.",
+  "quote11": "Reasoned judgment is stronger than custom alone.",
+  "quote12": "Understanding improves when confusion is carefully separated.",
+  "quote13": "Thought becomes powerful when guided by method.",
+  "quote14": "Doubt can be a tool for discovery rather than an obstacle.",
+  "quote15": "Knowledge expands through systematic examination.",
+  "quote16": "Every assumption deserves consideration before acceptance.",
+  "quote17": "Logic provides direction where uncertainty exists.",
+  "quote18": "The search for certainty begins within reflection.",
+  "quote19": "Ideas gain value when tested by reason.",
+  "quote20": "Intellectual progress depends on questioning what seems obvious."
+}

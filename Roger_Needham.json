@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Roger Needham",
+  "thinkerImage": "Roger_Needham.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "British",
+
+  "occupation": "Computer Scientist, Security Researcher, Systems Engineer",
+
+  "school": "Computer Security, Distributed Systems, Operating Systems",
+
+  "born": "9 February 1935",
+
+  "died": "1 March 2003",
+
+  "knownFor1": "Computer Security Research",
+  "knownFor2": "Distributed Systems",
+  "knownFor3": "Needham-Schroeder Protocol",
+  "knownFor4": "Authentication Protocols",
+  "knownFor5": "Operating Systems",
+  "knownFor6": "Secure Network Communication",
+  "knownFor7": "Systems Architecture",
+  "knownFor8": "Trusted Computing",
+
+  "legacy": "Roger Needham helped establish many of the ideas that later became standard components of secure computing. His work encouraged researchers and engineers to view authentication, trust, and system design as interconnected problems. Concepts connected to his research influenced generations of security technologies and distributed computing platforms.",
+
+  "earlyLife": "Roger Needham demonstrated a strong interest in mathematics, logic, and engineering from an early age. As computers evolved into increasingly connected systems, he became interested in the challenge of ensuring that information could be exchanged reliably and securely between machines operating across complex networks.",
+
+  "scientificField": "Computer Science, Cybersecurity, Distributed Systems, Operating Systems",
+
+  "majorContribution": "Needham contributed to the development of important methods for authentication and secure communication in networked environments. His work helped demonstrate how computers could verify identities, establish trust, and exchange information securely, providing foundations that influenced later generations of security protocols and distributed applications.",
+
+  "laterLife": "During the later stages of his career, Needham remained active in research, leadership, and technological innovation. He contributed to the advancement of secure computing environments and encouraged collaboration between academic researchers and industrial laboratories working on practical computing challenges.",
+
+  "whyImportant": "Modern computing relies on trustworthy communication between devices, services, and users. Many of the principles used today in authentication systems, secure communications, and distributed infrastructures reflect problems that Needham helped define and address. His work contributed to making large-scale computing systems more dependable and secure.",
+
+  "quote1": "Trust must be designed into systems rather than assumed.",
+  "quote2": "Reliable communication depends on reliable verification.",
+  "quote3": "Security is most effective when integrated from the beginning.",
+  "quote4": "Complex networks require clear rules of trust.",
+  "quote5": "Technology succeeds when reliability accompanies innovation.",
+  "quote6": "Authentication is the foundation of many secure interactions.",
+  "quote7": "Practical solutions often emerge from careful system design.",
+  "quote8": "Security challenges evolve with technological progress.",
+  "quote9": "Distributed systems demand disciplined engineering.",
+  "quote10": "Strong infrastructures depend on trustworthy components.",
+  "quote11": "Effective protection begins with understanding vulnerabilities.",
+  "quote12": "Good architecture reduces future complications.",
+  "quote13": "Scalable systems require both efficiency and security.",
+  "quote14": "Engineering excellence is measured by long-term reliability.",
+  "quote15": "Communication without trust creates uncertainty.",
+  "quote16": "Scientific progress benefits from collaboration across disciplines.",
+  "quote17": "Secure systems are built through careful planning and testing.",
+  "quote18": "Information gains value when it can be exchanged safely.",
+  "quote19": "Foundational ideas often outlast the technologies they first support.",
+  "quote20": "The durability of a system depends on the soundness of its design."
+}

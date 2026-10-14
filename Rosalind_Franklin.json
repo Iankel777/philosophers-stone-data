@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Rosalind Franklin",
+  "thinkerImage": "Rosalind_Franklin.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "British",
+
+  "occupation": "Biophysicist, Chemist, Molecular Biology Researcher",
+
+  "school": "Molecular Biology, Biophysics, Structural Chemistry",
+
+  "born": "25 July 1920",
+
+  "died": "16 April 1958",
+
+  "knownFor1": "X-Ray Crystallography",
+  "knownFor2": "DNA Structure Research",
+  "knownFor3": "Molecular Imaging",
+  "knownFor4": "Structural Biology",
+  "knownFor5": "Carbon Material Studies",
+  "knownFor6": "Virus Structure Analysis",
+  "knownFor7": "Biophysical Research",
+  "knownFor8": "Experimental Molecular Science",
+
+  "legacy": "Rosalind Franklin helped transform molecular biology through highly precise experimental research that revealed important structural features of biological molecules. Her work demonstrated the power of combining chemistry, physics, and careful observation to answer fundamental questions about life. The standards of accuracy and discipline that characterized her research continue to influence biological science today.",
+
+  "earlyLife": "Rosalind Franklin developed a strong interest in science, mathematics, and analytical thinking during her education. She demonstrated exceptional academic ability from a young age and became increasingly interested in understanding matter at the molecular level. Her commitment to rigorous experimentation shaped the direction of her scientific career.",
+
+  "scientificField": "Biophysics, Molecular Biology, Structural Chemistry, X-Ray Crystallography",
+
+  "majorContribution": "Franklin applied advanced experimental techniques to investigate the physical structure of biological molecules and other forms of matter. Her research produced exceptionally detailed structural evidence that helped scientists understand molecular organization and provided valuable insights into the architecture of complex biological systems.",
+
+  "laterLife": "During the later years of her career, Franklin expanded her investigations into the structures of viruses and other biological materials. Despite significant professional challenges and a relatively short life, she maintained a remarkable level of scientific productivity and continued producing influential research that was recognized increasingly over time.",
+
+  "whyImportant": "Modern molecular biology depends upon accurate knowledge of how biological molecules are organized and function. Franklin's work demonstrated how powerful experimental evidence can guide scientific understanding. Her contributions strengthened the role of structural analysis in biology and helped shape future discoveries in genetics, medicine, and biotechnology.",
+
+  "quote1": "Careful evidence is the foundation of reliable science.",
+  "quote2": "Observation gains value when combined with rigorous analysis.",
+  "quote3": "Scientific progress depends on precision.",
+  "quote4": "The smallest structures can reveal the largest insights.",
+  "quote5": "Discovery begins with curiosity and discipline.",
+  "quote6": "Knowledge grows through patient investigation.",
+  "quote7": "Nature often reveals its patterns through detail.",
+  "quote8": "Scientific understanding requires both creativity and accuracy.",
+  "quote9": "Evidence should guide conclusions rather than assumptions.",
+  "quote10": "Persistence is often essential for meaningful discovery.",
+  "quote11": "Complex biological questions deserve careful examination.",
+  "quote12": "Research advances when observations are documented precisely.",
+  "quote13": "Strong conclusions require strong evidence.",
+  "quote14": "The pursuit of truth demands intellectual honesty.",
+  "quote15": "Scientific tools expand our ability to understand nature.",
+  "quote16": "Progress often comes from seeing what others overlook.",
+  "quote17": "Great discoveries are built on careful work.",
+  "quote18": "Understanding structure helps explain function.",
+  "quote19": "The scientific method remains one of humanity's greatest achievements.",
+  "quote20": "Every unanswered question is an invitation to explore."
+}

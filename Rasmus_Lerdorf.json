@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Rasmus Lerdorf",
+  "thinkerImage": "Rasmus_Lerdorf.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "Danish-Canadian",
+
+  "occupation": "Programmer, Software Engineer, Web Technology Pioneer",
+
+  "school": "Web Development, Programming Languages, Internet Technologies",
+
+  "born": "22 November 1968",
+
+  "died": "",
+
+  "knownFor1": "PHP",
+  "knownFor2": "Web Development",
+  "knownFor3": "Server-Side Scripting",
+  "knownFor4": "Open Source Software",
+  "knownFor5": "Internet Application Development",
+  "knownFor6": "Dynamic Websites",
+  "knownFor7": "Web Programming Tools",
+  "knownFor8": "Software Infrastructure",
+
+  "legacy": "Rasmus Lerdorf helped accelerate the growth of the modern web by creating tools that made dynamic website development accessible to a much larger community of programmers. His work encouraged the rapid creation of online platforms, services, and applications during a critical period in the expansion of the internet.",
+
+  "earlyLife": "Rasmus Lerdorf developed an interest in computers, technology, and problem solving at an early age. As the internet began gaining importance, he became interested in practical ways to simplify software development and automate common tasks for websites and online services.",
+
+  "scientificField": "Software Engineering, Web Development, Programming Languages, Internet Technologies",
+
+  "majorContribution": "Lerdorf created and expanded technologies that enabled websites to generate content dynamically rather than relying entirely on static pages. His work lowered technical barriers for developers and helped establish a programming ecosystem that supported millions of websites and web-based applications around the world.",
+
+  "laterLife": "Throughout his career, Lerdorf remained involved in software engineering, technology leadership, and internet infrastructure projects. He continued advocating for practical engineering approaches focused on performance, usability, and solving real-world problems at scale.",
+
+  "whyImportant": "The growth of online commerce, digital publishing, community platforms, and web applications was supported by technologies that simplified web development. Lerdorf's contributions helped empower a generation of developers to build interactive internet experiences without requiring highly specialized technical resources.",
+
+  "quote1": "Simple tools can unlock widespread innovation.",
+  "quote2": "Practical solutions often create the greatest impact.",
+  "quote3": "Technology succeeds when people can use it effectively.",
+  "quote4": "The web grows through accessibility and participation.",
+  "quote5": "Good engineering removes unnecessary obstacles.",
+  "quote6": "Software should help people build rather than struggle.",
+  "quote7": "Progress often begins with solving everyday problems.",
+  "quote8": "Usability is an important measure of success.",
+  "quote9": "The internet rewards adaptability and experimentation.",
+  "quote10": "Small improvements can influence millions of users.",
+  "quote11": "Innovation becomes valuable when it reaches real communities.",
+  "quote12": "Developers thrive when tools encourage creativity.",
+  "quote13": "Practicality often outperforms unnecessary complexity.",
+  "quote14": "Open collaboration accelerates technological growth.",
+  "quote15": "Reliable software comes from continuous refinement.",
+  "quote16": "Effective systems balance flexibility and performance.",
+  "quote17": "The best technologies empower others to create.",
+  "quote18": "Engineering is ultimately about solving problems.",
+  "quote19": "Accessible programming expands opportunity.",
+  "quote20": "Technology shapes the future through its users."
+}

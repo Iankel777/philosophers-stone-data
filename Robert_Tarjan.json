@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Robert Tarjan",
+  "thinkerImage": "Robert_Tarjan.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Algorithm Researcher, Educator",
+
+  "school": "Algorithms, Data Structures, Computational Theory",
+
+  "born": "30 April 1948",
+
+  "died": "",
+
+  "knownFor1": "Tarjan's Algorithm",
+  "knownFor2": "Strongly Connected Components",
+  "knownFor3": "Union-Find Structures",
+  "knownFor4": "Amortized Analysis",
+  "knownFor5": "Graph Algorithms",
+  "knownFor6": "Data Structure Optimization",
+  "knownFor7": "Algorithmic Efficiency",
+  "knownFor8": "Theoretical Computer Science",
+
+  "legacy": "Robert Tarjan helped shape modern algorithmic thinking by developing methods that allowed complex network and graph problems to be solved with remarkable efficiency. Many of his ideas became standard tools in computer science education and are still used in software systems, compilers, databases, routing technologies, and scientific computing.",
+
+  "earlyLife": "Robert Tarjan developed an interest in mathematics and logical problem solving at a young age. His academic strengths gradually moved toward computing, where he became fascinated by finding elegant procedures capable of solving difficult problems with minimal computational effort.",
+
+  "scientificField": "Computer Science, Algorithms, Data Structures, Graph Theory",
+
+  "majorContribution": "Tarjan introduced influential algorithmic techniques that significantly reduced the computational cost of solving graph-based problems. His work demonstrated how careful mathematical reasoning could transform tasks once considered impractical into efficient and scalable procedures suitable for real-world applications.",
+
+  "laterLife": "As his career progressed, Tarjan continued producing influential research while mentoring future computer scientists. His publications and collaborations shaped several generations of algorithm researchers and expanded the role of theoretical computer science in practical software engineering.",
+
+  "whyImportant": "Modern computing relies heavily on efficient algorithms. Tarjan's contributions provide foundational methods for organizing information, analyzing networks, optimizing software performance, and handling large-scale computational challenges. Many essential computing systems still depend on concepts connected to his research.",
+
+  "quote1": "Elegant solutions often emerge from understanding a problem's hidden structure.",
+  "quote2": "Efficiency is not only about speed but about insight.",
+  "quote3": "Complex systems become manageable when their relationships are understood.",
+  "quote4": "Algorithms turn logical ideas into practical tools.",
+  "quote5": "Good theory often becomes tomorrow's standard practice.",
+  "quote6": "Progress in computing depends on better ways of organizing information.",
+  "quote7": "Careful analysis can reveal unexpected simplicity.",
+  "quote8": "Mathematical clarity is a powerful engineering tool.",
+  "quote9": "A well-designed algorithm can outperform vast amounts of hardware.",
+  "quote10": "Understanding connections is often the key to solving complexity.",
+  "quote11": "The best solutions balance rigor and usefulness.",
+  "quote12": "Networks reveal patterns that are not visible at first glance.",
+  "quote13": "Innovation often begins with asking why a process is inefficient.",
+  "quote14": "Abstraction helps transform difficult problems into solvable ones.",
+  "quote15": "Computational thinking extends beyond machines.",
+  "quote16": "The structure of data often determines the structure of solutions.",
+  "quote17": "Theoretical discoveries can have lasting practical impact.",
+  "quote18": "Large problems become approachable through decomposition.",
+  "quote19": "Scientific advancement depends on transferable ideas.",
+  "quote20": "Strong foundations enable future generations to build further."
+}

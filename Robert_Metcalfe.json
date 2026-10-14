@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Robert Metcalfe",
+  "thinkerImage": "Robert_Metcalfe.jpg",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/",
+  "imageLicense": "Varies by file",
+  "imageAttribution": "See Wikimedia Commons file page",
+
+  "indexLetter": "R",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Network Engineer, Entrepreneur",
+
+  "school": "Computer Networking, Distributed Systems, Communication Technologies",
+
+  "born": "7 April 1946",
+
+  "died": "",
+
+  "knownFor1": "Ethernet",
+  "knownFor2": "Computer Networking",
+  "knownFor3": "Local Area Networks",
+  "knownFor4": "Network Architecture",
+  "knownFor5": "Distributed Communication Systems",
+  "knownFor6": "Internet Infrastructure",
+  "knownFor7": "Technology Entrepreneurship",
+  "knownFor8": "Network Value Theory",
+
+  "legacy": "Robert Metcalfe helped establish the foundations of modern digital networking by contributing to technologies that allowed computers to communicate efficiently across local networks. His work accelerated the spread of connected computing environments and supported the transformation of computers from isolated machines into participants in global information systems.",
+
+  "earlyLife": "Robert Metcalfe developed an early interest in science, engineering, and communication technologies. As computing systems became more common, he became fascinated by the challenge of allowing multiple machines to exchange information quickly and reliably, a problem that would later define much of his professional career.",
+
+  "scientificField": "Computer Science, Networking, Communications Engineering, Distributed Systems",
+
+  "majorContribution": "Metcalfe played a major role in the development of networking technologies that enabled computers to share data across common communication channels. His work demonstrated that interconnected systems could dramatically increase the usefulness of computing infrastructure by making information accessible across organizations and communities.",
+
+  "laterLife": "Throughout his later career, Metcalfe remained active in technology research, education, innovation, and entrepreneurship. He continued promoting the growth of communication networks and contributed to discussions about the future of digital connectivity and information exchange.",
+
+  "whyImportant": "Modern business, education, communication, cloud computing, and internet services depend upon reliable networking technologies. Metcalfe's contributions helped create the environment in which connected devices became a normal part of everyday life, supporting the growth of today's digital world.",
+
+  "quote1": "Connection multiplies the value of technology.",
+  "quote2": "Networks become powerful when participation grows.",
+  "quote3": "Communication is one of the foundations of innovation.",
+  "quote4": "A connected system can accomplish more than isolated parts.",
+  "quote5": "Technology succeeds when people can share information easily.",
+  "quote6": "Progress often begins with improving communication.",
+  "quote7": "Useful networks grow through cooperation and adoption.",
+  "quote8": "Infrastructure quietly shapes the future.",
+  "quote9": "Information gains power when it can move efficiently.",
+  "quote10": "Innovation often depends on connecting existing ideas.",
+  "quote11": "Strong networks support strong communities.",
+  "quote12": "Practical engineering changes everyday life.",
+  "quote13": "Digital communication expands human opportunity.",
+  "quote14": "Connectivity creates possibilities that did not previously exist.",
+  "quote15": "Technology should reduce barriers rather than create them.",
+  "quote16": "Great systems are built to accommodate growth.",
+  "quote17": "Reliable communication enables cooperation at scale.",
+  "quote18": "Every connection adds potential value to a network.",
+  "quote19": "Long-term impact often comes from foundational technologies.",
+  "quote20": "The future belongs to increasingly connected systems."
+}
