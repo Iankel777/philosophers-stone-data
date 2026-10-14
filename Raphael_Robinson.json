@@ -1,15 +1,12 @@
 {
   "thinkerName": "Raphael Robinson",
 
-  "thinkerImage": "Raphael_Robinson.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Raphael_M_Robinson_1990_%28re-scanned%29.jpg/960px-Raphael_M_Robinson_1990_%28re-scanned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/raphael_robinson_portrait",
-
-  "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Raphael_M_Robinson_1990_%28re-scanned%29.jpg/960px-Raphael_M_Robinson_1990_%28re-scanned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution-Share Alike 4.0",
+  "imageAttribution": "George Bergman",
 
   "indexLetter": "R",
 
