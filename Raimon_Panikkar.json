@@ -1,15 +1,12 @@
 {
   "thinkerName": "Raimon Panikkar",
 
-  "thinkerImage": "Raimon_Panikkar.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Raimon_Panikkar.jpg/960px-Raimon_Panikkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/raimon_panikkar_portrait",
-
-  "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Raimon_Panikkar.jpg/960px-Raimon_Panikkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Zero, Public Domain Dedication",
+  "imageAttribution": "Milena Carrara",
 
   "indexLetter": "R",
 
