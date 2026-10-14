@@ -1,15 +1,12 @@
 {
   "thinkerName": "Richard Dedekind",
 
-  "thinkerImage": "Richard_Dedekind.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Richard_Dedekind_1900s.jpg/960px-Richard_Dedekind_1900s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/richard_dedekind_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Richard_Dedekind_1900s.jpg/960px-Richard_Dedekind_1900s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageAttribution": "Unknown (Mondadori Publishers)",
 
   "indexLetter": "R",
 
