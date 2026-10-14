@@ -1,11 +1,11 @@
 {
   "thinkerName": "Richard Dawkins",
-  "thinkerImage": "Richard_Dawkins.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Richard_Dawkins_addressing.jpg/960px-Richard_Dawkins_addressing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
   "imageSource": "Wikimedia Commons",
-  "imageSourceUrl": "https://commons.wikimedia.org/",
-  "imageLicense": "Varies by file",
-  "imageAttribution": "See Wikimedia Commons file page",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Richard_Dawkins_addressing.jpg/960px-Richard_Dawkins_addressing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution-Share Alike 3.0",
+  "imageAttribution": "Mike Cornwell",
 
   "indexLetter": "R",
 
