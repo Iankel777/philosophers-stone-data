@@ -1,15 +1,12 @@
 {
   "thinkerName": "Robert Sternberg",
 
-  "thinkerImage": "Robert_Sternberg.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Robert_Sternberg_author_photo_on_The_Triangle_of_Love_%281988%29.jpg/960px-Robert_Sternberg_author_photo_on_The_Triangle_of_Love_%281988%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/robert_sternberg_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Robert_Sternberg_author_photo_on_The_Triangle_of_Love_%281988%29.jpg/960px-Robert_Sternberg_author_photo_on_The_Triangle_of_Love_%281988%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageAttribution": "Unknown Author",
 
   "indexLetter": "R",
 
