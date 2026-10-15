@@ -1,15 +1,12 @@
 {
   "thinkerName": "Rita Levi Montalcini",
 
-  "thinkerImage": "Rita_Levi_Montalcini.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fototessera_di_Rita_Levi_Montalcini_all%27atto_dell%27immatricolazione_all%27Universit%C3%A0_%28cropped%29.jpg/960px-Fototessera_di_Rita_Levi_Montalcini_all%27atto_dell%27immatricolazione_all%27Universit%C3%A0_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/rita_levi_montalcini_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fototessera_di_Rita_Levi_Montalcini_all%27atto_dell%27immatricolazione_all%27Universit%C3%A0_%28cropped%29.jpg/960px-Fototessera_di_Rita_Levi_Montalcini_all%27atto_dell%27immatricolazione_all%27Universit%C3%A0_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageAttribution": "Unknown Author",
 
   "indexLetter": "R",
 
