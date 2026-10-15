@@ -1,15 +1,12 @@
 {
   "thinkerName": "Roger Scruton",
 
-  "thinkerImage": "Roger_Scruton.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Roger_Scruton_by_Pete_Helme.jpg/960px-Roger_Scruton_by_Pete_Helme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/roger_scruton_portrait",
-
-  "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Roger_Scruton_by_Pete_Helme.jpg/960px-Roger_Scruton_by_Pete_Helme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution-Share Alike 3.0",
+  "imageAttribution": "Pete Helme",
 
   "indexLetter": "R",
 
