@@ -733,7 +733,7 @@
   {"id":"richard_kuhn","name":"Richard Kuhn","letter":"R","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Richard_Kuhn_ETH-Bib_Dia_248-065.jpg/960px-Richard_Kuhn_ETH-Bib_Dia_248-065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Richard_Kuhn.json"},
   
   
-{"id":"richard_lazarus","name":"Richard Lazarus","letter":"R","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Lazarus.json"},
+
 {"id":"richard_leakey","name":"Richard Leakey","letter":"R","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Leakey.json"},
 {"id":"richard_lewontin","name":"Richard Lewontin","letter":"R","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Lewontin.json"},
 {"id":"richard_j_roberts","name":"Richard J. Roberts","letter":"R","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Roberts.json"},
