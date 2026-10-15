@@ -734,10 +734,10 @@
   
   
 
-{"id":"richard_leakey","name":"Richard Leakey","letter":"R","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Leakey.json"},
-{"id":"richard_lewontin","name":"Richard Lewontin","letter":"R","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Lewontin.json"},
-{"id":"richard_j_roberts","name":"Richard J. Roberts","letter":"R","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Richard_Roberts.json"},
-{"id":"richard_rorty","name":"Richard Rorty","letter":"R","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Richard_Rorty.json"},
+{"id":"richard_leakey","name":"Richard Leakey","letter":"R","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Richard_Leakey_%281986%29.jpg/960px-Richard_Leakey_%281986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Richard_Leakey.json"},
+{"id":"richard_lewontin","name":"Richard Lewontin","letter":"R","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dr._Richard_Lewontin_at_Harvard_University.jpg/960px-Dr._Richard_Lewontin_at_Harvard_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Richard_Lewontin.json"},
+{"id":"richard_j_roberts","name":"Richard J. Roberts","letter":"R","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Richard_Roberts_at_GYSS_21Jan2016_2.jpg/960px-Richard_Roberts_at_GYSS_21Jan2016_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Richard_Roberts.json"},
+
 {"id":"richard_stone","name":"Richard Stone","letter":"R","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Richard_Stone.json"},
 {"id":"richard_sutton","name":"Richard Sutton","letter":"R","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Richard_Sutton.json"},
 {"id":"richard_thaler","name":"Richard Thaler","letter":"R","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Richard_Thaler.json"},
