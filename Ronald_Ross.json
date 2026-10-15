@@ -1,15 +1,12 @@
 {
   "thinkerName": "Ronald Ross",
 
-  "thinkerImage": "Ronald_Ross.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ronald_Ross_4.jpg/960px-Ronald_Ross_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/ronald_ross_portrait",
-
-  "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ronald_Ross_4.jpg/960px-Ronald_Ross_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution 4.0",
+  "imageAttribution": "Unknown Author",
 
   "indexLetter": "R",
 
