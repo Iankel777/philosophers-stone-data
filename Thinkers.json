@@ -740,14 +740,15 @@
   
 {"id":"robert_koch","name":"Robert Koch","letter":"R","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/960px-RobertKoch_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Koch.json"},
 {"id":"robert_lowie","name":"Robert Lowie","letter":"R","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Robert_Lowie.png/960px-Robert_Lowie.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Lowie.json"},
-
-{"id":"robert_metcalfe","name":"Robert Metcalfe","letter":"R","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Robert_Metcalfe.json"},
-{"id":"robert_millikan","name":"Robert Millikan","letter":"R","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Robert_Millikan.json"},
-{"id":"robert_mundell","name":"Robert Mundell","letter":"R","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Robert_Mundell.json"},
-{"id":"robert_nozick","name":"Robert Nozick","letter":"R","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Robert_Nozick.json"},
-{"id":"robert_oppenheimer","name":"J. Robert Oppenheimer","letter":"R","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Robert_Oppenheimer.json"},
-{"id":"robert_plomin","name":"Robert Plomin","letter":"R","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Robert_Plomin.json"},
+{"id":"robert_metcalfe","name":"Robert Metcalfe","letter":"R","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Robert_Metcalfe_National_Medal_of_Technology.jpg/960px-Robert_Metcalfe_National_Medal_of_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Metcalfe.json"},
+{"id":"robert_millikan","name":"Robert Millikan","letter":"R","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Robert_Andrews_Millikan_1920s.jpg/960px-Robert_Andrews_Millikan_1920s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Millikan.json"},
+{"id":"robert_mundell","name":"Robert Mundell","letter":"R","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Robert_Mundell_%28headshot%29.jpg/960px-Robert_Mundell_%28headshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Mundell.json"},
+{"id":"robert_nozick","name":"Robert Nozick","letter":"R","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Robert_Nozick_1977_Libertarian_Review_cover.jpg/960px-Robert_Nozick_1977_Libertarian_Review_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Nozick.json"},
+{"id":"robert_oppenheimer","name":"J. Robert Oppenheimer","letter":"R","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/960px-Oppenheimer_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Oppenheimer.json"},
+{"id":"robert_plomin","name":"Robert Plomin","letter":"R","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Robert_Plomin.jpg/960px-Robert_Plomin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Plomin.json"},
   
+
+
   
 {"id":"robert_solow","name":"Robert Solow","letter":"R","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Robert_Solow.json"},
 {"id":"robert_sternberg","name":"Robert Sternberg","letter":"R","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Robert_Sternberg.json"},
