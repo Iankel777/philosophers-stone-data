@@ -757,9 +757,9 @@
   
 
   
-{"id":"ronald_ross","name":"Ronald Ross","letter":"R","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ronald_Ross.json"},
-{"id":"rosalind_franklin","name":"Rosalind Franklin","letter":"R","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Rosalind_Franklin.json"},
-{"id":"roy_rappaport","name":"Roy Rappaport","letter":"R","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Roy_Rappaport.json"},
+{"id":"ronald_ross","name":"Ronald Ross","letter":"R","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Ronald_Ross_4.jpg/960px-Ronald_Ross_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ronald_Ross.json"},
+{"id":"rosalind_franklin","name":"Rosalind Franklin","letter":"R","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosalind-franklin-in-paris.jpg/960px-Rosalind-franklin-in-paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Rosalind_Franklin.json"},
+
 {"id":"rudolf_mossbauer","name":"Rudolf Mössbauer","letter":"R","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Rudolf_Mossbauer.json"},
 {"id":"rudolf_virchow","name":"Rudolf Virchow","letter":"R","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Rudolf_Virchow.json"},
 {"id":"ruth_benedict","name":"Ruth Benedict","letter":"R","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ruth_Benedict.json"},
@@ -768,14 +768,8 @@
 
 
 
-  
-
-
-
-  
-
   {"id":"robert_curl","name":"Robert Curl","letter":"R","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Robert_Curl_crop_2009_CHAO.jpg/960px-Robert_Curl_crop_2009_CHAO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Curl.json"},
-  {"id":"ronald_coase","name":"Ronald Coase","letter":"R","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coase_working_2000s.jpg/960px-Coase_working_2000s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ronald_Coase.json"},
+  
  
   
   
