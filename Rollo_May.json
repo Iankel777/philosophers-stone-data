@@ -1,14 +1,11 @@
 {
   "thinkerName": "Rollo May",
 
-  "thinkerImage": "Rollo_May.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Rollo_May_USD_Alcal%C3%A1_1977.jpg/960px-Rollo_May_USD_Alcal%C3%A1_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/rollo_may_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Rollo_May_USD_Alcal%C3%A1_1977.jpg/960px-Rollo_May_USD_Alcal%C3%A1_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
   "imageAttribution": "Unknown photographer",
 
   "indexLetter": "R",
