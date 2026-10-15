@@ -1,15 +1,12 @@
 {
   "thinkerName": "Rudolf Mossbauer",
 
-  "thinkerImage": "Rudolf_Mossbauer.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rudolf_L._Moessbauer_1962.png/960px-Rudolf_L._Moessbauer_1962.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/rudolf_mossbauer_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rudolf_L._Moessbauer_1962.png/960px-Rudolf_L._Moessbauer_1962.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageAttribution": "Unknown Author",
 
   "indexLetter": "R",
 
