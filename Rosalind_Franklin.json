@@ -1,11 +1,11 @@
 {
   "thinkerName": "Rosalind Franklin",
-  "thinkerImage": "Rosalind_Franklin.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosalind-franklin-in-paris.jpg/960px-Rosalind-franklin-in-paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
   "imageSource": "Wikimedia Commons",
-  "imageSourceUrl": "https://commons.wikimedia.org/",
-  "imageLicense": "Varies by file",
-  "imageAttribution": "See Wikimedia Commons file page",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosalind-franklin-in-paris.jpg/960px-Rosalind-franklin-in-paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageLicense": "Creative Commons Attribution-Share Alike 4.0",
+  "imageAttribution": "CSHL",
 
   "indexLetter": "R",
 
