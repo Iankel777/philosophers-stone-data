@@ -751,7 +751,6 @@
 {"id":"robert_solow","name":"Robert Solow","letter":"R","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Solow_natmedal.jpg/960px-Solow_natmedal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Solow.json"},
 {"id":"robert_sternberg","name":"Robert Sternberg","letter":"R","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Robert_Sternberg_author_photo_on_The_Triangle_of_Love_%281988%29.jpg/960px-Robert_Sternberg_author_photo_on_The_Triangle_of_Love_%281988%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Robert_Sternberg.json"},
 
-{"id":"robin_milner","name":"Robin Milner","letter":"R","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Robin_Milner.json"},
 {"id":"roderick_chisholm","name":"Roderick Chisholm","letter":"R","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Roderick_Chisholm.json"},
 {"id":"roger_needham","name":"Roger Needham","letter":"R","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Roger_Needham.json"},
 {"id":"roger_penrose","name":"Roger Penrose","letter":"R","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Roger_Penrose.json"},
