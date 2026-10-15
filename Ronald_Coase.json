@@ -1,15 +1,12 @@
 {
   "thinkerName": "Ronald Coase",
 
-  "thinkerImage": "Ronald_Coase.jpg",
+  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Coase_profile_2003.jpg/960px-Coase_profile_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 
-  "imageSource": "Public Domain Archive",
-
-  "imageSourceUrl": "https://example.org/ronald_coase_portrait",
-
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Coase_profile_2003.jpg/960px-Coase_profile_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "imageLicense": "Public Domain",
-
-  "imageAttribution": "Unknown photographer",
+  "imageAttribution": "University of Chicago Law School",
 
   "indexLetter": "R",
 
