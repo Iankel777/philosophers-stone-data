@@ -1,64 +1,63 @@
 {
   "thinkerName": "Srinivasa Ramanujan",
 
-  "thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Srinivasa_Ramanujan_-_OPC_-_2_%28cleaned%29.jpg/960px-Srinivasa_Ramanujan_-_OPC_-_2_%28cleaned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "thinkerImage": "",
 
-  "imageSource": "Wikimedia Commons",
-  "imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Srinivasa_Ramanujan_-_OPC_-_2_%28cleaned%29.jpg/960px-Srinivasa_Ramanujan_-_OPC_-_2_%28cleaned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "imageLicense": "Public Domain",
-  "imageAttribution": "Konrad Jacobs",
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
 
-  "indexLetter": "R",
+  "indexLetter": "S",
 
   "nationality": "Indian",
 
   "occupation": "Mathematician, Number Theorist",
 
-  "school": "Pure Mathematics, Number Theory",
+  "school": "Mathematics, Number Theory, Infinite Series",
 
   "born": "22 December 1887",
-
   "died": "26 April 1920",
 
   "knownFor1": "Number Theory",
-  "knownFor2": "Infinite Series",
-  "knownFor3": "Partitions of Integers",
-  "knownFor4": "Ramanujan Prime Research",
-  "knownFor5": "Mock Theta Functions",
-  "knownFor6": "Continued Fractions",
+  "knownFor2": "Partition Theory",
+  "knownFor3": "Infinite Series",
+  "knownFor4": "Continued Fractions",
+  "knownFor5": "Modular Forms",
+  "knownFor6": "Ramanujan Functions",
   "knownFor7": "Mathematical Identities",
   "knownFor8": "Analytic Number Theory",
 
-  "legacy": "Srinivasa Ramanujan remains one of the most extraordinary mathematical minds in history. Working largely from intuition and independent study, he produced thousands of original results that influenced number theory, combinatorics, analysis, and mathematical physics. Many of his discoveries continued to generate new research decades after his death, demonstrating an unusual depth of insight that still inspires mathematicians around the world.",
+  "legacy": "Srinivasa Ramanujan became one of the most remarkable mathematical minds in history through his extraordinary discoveries in number theory, infinite series, and related fields. Despite limited formal training, he produced hundreds of original results that influenced major branches of mathematics. Many of his formulas and insights continue to inspire research, demonstrating the enduring power of creativity and intuition in mathematical discovery.",
 
-  "earlyLife": "Ramanujan grew up in southern India and displayed an exceptional fascination with numbers during childhood. With limited access to formal mathematical resources, he explored problems independently and filled notebooks with formulas, patterns, and conjectures. His dedication to mathematics often outweighed interest in other academic subjects, leading him to focus intensely on numerical relationships and mathematical structures.",
+  "earlyLife": "Srinivasa Ramanujan displayed exceptional mathematical talent from a young age. Growing up in South India, he became fascinated with numbers and devoted countless hours to independent study. Working largely on his own, he explored advanced mathematical problems and filled notebooks with original formulas and conjectures. His passion for mathematics remained central to his life despite financial and educational challenges.",
 
-  "scientificField": "Mathematics, Number Theory, Mathematical Analysis, Infinite Series",
+  "scientificField": "Mathematics, Number Theory, Analysis, Infinite Series",
 
-  "majorContribution": "Ramanujan developed groundbreaking formulas and theorems involving integer partitions, infinite series, continued fractions, and special mathematical functions. Many of his results were derived through remarkable intuition and later verified by rigorous proofs. His discoveries expanded mathematical understanding of numerical patterns and established new directions for research that remain active today.",
+  "majorContributions": "Ramanujan contributed groundbreaking results concerning number theory, partition functions, continued fractions, modular equations, and infinite series. His work revealed deep relationships among numbers and generated formulas of remarkable elegance and power. Many of his discoveries anticipated later developments in mathematics, while his notebooks became valuable sources of inspiration for future generations of researchers. His contributions continue to influence number theory, combinatorics, mathematical analysis, and theoretical physics.",
 
-  "laterLife": "During his later years, Ramanujan collaborated with leading mathematicians and gained international recognition for his exceptional talent. Despite serious health difficulties, he continued producing innovative mathematical work at an extraordinary pace. His final research introduced ideas that would later become central to the study of mock theta functions and advanced number theory.",
+  "laterLife": "During the final years of his career, Ramanujan collaborated with leading mathematicians and continued producing highly original research despite serious health difficulties. His publications gained international recognition, and his ideas attracted attention from mathematicians around the world. Although his life was tragically short, the impact of his work expanded substantially after his death as researchers explored and proved many of the results he left behind.",
 
-  "whyImportant": "Ramanujan demonstrated that profound mathematical discoveries can emerge from originality, persistence, and deep intuition. His work enriched several branches of mathematics and continues to influence research in areas ranging from theoretical physics to cryptography. He is widely regarded as one of the greatest natural mathematical talents ever known.",
+  "whyImportant": "Srinivasa Ramanujan is important because he demonstrated an extraordinary capacity for mathematical discovery and substantially advanced knowledge of numbers, series, and analytical methods. His work enriched several major areas of mathematics and continues to generate new research more than a century later. His life remains a powerful example of intellectual creativity, dedication, and the universal nature of scientific achievement.",
 
-  "quote1": "Numbers often reveal patterns long before their significance is understood.",
-  "quote2": "Curiosity transforms simple calculations into profound discoveries.",
-  "quote3": "Mathematics rewards those who explore beyond familiar methods.",
-  "quote4": "Complex truths can emerge from the study of simple numbers.",
-  "quote5": "Insight often appears where persistence meets imagination.",
-  "quote6": "Patterns are among the most powerful guides to understanding.",
-  "quote7": "Every mathematical question contains possibilities for discovery.",
-  "quote8": "Great ideas frequently begin with observations others overlook.",
-  "quote9": "The beauty of mathematics lies in its hidden connections.",
-  "quote10": "Numbers provide an endless landscape for exploration.",
-  "quote11": "Creative thinking expands the boundaries of mathematical knowledge.",
-  "quote12": "Understanding grows through attention to detail.",
-  "quote13": "Mathematical elegance often emerges from unexpected relationships.",
-  "quote14": "Discovery requires both intuition and dedication.",
-  "quote15": "Questions that seem impossible today may become clear tomorrow.",
-  "quote16": "Patterns reveal structures beneath apparent complexity.",
-  "quote17": "The search for knowledge begins with wonder.",
-  "quote18": "Mathematics transforms curiosity into understanding.",
-  "quote19": "Original thought can uncover entirely new directions of inquiry.",
-  "quote20": "The exploration of numbers is ultimately an exploration of order itself."
+  "quote1": "Mathematical beauty often appears where patterns reveal unexpected connections.",
+  "quote2": "Numbers contain depths that reward persistent exploration.",
+  "quote3": "Curiosity transforms calculation into discovery.",
+  "quote4": "Great insights often arise from sustained attention to simple questions.",
+  "quote5": "Mathematics reveals order hidden within complexity.",
+  "quote6": "Every problem contains possibilities waiting to be uncovered.",
+  "quote7": "Discovery begins with the willingness to explore the unknown.",
+  "quote8": "Patterns in numbers often lead to profound understanding.",
+  "quote9": "Creativity and logic flourish together in mathematics.",
+  "quote10": "Knowledge grows through observation, intuition, and verification.",
+  "quote11": "Mathematical ideas can illuminate relationships beyond immediate perception.",
+  "quote12": "Persistence often reveals solutions hidden from first inspection.",
+  "quote13": "The study of numbers is a journey into endless structure.",
+  "quote14": "Elegant solutions frequently emerge from deep understanding.",
+  "quote15": "Mathematics rewards imagination disciplined by reason.",
+  "quote16": "Complex truths sometimes arise from simple expressions.",
+  "quote17": "Every theorem expands the boundaries of understanding.",
+  "quote18": "Insight develops through dedication to difficult questions.",
+  "quote19": "Patterns discovered today may inspire generations of future thinkers.",
+  "quote20": "The pursuit of mathematics is a pursuit of hidden order and beauty."
 }

@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Sanjay Ghemawat",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "S",
+
+  "nationality": "Indian-American",
+
+  "occupation": "Software Engineer, Computer Scientist, Systems Architect",
+
+  "school": "Distributed Systems, Large-Scale Computing, Cloud Infrastructure",
+
+  "born": "1966",
+  "died": "",
+
+  "knownFor1": "Google File System",
+  "knownFor2": "MapReduce",
+  "knownFor3": "Distributed Computing",
+  "knownFor4": "Large-Scale Data Processing",
+  "knownFor5": "Cloud Infrastructure Design",
+  "knownFor6": "Storage Systems",
+  "knownFor7": "Scalable Computing Platforms",
+  "knownFor8": "Internet-Scale Engineering",
+
+  "legacy": "Sanjay Ghemawat helped establish many of the engineering principles used to manage enormous amounts of digital information across thousands of computers. His work demonstrated that large-scale computation could be simplified by designing systems that automatically coordinate storage, reliability, and processing. The concepts associated with his engineering contributions influenced an entire generation of cloud-computing platforms and data-intensive applications.",
+
+  "earlyLife": "From an early stage of his academic development, Sanjay Ghemawat showed strong interest in mathematics, computation, and problem solving. As computing systems grew larger and more interconnected, he became increasingly interested in how software could coordinate the work of many machines simultaneously. This interest eventually led him toward large-scale distributed computing research and engineering.",
+
+  "scientificField": "Software Engineering, Distributed Systems, Cloud Computing, Data Infrastructure",
+
+  "majorContributions": "Ghemawat contributed to the design of software systems that made it easier to store, organize, and process massive volumes of information. His work emphasized scalability, fault tolerance, and simplicity of operation. By promoting architectural approaches that spread workloads across many machines, he helped create practical methods for handling data sets far beyond the capacity of individual computers. These ideas became foundational to modern cloud services, search technologies, and large-scale analytics platforms.",
+
+  "laterLife": "As distributed computing expanded into a dominant computing model, Ghemawat continued contributing to the development of infrastructure technologies capable of supporting increasingly complex online services. His later work focused on improving efficiency, reliability, and performance while helping shape the evolution of modern computing platforms used by millions of people.",
+
+  "whyImportant": "Sanjay Ghemawat is important because he helped redefine how software systems operate at massive scale. Many of the techniques now considered standard in cloud computing and large-scale data processing trace their origins to engineering ideas that he helped develop or popularize. His influence extends across search engines, online services, scientific computing, and enterprise infrastructure.",
+
+  "quote1": "Large systems succeed when complexity is hidden behind simple interfaces.",
+  "quote2": "Scalability begins with designing for growth before growth arrives.",
+  "quote3": "Reliable infrastructure allows innovation to happen above it.",
+  "quote4": "Distributed computing turns coordination into a primary engineering challenge.",
+  "quote5": "A good system remains understandable even as it expands.",
+  "quote6": "Engineering progress often comes from simplifying difficult problems.",
+  "quote7": "Data becomes valuable when systems can process it efficiently.",
+  "quote8": "Fault tolerance is a requirement, not a luxury, at scale.",
+  "quote9": "The best architectures anticipate unavoidable failures.",
+  "quote10": "Small design decisions can have enormous consequences in large systems.",
+  "quote11": "Scalable software depends on thoughtful abstraction.",
+  "quote12": "Performance improvements accumulate through continuous refinement.",
+  "quote13": "Automation allows engineers to focus on higher-level challenges.",
+  "quote14": "Practical solutions often outperform theoretically perfect designs.",
+  "quote15": "Infrastructure is strongest when its users rarely notice it.",
+  "quote16": "Efficient data movement is as important as efficient computation.",
+  "quote17": "Growth reveals weaknesses that design must anticipate.",
+  "quote18": "Engineering excellence requires balancing simplicity and capability.",
+  "quote19": "Large-scale systems reward careful planning and disciplined execution.",
+  "quote20": "The future of computing depends on managing complexity without losing reliability."
+}

@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Scott Meyers",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "S",
+
+  "nationality": "American",
+
+  "occupation": "Software Engineer, Author, Programming Educator",
+
+  "school": "Software Engineering, C++, Programming Practices, Software Design",
+
+  "born": "1959",
+  "died": "",
+
+  "knownFor1": "Effective C++",
+  "knownFor2": "More Effective C++",
+  "knownFor3": "Effective STL",
+  "knownFor4": "Effective Modern C++",
+  "knownFor5": "C++ Best Practices",
+  "knownFor6": "Programming Education",
+  "knownFor7": "Software Design Guidance",
+  "knownFor8": "Developer Training",
+
+  "legacy": "Scott Meyers became one of the most influential educators in the C++ community by transforming complex language features into practical guidance that developers could immediately apply. His books helped generations of programmers write safer, clearer, and more maintainable software. Through teaching and writing, he encouraged developers to think carefully about design choices rather than focusing only on making code compile.",
+
+  "earlyLife": "Scott Meyers developed an interest in computing during the period when software systems were becoming increasingly sophisticated and widespread. As programming languages evolved, he became interested in understanding how developers could use powerful language features effectively while avoiding unnecessary complexity. This combination of technical curiosity and communication skill eventually led him toward technical education and software engineering guidance.",
+
+  "scientificField": "Software Engineering, C++ Programming, Object-Oriented Design, Software Development",
+
+  "majorContributions": "Meyers is known for explaining advanced software development concepts in a practical and understandable manner. His work emphasized writing code that remains reliable, maintainable, and efficient over time. By identifying common programming mistakes and providing clear alternatives, he helped countless developers improve both code quality and software design. His educational approach significantly influenced professional programming practices across the software industry.",
+
+  "laterLife": "As programming languages and software development practices evolved, Meyers continued updating his educational material to reflect modern techniques and changing industry needs. He remained a respected voice in software engineering, helping developers adapt to new language standards and better programming methodologies while maintaining a focus on clarity and correctness.",
+
+  "whyImportant": "Scott Meyers is important because he helped programmers understand not only how to use a powerful programming language, but how to use it responsibly and effectively. His educational contributions improved software quality across numerous industries by encouraging developers to think critically about design, maintainability, and long-term code health.",
+
+  "quote1": "Programming expertise grows when convenience is balanced with understanding.",
+  "quote2": "Readable code remains valuable long after it is first written.",
+  "quote3": "A good design reduces future confusion before it appears.",
+  "quote4": "Language features are most useful when applied with purpose.",
+  "quote5": "Clear abstractions make complex systems easier to reason about.",
+  "quote6": "Maintainability is one of the most important software features.",
+  "quote7": "The best programmers continually refine their understanding.",
+  "quote8": "Effective software design anticipates future change.",
+  "quote9": "A small design improvement can prevent many future problems.",
+  "quote10": "Code should communicate ideas as clearly as possible.",
+  "quote11": "Understanding trade-offs is a hallmark of professional development.",
+  "quote12": "Software quality emerges from thousands of careful decisions.",
+  "quote13": "Powerful tools require thoughtful use.",
+  "quote14": "Complexity should be introduced only when it provides clear value.",
+  "quote15": "Well-structured programs are easier to improve and maintain.",
+  "quote16": "Good engineering practices scale better than shortcuts.",
+  "quote17": "The pursuit of simplicity often requires deep knowledge.",
+  "quote18": "Every programming decision influences future developers.",
+  "quote19": "Learning never stops in a constantly evolving field.",
+  "quote20": "The strongest software foundations are built on clarity, discipline, and thoughtful design."
+}

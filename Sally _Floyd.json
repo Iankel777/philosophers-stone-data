@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Sally Floyd",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "S",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Network Engineer, Researcher",
+
+  "school": "Computer Networking, Internet Architecture, Congestion Control",
+
+  "born": "1950",
+  "died": "2019",
+
+  "knownFor1": "Internet Congestion Control",
+  "knownFor2": "Random Early Detection",
+  "knownFor3": "Network Fairness Research",
+  "knownFor4": "TCP Performance Studies",
+  "knownFor5": "Internet Traffic Analysis",
+  "knownFor6": "Active Queue Management",
+  "knownFor7": "Network Stability",
+  "knownFor8": "Modern Internet Infrastructure",
+
+  "legacy": "Sally Floyd helped shape the technical foundations that allow modern computer networks to remain stable under heavy demand. Her research improved understanding of how data flows through complex networks and provided practical solutions for reducing congestion before it becomes disruptive. Many networking concepts influenced by her work continue to support reliable Internet communication around the world.",
+
+  "earlyLife": "Sally Floyd developed an interest in analytical problem solving and computing during a period when computer networks were expanding rapidly. As digital communication systems became increasingly important, she focused her attention on understanding how large numbers of computers could exchange information efficiently without overwhelming shared resources. This focus led her toward network research and Internet engineering.",
+
+  "scientificField": "Computer Networking, Internet Engineering, Distributed Systems, Network Performance",
+
+  "majorContributions": "Floyd contributed important ideas for managing congestion in packet-switched networks and improving the fairness of data transmission between users. Her research explored how network protocols behave under real-world conditions and proposed methods for preventing performance degradation before it spreads through a system. By combining theoretical analysis with practical experimentation, she helped improve the efficiency, robustness, and scalability of Internet infrastructure.",
+
+  "laterLife": "Throughout her career, Floyd continued investigating emerging networking challenges and participating in efforts to improve Internet standards and communication protocols. Her research remained focused on ensuring that growing networks could remain reliable, fair, and efficient even as global demand for connectivity increased.",
+
+  "whyImportant": "Sally Floyd is important because many modern networking systems rely on principles that were strengthened by her research. Her work improved how networks respond to congestion, enabled more stable communication between connected devices, and contributed to the long-term scalability of the Internet. She demonstrated how careful engineering and rigorous experimentation could solve problems affecting millions of users simultaneously.",
+
+  "quote1": "Networks perform best when stability is designed into the system from the start.",
+  "quote2": "Understanding traffic patterns is essential to building reliable communication.",
+  "quote3": "Small improvements in network efficiency can benefit millions of users.",
+  "quote4": "Congestion is easier to prevent than to repair after it spreads.",
+  "quote5": "Engineering progress grows from observing real-world system behavior.",
+  "quote6": "Fairness is an important measure of network quality.",
+  "quote7": "Reliable communication depends on thoughtful protocol design.",
+  "quote8": "Large systems reveal their weaknesses under sustained demand.",
+  "quote9": "Good research connects theory with practical implementation.",
+  "quote10": "Internet infrastructure succeeds when it remains invisible to users.",
+  "quote11": "Scalability requires planning for challenges that do not yet exist.",
+  "quote12": "Effective engineering balances performance and reliability.",
+  "quote13": "Data should move efficiently without overwhelming shared resources.",
+  "quote14": "Careful experimentation often uncovers unexpected solutions.",
+  "quote15": "Complex systems become manageable through clear design principles.",
+  "quote16": "Network resilience depends on anticipating failure conditions.",
+  "quote17": "Innovation thrives when systems remain adaptable.",
+  "quote18": "Measurements provide the evidence needed for better decisions.",
+  "quote19": "Strong infrastructure supports future technological growth.",
+  "quote20": "The best network designs continue functioning under pressure."
+}

@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Spencer Kimball",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "S",
+
+  "nationality": "American",
+
+  "occupation": "Programmer, Software Engineer, Technology Entrepreneur",
+
+  "school": "Database Systems, Software Development, Distributed Computing",
+
+  "born": "1978",
+  "died": "",
+
+  "knownFor1": "CockroachDB",
+  "knownFor2": "SQLite Contributions",
+  "knownFor3": "Distributed Databases",
+  "knownFor4": "Scalable Data Infrastructure",
+  "knownFor5": "Cloud-Native Systems",
+  "knownFor6": "Database Engineering",
+  "knownFor7": "Startup Innovation",
+  "knownFor8": "Infrastructure Software",
+
+  "legacy": "Spencer Kimball became recognized for helping advance modern database technology through a focus on reliability, scalability, and distributed computing. His work encouraged the development of systems capable of storing and processing information across multiple machines while maintaining consistency and resilience. Through engineering leadership and technological innovation, he contributed to the evolution of data infrastructure used by contemporary software platforms.",
+
+  "earlyLife": "Spencer Kimball developed an early interest in computing, software design, and problem solving. As internet services expanded and applications grew more data-intensive, he became fascinated by the challenge of building systems capable of handling large amounts of information efficiently. This interest gradually guided him toward software engineering, database technologies, and large-scale infrastructure development.",
+
+  "scientificField": "Software Engineering, Database Systems, Distributed Computing, Cloud Infrastructure",
+
+  "majorContributions": "Kimball contributed to the design and improvement of software systems focused on efficient data storage and processing. His work emphasized creating infrastructure capable of scaling across many computers while maintaining reliability and performance. Through database engineering and distributed systems design, he helped demonstrate practical approaches to building platforms that can adapt to growing workloads without sacrificing operational stability.",
+
+  "laterLife": "As distributed computing became increasingly important to businesses and technology platforms, Kimball continued working on database technologies and infrastructure tools designed for large-scale environments. His later efforts focused on helping organizations manage ever-growing data demands while maintaining system reliability, flexibility, and long-term sustainability.",
+
+  "whyImportant": "Spencer Kimball is important because he helped advance technologies that support modern data-driven applications. His contributions influenced how organizations think about scalable databases, distributed architectures, and cloud-native infrastructure. Many contemporary software systems depend upon principles related to reliability, replication, and scalability that his work helped promote.",
+
+  "quote1": "Reliable infrastructure is built through careful engineering rather than assumptions.",
+  "quote2": "Scalability begins with designing systems that can grow gracefully.",
+  "quote3": "Good software architecture prepares for future challenges before they appear.",
+  "quote4": "Distributed computing rewards simplicity in design decisions.",
+  "quote5": "Data becomes valuable when systems can manage it effectively.",
+  "quote6": "Engineering progress often comes from solving practical problems well.",
+  "quote7": "Resilience should be a foundation, not an afterthought.",
+  "quote8": "Large systems require clear thinking and disciplined execution.",
+  "quote9": "A well-designed database creates opportunities for innovation.",
+  "quote10": "Performance improvements accumulate through continuous refinement.",
+  "quote11": "Technology succeeds when complexity is hidden behind useful tools.",
+  "quote12": "Growth reveals whether a design is truly scalable.",
+  "quote13": "Software quality is measured over years, not days.",
+  "quote14": "The strongest platforms adapt without losing stability.",
+  "quote15": "Engineering excellence depends on balancing ambition and practicality.",
+  "quote16": "Infrastructure should empower developers rather than constrain them.",
+  "quote17": "Reliable systems emerge from thoughtful preparation.",
+  "quote18": "Every technical decision influences future possibilities.",
+  "quote19": "Great software combines durability with adaptability.",
+  "quote20": "Long-term success is built on strong technical foundations."
+}

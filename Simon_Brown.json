@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Simon Brown",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "S",
+
+  "nationality": "British",
+
+  "occupation": "Software Architect, Software Engineer, Technical Author",
+
+  "school": "Software Architecture, Distributed Systems, Enterprise Software Design",
+
+  "born": "1970s",
+  "died": "",
+
+  "knownFor1": "C4 Model",
+  "knownFor2": "Software Architecture Education",
+  "knownFor3": "Architecture Visualization",
+  "knownFor4": "Enterprise Software Systems",
+  "knownFor5": "Architectural Documentation",
+  "knownFor6": "Technical Communication",
+  "knownFor7": "System Design Practices",
+  "knownFor8": "Software Architecture Consulting",
+
+  "legacy": "Simon Brown helped simplify the way software architecture is communicated within development teams. His work encouraged architects and engineers to describe systems using clear visual models that can be understood by both technical and non-technical audiences. By focusing on communication and simplicity, he made software architecture more accessible and practical for modern organizations.",
+
+  "earlyLife": "Simon Brown developed an interest in computing and software development during the expansion of enterprise software systems. Through years of professional experience on real-world projects, he observed that many software failures stemmed not only from technical challenges but also from poor communication and unclear system understanding. These observations led him to focus on software architecture and architectural communication.",
+
+  "scientificField": "Software Architecture, Software Engineering, Enterprise Systems, Systems Design",
+
+  "majorContributions": "Brown contributed practical methods for describing and documenting software systems in a way that remains understandable as projects grow. He promoted architectural thinking that emphasizes clarity, maintainability, and shared understanding across teams. His work demonstrated that effective diagrams and architectural models can improve collaboration, reduce misunderstandings, and support better engineering decisions throughout a project's lifecycle.",
+
+  "laterLife": "As organizations increasingly adopted distributed and cloud-based systems, Brown continued educating architects and developers through books, training programs, presentations, and consulting activities. His later work emphasized balancing technical detail with simplicity so that architecture could remain a useful tool rather than becoming excessive documentation.",
+
+  "whyImportant": "Simon Brown is important because he helped software teams communicate complex technical systems more effectively. His ideas encouraged engineers to think beyond code and consider how systems are explained, documented, and understood by others. Many architecture teams have adopted approaches influenced by his emphasis on visualization, clarity, and practical design communication.",
+
+  "quote1": "Architecture creates value when it improves understanding across a team.",
+  "quote2": "A system that cannot be clearly explained is difficult to improve.",
+  "quote3": "Good diagrams reveal structure without overwhelming the audience.",
+  "quote4": "Communication is one of the most important architectural skills.",
+  "quote5": "Software architecture should guide decisions rather than restrict them.",
+  "quote6": "Clarity allows complexity to be managed effectively.",
+  "quote7": "Shared understanding reduces unnecessary technical friction.",
+  "quote8": "The purpose of documentation is to support better decisions.",
+  "quote9": "Architecture should evolve alongside the systems it describes.",
+  "quote10": "Visual models help teams reason about large systems.",
+  "quote11": "Simplicity improves communication at every scale.",
+  "quote12": "Engineers benefit when architecture is visible and accessible.",
+  "quote13": "Good design begins with understanding relationships between components.",
+  "quote14": "A useful model highlights what matters most.",
+  "quote15": "Technical excellence grows from consistent understanding.",
+  "quote16": "Software systems become stronger when knowledge is shared openly.",
+  "quote17": "Architecture provides direction without prescribing every detail.",
+  "quote18": "Effective documentation is maintained, not merely created.",
+  "quote19": "System design improves when communication barriers are reduced.",
+  "quote20": "The best architectures help people collaborate as effectively as software components."
+}

@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Sandi Metz",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "S",
+
+  "nationality": "American",
+
+  "occupation": "Software Engineer, Author, Programming Educator",
+
+  "school": "Object-Oriented Design, Software Architecture, Agile Development",
+
+  "born": "1950s",
+  "died": "",
+
+  "knownFor1": "Object-Oriented Design",
+  "knownFor2": "Practical Software Architecture",
+  "knownFor3": "Maintainable Code",
+  "knownFor4": "Agile Software Development",
+  "knownFor5": "POODR",
+  "knownFor6": "Refactoring Practices",
+  "knownFor7": "Code Simplicity",
+  "knownFor8": "Developer Education",
+
+  "legacy": "Sandi Metz became one of the most respected voices in software design by teaching developers how to build systems that remain understandable and adaptable over time. Her work emphasized simplicity, flexibility, and communication within codebases. Through books, workshops, and conference presentations, she helped programmers focus on creating software that is easier to maintain, extend, and improve.",
+
+  "earlyLife": "Sandi Metz entered the technology field through practical software development work, where she encountered the challenges of maintaining large and evolving codebases. These experiences led her to explore software design principles that could reduce complexity and make systems easier for teams to understand. Over time, she developed a teaching style that transformed difficult architectural ideas into actionable guidance for developers.",
+
+  "scientificField": "Software Engineering, Object-Oriented Programming, Software Design, Software Architecture",
+
+  "majorContributions": "Metz promoted a design philosophy centered on flexibility, clear responsibilities, and reducing unnecessary coupling between software components. Her educational work encouraged developers to write code that could evolve as requirements changed rather than becoming increasingly rigid over time. By focusing on design quality and maintainability, she helped software teams improve long-term project sustainability and developer productivity.",
+
+  "laterLife": "As her influence grew within the software engineering community, Metz continued educating programmers through writing, speaking engagements, mentoring, and technical training. Her later work remained focused on helping developers manage software complexity while encouraging thoughtful decision-making regarding architecture, testing, and object-oriented design.",
+
+  "whyImportant": "Sandi Metz is important because she helped many software developers understand that effective software design is not simply about making programs work, but about making them adaptable to future change. Her ideas encouraged teams to value clarity, maintainability, and sustainability, making her a highly influential educator in modern software engineering.",
+
+  "quote1": "Software becomes more valuable when it remains easy to change.",
+  "quote2": "Good design reduces the cost of future decisions.",
+  "quote3": "Complexity should be earned, not assumed.",
+  "quote4": "Code communicates with people long after it communicates with machines.",
+  "quote5": "Flexible systems begin with clear responsibilities.",
+  "quote6": "Maintainability is an investment in the future of a project.",
+  "quote7": "Simple designs often survive longer than complicated ones.",
+  "quote8": "Refactoring is a tool for continuous improvement.",
+  "quote9": "Great software evolves through many small refinements.",
+  "quote10": "Developers should optimize for understanding before optimization for cleverness.",
+  "quote11": "A clear abstraction removes confusion without hiding intent.",
+  "quote12": "Design quality influences every future feature.",
+  "quote13": "The best code welcomes change instead of resisting it.",
+  "quote14": "Boundaries help systems remain understandable as they grow.",
+  "quote15": "Thoughtful design turns maintenance into progress rather than struggle.",
+  "quote16": "Software architecture reflects the decisions a team chooses to preserve.",
+  "quote17": "Readability compounds in value over the life of a project.",
+  "quote18": "Technical debt grows when convenience consistently defeats discipline.",
+  "quote19": "Every design choice creates opportunities and limitations.",
+  "quote20": "Successful software balances present needs with future adaptability."
+}
