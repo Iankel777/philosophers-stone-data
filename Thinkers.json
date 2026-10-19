@@ -776,14 +776,12 @@
 
   
 {"id":"sean_carroll","name":"Sean Carroll","letter":"S","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sean_B_Carroll.jpg/960px-Sean_B_Carroll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sean_Carroll.json"},
-
 {"id":"sergey_brin","name":"Sergey Brin","letter":"S","category":"Technology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Sergey_Brin%2C_Web_2.0_Conference.jpg/960px-Sergey_Brin%2C_Web_2.0_Conference.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sergey_Brin.json"},
+{"id":"seymour_papert","name":"Seymour Papert","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Seymour_Papert.jpg/960px-Seymour_Papert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Seymour_Papert.json"},
+{"id":"shafi_goldwasser","name":"Shafi Goldwasser","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/960px-Shafi_Goldwasser.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Shafi_Goldwasser.json"},
+{"id":"shawn_fanning","name":"Shawn Fanning","letter":"S","category":"Technology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Shawn_Fanning.jpg/960px-Shawn_Fanning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Shawn_Fanning.json"},
+{"id":"sheldon_glashow","name":"Sheldon Glashow","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sheldon_Glashow_at_Harvard.jpg/960px-Sheldon_Glashow_at_Harvard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sheldon_Glashow.json"},
 
-{"id":"seymour_papert","name":"Seymour Papert","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Seymour_Papert.json"},
-{"id":"shafi_goldwasser","name":"Shafi Goldwasser","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Shafi_Goldwasser.json"},
-{"id":"shawn_fanning","name":"Shawn Fanning","letter":"S","category":"Technology","legend":true,"visible":true,"image":"","jsonFile":"Shawn_Fanning.json"},
-{"id":"sheldon_glashow","name":"Sheldon Glashow","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Sheldon_Glashow.json"},
-{"id":"shelley_taylor","name":"Shelley Taylor","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Shelley_Taylor.json"},
 
 
 {"id":"sherry_turkle","name":"Sherry Turkle","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Sherry_Turkle.json"},
