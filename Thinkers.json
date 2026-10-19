@@ -768,17 +768,13 @@
 
 
 {"id":"sam_altman","name":"Sam Altman","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Sam_Altman_speaking_at_TED_%28cropped%29.jpg/960px-Sam_Altman_speaking_at_TED_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sam_Altman.json"},
-
 {"id":"samuel_ting","name":"Samuel Ting","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Samuel_Ting_2023.jpg/960px-Samuel_Ting_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Samuel_Ting.json"},
 {"id":"sandi_metz","name":"Sandi Metz","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sandi_Metz.jpg/960px-Sandi_Metz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sandi_Metz.json"},
+{"id":"sara_seager","name":"Sara Seager","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sara_Seager_CHF-Cain-Conference-May-2016-059.jpg/960px-Sara_Seager_CHF-Cain-Conference-May-2016-059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sara_Seager.json"},
+{"id":"scott_aaronson","name":"Scott Aaronson","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Scott_Aaronson_retouched.jpg/960px-Scott_Aaronson_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Scott_Aaronson.json"},
+{"id":"scott_meyers","name":"Scott Meyers","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Scott_Meyers.jpg/960px-Scott_Meyers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Scott_Meyers.json"},
 
-
-{"id":"sara_seager","name":"Sara Seager","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Sara_Seager.json"},
-{"id":"scott_aaronson","name":"Scott Aaronson","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Scott_Aaronson.json"},
   
-  
-{"id":"scott_meyers","name":"Scott Meyers","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Scott_Meyers.json"},
-{"id":"scott_peck","name":"Scott Peck","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Scott_Peck.json"},
 {"id":"sean_carroll","name":"Sean Carroll","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Sean_Carroll.json"},
 {"id":"sean_parker","name":"Sean Parker","letter":"S","category":"Technology","legend":true,"visible":true,"image":"","jsonFile":"Sean_Parker.json"},
 {"id":"sergey_brin","name":"Sergey Brin","letter":"S","category":"Technology","legend":true,"visible":true,"image":"","jsonFile":"Sergey_Brin.json"},
