@@ -772,7 +772,7 @@
 {"id":"samuel_ting","name":"Samuel Ting","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Samuel_Ting_2023.jpg/960px-Samuel_Ting_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Samuel_Ting.json"},
 {"id":"sandi_metz","name":"Sandi Metz","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sandi_Metz.jpg/960px-Sandi_Metz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sandi_Metz.json"},
 
-{"id":"sanjay_ghemawat","name":"Sanjay Ghemawat","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Sanjay_Ghemawat.json"},
+
 {"id":"sara_seager","name":"Sara Seager","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Sara_Seager.json"},
 {"id":"scott_aaronson","name":"Scott Aaronson","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Scott_Aaronson.json"},
   
