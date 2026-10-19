@@ -779,22 +779,19 @@
   {"id":"shafi_goldwasser","name":"Shafi Goldwasser","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/960px-Shafi_Goldwasser.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Shafi_Goldwasser.json"},
   {"id":"shawn_fanning","name":"Shawn Fanning","letter":"S","category":"Technology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Shawn_Fanning.jpg/960px-Shawn_Fanning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Shawn_Fanning.json"},
   {"id":"sheldon_glashow","name":"Sheldon Glashow","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sheldon_Glashow_at_Harvard.jpg/960px-Sheldon_Glashow_at_Harvard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sheldon_Glashow.json"},
+  {"id":"sherry_turkle","name":"Sherry Turkle","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sherry_Turkle.jpg/960px-Sherry_Turkle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sherry_Turkle.json"},
+  {"id":"sheryl_sandberg","name":"Sheryl Sandberg","letter":"S","category":"Technology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sheryl_Sandberg_2013.jpg/960px-Sheryl_Sandberg_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sheryl_Sandberg.json"},
+  {"id":"sigmund_freud","name":"Sigmund Freud","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Austrian-psychoanalyst-Sigmund-Freud-1935.webp/960px-Austrian-psychoanalyst-Sigmund-Freud-1935.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sigmund_Freud.json"},
+  {"id":"silvio_micali","name":"Silvio Micali","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Silvio_Micali.jpg/960px-Silvio_Micali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Silvio_Micali.json"},
+  {"id":"simon_kuznets","name":"Simon Kuznets","letter":"S","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Simon_Kuznets_1971.jpg/960px-Simon_Kuznets_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simon_Kuznets.json"},
+  {"id":"simone_de_beauvoir","name":"Simone de Beauvoir","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Simone_de_Beauvoir_1955.jpg/960px-Simone_de_Beauvoir_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simone_de_Beauvoir.json"},
 
-
-
-{"id":"sherry_turkle","name":"Sherry Turkle","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sherry_Turkle.jpg/960px-Sherry_Turkle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sherry_Turkle.json"},
-{"id":"sheryl_sandberg","name":"Sheryl Sandberg","letter":"S","category":"Technology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sheryl_Sandberg_2013.jpg/960px-Sheryl_Sandberg_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sheryl_Sandberg.json"},
-{"id":"sigmund_freud","name":"Sigmund Freud","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Austrian-psychoanalyst-Sigmund-Freud-1935.webp/960px-Austrian-psychoanalyst-Sigmund-Freud-1935.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sigmund_Freud.json"},
-{"id":"silvio_micali","name":"Silvio Micali","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Silvio_Micali.jpg/960px-Silvio_Micali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Silvio_Micali.json"},
-{"id":"simon_kuznets","name":"Simon Kuznets","letter":"S","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Simon_Kuznets_1971.jpg/960px-Simon_Kuznets_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simon_Kuznets.json"},
-{"id":"simone_de_beauvoir","name":"Simone de Beauvoir","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Simone_de_Beauvoir_1955.jpg/960px-Simone_de_Beauvoir_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simone_de_Beauvoir.json"},
-{"id":"slavoj_zizek","name":"Slavoj Žižek","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Slavoj_Zizek_in_Liverpool_2.jpg/960px-Slavoj_Zizek_in_Liverpool_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Slavoj_Zizek.json"},
   
 
 
   
-{"id":"socrates","name":"Socrates","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Socrates.json"},
-{"id":"solomon_asch","name":"Solomon Asch","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Solomon_Asch.json"},
+{"id":"socrates","name":"Socrates","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg/960px-%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Socrates.json"},
+
 {"id":"sophie_germain","name":"Sophie Germain","letter":"S","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Sophie_Germain.json"},
 {"id":"soren_kierkegaard","name":"Søren Kierkegaard","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Soren_Kierkegaard.json"},
 {"id":"spencer_kimball","name":"Spencer Kimball","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Spencer_Kimball.json"},
@@ -806,6 +803,8 @@
 {"id":"stephen_cook","name":"Stephen Cook","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Cook.json"},
 
 
+
+  
 {"id":"stephen_hawking","name":"Stephen Hawking","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Hawking.json"},
 {"id":"stephen_jay_gould","name":"Stephen Jay Gould","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Jay_Gould.json"},
 {"id":"stephen_lansing","name":"Stephen Lansing","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Lansing.json"},
