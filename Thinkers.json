@@ -799,22 +799,13 @@
 
   
   
-
 {"id":"steven_pinker","name":"Steven Pinker","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Steven_Pinker.jpg/960px-Steven_Pinker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Steven_Pinker.json"},
 {"id":"steven_weinberg","name":"Steven Weinberg","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Steven-weinberg-2.jpg/960px-Steven-weinberg-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Steven_Weinberg.json"},
-
 {"id":"subrahmanyan_chandrasekhar","name":"Subrahmanyan Chandrasekhar","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Subrahmanyan_Chandrasekhar_harvard.jpg/960px-Subrahmanyan_Chandrasekhar_harvard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Subrahmanyan_Chandrasekhar.json"},
+{"id":"susumu_tonegawa","name":"Susumu Tonegawa","letter":"S","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Susumu_Tonegawa_Photo_cropped.jpg/960px-Susumu_Tonegawa_Photo_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Susumu_Tonegawa.json"},
+{"id":"sydney_brenner","name":"Sydney Brenner","letter":"S","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Sydney_Brenner_OIST_2008_%2833208371153%29_%28cropped%29.jpg/960px-Sydney_Brenner_OIST_2008_%2833208371153%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sydney_Brenner.json"},
 
-{"id":"susumu_tonegawa","name":"Susumu Tonegawa","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Susumu_Tonegawa.json"},
-{"id":"sydney_brenner","name":"Sydney Brenner","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Sydney_Brenner.json"},
-{"id":"sydney_shoemaker","name":"Sydney Shoemaker","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Sydney_Shoemaker.json"},
 
-  
-  
- 
-  
-  
-  
   
   {"id":"steven_chu","name":"Steven Chu","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Steven_Chu_official_portrait.jpg/960px-Steven_Chu_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Steven_Chu.json"},
   {"id":"subrahmanyan_chandrasekhar","name":"Subrahmanyan Chandrasekhar","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Subrahmanyan_Chandrasekhar.jpg/960px-Subrahmanyan_Chandrasekhar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Subrahmanyan_Chandrasekhar.json"}
