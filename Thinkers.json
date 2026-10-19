@@ -798,7 +798,6 @@
 {"id":"stephen_jay_gould","name":"Stephen Jay Gould","letter":"S","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephen_Jay_Gould.jpg/960px-Stephen_Jay_Gould.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Jay_Gould.json"},
 {"id":"stephen_lansing","name":"Stephen Lansing","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Steve_Lansing.jpg/960px-Steve_Lansing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Lansing.json"},
 
-{"id":"stephen_toulmin","name":"Stephen Toulmin","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Toulmin.json"},
 {"id":"stephen_wolfram","name":"Stephen Wolfram","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Wolfram.json"},
 {"id":"steve_mcconnell","name":"Steve McConnell","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Steve_McConnell.json"},
 {"id":"steve_wozniak","name":"Steve Wozniak","letter":"S","category":"Technology","legend":true,"visible":true,"image":"","jsonFile":"Steve_Wozniak.json"},
