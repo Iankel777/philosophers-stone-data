@@ -805,7 +805,6 @@
 
 {"id":"subrahmanyan_chandrasekhar","name":"Subrahmanyan Chandrasekhar","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Subrahmanyan_Chandrasekhar_harvard.jpg/960px-Subrahmanyan_Chandrasekhar_harvard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Subrahmanyan_Chandrasekhar.json"},
 
-{"id":"susanne_langer","name":"Susanne Langer","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Susanne_Langer.json"},
 {"id":"susumu_tonegawa","name":"Susumu Tonegawa","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Susumu_Tonegawa.json"},
 {"id":"sydney_brenner","name":"Sydney Brenner","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Sydney_Brenner.json"},
 {"id":"sydney_shoemaker","name":"Sydney Shoemaker","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Sydney_Shoemaker.json"},
