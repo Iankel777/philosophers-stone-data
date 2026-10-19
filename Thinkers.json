@@ -785,29 +785,26 @@
   {"id":"silvio_micali","name":"Silvio Micali","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Silvio_Micali.jpg/960px-Silvio_Micali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Silvio_Micali.json"},
   {"id":"simon_kuznets","name":"Simon Kuznets","letter":"S","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Simon_Kuznets_1971.jpg/960px-Simon_Kuznets_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simon_Kuznets.json"},
   {"id":"simone_de_beauvoir","name":"Simone de Beauvoir","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Simone_de_Beauvoir_1955.jpg/960px-Simone_de_Beauvoir_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simone_de_Beauvoir.json"},
-
-  
-
-
-  
-{"id":"socrates","name":"Socrates","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg/960px-%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Socrates.json"},
-{"id":"soren_kierkegaard","name":"Søren Kierkegaard","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg/960px-S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Soren_Kierkegaard.json"},
-{"id":"spencer_kimball","name":"Spencer Kimball","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Spencer_Kimball.png/960px-Spencer_Kimball.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Spencer_Kimball.json"},
-{"id":"stanley_milgram","name":"Stanley Milgram","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Stanley_Milgram_1974.jpg/960px-Stanley_Milgram_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stanley_Milgram.json"},
-{"id":"stephen_cook","name":"Stephen Cook","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2012-06-15_Stephen_A._Cook.jpg/960px-2012-06-15_Stephen_A._Cook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Cook.json"},
+  {"id":"socrates","name":"Socrates","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg/960px-%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Socrates.json"},
+  {"id":"soren_kierkegaard","name":"Søren Kierkegaard","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg/960px-S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Soren_Kierkegaard.json"},
+  {"id":"spencer_kimball","name":"Spencer Kimball","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Spencer_Kimball.png/960px-Spencer_Kimball.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Spencer_Kimball.json"},
+  {"id":"stanley_milgram","name":"Stanley Milgram","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Stanley_Milgram_1974.jpg/960px-Stanley_Milgram_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stanley_Milgram.json"},
+  {"id":"stephen_cook","name":"Stephen Cook","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2012-06-15_Stephen_A._Cook.jpg/960px-2012-06-15_Stephen_A._Cook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Cook.json"},
 
 
 
   
-{"id":"stephen_hawking","name":"Stephen Hawking","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Hawking.json"},
-{"id":"stephen_jay_gould","name":"Stephen Jay Gould","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Jay_Gould.json"},
-{"id":"stephen_lansing","name":"Stephen Lansing","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Lansing.json"},
-{"id":"stephen_ross","name":"Stephen Ross","letter":"S","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Ross.json"},
+{"id":"stephen_hawking","name":"Stephen Hawking","letter":"S","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stephen_hawking.jpg/960px-Stephen_hawking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Hawking.json"},
+{"id":"stephen_jay_gould","name":"Stephen Jay Gould","letter":"S","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephen_Jay_Gould.jpg/960px-Stephen_Jay_Gould.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Jay_Gould.json"},
+{"id":"stephen_lansing","name":"Stephen Lansing","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Steve_Lansing.jpg/960px-Steve_Lansing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stephen_Lansing.json"},
+
 {"id":"stephen_schneider","name":"Stephen Schneider","letter":"S","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Schneider.json"},
 {"id":"stephen_toulmin","name":"Stephen Toulmin","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Toulmin.json"},
 {"id":"stephen_wolfram","name":"Stephen Wolfram","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Wolfram.json"},
 {"id":"steve_mcconnell","name":"Steve McConnell","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Steve_McConnell.json"},
 {"id":"steve_wozniak","name":"Steve Wozniak","letter":"S","category":"Technology","legend":true,"visible":true,"image":"","jsonFile":"Steve_Wozniak.json"},
+
+
   
   
 {"id":"steven_levitt","name":"Steven Levitt","letter":"S","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Steven_Levitt.json"},
