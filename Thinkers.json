@@ -792,7 +792,6 @@
   
 {"id":"socrates","name":"Socrates","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg/960px-%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82%2C_%CE%91%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD_6616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Socrates.json"},
 
-{"id":"sophie_germain","name":"Sophie Germain","letter":"S","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Sophie_Germain.json"},
 {"id":"soren_kierkegaard","name":"Søren Kierkegaard","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Soren_Kierkegaard.json"},
 {"id":"spencer_kimball","name":"Spencer Kimball","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Spencer_Kimball.json"},
 {"id":"srinivasa_ramanujan","name":"Srinivasa Ramanujan","letter":"S","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Srinivasa_Ramanujan.json"},
