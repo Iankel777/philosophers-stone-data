@@ -765,8 +765,8 @@
   
  
   
- 
-{"id":"sally_falk_moore","name":"Sally Falk Moore","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Sally_Falk_Moore.json"},
+
+
 {"id":"sam_altman","name":"Sam Altman","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Sam_Altman.json"},
 {"id":"sam_newman","name":"Sam Newman","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Sam_Newman.json"},
 {"id":"samuel_ting","name":"Samuel Ting","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Samuel_Ting.json"},
