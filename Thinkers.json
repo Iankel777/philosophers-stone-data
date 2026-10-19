@@ -767,8 +767,8 @@
   
 
 
-{"id":"sam_altman","name":"Sam Altman","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Sam_Altman.json"},
-{"id":"sam_newman","name":"Sam Newman","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Sam_Newman.json"},
+{"id":"sam_altman","name":"Sam Altman","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Sam_Altman_speaking_at_TED_%28cropped%29.jpg/960px-Sam_Altman_speaking_at_TED_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sam_Altman.json"},
+
 {"id":"samuel_ting","name":"Samuel Ting","letter":"S","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Samuel_Ting.json"},
 {"id":"sandi_metz","name":"Sandi Metz","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Sandi_Metz.json"},
 {"id":"sandra_scarr","name":"Sandra Scarr","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Sandra_Scarr.json"},
