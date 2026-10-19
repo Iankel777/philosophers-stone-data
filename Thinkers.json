@@ -783,15 +783,15 @@
 
 
 {"id":"sherry_turkle","name":"Sherry Turkle","letter":"S","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sherry_Turkle.jpg/960px-Sherry_Turkle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sherry_Turkle.json"},
-
 {"id":"sheryl_sandberg","name":"Sheryl Sandberg","letter":"S","category":"Technology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sheryl_Sandberg_2013.jpg/960px-Sheryl_Sandberg_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sheryl_Sandberg.json"},
 {"id":"sigmund_freud","name":"Sigmund Freud","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Austrian-psychoanalyst-Sigmund-Freud-1935.webp/960px-Austrian-psychoanalyst-Sigmund-Freud-1935.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Sigmund_Freud.json"},
-
 {"id":"silvio_micali","name":"Silvio Micali","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Silvio_Micali.jpg/960px-Silvio_Micali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Silvio_Micali.json"},
-{"id":"simon_kuznets","name":"Simon Kuznets","letter":"S","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Simon_Kuznets.json"},
-{"id":"simone_de_beauvoir","name":"Simone de Beauvoir","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Simone_de_Beauvoir.json"},
-{"id":"slavoj_zizek","name":"Slavoj Žižek","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Slavoj_Zizek.json"},
+{"id":"simon_kuznets","name":"Simon Kuznets","letter":"S","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Simon_Kuznets_1971.jpg/960px-Simon_Kuznets_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simon_Kuznets.json"},
+{"id":"simone_de_beauvoir","name":"Simone de Beauvoir","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Simone_de_Beauvoir_1955.jpg/960px-Simone_de_Beauvoir_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Simone_de_Beauvoir.json"},
+{"id":"slavoj_zizek","name":"Slavoj Žižek","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Slavoj_Zizek_in_Liverpool_2.jpg/960px-Slavoj_Zizek_in_Liverpool_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Slavoj_Zizek.json"},
   
+
+
   
 {"id":"socrates","name":"Socrates","letter":"S","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Socrates.json"},
 {"id":"solomon_asch","name":"Solomon Asch","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Solomon_Asch.json"},
