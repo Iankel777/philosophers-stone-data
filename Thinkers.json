@@ -797,7 +797,6 @@
 
 {"id":"stanley_milgram","name":"Stanley Milgram","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Stanley_Milgram_1974.jpg/960px-Stanley_Milgram_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Stanley_Milgram.json"},
 
-{"id":"stanton_peele","name":"Stanton Peele","letter":"S","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Stanton_Peele.json"},
 {"id":"stephen_cook","name":"Stephen Cook","letter":"S","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Stephen_Cook.json"},
 
 
