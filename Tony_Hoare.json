@@ -1,0 +1,63 @@
+{
+    "thinkerName": "Tony Hoare",
+
+    "thinkerImage": "",
+
+    "imageSource": "Wikimedia Commons",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageAttribution": "",
+
+    "indexLetter": "T",
+
+    "nationality": "British",
+
+    "occupation": "Computer Scientist, Software Engineer, Programming Language Researcher",
+
+    "school": "Algorithms, Programming Languages, Formal Methods",
+
+    "born": "11 January 1934",
+    "died": "",
+
+    "knownFor1": "Quicksort",
+    "knownFor2": "Hoare Logic",
+    "knownFor3": "Communicating Sequential Processes",
+    "knownFor4": "Formal Verification",
+    "knownFor5": "Structured Programming",
+    "knownFor6": "Concurrent Computing",
+    "knownFor7": "Programming Language Theory",
+    "knownFor8": "Software Correctness",
+
+    "legacy": "Tony Hoare helped establish many of the intellectual foundations of modern computer science. His work connected practical programming with mathematical reasoning, demonstrating that software could be designed, analyzed and verified with far greater rigor than was previously common.",
+
+    "earlyLife": "Hoare displayed strong interests in mathematics and logical reasoning from an early age. As computing technology emerged into a significant scientific discipline, he became fascinated by the challenge of creating reliable methods for designing and understanding computer programs.",
+
+    "scientificField": "Computer Science, Software Engineering, Formal Methods, Algorithms",
+
+    "majorContributions": "Hoare developed Quicksort, one of the most influential sorting algorithms ever created. He also introduced Hoare Logic, a framework for reasoning about program correctness, and contributed important ideas in concurrent computing through Communicating Sequential Processes. His research encouraged generations of programmers to think carefully about software reliability and correctness.",
+
+    "laterLife": "Throughout his career, Hoare continued exploring software quality, formal verification and dependable systems. He became a leading advocate for applying mathematical methods to software engineering and contributed to discussions about the long-term reliability of increasingly complex computer systems.",
+
+    "whyImportant": "Modern software engineering relies heavily on concepts related to algorithmic efficiency, correctness and system reliability. Tony Hoare's work provided some of the most influential tools and ideas for addressing these challenges and remains deeply embedded in computer science education and research.",
+
+    "quote1": "Reliable software begins with reliable reasoning.",
+    "quote2": "A simple algorithm often outlives a complicated one.",
+    "quote3": "Clarity is the first step toward correctness.",
+    "quote4": "Programs should be understood before they are trusted.",
+    "quote5": "Mathematics provides a language for precision.",
+    "quote6": "Efficiency matters, but correctness comes first.",
+    "quote7": "Good design reduces future complexity.",
+    "quote8": "Every program expresses a chain of logical decisions.",
+    "quote9": "Verification strengthens confidence in software.",
+    "quote10": "The best solutions often appear deceptively simple.",
+    "quote11": "Careful thinking is a programmer's most valuable tool.",
+    "quote12": "Algorithms shape the performance of entire systems.",
+    "quote13": "Precision prevents many avoidable mistakes.",
+    "quote14": "Sound foundations support lasting innovation.",
+    "quote15": "Software quality is achieved through discipline.",
+    "quote16": "A programmer should value understanding over shortcuts.",
+    "quote17": "Structured thinking produces dependable results.",
+    "quote18": "Complex systems require clear principles.",
+    "quote19": "Correctness and elegance often reinforce one another.",
+    "quote20": "Great software combines logic, simplicity and reliability."
+}

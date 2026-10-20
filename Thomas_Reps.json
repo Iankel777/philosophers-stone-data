@@ -1,0 +1,63 @@
+{
+    "thinkerName": "Thomas Reps",
+
+    "thinkerImage": "",
+
+    "imageSource": "Wikimedia Commons",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageAttribution": "",
+
+    "indexLetter": "T",
+
+    "nationality": "American",
+
+    "occupation": "Computer Scientist, Software Engineering Researcher, Professor",
+
+    "school": "Program Analysis, Software Engineering, Programming Languages",
+
+    "born": "1954",
+    "died": "",
+
+    "knownFor1": "Program Analysis",
+    "knownFor2": "Software Verification",
+    "knownFor3": "Static Analysis",
+    "knownFor4": "Programming Languages",
+    "knownFor5": "Compiler Technology",
+    "knownFor6": "Interprocedural Analysis",
+    "knownFor7": "Automated Reasoning",
+    "knownFor8": "Software Reliability",
+
+    "legacy": "Thomas Reps helped advance the scientific understanding of how software can be analyzed automatically. His research provided developers and researchers with methods for examining complex computer programs, identifying potential issues and improving software reliability through rigorous analysis.",
+
+    "earlyLife": "Reps developed interests in mathematics, logic and computation during his early academic years. Drawn to the challenge of understanding large and complex software systems, he pursued research focused on creating tools that could reason about program behavior systematically.",
+
+    "scientificField": "Computer Science, Software Engineering, Program Analysis, Programming Languages",
+
+    "majorContributions": "Reps contributed important advances in static program analysis and software verification. His work explored ways to determine properties of programs without executing them, enabling improvements in software correctness, optimization and security. His research influenced modern software analysis tools used in both academic and industrial environments.",
+
+    "laterLife": "Throughout his career, Reps continued conducting research, mentoring students and expanding the capabilities of automated software analysis. His work remained influential as software systems grew larger and more critical to modern infrastructure and technology.",
+
+    "whyImportant": "Modern software systems contain enormous complexity, making automated analysis increasingly essential. Thomas Reps helped develop techniques that allow engineers to better understand software behavior, improve reliability and reduce errors before deployment.",
+
+    "quote1": "Understanding software begins with understanding its structure.",
+    "quote2": "Analysis transforms complexity into insight.",
+    "quote3": "Reliable systems depend on careful examination.",
+    "quote4": "Automation extends the reach of human reasoning.",
+    "quote5": "Software quality grows from deeper understanding.",
+    "quote6": "Every program contains information beyond what is immediately visible.",
+    "quote7": "Verification strengthens confidence in engineering decisions.",
+    "quote8": "Complex systems benefit from systematic analysis.",
+    "quote9": "Precision is essential in both mathematics and software.",
+    "quote10": "Tools should help developers reason more effectively.",
+    "quote11": "Software engineering advances through better methods of understanding.",
+    "quote12": "Careful analysis reveals opportunities for improvement.",
+    "quote13": "Innovation often follows improved understanding.",
+    "quote14": "Large systems require disciplined approaches.",
+    "quote15": "Knowledge emerges from examining relationships.",
+    "quote16": "Correctness is a goal worth pursuing rigorously.",
+    "quote17": "Good engineering reduces uncertainty.",
+    "quote18": "Program analysis turns hidden behavior into observable knowledge.",
+    "quote19": "Reliable software starts with sound foundations.",
+    "quote20": "Understanding complexity is the first step toward mastering it."
+}

@@ -1,0 +1,63 @@
+{
+    "thinkerName": "Theo de Raadt",
+
+    "thinkerImage": "",
+
+    "imageSource": "Wikimedia Commons",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageAttribution": "",
+
+    "indexLetter": "T",
+
+    "nationality": "Canadian",
+
+    "occupation": "Software Engineer, Computer Programmer, Open Source Developer",
+
+    "school": "Operating Systems, Computer Security, Open Source Software",
+
+    "born": "19 May 1968",
+    "died": "",
+
+    "knownFor1": "OpenBSD",
+    "knownFor2": "OpenSSH",
+    "knownFor3": "Computer Security",
+    "knownFor4": "Secure Operating Systems",
+    "knownFor5": "Open Source Development",
+    "knownFor6": "Code Auditing",
+    "knownFor7": "LibreSSL",
+    "knownFor8": "Security Engineering",
+
+    "legacy": "Theo de Raadt became one of the most influential figures in secure open-source software development. Through his leadership and technical direction, he helped establish a culture that prioritizes correctness, transparency and security in operating system design.",
+
+    "earlyLife": "Growing up with an interest in computing and software, de Raadt was drawn to the technical challenges of operating systems and low-level programming. His fascination with system reliability and code quality eventually led him to participate in major open-source projects and later create his own.",
+
+    "scientificField": "Software Engineering, Computer Security, Operating Systems",
+
+    "majorContributions": "De Raadt is best known for founding OpenBSD, a project focused on security, careful code review and reliability. Under his guidance, the project produced technologies that became widely used throughout the computing industry. His emphasis on proactive security practices influenced how many developers approach software engineering and infrastructure protection.",
+
+    "laterLife": "As OpenBSD matured, de Raadt continued directing development efforts while encouraging rigorous coding standards and detailed security reviews. His work helped maintain one of the most respected security-focused software projects in the open-source community.",
+
+    "whyImportant": "Many security technologies used across servers, networks and internet infrastructure emerged from projects associated with Theo de Raadt. His focus on secure-by-default systems demonstrated that careful engineering can significantly improve software trustworthiness.",
+
+    "quote1": "Secure software begins with disciplined engineering.",
+    "quote2": "Every overlooked detail is a future problem waiting to appear.",
+    "quote3": "Reliability grows from careful review.",
+    "quote4": "A secure system is built one decision at a time.",
+    "quote5": "Code quality is a long-term investment.",
+    "quote6": "Simplicity often reduces security risks.",
+    "quote7": "Good engineering values correctness over shortcuts.",
+    "quote8": "Transparency improves trust in software.",
+    "quote9": "Security requires constant attention.",
+    "quote10": "The strongest systems are built on solid fundamentals.",
+    "quote11": "Reviewing code is as important as writing it.",
+    "quote12": "Open collaboration can strengthen software quality.",
+    "quote13": "Small vulnerabilities can create large consequences.",
+    "quote14": "Long-term stability deserves deliberate design.",
+    "quote15": "Technical excellence depends on persistence.",
+    "quote16": "Useful software balances power with safety.",
+    "quote17": "Standards matter because consistency matters.",
+    "quote18": "Sound architecture prevents avoidable problems.",
+    "quote19": "Security is a process, not a destination.",
+    "quote20": "Great software is measured by trust as much as capability."
+}

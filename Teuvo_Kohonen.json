@@ -1,0 +1,63 @@
+{
+    "thinkerName": "Teuvo Kohonen",
+
+    "thinkerImage": "",
+
+    "imageSource": "Wikimedia Commons",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageAttribution": "",
+
+    "indexLetter": "T",
+
+    "nationality": "Finnish",
+
+    "occupation": "Computer Scientist, Artificial Intelligence Researcher, Professor",
+
+    "school": "Artificial Intelligence, Neural Networks, Machine Learning",
+
+    "born": "11 July 1934",
+    "died": "13 December 2021",
+
+    "knownFor1": "Self-Organizing Maps",
+    "knownFor2": "Artificial Neural Networks",
+    "knownFor3": "Machine Learning",
+    "knownFor4": "Pattern Recognition",
+    "knownFor5": "Adaptive Computing",
+    "knownFor6": "Unsupervised Learning",
+    "knownFor7": "Data Visualization",
+    "knownFor8": "Computational Intelligence",
+
+    "legacy": "Teuvo Kohonen helped establish neural network research as a practical field of computer science. His ideas demonstrated how computers could discover structure in data without explicit instructions, influencing later developments in machine learning, data mining and artificial intelligence.",
+
+    "earlyLife": "Kohonen developed strong interests in mathematics, engineering and information processing during his early years. As computing technology evolved, he became fascinated by the possibility of creating systems that could learn from experience and organize information in ways inspired by natural intelligence.",
+
+    "scientificField": "Computer Science, Artificial Intelligence, Neural Networks, Machine Learning",
+
+    "majorContributions": "Kohonen is best known for developing the Self-Organizing Map, a neural network technique that automatically groups and visualizes complex data. His research provided practical methods for pattern discovery, dimensionality reduction and knowledge representation. These contributions helped expand the capabilities of artificial intelligence systems and influenced generations of machine learning researchers.",
+
+    "laterLife": "Throughout his later career, Kohonen continued advancing research in neural computation and intelligent systems while mentoring students and contributing to the growing field of artificial intelligence. His work remained widely studied as machine learning became increasingly important across science and industry.",
+
+    "whyImportant": "Many modern machine learning techniques build upon ideas involving pattern recognition, data organization and adaptive learning. Kohonen's work helped create some of the early foundations that allowed computers to discover meaningful relationships within large datasets.",
+
+    "quote1": "Learning begins when patterns are allowed to emerge.",
+    "quote2": "Intelligence often reveals itself through organization.",
+    "quote3": "Data contains structure waiting to be discovered.",
+    "quote4": "Machines can learn by recognizing relationships.",
+    "quote5": "Complex information becomes useful when patterns are visible.",
+    "quote6": "Learning systems improve through experience.",
+    "quote7": "Artificial intelligence advances through better representations.",
+    "quote8": "Discovery often comes from observing connections.",
+    "quote9": "Adaptation is a hallmark of intelligence.",
+    "quote10": "Every dataset tells a story through its structure.",
+    "quote11": "Good models reveal hidden order.",
+    "quote12": "Scientific progress grows through experimentation.",
+    "quote13": "Computers become more capable when they learn from data.",
+    "quote14": "The value of information depends on understanding it.",
+    "quote15": "Patterns provide insight into complexity.",
+    "quote16": "Machine learning extends the power of analysis.",
+    "quote17": "Understanding emerges from organization.",
+    "quote18": "Innovation often follows new ways of seeing data.",
+    "quote19": "Knowledge grows when relationships become visible.",
+    "quote20": "Intelligent systems begin with meaningful learning."
+}

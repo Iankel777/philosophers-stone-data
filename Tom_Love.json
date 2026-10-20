@@ -1,0 +1,63 @@
+{
+    "thinkerName": "Tom Love",
+
+    "thinkerImage": "",
+
+    "imageSource": "Wikimedia Commons",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageAttribution": "",
+
+    "indexLetter": "T",
+
+    "nationality": "American",
+
+    "occupation": "Software Engineer, Programming Language Designer, Entrepreneur",
+
+    "school": "Object-Oriented Programming, Software Development, Programming Languages",
+
+    "born": "1958",
+    "died": "",
+
+    "knownFor1": "Objective-C",
+    "knownFor2": "Productivity Products International",
+    "knownFor3": "Object-Oriented Software",
+    "knownFor4": "Software Development Tools",
+    "knownFor5": "Programming Language Design",
+    "knownFor6": "NeXT Development Ecosystem",
+    "knownFor7": "Application Framework Concepts",
+    "knownFor8": "Commercial Software Innovation",
+
+    "legacy": "Tom Love played an important role in helping object-oriented programming reach a wider software development audience. Through his work with Objective-C and software development tools, he contributed to technologies that influenced modern application development for decades.",
+
+    "earlyLife": "Tom Love developed an interest in computers during a period when personal computing was still emerging. His curiosity about programming and software design led him toward building tools that made software construction more efficient and easier to manage.",
+
+    "scientificField": "Software Engineering, Programming Languages, Object-Oriented Computing",
+
+    "majorContributions": "Love became widely associated with the growth and commercial adoption of Objective-C. His efforts helped promote object-oriented concepts at a time when many developers were searching for better ways to manage increasingly complex software systems. His work supported the development of tools and methodologies that improved programmer productivity.",
+
+    "laterLife": "Throughout his career, Love remained involved with software technology, business ventures and software engineering practices. His influence continued through the widespread use of technologies connected to the object-oriented programming movement.",
+
+    "whyImportant": "Many ideas that became standard within modern software development were accelerated by the adoption of object-oriented technologies. Tom Love's contributions helped developers build larger and more maintainable software systems while encouraging broader acceptance of these approaches.",
+
+    "quote1": "Well-designed software reduces effort before it increases capability.",
+    "quote2": "Programming languages shape the way developers think.",
+    "quote3": "A productive tool saves time repeatedly.",
+    "quote4": "Complexity must be managed before it can be mastered.",
+    "quote5": "Software design is the art of organizing change.",
+    "quote6": "Good abstractions allow systems to grow gracefully.",
+    "quote7": "A language succeeds when developers enjoy using it.",
+    "quote8": "Maintainability is a feature, not an afterthought.",
+    "quote9": "Small improvements compound across large projects.",
+    "quote10": "Code should communicate intent clearly.",
+    "quote11": "The best tools disappear into the workflow.",
+    "quote12": "Reliable software begins with thoughtful architecture.",
+    "quote13": "Innovation often starts by simplifying existing solutions.",
+    "quote14": "Productivity comes from clarity more than speed.",
+    "quote15": "Software evolves faster when foundations are strong.",
+    "quote16": "Reusability multiplies the value of good design.",
+    "quote17": "Developers benefit from tools that encourage consistency.",
+    "quote18": "Elegant solutions often remove unnecessary complexity.",
+    "quote19": "Technology advances when useful ideas become accessible.",
+    "quote20": "The future of software belongs to adaptable systems."
+}
