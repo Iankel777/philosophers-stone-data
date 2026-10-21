@@ -806,9 +806,9 @@
 
 
   
-{"id":"tadashi_tokieda","name":"Tadashi Tokieda","letter":"T","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Tadashi_Tokieda.json"},
-{"id":"takeo_kanade","name":"Takeo Kanade","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Takeo_Kanade.json"},
-{"id":"tawakkol_karman","name":"Tawakkol Karman","letter":"T","category":"Social Activism","legend":true,"visible":true,"image":"","jsonFile":"Tawakkol_Karman.json"},
+{"id":"tadashi_tokieda","name":"Tadashi Tokieda","letter":"T","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tadashi_at_Harvard.jpg/960px-Tadashi_at_Harvard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tadashi_Tokieda.json"},
+{"id":"takeo_kanade","name":"Takeo Kanade","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Takeo_Kanade_cropped_1_Takeo_Kanade_201911.jpg/960px-Takeo_Kanade_cropped_1_Takeo_Kanade_201911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Takeo_Kanade.json"},
+
 {"id":"ted_nelson","name":"Ted Nelson","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Ted_Nelson.json"},
 {"id":"ted_polhemus","name":"Ted Polhemus","letter":"T","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ted_Polhemus.json"},
 {"id":"terence_tao","name":"Terence Tao","letter":"T","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Terence_Tao.json"},
