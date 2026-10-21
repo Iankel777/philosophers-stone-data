@@ -837,10 +837,9 @@
 
 {"id":"tom_kibble","name":"Tom Kibble","letter":"T","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kibble_at_AIP-Sakurai.jpg/960px-Kibble_at_AIP-Sakurai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tom_Kibble.json"},
 {"id":"tom_preston_werner","name":"Tom Preston-Werner","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tom_Preston-Werner.jpg/960px-Tom_Preston-Werner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tom_Preston_Werner.json"},
-
 {"id":"tomaso_poggio","name":"Tomaso Poggio","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tomaso_poggio_2015.png/960px-Tomaso_poggio_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tomaso_Poggio.json"},
-{"id":"tony_hoare","name":"Tony Hoare","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Tony_Hoare.json"},
-{"id":"tony_skyrme","name":"Tony Skyrme","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Tony_Skyrme.json"},
+{"id":"tony_hoare","name":"Tony Hoare","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hoare.jpg/960px-Hoare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tony_Hoare.json"},
+
 
 
 
