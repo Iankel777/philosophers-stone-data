@@ -829,7 +829,6 @@
   
   
 {"id":"thomas_reid","name":"Thomas Reid","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/960px-ThomasReid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Reid.json"},
-
 {"id":"thomas_schelling","name":"Thomas Schelling","letter":"T","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Thomas_Schelling_.png/960px-Thomas_Schelling_.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Schelling.json"},
 {"id":"thomas_szasz","name":"Thomas Szasz","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dr_Thomas_S_Szasz.jpg/960px-Dr_Thomas_S_Szasz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Szasz.json"},
 {"id":"tim_berners_lee","name":"Tim Berners-Lee","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tim_Berners-Lee_2023-corp.jpg/960px-Tim_Berners-Lee_2023-corp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tim_Berners_Lee.json"},
@@ -837,7 +836,7 @@
 {"id":"timothy_hunt","name":"Timothy Hunt","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tim_hunt.jpg/960px-Tim_hunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Hunt.json"},
 {"id":"timothy_leary","name":"Timothy Leary","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Dr._Timothy_Leary_%281970_AP_Photo%29.jpg/960px-Dr._Timothy_Leary_%281970_AP_Photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Leary.json"},
 
-{"id":"tom_fenchel","name":"Tom Fenchel","letter":"T","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Tom_Fenchel.json"},
+
 
 
 
