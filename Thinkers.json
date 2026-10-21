@@ -817,11 +817,9 @@
   
 
 
-  
-{"id":"theodore_bestor","name":"Theodore Bestor","letter":"T","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Bestor.json"},
-{"id":"theodore_lidz","name":"Theodore Lidz","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Lidz.json"},
-{"id":"theodore_maiman","name":"Theodore Maiman","letter":"T","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Maiman.json"},
-{"id":"theodore_millon","name":"Theodore Millon","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Millon.json"},
+
+{"id":"theodore_maiman","name":"Theodore Maiman","letter":"T","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Maiman_with_the_first_laser.jpg/960px-Maiman_with_the_first_laser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Theodore_Maiman.json"},
+
 {"id":"theodore_newcomb","name":"Theodore Newcomb","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Newcomb.json"},
 {"id":"theodore_pearlman","name":"Theodore Pearlman","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Pearlman.json"},
 {"id":"theodore_schultz","name":"Theodore Schultz","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Theodore_Schultz.json"},
