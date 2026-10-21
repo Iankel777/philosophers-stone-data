@@ -837,7 +837,6 @@
 {"id":"timothy_hunt","name":"Timothy Hunt","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tim_hunt.jpg/960px-Tim_hunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Hunt.json"},
 {"id":"timothy_leary","name":"Timothy Leary","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Dr._Timothy_Leary_%281970_AP_Photo%29.jpg/960px-Dr._Timothy_Leary_%281970_AP_Photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Leary.json"},
 
-{"id":"tjalling_koopmans","name":"Tjalling Koopmans","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Tjalling_Koopmans.json"},
 {"id":"tom_boellstorff","name":"Tom Boellstorff","letter":"T","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Tom_Boellstorff.json"},
 {"id":"tom_fenchel","name":"Tom Fenchel","letter":"T","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Tom_Fenchel.json"},
 
