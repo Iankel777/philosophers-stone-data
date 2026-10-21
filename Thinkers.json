@@ -819,22 +819,17 @@
   {"id":"thomas_aquinas","name":"Thomas Aquinas","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/St-thomas-aquinas.jpg/960px-St-thomas-aquinas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Aquinas.json"},
   {"id":"thomas_cavalier_smith","name":"Thomas Cavalier-Smith","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Prof._Thomas_Cavalier-Smith_in_his_laboratory%2C_Oxford.jpg/960px-Prof._Thomas_Cavalier-Smith_in_his_laboratory%2C_Oxford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Cavalier_Smith.json"},
   {"id":"thomas_cech","name":"Thomas Cech","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Thomas_Robert_Cech.png/960px-Thomas_Robert_Cech.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Cech.json"},
-
-
-
-  
-{"id":"thomas_gilovich","name":"Thomas Gilovich","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gilovich_%28fr_Feist%29.jpg/960px-Gilovich_%28fr_Feist%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Gilovich.json"},
-{"id":"thomas_hobbes","name":"Thomas Hobbes","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Thomas_Hobbes_%28portrait%29.jpg/960px-Thomas_Hobbes_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hobbes.json"},
-{"id":"thomas_hunt_morgan","name":"Thomas Hunt Morgan","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Thomas_Hunt_Morgan.jpg/960px-Thomas_Hunt_Morgan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hunt_Morgan.json"},
-{"id":"thomas_insel","name":"Thomas Insel","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Thomas_Insel_NIMH_2011.JPG/960px-Thomas_Insel_NIMH_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Insel.json"},
-{"id":"thomas_lovejoy","name":"Thomas Lovejoy","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tom_Lovejoy.jpg/960px-Tom_Lovejoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Lovejoy.json"},
+  {"id":"thomas_gilovich","name":"Thomas Gilovich","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gilovich_%28fr_Feist%29.jpg/960px-Gilovich_%28fr_Feist%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Gilovich.json"},
+  {"id":"thomas_hobbes","name":"Thomas Hobbes","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Thomas_Hobbes_%28portrait%29.jpg/960px-Thomas_Hobbes_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hobbes.json"},
+  {"id":"thomas_hunt_morgan","name":"Thomas Hunt Morgan","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Thomas_Hunt_Morgan.jpg/960px-Thomas_Hunt_Morgan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hunt_Morgan.json"},
+  {"id":"thomas_insel","name":"Thomas Insel","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Thomas_Insel_NIMH_2011.JPG/960px-Thomas_Insel_NIMH_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Insel.json"},
+  {"id":"thomas_lovejoy","name":"Thomas Lovejoy","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tom_Lovejoy.jpg/960px-Tom_Lovejoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Lovejoy.json"},
 
 
   
   
-  
-{"id":"thomas_reid","name":"Thomas Reid","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Reid.json"},
-{"id":"thomas_reps","name":"Thomas Reps","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Reps.json"},
+{"id":"thomas_reid","name":"Thomas Reid","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/960px-ThomasReid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Reid.json"},
+
 {"id":"thomas_schelling","name":"Thomas Schelling","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Schelling.json"},
 {"id":"thomas_szasz","name":"Thomas Szasz","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Szasz.json"},
 {"id":"tim_berners_lee","name":"Tim Berners-Lee","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Tim_Berners_Lee.json"},
@@ -845,6 +840,7 @@
 {"id":"tjalling_koopmans","name":"Tjalling Koopmans","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Tjalling_Koopmans.json"},
 {"id":"tom_boellstorff","name":"Tom Boellstorff","letter":"T","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Tom_Boellstorff.json"},
 {"id":"tom_fenchel","name":"Tom Fenchel","letter":"T","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Tom_Fenchel.json"},
+
 
 
   
