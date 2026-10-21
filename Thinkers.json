@@ -832,6 +832,7 @@
 
   
   
+  
 {"id":"thomas_reid","name":"Thomas Reid","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Reid.json"},
 {"id":"thomas_reps","name":"Thomas Reps","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Reps.json"},
 {"id":"thomas_schelling","name":"Thomas Schelling","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Schelling.json"},
