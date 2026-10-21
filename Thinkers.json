@@ -826,9 +826,8 @@
 {"id":"thomas_gilovich","name":"Thomas Gilovich","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gilovich_%28fr_Feist%29.jpg/960px-Gilovich_%28fr_Feist%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Gilovich.json"},
 {"id":"thomas_hobbes","name":"Thomas Hobbes","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Thomas_Hobbes_%28portrait%29.jpg/960px-Thomas_Hobbes_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hobbes.json"},
 {"id":"thomas_hunt_morgan","name":"Thomas Hunt Morgan","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Thomas_Hunt_Morgan.jpg/960px-Thomas_Hunt_Morgan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hunt_Morgan.json"},
+{"id":"thomas_insel","name":"Thomas Insel","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Thomas_Insel_NIMH_2011.JPG/960px-Thomas_Insel_NIMH_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Insel.json"},
 
-{"id":"thomas_insel","name":"Thomas Insel","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Insel.json"},
-{"id":"thomas_kurtz","name":"Thomas Kurtz","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Kurtz.json"},
 {"id":"thomas_lovejoy","name":"Thomas Lovejoy","letter":"T","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Lovejoy.json"},
 {"id":"thomas_piketty","name":"Thomas Piketty","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Thomas_Piketty.json"},
 
