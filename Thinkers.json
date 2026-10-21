@@ -824,25 +824,19 @@
   {"id":"thomas_hunt_morgan","name":"Thomas Hunt Morgan","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Thomas_Hunt_Morgan.jpg/960px-Thomas_Hunt_Morgan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Hunt_Morgan.json"},
   {"id":"thomas_insel","name":"Thomas Insel","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Thomas_Insel_NIMH_2011.JPG/960px-Thomas_Insel_NIMH_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Insel.json"},
   {"id":"thomas_lovejoy","name":"Thomas Lovejoy","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tom_Lovejoy.jpg/960px-Tom_Lovejoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Lovejoy.json"},
-
-
-  
-  
-{"id":"thomas_reid","name":"Thomas Reid","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/960px-ThomasReid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Reid.json"},
-{"id":"thomas_schelling","name":"Thomas Schelling","letter":"T","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Thomas_Schelling_.png/960px-Thomas_Schelling_.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Schelling.json"},
-{"id":"thomas_szasz","name":"Thomas Szasz","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dr_Thomas_S_Szasz.jpg/960px-Dr_Thomas_S_Szasz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Szasz.json"},
-{"id":"tim_berners_lee","name":"Tim Berners-Lee","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tim_Berners-Lee_2023-corp.jpg/960px-Tim_Berners-Lee_2023-corp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tim_Berners_Lee.json"},
-{"id":"tim_ingold","name":"Tim Ingold","letter":"T","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tim_Ingold.jpg/960px-Tim_Ingold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tim_Ingold.json"},
-{"id":"timothy_hunt","name":"Timothy Hunt","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tim_hunt.jpg/960px-Tim_hunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Hunt.json"},
-{"id":"timothy_leary","name":"Timothy Leary","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Dr._Timothy_Leary_%281970_AP_Photo%29.jpg/960px-Dr._Timothy_Leary_%281970_AP_Photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Leary.json"},
+  {"id":"thomas_reid","name":"Thomas Reid","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/960px-ThomasReid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Reid.json"},
+  {"id":"thomas_schelling","name":"Thomas Schelling","letter":"T","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Thomas_Schelling_.png/960px-Thomas_Schelling_.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Schelling.json"},
+  {"id":"thomas_szasz","name":"Thomas Szasz","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dr_Thomas_S_Szasz.jpg/960px-Dr_Thomas_S_Szasz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Thomas_Szasz.json"},
+  {"id":"tim_berners_lee","name":"Tim Berners-Lee","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tim_Berners-Lee_2023-corp.jpg/960px-Tim_Berners-Lee_2023-corp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tim_Berners_Lee.json"},
+  {"id":"tim_ingold","name":"Tim Ingold","letter":"T","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tim_Ingold.jpg/960px-Tim_Ingold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tim_Ingold.json"},
+  {"id":"timothy_hunt","name":"Timothy Hunt","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tim_hunt.jpg/960px-Tim_hunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Hunt.json"},
+  {"id":"timothy_leary","name":"Timothy Leary","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Dr._Timothy_Leary_%281970_AP_Photo%29.jpg/960px-Dr._Timothy_Leary_%281970_AP_Photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Timothy_Leary.json"},
 
 
 
 
+{"id":"tom_kibble","name":"Tom Kibble","letter":"T","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kibble_at_AIP-Sakurai.jpg/960px-Kibble_at_AIP-Sakurai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tom_Kibble.json"},
 
-  
-{"id":"tom_kibble","name":"Tom Kibble","letter":"T","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Tom_Kibble.json"},
-{"id":"tom_kitwood","name":"Tom Kitwood","letter":"T","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Tom_Kitwood.json"},
 {"id":"tom_love","name":"Tom Love","letter":"T","category":"Design","legend":true,"visible":true,"image":"","jsonFile":"Tom_Love.json"},
 {"id":"tom_preston_werner","name":"Tom Preston-Werner","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Tom_Preston_Werner.json"},
 {"id":"tomas_transtromer","name":"Tomas Transtromer","letter":"T","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Tomas_Transtromer.json"},
@@ -850,6 +844,9 @@
 {"id":"toni_morrison","name":"Toni Morrison","letter":"T","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Toni_Morrison.json"},
 {"id":"tony_hoare","name":"Tony Hoare","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Tony_Hoare.json"},
 {"id":"tony_skyrme","name":"Tony Skyrme","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Tony_Skyrme.json"},
+
+
+
   
   
 {"id":"torsten_carleman","name":"Torsten Carleman","letter":"T","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Torsten_Carleman.json"},
