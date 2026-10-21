@@ -841,13 +841,10 @@
 
 {"id":"torsten_carleman","name":"Torsten Carleman","letter":"T","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Torsten_Carleman.png/960px-Torsten_Carleman.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Torsten_Carleman.json"},
 {"id":"torsten_wiesel","name":"Torsten Wiesel","letter":"T","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Nobel_Laureate_Torsten_Wiesel_in_2011_Photo_by_Markus_Marcetic_for_Young_Academy_of_Sweden_%28cropped%29.jpg/960px-Nobel_Laureate_Torsten_Wiesel_in_2011_Photo_by_Markus_Marcetic_for_Young_Academy_of_Sweden_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Torsten_Wiesel.json"},
-
 {"id":"trevor_hastie","name":"Trevor Hastie","letter":"T","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/TrevorHastiePic.jpg/960px-TrevorHastiePic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Trevor_Hastie.json"},
-
 {"id":"trygve_haavelmo","name":"Trygve Haavelmo","letter":"T","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Trygve_Haavelmo_close-up_%28cropped%29.jpg/960px-Trygve_Haavelmo_close-up_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Trygve_Haavelmo.json"},
 {"id":"tsung_dao_lee","name":"Tsung-Dao Lee","letter":"T","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/TD_Lee.jpg/960px-TD_Lee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tsung_Dao_Lee.json"},
-{"id":"tyler_cowen","name":"Tyler Cowen","letter":"T","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Tyler_Cowen.json"},
-{"id":"tzvetan_todorov","name":"Tzvetan Todorov","letter":"T","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Tzvetan_Todorov.json"}
+{"id":"tyler_cowen","name":"Tyler Cowen","letter":"T","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Tyler_Cowen_-_The_Great_Stagnation.jpg/960px-Tyler_Cowen_-_The_Great_Stagnation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Tyler_Cowen.json"},
 
 
   
