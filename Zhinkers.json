@@ -846,7 +846,6 @@
 
 
 
-{"id":"uche_amazigo","name":"Uche Amazigo","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Uche_Amazigo.json"},
 {"id":"udi_manber","name":"Udi Manber","letter":"U","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Udi_Manber.json"},
 {"id":"ugo_amaldi","name":"Ugo Amaldi","letter":"U","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Amaldi.json"},
 {"id":"ugo_cerletti","name":"Ugo Cerletti","letter":"U","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Cerletti.json"},
