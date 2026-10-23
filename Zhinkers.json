@@ -863,10 +863,9 @@
   
 {"id":"ursula_franklin","name":"Ursula Franklin","letter":"U","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ursula_Franklin_at_book_launch_crop.jpg/960px-Ursula_Franklin_at_book_launch_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ursula_Franklin.json"},
 {"id":"ursula_goodenough","name":"Ursula Goodenough","letter":"U","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/UrsulaG.jpg/960px-UrsulaG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ursula_Goodenough.json"},
+{"id":"ursula_mittwoch","name":"Ursula Mittwoch","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/EWS17.05_%28cropped%29.jpg/960px-EWS17.05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ursula_Mittwoch.json"},
+{"id":"usha_goswami","name":"Usha Goswami","letter":"U","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Usha_Goswami_-_Yidan_Prize_Foundation.jpg/960px-Usha_Goswami_-_Yidan_Prize_Foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Usha_Goswami.json"},
 
-{"id":"ursula_mittwoch","name":"Ursula Mittwoch","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ursula_Mittwoch.json"},
-{"id":"usha_goswami","name":"Usha Goswami","letter":"U","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Usha_Goswami.json"},
-{"id":"utsa_patnaik","name":"Utsa Patnaik","letter":"U","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Utsa_Patnaik.json"},
 
   
 {"id":"uwe_assmann","name":"Uwe Aßmann","letter":"U","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Assmann.json"},
