@@ -859,7 +859,6 @@
 
 {"id":"ulpian","name":"Ulpian","letter":"U","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Statue_dedans_le_Palais_de_justice.JPG/960px-Statue_dedans_le_Palais_de_justice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ulpian.json"},
 
-{"id":"ulrich_becker","name":"Ulrich Becker","letter":"U","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ulrich_Becker.json"},
 {"id":"ulrich_sigwart","name":"Ulrich Sigwart","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ulrich_Sigwart.json"},
 
   
