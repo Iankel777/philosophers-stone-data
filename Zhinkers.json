@@ -867,8 +867,6 @@
   
 {"id":"uwe_jannsen","name":"Uwe Jannsen","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Uwe_Jannsen_%28cropped%29.jpg/960px-Uwe_Jannsen_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Uwe_Jannsen.json"},
 
-
-{"id":"uwe_sauer","name":"Uwe Sauer","letter":"U","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Sauer.json"},
 {"id":"uwe_schauz","name":"Uwe Schauz","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Schauz.json"},
 {"id":"uwe_sunde","name":"Uwe Sunde","letter":"U","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Sunde.json"}
   
