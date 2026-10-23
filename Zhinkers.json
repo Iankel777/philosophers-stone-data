@@ -861,7 +861,6 @@
 
 
 
-{"id":"umaru_shehu","name":"Umaru Shehu","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Umaru_Shehu.json"},
 {"id":"umberto_bottazzini","name":"Umberto Bottazzini","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Umberto_Bottazzini.json"},
 {"id":"umberto_eco","name":"Umberto Eco","letter":"U","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Umberto_Eco.json"},
 {"id":"umberto_veronesi","name":"Umberto Veronesi","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Umberto_Veronesi.json"},
