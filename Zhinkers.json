@@ -852,8 +852,6 @@
 {"id":"ugo_spirito","name":"Ugo Spirito","letter":"U","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ugo_Spirito.png/960px-Ugo_Spirito.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ugo_Spirito.json"},
 
   
-
-{"id":"ugur_sahin","name":"Uğur Şahin","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ugur_Sahin.json"},
 {"id":"ulf_danielsson","name":"Ulf Danielsson","letter":"U","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ulf_Danielsson.json"},
 {"id":"ulf_hannerz","name":"Ulf Hannerz","letter":"U","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ulf_Hannerz.json"},
 {"id":"ulf_pettersson","name":"Ulf Pettersson","letter":"U","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Ulf_Pettersson.json"},
