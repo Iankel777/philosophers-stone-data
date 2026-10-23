@@ -860,9 +860,8 @@
 {"id":"ulrich_sigwart","name":"Ulrich Sigwart","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ulrich-Sigwart.jpg/960px-Ulrich-Sigwart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ulrich_Sigwart.json"},
 {"id":"umberto_eco","name":"Umberto Eco","letter":"U","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Boekenconferentie_in_Amsterdam%3B_schrijver_Umberto_Eco.jpg/960px-Boekenconferentie_in_Amsterdam%3B_schrijver_Umberto_Eco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Umberto_Eco.json"},
 {"id":"umberto_veronesi","name":"Umberto Veronesi","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Umberto_Veronesi_2.jpg/960px-Umberto_Veronesi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Umberto_Veronesi.json"},
+{"id":"uri_alon","name":"Uri Alon","letter":"U","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Alon_Uri.jpg/960px-Alon_Uri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Uri_Alon.json"},
 
-{"id":"uri_alon","name":"Uri Alon","letter":"U","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Uri_Alon.json"},
-{"id":"urie_bronfenbrenner","name":"Urie Bronfenbrenner","letter":"U","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Urie_Bronfenbrenner.json"},
 
   
 {"id":"uriel_rothblum","name":"Uriel Rothblum","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Uriel_Rothblum.json"},
