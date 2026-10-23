@@ -862,10 +862,7 @@
   {"id":"ursula_goodenough","name":"Ursula Goodenough","letter":"U","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/UrsulaG.jpg/960px-UrsulaG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ursula_Goodenough.json"},
   {"id":"ursula_mittwoch","name":"Ursula Mittwoch","letter":"U","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/EWS17.05_%28cropped%29.jpg/960px-EWS17.05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ursula_Mittwoch.json"},
   {"id":"usha_goswami","name":"Usha Goswami","letter":"U","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Usha_Goswami_-_Yidan_Prize_Foundation.jpg/960px-Usha_Goswami_-_Yidan_Prize_Foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Usha_Goswami.json"},
-
-
-  
-{"id":"uwe_jannsen","name":"Uwe Jannsen","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Uwe_Jannsen_%28cropped%29.jpg/960px-Uwe_Jannsen_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Uwe_Jannsen.json"}
+  {"id":"uwe_jannsen","name":"Uwe Jannsen","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Uwe_Jannsen_%28cropped%29.jpg/960px-Uwe_Jannsen_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Uwe_Jannsen.json"}
 
   
 ]
