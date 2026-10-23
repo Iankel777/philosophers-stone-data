@@ -865,8 +865,6 @@
 
 
   
-
-{"id":"uwe_brinkschulte","name":"Uwe Brinkschulte","letter":"U","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Brinkschulte.json"},
 {"id":"uwe_jannsen","name":"Uwe Jannsen","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Jannsen.json"},
 {"id":"uwe_reinhardt","name":"Uwe Reinhardt","letter":"U","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Reinhardt.json"},
 {"id":"uwe_rohm","name":"Uwe Röhm","letter":"U","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Uwe_Rohm.json"},
