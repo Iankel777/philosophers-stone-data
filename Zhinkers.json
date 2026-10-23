@@ -855,8 +855,8 @@
 
 
   
-{"id":"ulisse_dini","name":"Ulisse Dini","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Ulisse_Dini.json"},
-{"id":"ullin_place","name":"Ullin Place","letter":"U","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Ullin_Place.json"},
+{"id":"ulisse_dini","name":"Ulisse Dini","letter":"U","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ulisse_Dini.jpg/960px-Ulisse_Dini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ulisse_Dini.json"},
+
 {"id":"ulpian","name":"Ulpian","letter":"U","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ulpian.json"},
 {"id":"ulric_neisser","name":"Ulric Neisser","letter":"U","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ulric_Neisser.json"},
 {"id":"ulrich_becker","name":"Ulrich Becker","letter":"U","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ulrich_Becker.json"},
