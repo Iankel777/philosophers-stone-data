@@ -846,9 +846,9 @@
 
 
 
-{"id":"udi_manber","name":"Udi Manber","letter":"U","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Udi_Manber.json"},
-{"id":"ugo_amaldi","name":"Ugo Amaldi","letter":"U","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Amaldi.json"},
-{"id":"ugo_cerletti","name":"Ugo Cerletti","letter":"U","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Cerletti.json"},
+{"id":"udi_manber","name":"Udi Manber","letter":"U","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Udi_Manber.jpg/960px-Udi_Manber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Udi_Manber.json"},
+{"id":"ugo_amaldi","name":"Ugo Amaldi","letter":"U","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ugo_Amaldi.jpg/960px-Ugo_Amaldi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ugo_Amaldi.json"},
+
 {"id":"ugo_fano","name":"Ugo Fano","letter":"U","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Fano.json"},
 {"id":"ugo_pagano","name":"Ugo Pagano","letter":"U","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Pagano.json"},
 {"id":"ugo_spirito","name":"Ugo Spirito","letter":"U","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Ugo_Spirito.json"},
