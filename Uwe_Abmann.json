@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Uwe Abmann",
+  "thinkerImage": "WIKIMEDIA_IMAGE_URL",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "WIKIMEDIA_FILE_URL",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "U",
+
+  "nationality": "German",
+
+  "occupation": "Computer Scientist, Software Engineer, Academic Researcher",
+
+  "school": "Software Engineering, Programming Languages, Model-Driven Engineering, Software Architecture",
+
+  "born": "1960",
+  "died": "",
+
+  "knownFor1": "Model-Driven Engineering",
+  "knownFor2": "Software Architecture",
+  "knownFor3": "Programming Language Research",
+  "knownFor4": "Software Reuse",
+  "knownFor5": "Generative Programming",
+  "knownFor6": "Component-Based Software Development",
+  "knownFor7": "Compiler Technologies",
+  "knownFor8": "Software Design Methodologies",
+
+  "legacy": "Uwe Aßmann helped advance methods for managing software complexity through abstraction, automation, and systematic design. His work encouraged developers to think beyond individual programs and focus on frameworks, architectures, and models capable of supporting large-scale software projects over long periods of time.",
+
+  "earlyLife": "Aßmann developed an interest in computing during the rapid expansion of software technologies in academia and industry. His studies introduced him to programming languages and software construction techniques, leading him to explore how software could be designed more efficiently and maintained more effectively.",
+
+  "scientificField": "Computer Science, Software Engineering, Programming Languages, Model-Driven Development",
+
+  "majorContributions": "Aßmann contributed to research involving software architecture, model-driven engineering, generative programming, and software reuse. His work explored how developers can create higher-level representations of software systems that simplify development, improve maintainability, and reduce repetitive implementation effort. He also helped advance techniques for building adaptable and extensible software platforms.",
+
+  "laterLife": "Throughout his academic career, Aßmann continued researching methods for improving software development processes while mentoring students and collaborating with international research communities. His later work emphasized scalable software construction, architectural flexibility, and the long-term evolution of complex digital systems.",
+
+  "whyImportant": "As software systems become larger and more interconnected, engineers need better methods for managing complexity. Uwe Aßmann's contributions helped encourage structured approaches to software design, making it easier for organizations to build, maintain, and evolve sophisticated software solutions over time.",
+
+  "quote1": "Complex software requires simple organizing principles.",
+  "quote2": "Abstraction allows developers to focus on what matters most.",
+  "quote3": "A strong architecture outlasts individual implementations.",
+  "quote4": "Automation multiplies the value of good design.",
+  "quote5": "Software evolves whether we plan for it or not.",
+  "quote6": "Reusability begins with thoughtful structure.",
+  "quote7": "The best systems remain understandable as they grow.",
+  "quote8": "Engineering is the discipline of managing complexity.",
+  "quote9": "Models are tools for improving communication and design.",
+  "quote10": "Good software is designed for change.",
+  "quote11": "Architecture shapes the future possibilities of a system.",
+  "quote12": "Simplicity creates room for innovation.",
+  "quote13": "Development becomes easier when patterns are recognized.",
+  "quote14": "Clear structure reduces future maintenance costs.",
+  "quote15": "Software quality starts with foundational decisions.",
+  "quote16": "Flexible systems adapt more successfully to new requirements.",
+  "quote17": "The value of a design appears over time.",
+  "quote18": "Reusable solutions accelerate progress.",
+  "quote19": "Scalable software depends on disciplined engineering.",
+  "quote20": "Building software is ultimately an exercise in organizing knowledge."
+}

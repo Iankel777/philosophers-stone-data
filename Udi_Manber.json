@@ -1,0 +1,62 @@
+{
+  "thinkerName": "Udi Manber",
+  "thinkerImage": "WIKIMEDIA_IMAGE_URL",
+
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "WIKIMEDIA_FILE_URL",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "U",
+
+  "nationality": "Israeli-American",
+
+  "occupation": "Computer Scientist, Software Engineer, Technology Executive",
+
+  "school": "Algorithms, Information Retrieval, Search Systems, Computer Science",
+
+  "born": "1949",
+  "died": "",
+
+  "knownFor1": "Large-Scale Search Technology",
+  "knownFor2": "Information Retrieval Algorithms",
+  "knownFor3": "Approximate String Matching",
+  "knownFor4": "Suffix Array Development",
+  "knownFor5": "Internet Search Infrastructure",
+  "knownFor6": "Search Engine Engineering",
+  "knownFor7": "Text Processing Algorithms",
+  "knownFor8": "Applied Computer Science Leadership",
+
+  "legacy": "Udi Manber demonstrated how theoretical computer science can become practical technology used by millions of people. His work helped influence the development of efficient search and text-processing systems, encouraging future generations of engineers to combine mathematical thinking with real-world problem solving.",
+
+  "earlyLife": "Udi Manber developed a strong interest in mathematics and logical reasoning at a young age. During his academic years, he became increasingly interested in algorithms and the challenge of organizing information efficiently, interests that would shape the direction of his career.",
+
+  "scientificField": "Computer Science, Information Retrieval, Algorithms, Search Technologies",
+
+  "majorContributions": "Manber contributed to the advancement of search technology, pattern matching methods, and large-scale information retrieval systems. He helped popularize techniques that improved the speed and accuracy of locating information within enormous collections of digital data, demonstrating how elegant algorithms could have a substantial impact on everyday computing.",
+
+  "laterLife": "As his career progressed, Manber moved from academic research into leadership positions within major technology companies. There he applied scientific principles to real engineering challenges, helping teams build systems capable of operating at internet scale while continuing to advocate for algorithmic efficiency and innovation.",
+
+  "whyImportant": "Modern digital life depends on the ability to search, filter, and organize vast amounts of information. Udi Manber played a meaningful role in advancing technologies that make this possible, helping transform ideas from computer science into tools used by people across the world every day.",
+
+  "quote1": "Elegant algorithms often outlive the hardware they run on.",
+  "quote2": "Information becomes valuable when people can actually find it.",
+  "quote3": "A difficult problem usually hides a simpler structure underneath.",
+  "quote4": "Scalability rewards careful thinking.",
+  "quote5": "Curiosity is the fuel of innovation.",
+  "quote6": "Every search begins with a question.",
+  "quote7": "Efficiency is a form of creativity.",
+  "quote8": "Theory gains meaning when applied to reality.",
+  "quote9": "Technology progresses by refining useful ideas.",
+  "quote10": "The best systems make complexity invisible.",
+  "quote11": "Understanding data starts with organizing it.",
+  "quote12": "Good engineering balances ambition with practicality.",
+  "quote13": "Simple solutions are often the hardest to discover.",
+  "quote14": "Progress comes from solving one problem at a time.",
+  "quote15": "Better questions lead to better algorithms.",
+  "quote16": "Knowledge grows when information becomes accessible.",
+  "quote17": "Innovation favors those willing to rethink assumptions.",
+  "quote18": "Large systems reveal the strengths of good design.",
+  "quote19": "Useful software begins with understanding people.",
+  "quote20": "Computing advances whenever insight meets execution."
+}
