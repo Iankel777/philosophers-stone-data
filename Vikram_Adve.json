@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Vikram Adve",
+
+  "thinkerImage": "REPLACE_WITH_IMAGE_URL",
+
+  "imageSource": "REPLACE_WITH_SOURCE",
+  "imageSourceUrl": "REPLACE_WITH_SOURCE_URL",
+  "imageLicense": "REPLACE_WITH_LICENSE",
+  "imageAttribution": "REPLACE_WITH_ATTRIBUTION",
+
+  "indexLetter": "V",
+
+  "nationality": "Indian-American",
+
+  "occupation": "Computer Scientist, Software Engineer, Systems Researcher",
+
+  "school": "Compiler Design, Computer Architecture, Systems Software",
+
+  "born": "1970",
+
+  "died": "",
+
+  "knownFor1": "LLVM Research",
+  "knownFor2": "Compiler Infrastructure",
+  "knownFor3": "Computer Architecture",
+  "knownFor4": "Reliable Systems",
+  "knownFor5": "Software Optimization",
+  "knownFor6": "Parallel Computing",
+  "knownFor7": "Program Analysis",
+  "knownFor8": "Systems Research",
+
+  "legacy": "Vikram Adve helped advance the foundations of modern compiler and systems research by focusing on how software interacts with increasingly complex hardware platforms. His work contributed to tools and techniques that allow programs to run more efficiently, safely, and predictably across many different computing environments. His influence can be seen in generations of compiler technologies and software infrastructure used by researchers and developers worldwide.",
+
+  "earlyLife": "Adve developed a strong interest in mathematics, engineering, and computing while studying technical subjects at an early age. As computer systems became more powerful, he became interested in understanding the layers that connect software instructions to physical hardware. This curiosity eventually guided him toward research involving compilers, system performance, and reliability.",
+
+  "scientificField": "Computer Science, Compiler Technology, Computer Architecture, Systems Engineering",
+
+  "majorContributions": "Adve contributed to research that improved compiler frameworks, program analysis techniques, system reliability, and hardware-software interaction. His work explored methods for transforming source code into efficient machine instructions while maintaining correctness and scalability. He also investigated approaches for making large computing systems more dependable and easier to optimize for modern processors.",
+
+  "laterLife": "Throughout his career, Adve remained active in both academic research and the broader computing community. He continued exploring challenges involving emerging hardware architectures, trustworthy software systems, and next-generation compiler technologies. His research helped bridge theoretical computer science and practical software engineering.",
+
+  "whyImportant": "Modern software relies on compilers and system tools that translate human-written code into efficient machine operations. Adve's research contributed to making this process more reliable and adaptable as computing hardware became increasingly sophisticated. His work supports technologies used in scientific computing, cloud infrastructure, mobile devices, and advanced software development.",
+
+  "quote1": "Good software begins with understanding the systems beneath it.",
+  "quote2": "Performance gains often emerge from the details most users never see.",
+  "quote3": "Reliable systems are built through disciplined engineering decisions.",
+  "quote4": "Compilers transform ideas into executable reality.",
+  "quote5": "Efficiency and correctness should advance together.",
+  "quote6": "Modern computing depends on strong foundations hidden beneath applications.",
+  "quote7": "Careful analysis reveals opportunities for optimization.",
+  "quote8": "Complex hardware demands equally thoughtful software design.",
+  "quote9": "Engineering progress requires balancing innovation with reliability.",
+  "quote10": "Scalable systems are designed before they are needed.",
+  "quote11": "Software quality depends on understanding interactions across layers.",
+  "quote12": "Abstractions are powerful when they simplify without hiding essential truths.",
+  "quote13": "Future computing depends on better cooperation between hardware and software.",
+  "quote14": "Optimization is most valuable when it remains sustainable.",
+  "quote15": "Technical excellence grows from precise thinking.",
+  "quote16": "Large systems succeed when small components behave predictably.",
+  "quote17": "Research creates the tools that future engineers take for granted.",
+  "quote18": "Understanding system behavior is the first step toward improvement.",
+  "quote19": "Innovation often emerges where disciplines intersect.",
+  "quote20": "Strong infrastructure enables extraordinary applications."
+}

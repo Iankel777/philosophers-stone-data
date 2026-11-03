@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Vladimir Voevodsky",
+
+  "thinkerImage": "REPLACE_WITH_IMAGE_URL",
+
+  "imageSource": "REPLACE_WITH_SOURCE",
+  "imageSourceUrl": "REPLACE_WITH_SOURCE_URL",
+  "imageLicense": "REPLACE_WITH_LICENSE",
+  "imageAttribution": "REPLACE_WITH_ATTRIBUTION",
+
+  "indexLetter": "V",
+
+  "nationality": "Russian",
+
+  "occupation": "Mathematician",
+
+  "school": "Algebraic Geometry, Homotopy Theory, Mathematical Logic",
+
+  "born": "4 June 1966",
+
+  "died": "30 September 2017",
+
+  "knownFor1": "Fields Medal Achievement",
+  "knownFor2": "Motivic Homotopy Theory",
+  "knownFor3": "Univalent Foundations",
+  "knownFor4": "Homotopy Type Theory",
+  "knownFor5": "Algebraic Geometry",
+  "knownFor6": "Formal Verification in Mathematics",
+  "knownFor7": "Mathematical Logic",
+  "knownFor8": "Computer-Assisted Proof Systems",
+
+  "legacy": "Vladimir Voevodsky reshaped modern mathematics by combining deep theoretical research with a vision for improving mathematical reliability through formal verification. His work connected algebraic geometry, topology, logic, and computer science in ways that opened entirely new research directions. Beyond solving difficult mathematical problems, he inspired efforts to develop systems capable of verifying proofs with greater rigor, influencing both pure mathematics and computational reasoning.",
+
+  "earlyLife": "Voevodsky displayed an independent and highly creative approach to mathematics from an early age. He was drawn to difficult problems that required unconventional thinking and often preferred exploring fundamental questions rather than following established academic paths. His fascination with abstract structures and logical consistency eventually led him toward advanced mathematical research.",
+
+  "scientificField": "Mathematics, Algebraic Geometry, Logic, Foundations of Mathematics",
+
+  "majorContributions": "Voevodsky made influential contributions to algebraic geometry and homotopy theory, creating new mathematical frameworks that connected previously separate areas of research. He later became a leading advocate for formal methods in mathematics, investigating how computer systems could help verify the correctness of complex proofs. His development of ideas related to univalent foundations and homotopy type theory created new possibilities for expressing and validating mathematical knowledge with unprecedented precision.",
+
+  "laterLife": "During the later years of his career, Voevodsky increasingly focused on the reliability of mathematical reasoning itself. Concerned about the growing complexity of modern proofs, he sought methods that could reduce human error through formal verification systems. His work encouraged collaboration between mathematicians, logicians, and computer scientists, helping establish new directions for the foundations of mathematics.",
+
+  "whyImportant": "Voevodsky changed how many researchers think about mathematical certainty and proof. His contributions advanced pure mathematics while also influencing the development of proof assistants and formal verification tools. As mathematics and computation become more interconnected, his ideas continue to shape efforts aimed at making mathematical knowledge more rigorous, transparent, and reliable.",
+
+  "quote1": "Mathematical certainty deserves tools equal to its ambitions.",
+  "quote2": "The foundations of knowledge should be examined as carefully as its conclusions.",
+  "quote3": "Deep structures often connect fields that appear unrelated.",
+  "quote4": "A proof gains strength when its reasoning can be verified independently.",
+  "quote5": "Mathematics evolves by questioning its own assumptions.",
+  "quote6": "Precision is not the enemy of creativity.",
+  "quote7": "Abstraction allows hidden connections to become visible.",
+  "quote8": "Every mathematical framework shapes the questions we can ask.",
+  "quote9": "Reliability is a scientific achievement, not merely a requirement.",
+  "quote10": "New foundations create new possibilities.",
+  "quote11": "Complex ideas become manageable when expressed with clarity.",
+  "quote12": "The future of mathematics includes collaboration with computation.",
+  "quote13": "Understanding grows when structure becomes visible.",
+  "quote14": "Innovation often begins with dissatisfaction toward existing methods.",
+  "quote15": "Mathematical beauty frequently reflects logical coherence.",
+  "quote16": "Every proof is also a statement about how knowledge is organized.",
+  "quote17": "Progress requires both imagination and verification.",
+  "quote18": "Logic provides a framework for trustworthy reasoning.",
+  "quote19": "The search for stronger foundations drives intellectual advancement.",
+  "quote20": "Mathematics is both the exploration of ideas and the refinement of certainty."
+}

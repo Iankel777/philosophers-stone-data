@@ -1,0 +1,64 @@
+{
+  "thinkerName": "Wassily Leontief",
+
+  "thinkerImage": "REPLACE_WITH_IMAGE_URL",
+
+  "imageSource": "REPLACE_WITH_SOURCE",
+  "imageSourceUrl": "REPLACE_WITH_SOURCE_URL",
+  "imageLicense": "REPLACE_WITH_LICENSE",
+  "imageAttribution": "REPLACE_WITH_ATTRIBUTION",
+
+  "indexLetter": "V",
+
+  "nationality": "Russian-American",
+
+  "occupation": "Economist, Economic Theorist",
+
+  "school": "Input-Output Economics, Econometrics, Development Economics",
+
+  "born": "5 August 1906",
+
+  "died": "5 February 1999",
+
+  "knownFor1": "Input-Output Analysis",
+  "knownFor2": "Interindustry Economics",
+  "knownFor3": "Economic Modeling",
+  "knownFor4": "Leontief Paradox",
+  "knownFor5": "Quantitative Economics",
+  "knownFor6": "National Economic Accounting",
+  "knownFor7": "Economic Planning Models",
+  "knownFor8": "Applied Econometrics",
+
+  "legacy": "Wassily Leontief transformed economics by demonstrating how entire economies can be analyzed as interconnected networks of industries that buy from and sell to one another. His input-output framework provided governments, researchers, and international organizations with powerful tools for studying production, trade, employment, resource use, and economic development. His methods remain foundational in economic planning, environmental economics, and national accounting systems.",
+
+  "earlyLife": "Leontief displayed exceptional intellectual ability from an early age and became interested in economics, mathematics, and social organization. Growing up during a period of major political and economic change, he became fascinated by the challenge of understanding how large economic systems function. His studies eventually led him toward quantitative approaches that combined economic theory with real-world measurement.",
+
+  "scientificField": "Economics, Econometrics, Economic Modeling, Development Economics",
+
+  "majorContributions": "Leontief developed input-output analysis, a method that maps the flows of goods and services among industries within an economy. His framework made it possible to calculate how changes in one sector affect many others, revealing the complex interdependence of economic activity. He also contributed to international trade analysis through the Leontief Paradox, which challenged expectations about trade patterns and stimulated further research into comparative advantage and factor endowments.",
+
+  "laterLife": "Throughout his later career, Leontief continued refining quantitative economic methods and applying them to issues involving growth, technology, environmental impact, and international development. He advocated greater use of empirical evidence in economics and encouraged economists to test theories against real-world data. His influence expanded globally as governments and institutions adopted input-output techniques for economic planning and forecasting.",
+
+  "whyImportant": "Modern economies consist of countless interconnected activities, making it difficult to understand how changes ripple through production and consumption systems. Leontief provided a practical framework for tracing those relationships. His work helped economists, policymakers, and planners analyze economic structure with greater precision, improving understanding of industrial development, trade, employment, and resource allocation.",
+
+  "quote1": "Economic systems are networks of interdependence rather than collections of isolated activities.",
+  "quote2": "Good theory becomes valuable when tested against evidence.",
+  "quote3": "Measurement is essential for meaningful economic understanding.",
+  "quote4": "Industries influence one another in ways not immediately visible.",
+  "quote5": "Economic analysis should remain connected to observable reality.",
+  "quote6": "Data provides the foundation for effective policy.",
+  "quote7": "Complex systems become understandable when relationships are mapped clearly.",
+  "quote8": "Quantitative methods strengthen economic insight.",
+  "quote9": "Production depends upon cooperation across many sectors.",
+  "quote10": "Economic models should illuminate reality rather than replace it.",
+  "quote11": "Understanding connections is often more important than studying components alone.",
+  "quote12": "National economies function as integrated systems.",
+  "quote13": "Reliable knowledge grows through observation and verification.",
+  "quote14": "Evidence should guide economic conclusions.",
+  "quote15": "Interdependence shapes modern economic life.",
+  "quote16": "Economic planning benefits from accurate measurement.",
+  "quote17": "Mathematical tools are most useful when applied to real problems.",
+  "quote18": "Every industry both influences and depends upon others.",
+  "quote19": "Scientific economics requires careful attention to facts.",
+  "quote20": "Understanding economic structure is essential for understanding economic change."
+}
