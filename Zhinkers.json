@@ -881,25 +881,17 @@
   {"id":"victor_cousin","name":"Victor Cousin","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/VictorCousin.jpg/960px-VictorCousin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Cousin.json"},
   {"id":"victor_grignard","name":"Victor Grignard","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Viktor-grignard_%28cropped%29.jpg/960px-Viktor-grignard_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Grignard.json"},
   {"id":"victor_hess","name":"Victor Hess","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hess.jpg/960px-Hess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Hess.json"},
-
-  
-
-
-  
-{"id":"victor_weisskopf","name":"Victor Weisskopf","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Victor_Weisskopf_lecturing_at_the_blackboard.jpg/960px-Victor_Weisskopf_lecturing_at_the_blackboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Weisskopf.json"},
-
-{"id":"viktor_frankl","name":"Viktor Frankl","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/960px-Viktor_Frankl2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Viktor_Frankl.json"},
-
-{"id":"vilfredo_pareto","name":"Vilfredo Pareto","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Vilfredo_Pareto_1870s2.jpg/960px-Vilfredo_Pareto_1870s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vilfredo_Pareto.json"},
-
-{"id":"vint_cerf","name":"Vint Cerf","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Vint_Cerf_2016.jpg/960px-Vint_Cerf_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vint_Cerf.json"},
-{"id":"virginia_apgar","name":"Virginia Apgar","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Virginia-Apgar-July-6-1959.jpg/960px-Virginia-Apgar-July-6-1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Virginia_Apgar.json"},
+  {"id":"victor_weisskopf","name":"Victor Weisskopf","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Victor_Weisskopf_lecturing_at_the_blackboard.jpg/960px-Victor_Weisskopf_lecturing_at_the_blackboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Weisskopf.json"},
+  {"id":"viktor_frankl","name":"Viktor Frankl","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/960px-Viktor_Frankl2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Viktor_Frankl.json"},
+  {"id":"vilfredo_pareto","name":"Vilfredo Pareto","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Vilfredo_Pareto_1870s2.jpg/960px-Vilfredo_Pareto_1870s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vilfredo_Pareto.json"},
+  {"id":"vint_cerf","name":"Vint Cerf","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Vint_Cerf_2016.jpg/960px-Vint_Cerf_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vint_Cerf.json"},
+  {"id":"virginia_apgar","name":"Virginia Apgar","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Virginia-Apgar-July-6-1959.jpg/960px-Virginia-Apgar-July-6-1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Virginia_Apgar.json"},
 
 
 
   
   
-{"id":"virginia_dominguez","name":"Virginia Dominguez","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Virginia_Dominguez.json"},
+
 {"id":"virginia_satir","name":"Virginia Satir","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Virginia_Satir.json"},
 {"id":"virginia_walbot","name":"Virginia Walbot","letter":"V","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Virginia_Walbot.json"},
 {"id":"vitaly_ginzburg","name":"Vitaly Ginzburg","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Vitaly_Ginzburg.json"},
@@ -908,6 +900,9 @@
 {"id":"vivek_murthy","name":"Vivek Murthy","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Vivek_Murthy.json"},
 {"id":"vivek_sarkar","name":"Vivek Sarkar","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vivek_Sarkar.json"},
 {"id":"vladimir_arnold","name":"Vladimir Arnold","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Arnold.json"},
+  
+
+
   
   
 {"id":"vladimir_bekhterev","name":"Vladimir Bekhterev","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Bekhterev.json"},
