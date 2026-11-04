@@ -890,8 +890,8 @@
 
 {"id":"viktor_frankl","name":"Viktor Frankl","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/960px-Viktor_Frankl2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Viktor_Frankl.json"},
 
-{"id":"vilfredo_pareto","name":"Vilfredo Pareto","letter":"V","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Vilfredo_Pareto.json"},
-{"id":"vincent_crapanzano","name":"Vincent Crapanzano","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Vincent_Crapanzano.json"},
+{"id":"vilfredo_pareto","name":"Vilfredo Pareto","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Vilfredo_Pareto_1870s2.jpg/960px-Vilfredo_Pareto_1870s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vilfredo_Pareto.json"},
+
 {"id":"vint_cerf","name":"Vint Cerf","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vint_Cerf.json"},
 {"id":"virginia_apgar","name":"Virginia Apgar","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Virginia_Apgar.json"},
 
