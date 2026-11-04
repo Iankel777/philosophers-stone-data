@@ -898,8 +898,8 @@
   
 {"id":"vladimir_bekhterev","name":"Vladimir Bekhterev","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bulla_bekhterev_v.jpg/960px-Bulla_bekhterev_v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Bekhterev.json"},
 
-{"id":"vladimir_prelog","name":"Vladimir Prelog","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Prelog.json"},
-{"id":"vladimir_vapnik","name":"Vladimir Vapnik","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Vapnik.json"},
+{"id":"vladimir_prelog","name":"Vladimir Prelog","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vladimir_Prelog_ETH-Bib_Portr_00214.jpg/960px-Vladimir_Prelog_ETH-Bib_Portr_00214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Prelog.json"},
+
 {"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Voevodsky.json"},
 {"id":"voltaire","name":"Voltaire","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Voltaire.json"},
 {"id":"vuk_vukotic","name":"Vuk Vukotić","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Vuk_Vukotic.json"},
