@@ -875,12 +875,13 @@
   
   
 
-{"id":"vera_rubin","name":"Vera Rubin","letter":"V","category":"Astronomy","legend":true,"visible":true,"image":"","jsonFile":"Vera_Rubin.json"},
-{"id":"vered_amit","name":"Vered Amit","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Vered_Amit.json"},
+{"id":"vera_rubin","name":"Vera Rubin","letter":"V","category":"Astronomy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Vera_Rubin_measuring_spectra.jpg/960px-Vera_Rubin_measuring_spectra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vera_Rubin.json"},
+
 {"id":"verne_grant","name":"Verne Grant","letter":"V","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Verne_Grant.json"},
 {"id":"verner_von_heidenstam","name":"Verner von Heidenstam","letter":"V","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Verner_Heidenstam.json"},
 {"id":"vernon_smith","name":"Vernon Smith","letter":"V","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Vernon_Smith.json"},
   
+
   
 {"id":"viatcheslav_gribov","name":"Viatcheslav Gribov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Viatcheslav_Gribov.json"},
 {"id":"vicente_aleixandre","name":"Vicente Aleixandre","letter":"V","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Vicente_Aleixandre.json"},
