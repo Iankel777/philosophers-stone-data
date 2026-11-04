@@ -898,7 +898,7 @@
 {"id":"vito_tanzi","name":"Vito Tanzi","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Professor_Vito_Tanzi_2019.jpg/960px-Professor_Vito_Tanzi_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Tanzi.json"},
 {"id":"vito_volterra","name":"Vito Volterra","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Vito_Volterra.jpg/960px-Vito_Volterra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Volterra.json"},
 
-{"id":"vivek_sarkar","name":"Vivek Sarkar","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vivek_Sarkar.json"},
+
 {"id":"vladimir_arnold","name":"Vladimir Arnold","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Arnold.json"},
   
 
