@@ -891,20 +891,24 @@
   {"id":"vito_tanzi","name":"Vito Tanzi","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Professor_Vito_Tanzi_2019.jpg/960px-Professor_Vito_Tanzi_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Tanzi.json"},
   {"id":"vito_volterra","name":"Vito Volterra","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Vito_Volterra.jpg/960px-Vito_Volterra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Volterra.json"},
   {"id":"vladimir_arnold","name":"Vladimir Arnold","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Arnold-1.jpg/960px-Vladimir_Arnold-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Arnold.json"},
+  {"id":"vladimir_bekhterev","name":"Vladimir Bekhterev","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bulla_bekhterev_v.jpg/960px-Bulla_bekhterev_v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Bekhterev.json"},
+  {"id":"vladimir_prelog","name":"Vladimir Prelog","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vladimir_Prelog_ETH-Bib_Portr_00214.jpg/960px-Vladimir_Prelog_ETH-Bib_Portr_00214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Prelog.json"},
+  {"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VladimirVoevodsky.jpg/960px-VladimirVoevodsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Voevodsky.json"},
+  {"id":"voltaire","name":"Voltaire","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg/960px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Voltaire.json"},
+  {"id":"vyacheslav_mukhanov","name":"Vyacheslav Mukhanov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Viatcheslav_Mukhanov%2C_recipient_of_the_2013_Gruber_Prize_%28iau1304a%29.tif/lossy-page1-960px-Viatcheslav_Mukhanov%2C_recipient_of_the_2013_Gruber_Prize_%28iau1304a%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vyacheslav_Mukhanov.json"},
   
-
-
   
   
-{"id":"vladimir_bekhterev","name":"Vladimir Bekhterev","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bulla_bekhterev_v.jpg/960px-Bulla_bekhterev_v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Bekhterev.json"},
-
-{"id":"vladimir_prelog","name":"Vladimir Prelog","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vladimir_Prelog_ETH-Bib_Portr_00214.jpg/960px-Vladimir_Prelog_ETH-Bib_Portr_00214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Prelog.json"},
-
-{"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VladimirVoevodsky.jpg/960px-VladimirVoevodsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Voevodsky.json"},
-{"id":"voltaire","name":"Voltaire","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg/960px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Voltaire.json"},
-
-{"id":"vyacheslav_mukhanov","name":"Vyacheslav Mukhanov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Viatcheslav_Mukhanov%2C_recipient_of_the_2013_Gruber_Prize_%28iau1304a%29.tif/lossy-page1-960px-Viatcheslav_Mukhanov%2C_recipient_of_the_2013_Gruber_Prize_%28iau1304a%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vyacheslav_Mukhanov.json"},
-{"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wassily_Leontief_1973.jpg/960px-Wassily_Leontief_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wassily_Leontief.json"}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wassily_Leontief_1973.jpg/960px-Wassily_Leontief_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wassily_Leontief.json"}
 
 
   
