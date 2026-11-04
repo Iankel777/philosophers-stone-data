@@ -871,20 +871,16 @@
   {"id":"vamik_volkan","name":"Vamik Volkan","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Vam%C4%B1k_Volkan.jpg/960px-Vam%C4%B1k_Volkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vamik_Volkan.json"},
   {"id":"vaughan_jones","name":"Vaughan Jones","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vaughan_Jones_2010_%28cropped%29.jpg/960px-Vaughan_Jones_2010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vaughan_Jones.json"},
   {"id":"veena_das","name":"Veena Das","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Professor_Veena_Das_%28cropped%29.jpg/960px-Professor_Veena_Das_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Veena_Das.json"},
-
-  
-  
-
-{"id":"vera_rubin","name":"Vera Rubin","letter":"V","category":"Astronomy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Vera_Rubin_measuring_spectra.jpg/960px-Vera_Rubin_measuring_spectra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vera_Rubin.json"},
-{"id":"verne_grant","name":"Verne Grant","letter":"V","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/960px-Jules_Verne_by_%C3%89tienne_Carjat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Verne_Grant.json"},
-{"id":"verner_von_heidenstam","name":"Verner von Heidenstam","letter":"V","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Verner_von_Heidenstam_1916.jpg/960px-Verner_von_Heidenstam_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Verner_Heidenstam.json"},
-{"id":"vernon_smith","name":"Vernon Smith","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vernon_Smith_1958.jpg/960px-Vernon_Smith_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vernon_Smith.json"},
+  {"id":"vera_rubin","name":"Vera Rubin","letter":"V","category":"Astronomy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Vera_Rubin_measuring_spectra.jpg/960px-Vera_Rubin_measuring_spectra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vera_Rubin.json"},
+  {"id":"verne_grant","name":"Verne Grant","letter":"V","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/960px-Jules_Verne_by_%C3%89tienne_Carjat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Verne_Grant.json"},
+  {"id":"verner_von_heidenstam","name":"Verner von Heidenstam","letter":"V","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Verner_von_Heidenstam_1916.jpg/960px-Verner_von_Heidenstam_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Verner_Heidenstam.json"},
+  {"id":"vernon_smith","name":"Vernon Smith","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vernon_Smith_1958.jpg/960px-Vernon_Smith_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vernon_Smith.json"},
   
 
 
 
   
-{"id":"viatcheslav_gribov","name":"Viatcheslav Gribov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Viatcheslav_Gribov.json"},
+
 {"id":"vicente_aleixandre","name":"Vicente Aleixandre","letter":"V","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Vicente_Aleixandre.json"},
 {"id":"vicki_hanson","name":"Vicki Hanson","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vicki_Hanson.json"},
 {"id":"victor_ambros","name":"Victor Ambros","letter":"V","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Victor_Ambros.json"},
@@ -895,6 +891,8 @@
 {"id":"victor_turner","name":"Victor Turner","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Victor_Turner.json"},
   
 
+
+  
 {"id":"victor_weisskopf","name":"Victor Weisskopf","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Victor_Weisskopf.json"},
 {"id":"vikram_advani","name":"Vikram Advani","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vikram_Advani.json"},
 {"id":"viktor_frankl","name":"Viktor Frankl","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Viktor_Frankl.json"},
