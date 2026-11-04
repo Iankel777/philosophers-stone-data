@@ -866,15 +866,15 @@
 
 
 
-{"id":"ravi_vakil","name":"Ravi Vakil","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Ravi_Vakil.jpg/960px-Ravi_Vakil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ravi_Vakil.json"},
-{"id":"valentin_tomberg","name":"Valentin Tomberg","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Valentin_Tomberg.tif/lossy-page1-960px-Valentin_Tomberg.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Valentin_Tomberg.json"},
-{"id":"vamik_volkan","name":"Vamik Volkan","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Vam%C4%B1k_Volkan.jpg/960px-Vam%C4%B1k_Volkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vamik_Volkan.json"},
-{"id":"vaughan_jones","name":"Vaughan Jones","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vaughan_Jones_2010_%28cropped%29.jpg/960px-Vaughan_Jones_2010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vaughan_Jones.json"},
-{"id":"veena_das","name":"Veena Das","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Professor_Veena_Das_%28cropped%29.jpg/960px-Professor_Veena_Das_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Veena_Das.json"},
+  {"id":"ravi_vakil","name":"Ravi Vakil","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Ravi_Vakil.jpg/960px-Ravi_Vakil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ravi_Vakil.json"},
+  {"id":"valentin_tomberg","name":"Valentin Tomberg","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Valentin_Tomberg.tif/lossy-page1-960px-Valentin_Tomberg.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Valentin_Tomberg.json"},
+  {"id":"vamik_volkan","name":"Vamik Volkan","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Vam%C4%B1k_Volkan.jpg/960px-Vam%C4%B1k_Volkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vamik_Volkan.json"},
+  {"id":"vaughan_jones","name":"Vaughan Jones","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vaughan_Jones_2010_%28cropped%29.jpg/960px-Vaughan_Jones_2010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vaughan_Jones.json"},
+  {"id":"veena_das","name":"Veena Das","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Professor_Veena_Das_%28cropped%29.jpg/960px-Professor_Veena_Das_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Veena_Das.json"},
 
   
   
-{"id":"venkatraman_padmanabhan","name":"Venkatraman Padmanabhan","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Venkatraman_Padmanabhan.json"},
+
 {"id":"vera_rubin","name":"Vera Rubin","letter":"V","category":"Astronomy","legend":true,"visible":true,"image":"","jsonFile":"Vera_Rubin.json"},
 {"id":"vered_amit","name":"Vered Amit","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Vered_Amit.json"},
 {"id":"verne_grant","name":"Verne Grant","letter":"V","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Verne_Grant.json"},
