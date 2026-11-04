@@ -867,11 +867,9 @@
 
 
 {"id":"ravi_vakil","name":"Ravi Vakil","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Ravi_Vakil.jpg/960px-Ravi_Vakil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ravi_Vakil.json"},
+{"id":"valentin_tomberg","name":"Valentin Tomberg","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Valentin_Tomberg.tif/lossy-page1-960px-Valentin_Tomberg.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Valentin_Tomberg.json"},
+{"id":"vamik_volkan","name":"Vamik Volkan","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Vam%C4%B1k_Volkan.jpg/960px-Vam%C4%B1k_Volkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vamik_Volkan.json"},
 
-
-{"id":"valentin_tomberg","name":"Valentin Tomberg","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Valentin_Tomberg.json"},
-{"id":"vamik_volkan","name":"Vamik Volkan","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Vamik_Volkan.json"},
-{"id":"varda_rotter","name":"Varda Rotter","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Varda_Rotter.json"},
 {"id":"vaughan_jones","name":"Vaughan Jones","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Vaughan_Jones.json"},
   
   
