@@ -903,8 +903,8 @@
 {"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VladimirVoevodsky.jpg/960px-VladimirVoevodsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Voevodsky.json"},
 {"id":"voltaire","name":"Voltaire","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg/960px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Voltaire.json"},
 
-{"id":"vyacheslav_mukhanov","name":"Vyacheslav Mukhanov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Vyacheslav_Mukhanov.json"},
-{"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Wassily_Leontief.json"}
+{"id":"vyacheslav_mukhanov","name":"Vyacheslav Mukhanov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Viatcheslav_Mukhanov%2C_recipient_of_the_2013_Gruber_Prize_%28iau1304a%29.tif/lossy-page1-960px-Viatcheslav_Mukhanov%2C_recipient_of_the_2013_Gruber_Prize_%28iau1304a%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vyacheslav_Mukhanov.json"},
+{"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wassily_Leontief_1973.jpg/960px-Wassily_Leontief_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wassily_Leontief.json"}
 
 
   
