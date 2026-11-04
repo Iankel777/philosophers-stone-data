@@ -900,9 +900,9 @@
 
 {"id":"vladimir_prelog","name":"Vladimir Prelog","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vladimir_Prelog_ETH-Bib_Portr_00214.jpg/960px-Vladimir_Prelog_ETH-Bib_Portr_00214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Prelog.json"},
 
-{"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Voevodsky.json"},
-{"id":"voltaire","name":"Voltaire","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Voltaire.json"},
-{"id":"vuk_vukotic","name":"Vuk Vukotić","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Vuk_Vukotic.json"},
+{"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VladimirVoevodsky.jpg/960px-VladimirVoevodsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Voevodsky.json"},
+{"id":"voltaire","name":"Voltaire","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg/960px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_Mus%C3%A9e_Carnavalet_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Voltaire.json"},
+
 {"id":"vyacheslav_mukhanov","name":"Vyacheslav Mukhanov","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Vyacheslav_Mukhanov.json"},
 {"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Wassily_Leontief.json"}
 
