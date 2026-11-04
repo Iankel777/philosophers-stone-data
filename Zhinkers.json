@@ -881,11 +881,11 @@
 
   
 
-{"id":"vicente_aleixandre","name":"Vicente Aleixandre","letter":"V","category":"Literature","legend":true,"visible":true,"image":"","jsonFile":"Vicente_Aleixandre.json"},
-{"id":"vicki_hanson","name":"Vicki Hanson","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vicki_Hanson.json"},
-{"id":"victor_ambros","name":"Victor Ambros","letter":"V","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Victor_Ambros.json"},
-{"id":"victor_cousin","name":"Victor Cousin","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Victor_Cousin.json"},
-{"id":"victor_dzau","name":"Victor Dzau","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Victor_Dzau.json"},
+{"id":"vicente_aleixandre","name":"Vicente Aleixandre","letter":"V","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Spaanse_dichter_en_nobelprijswinnaar_Vicente_Alexandre%2C_Bestanddeelnr_929-3851.jpg/960px-Spaanse_dichter_en_nobelprijswinnaar_Vicente_Alexandre%2C_Bestanddeelnr_929-3851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vicente_Aleixandre.json"},
+{"id":"vicki_hanson","name":"Vicki Hanson","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vicki_l_hanson_photo_1.png/960px-Vicki_l_hanson_photo_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vicki_Hanson.json"},
+{"id":"victor_ambros","name":"Victor Ambros","letter":"V","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Victor_Ambros_3x4.jpg/960px-Victor_Ambros_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Ambros.json"},
+{"id":"victor_cousin","name":"Victor Cousin","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/VictorCousin.jpg/960px-VictorCousin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Cousin.json"},
+
 {"id":"victor_grignard","name":"Victor Grignard","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Victor_Grignard.json"},
 {"id":"victor_hess","name":"Victor Hess","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Victor_Hess.json"},
 {"id":"victor_turner","name":"Victor Turner","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Victor_Turner.json"},
