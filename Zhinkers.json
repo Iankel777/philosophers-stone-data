@@ -875,31 +875,28 @@
   {"id":"verne_grant","name":"Verne Grant","letter":"V","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/960px-Jules_Verne_by_%C3%89tienne_Carjat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Verne_Grant.json"},
   {"id":"verner_von_heidenstam","name":"Verner von Heidenstam","letter":"V","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Verner_von_Heidenstam_1916.jpg/960px-Verner_von_Heidenstam_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Verner_Heidenstam.json"},
   {"id":"vernon_smith","name":"Vernon Smith","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vernon_Smith_1958.jpg/960px-Vernon_Smith_1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vernon_Smith.json"},
-  
-
-
-
-  
-
-{"id":"vicente_aleixandre","name":"Vicente Aleixandre","letter":"V","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Spaanse_dichter_en_nobelprijswinnaar_Vicente_Alexandre%2C_Bestanddeelnr_929-3851.jpg/960px-Spaanse_dichter_en_nobelprijswinnaar_Vicente_Alexandre%2C_Bestanddeelnr_929-3851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vicente_Aleixandre.json"},
-{"id":"vicki_hanson","name":"Vicki Hanson","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vicki_l_hanson_photo_1.png/960px-Vicki_l_hanson_photo_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vicki_Hanson.json"},
-{"id":"victor_ambros","name":"Victor Ambros","letter":"V","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Victor_Ambros_3x4.jpg/960px-Victor_Ambros_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Ambros.json"},
-{"id":"victor_cousin","name":"Victor Cousin","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/VictorCousin.jpg/960px-VictorCousin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Cousin.json"},
-{"id":"victor_grignard","name":"Victor Grignard","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Viktor-grignard_%28cropped%29.jpg/960px-Viktor-grignard_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Grignard.json"},
-{"id":"victor_hess","name":"Victor Hess","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hess.jpg/960px-Hess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Hess.json"},
+  {"id":"vicente_aleixandre","name":"Vicente Aleixandre","letter":"V","category":"Literature","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Spaanse_dichter_en_nobelprijswinnaar_Vicente_Alexandre%2C_Bestanddeelnr_929-3851.jpg/960px-Spaanse_dichter_en_nobelprijswinnaar_Vicente_Alexandre%2C_Bestanddeelnr_929-3851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vicente_Aleixandre.json"},
+  {"id":"vicki_hanson","name":"Vicki Hanson","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vicki_l_hanson_photo_1.png/960px-Vicki_l_hanson_photo_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vicki_Hanson.json"},
+  {"id":"victor_ambros","name":"Victor Ambros","letter":"V","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Victor_Ambros_3x4.jpg/960px-Victor_Ambros_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Ambros.json"},
+  {"id":"victor_cousin","name":"Victor Cousin","letter":"V","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/VictorCousin.jpg/960px-VictorCousin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Cousin.json"},
+  {"id":"victor_grignard","name":"Victor Grignard","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Viktor-grignard_%28cropped%29.jpg/960px-Viktor-grignard_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Grignard.json"},
+  {"id":"victor_hess","name":"Victor Hess","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hess.jpg/960px-Hess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Hess.json"},
 
   
 
 
   
-{"id":"victor_weisskopf","name":"Victor Weisskopf","letter":"V","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Victor_Weisskopf.json"},
-{"id":"vikram_advani","name":"Vikram Advani","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vikram_Advani.json"},
+{"id":"victor_weisskopf","name":"Victor Weisskopf","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Victor_Weisskopf_lecturing_at_the_blackboard.jpg/960px-Victor_Weisskopf_lecturing_at_the_blackboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Victor_Weisskopf.json"},
+
 {"id":"viktor_frankl","name":"Viktor Frankl","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Viktor_Frankl.json"},
 {"id":"viktor_kac","name":"Viktor Kac","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Viktor_Kac.json"},
 {"id":"vilfredo_pareto","name":"Vilfredo Pareto","letter":"V","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Vilfredo_Pareto.json"},
 {"id":"vincent_crapanzano","name":"Vincent Crapanzano","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Vincent_Crapanzano.json"},
 {"id":"vint_cerf","name":"Vint Cerf","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vint_Cerf.json"},
 {"id":"virginia_apgar","name":"Virginia Apgar","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Virginia_Apgar.json"},
+
+
+
   
   
 {"id":"virginia_dominguez","name":"Virginia Dominguez","letter":"V","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Virginia_Dominguez.json"},
