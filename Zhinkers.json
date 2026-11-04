@@ -886,27 +886,18 @@
   {"id":"vilfredo_pareto","name":"Vilfredo Pareto","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Vilfredo_Pareto_1870s2.jpg/960px-Vilfredo_Pareto_1870s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vilfredo_Pareto.json"},
   {"id":"vint_cerf","name":"Vint Cerf","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Vint_Cerf_2016.jpg/960px-Vint_Cerf_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vint_Cerf.json"},
   {"id":"virginia_apgar","name":"Virginia Apgar","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Virginia-Apgar-July-6-1959.jpg/960px-Virginia-Apgar-July-6-1959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Virginia_Apgar.json"},
-
-
-
-  
-  
-
-{"id":"virginia_satir","name":"Virginia Satir","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/VirginiaSatir.jpg/960px-VirginiaSatir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Virginia_Satir.json"},
-
-{"id":"vitaly_ginzburg","name":"Vitaly Ginzburg","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Vitaly_Ginzburg.jpg/960px-Vitaly_Ginzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vitaly_Ginzburg.json"},
-{"id":"vito_tanzi","name":"Vito Tanzi","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Professor_Vito_Tanzi_2019.jpg/960px-Professor_Vito_Tanzi_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Tanzi.json"},
-{"id":"vito_volterra","name":"Vito Volterra","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Vito_Volterra.jpg/960px-Vito_Volterra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Volterra.json"},
-
-
-{"id":"vladimir_arnold","name":"Vladimir Arnold","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Arnold-1.jpg/960px-Vladimir_Arnold-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Arnold.json"},
+  {"id":"virginia_satir","name":"Virginia Satir","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/VirginiaSatir.jpg/960px-VirginiaSatir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Virginia_Satir.json"},
+  {"id":"vitaly_ginzburg","name":"Vitaly Ginzburg","letter":"V","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Vitaly_Ginzburg.jpg/960px-Vitaly_Ginzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vitaly_Ginzburg.json"},
+  {"id":"vito_tanzi","name":"Vito Tanzi","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Professor_Vito_Tanzi_2019.jpg/960px-Professor_Vito_Tanzi_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Tanzi.json"},
+  {"id":"vito_volterra","name":"Vito Volterra","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Vito_Volterra.jpg/960px-Vito_Volterra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vito_Volterra.json"},
+  {"id":"vladimir_arnold","name":"Vladimir Arnold","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Arnold-1.jpg/960px-Vladimir_Arnold-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Arnold.json"},
   
 
 
   
   
-{"id":"vladimir_bekhterev","name":"Vladimir Bekhterev","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Bekhterev.json"},
-{"id":"vladimir_demikhov","name":"Vladimir Demikhov","letter":"V","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Demikhov.json"},
+{"id":"vladimir_bekhterev","name":"Vladimir Bekhterev","letter":"V","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bulla_bekhterev_v.jpg/960px-Bulla_bekhterev_v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Vladimir_Bekhterev.json"},
+
 {"id":"vladimir_prelog","name":"Vladimir Prelog","letter":"V","category":"Chemistry","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Prelog.json"},
 {"id":"vladimir_vapnik","name":"Vladimir Vapnik","letter":"V","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Vapnik.json"},
 {"id":"vladimir_voevodsky","name":"Vladimir Voevodsky","letter":"V","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Vladimir_Voevodsky.json"},
