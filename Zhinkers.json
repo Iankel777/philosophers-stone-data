@@ -932,9 +932,9 @@
 
 {"id":"william_damon","name":"William Damon","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/William_Damon.jpg/960px-William_Damon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Damon.json"},
 
-{"id":"william_glasser","name":"William Glasser","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"William_Glasser.json"},
-{"id":"william_halsted","name":"William Halsted","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"William_Halsted.json"},
-{"id":"william_hamilton","name":"William D. Hamilton","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Hamilton.json"},
+{"id":"william_glasser","name":"William Glasser","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/WilliamGlasser.jpg/960px-WilliamGlasser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Glasser.json"},
+{"id":"william_halsted","name":"William Halsted","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/William_Stewart_Halsted.jpg/960px-William_Stewart_Halsted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Halsted.json"},
+
   
 
 
