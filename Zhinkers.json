@@ -912,9 +912,6 @@
   {"id":"wendell_furry","name":"Wendell Furry","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Wendell_Furry.jpg/960px-Wendell_Furry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wendell_Furry.json"},
   {"id":"wendy_hall","name":"Wendy Hall","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wendy_hall_2011.jpg/960px-Wendy_hall_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wendy_Hall.json"},
   {"id":"werner_forssmann","name":"Werner Forssmann","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Werner_Forssmann_nobel.jpg/960px-Werner_Forssmann_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Werner_Forssmann.json"},
-  
-
-  
   {"id":"werner_heisenberg","name":"Werner Heisenberg","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg/960px-Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Werner_Heisenberg.json"},
   {"id":"wesley_clark","name":"Wesley A. Clark","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Wesley_A_Clark_2002.jpg/960px-Wesley_A_Clark_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wesley_Clark.json"},
   {"id":"whitfield_diffie","name":"Whitfield Diffie","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Whit_Diffie_at_CFP_2007.jpg/960px-Whit_Diffie_at_CFP_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Whitfield_Diffie.json"},
@@ -922,6 +919,7 @@
   {"id":"wilfrid_sellars","name":"Wilfrid Sellars","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wilfrid_Sellars_Faculty_Photo_%28cropped%29.jpg/960px-Wilfrid_Sellars_Faculty_Photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wilfrid_Sellars.json"},
   
 
+  
   
 {"id":"wilhelm_rontgen","name":"Wilhelm Röntgen","letter":"W","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Wilhelm_Rontgen.json"},
 {"id":"wilhelm_schickard","name":"Wilhelm Schickard","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Wilhelm_Schickard.json"},
@@ -932,6 +930,8 @@
 {"id":"willi_hennig","name":"Willi Hennig","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Willi_Hennig.json"},
 {"id":"william_alston","name":"William Alston","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"William_Alston.json"},
 {"id":"william_bateson","name":"William Bateson","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Bateson.json"},
+
+
   
   
 {"id":"william_burnside","name":"William Burnside","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"William_Burnside.json"},
@@ -944,6 +944,8 @@
 {"id":"william_hamilton","name":"William D. Hamilton","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Hamilton.json"},
   
 
+
+  
 {"id":"william_harvey","name":"William Harvey","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"William_Harvey.json"},
 {"id":"william_james","name":"William James","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"William_James.json"},
 {"id":"william_jevons","name":"William Stanley Jevons","letter":"W","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"William_Jevons.json"},
@@ -953,6 +955,8 @@
 {"id":"william_of_ockham","name":"William of Ockham","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"William_of_Ockham.json"},
 {"id":"william_osler","name":"William Osler","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"William_Osler.json"},
  
+
+
   
 {"id":"william_sargant","name":"William Sargant","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"William_Sargant.json"},
 {"id":"william_stallings","name":"William Stallings","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"William_Stallings.json"},
