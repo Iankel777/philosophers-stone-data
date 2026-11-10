@@ -930,8 +930,8 @@
   
 {"id":"william_burnside","name":"William Burnside","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Burnside_2.jpeg/960px-Burnside_2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Burnside.json"},
 
-{"id":"william_damon","name":"William Damon","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"William_Damon.json"},
-{"id":"william_eberhard","name":"William Eberhard","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Eberhard.json"},
+{"id":"william_damon","name":"William Damon","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/William_Damon.jpg/960px-William_Damon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Damon.json"},
+
 {"id":"william_feller","name":"William Feller","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"William_Feller.json"},
 {"id":"william_glasser","name":"William Glasser","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"William_Glasser.json"},
 {"id":"william_halsted","name":"William Halsted","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"William_Halsted.json"},
