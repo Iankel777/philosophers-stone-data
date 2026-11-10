@@ -919,9 +919,9 @@
 {"id":"wesley_clark","name":"Wesley A. Clark","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Wesley_A_Clark_2002.jpg/960px-Wesley_A_Clark_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wesley_Clark.json"},
 
 
-{"id":"whitfield_diffie","name":"Whitfield Diffie","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Whitfield_Diffie.json"},
-{"id":"wietse_venema","name":"Wietse Venema","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"","jsonFile":"Wietse_Venema.json"},
-{"id":"wil_shipley","name":"Wil Shipley","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"","jsonFile":"Wil_Shipley.json"},
+{"id":"whitfield_diffie","name":"Whitfield Diffie","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Whit_Diffie_at_CFP_2007.jpg/960px-Whit_Diffie_at_CFP_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Whitfield_Diffie.json"},
+{"id":"wietse_venema","name":"Wietse Venema","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Wietse_Venema.jpg/960px-Wietse_Venema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wietse_Venema.json"},
+
 {"id":"wilfred_bion","name":"Wilfred Bion","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Wilfred_Bion.json"},
 {"id":"wilfrid_sellars","name":"Wilfrid Sellars","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Wilfrid_Sellars.json"},
   
