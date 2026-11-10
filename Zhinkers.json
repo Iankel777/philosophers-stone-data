@@ -928,22 +928,17 @@
   {"id":"william_damon","name":"William Damon","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/William_Damon.jpg/960px-William_Damon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Damon.json"},
   {"id":"william_glasser","name":"William Glasser","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/WilliamGlasser.jpg/960px-WilliamGlasser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Glasser.json"},
   {"id":"william_halsted","name":"William Halsted","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/William_Stewart_Halsted.jpg/960px-William_Stewart_Halsted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Halsted.json"},
-
-  
-
-
-  
-{"id":"william_harvey","name":"William Harvey","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/William_Henry_Harvey00.jpg/960px-William_Henry_Harvey00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Harvey.json"},
-{"id":"william_james","name":"William James","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/William_James%2C_from_The_Story_of_Philosophy.jpg/960px-William_James%2C_from_The_Story_of_Philosophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_James.json"},
-{"id":"william_jevons","name":"William Stanley Jevons","letter":"W","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/William_Stanley_Jevons_portrait_extract.jpg/960px-William_Stanley_Jevons_portrait_extract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Jevons.json"},
-{"id":"william_kahan","name":"William Kahan","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2012-06-15_William_Kahan.jpg/960px-2012-06-15_William_Kahan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Kahan.json"},
-{"id":"william_osler","name":"William Osler","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/William_Osler_c1912.jpg/960px-William_Osler_c1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Osler.json"},
+  {"id":"william_harvey","name":"William Harvey","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/William_Henry_Harvey00.jpg/960px-William_Henry_Harvey00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Harvey.json"},
+  {"id":"william_james","name":"William James","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/William_James%2C_from_The_Story_of_Philosophy.jpg/960px-William_James%2C_from_The_Story_of_Philosophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_James.json"},
+  {"id":"william_jevons","name":"William Stanley Jevons","letter":"W","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/William_Stanley_Jevons_portrait_extract.jpg/960px-William_Stanley_Jevons_portrait_extract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Jevons.json"},
+  {"id":"william_kahan","name":"William Kahan","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2012-06-15_William_Kahan.jpg/960px-2012-06-15_William_Kahan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Kahan.json"},
+  {"id":"william_osler","name":"William Osler","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/William_Osler_c1912.jpg/960px-William_Osler_c1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Osler.json"},
  
 
 
   
-{"id":"william_sargant","name":"William Sargant","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"William_Sargant.json"},
-{"id":"william_stallings","name":"William Stallings","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"William_Stallings.json"},
+{"id":"william_sargant","name":"William Sargant","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/William_Walters_Sargant_1947b.jpg/960px-William_Walters_Sargant_1947b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Sargant.json"},
+
 {"id":"william_thomson","name":"William Thomson","letter":"W","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"William_Thomson.json"},
 {"id":"william_thurston","name":"William Thurston","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"William_Thurston.json"},
 {"id":"william_vickrey","name":"William Vickrey","letter":"W","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"William_Vickrey.json"},
