@@ -900,21 +900,16 @@
   
   
   
+  {"id":"waclaw_sierpinski","name":"Wacław Sierpiński","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Wac%C5%82aw_Sierpi%C5%84ski.jpg/960px-Wac%C5%82aw_Sierpi%C5%84ski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Waclaw_Sierpinski.json"},
+  {"id":"walt_rostow","name":"Walt Rostow","letter":"W","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Advisors%2C_Walt_Rostow_-_NARA_-_192543_%28cropped%29.jpg/960px-Advisors%2C_Walt_Rostow_-_NARA_-_192543_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walt_Rostow.json"},
+  {"id":"walter_bright","name":"Walter Bright","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/WalterBright.jpg/960px-WalterBright.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Bright.json"},
+  {"id":"walter_kaufmann","name":"Walter Kaufmann","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Walter_kaufmann.png/960px-Walter_kaufmann.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Kaufmann.json"},
+  {"id":"walter_kohn","name":"Walter Kohn","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Walter_Kohn.jpg/960px-Walter_Kohn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Kohn.json"},
+  {"id":"walter_mischel","name":"Walter Mischel","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Walter_Mischel_Stanford_Psychologist.png/960px-Walter_Mischel_Stanford_Psychologist.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Mischel.json"},
+  {"id":"walter_reed","name":"Walter Reed","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/WalterReed.jpeg/960px-WalterReed.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Reed.json"},
   
   
-  
-  
-  
-{"id":"waclaw_sierpinski","name":"Wacław Sierpiński","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Wac%C5%82aw_Sierpi%C5%84ski.jpg/960px-Wac%C5%82aw_Sierpi%C5%84ski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Waclaw_Sierpinski.json"},
-{"id":"walt_rostow","name":"Walt Rostow","letter":"W","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Advisors%2C_Walt_Rostow_-_NARA_-_192543_%28cropped%29.jpg/960px-Advisors%2C_Walt_Rostow_-_NARA_-_192543_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walt_Rostow.json"},
-{"id":"walter_bright","name":"Walter Bright","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/WalterBright.jpg/960px-WalterBright.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Bright.json"},
-{"id":"walter_kaufmann","name":"Walter Kaufmann","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Walter_kaufmann.png/960px-Walter_kaufmann.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Kaufmann.json"},
-{"id":"walter_kohn","name":"Walter Kohn","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Walter_Kohn.jpg/960px-Walter_Kohn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Kohn.json"},
-{"id":"walter_mischel","name":"Walter Mischel","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Walter_Mischel_Stanford_Psychologist.png/960px-Walter_Mischel_Stanford_Psychologist.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Mischel.json"},
-{"id":"walter_reed","name":"Walter Reed","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/WalterReed.jpeg/960px-WalterReed.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Walter_Reed.json"},
-  
-  
-{"id":"wanda_diaz_merced","name":"Wanda Diaz-Merced","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Wanda_Merced.json"},
+
 {"id":"ward_cunningham","name":"Ward Cunningham","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"","jsonFile":"Ward_Cunningham.json"},
 {"id":"ward_goodenough","name":"Ward Goodenough","letter":"W","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ward_Goodenough.json"},
 {"id":"wendelin_werner","name":"Wendelin Werner","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Wendelin_Werner.json"},
