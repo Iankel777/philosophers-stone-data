@@ -927,8 +927,8 @@
 {"id":"willard_van_orman_quine","name":"Willard Van Orman Quine","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Willard_Van_Orman_Quine_on_Bluenose_II_in_Halifax_NS_harbor_1980.jpg/960px-Willard_Van_Orman_Quine_on_Bluenose_II_in_Halifax_NS_harbor_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Willard_Van_Orman_Quine.json"},
 {"id":"willem_de_sitter","name":"Willem de Sitter","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WillemDeSitter3.jpg/960px-WillemDeSitter3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Willem_de_Sitter.json"},
 
-{"id":"willi_hennig","name":"Willi Hennig","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Willi_Hennig.json"},
-{"id":"william_alston","name":"William Alston","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"William_Alston.json"},
+{"id":"willi_hennig","name":"Willi Hennig","letter":"W","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Willi_Hennig2.jpg/960px-Willi_Hennig2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Willi_Hennig.json"},
+
 {"id":"william_bateson","name":"William Bateson","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Bateson.json"},
 
 
