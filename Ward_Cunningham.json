@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Ward Cunningham",
+
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ward_Cunningham_%282011%29.jpg",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ward_Cunningham_(2011).jpg",
+  "imageLicense": "CC BY-SA 3.0",
+  "imageAttribution": "Eirik Newth",
+
+  "indexLetter": "W",
+
+  "nationality": "American",
+
+  "occupation": "Software Engineer, Programmer, Software Architect",
+
+  "school": "Software Engineering, Agile Development, Collaborative Knowledge Systems",
+
+  "born": "26 May 1949",
+
+  "died": "",
+
+  "knownFor1": "WikiWikiWeb",
+  "knownFor2": "Wiki Concept",
+  "knownFor3": "Agile Software Development",
+  "knownFor4": "Extreme Programming",
+  "knownFor5": "Software Design Patterns",
+  "knownFor6": "Technical Debt Concept",
+  "knownFor7": "Collaborative Documentation",
+  "knownFor8": "Knowledge Sharing Systems",
+
+  "legacy": "Ward Cunningham helped reshape the way software teams exchange knowledge. His introduction of editable shared web pages enabled communities to organize information without centralized control. His work encouraged transparency, collaboration, and continuous refinement of ideas. Many modern knowledge-management systems, developer portals, and collaborative platforms reflect principles that became widely recognized through his contributions.",
+
+  "earlyLife": "Ward Cunningham grew up during a period when computing was evolving from a specialized scientific discipline into a broader technological field. His interest in engineering and problem solving led him toward software development, where he became increasingly interested in improving the way developers communicate, learn, and work together. Rather than focusing solely on code, he explored how information itself could be organized and shared more effectively.",
+
+  "scientificField": "Software Engineering, Programming Methodologies, Agile Development, Knowledge Management",
+
+  "majorContribution": "Cunningham's most influential achievement was creating the first wiki, a system that allowed users to create, edit, and connect information directly through a web browser. The simplicity of the approach encouraged participation and collective learning. He also promoted software design patterns and helped popularize the concept of technical debt, providing developers with a practical way to discuss the long-term costs of software design decisions.",
+
+  "laterLife": "Throughout his later career, Cunningham remained active in software communities and continued investigating new methods for sharing technical knowledge. He participated in discussions about sustainable software architecture, agile methods, and organizational learning. His ideas continued to influence both open-source communities and large software organizations seeking to improve collaboration.",
+
+  "whyImportant": "Modern software development depends heavily on shared understanding. Cunningham demonstrated that effective collaboration tools can amplify the knowledge of entire teams. His ideas contributed to making software projects more adaptable, transparent, and community-driven. Today, countless organizations rely on wiki-style systems and collaborative knowledge practices that follow principles closely aligned with his vision.",
+
+  "quote1": "Shared knowledge becomes more valuable every time it is improved.",
+  "quote2": "The best systems help people learn from one another.",
+  "quote3": "Software grows stronger when understanding grows with it.",
+  "quote4": "Simple collaboration often solves complex problems.",
+  "quote5": "Great ideas spread faster when barriers to contribution are removed.",
+  "quote6": "Documentation should evolve alongside the software it describes.",
+  "quote7": "A learning team can outperform a larger team that does not learn.",
+  "quote8": "Every improvement begins with making knowledge visible.",
+  "quote9": "Tools should encourage participation rather than gatekeeping.",
+  "quote10": "Good architecture supports change instead of resisting it.",
+  "quote11": "Communication is a foundational engineering skill.",
+  "quote12": "Collective intelligence emerges from consistent collaboration.",
+  "quote13": "The simplest useful solution is often the most durable.",
+  "quote14": "Knowledge loses value when it cannot be shared.",
+  "quote15": "Software development is as much about people as technology.",
+  "quote16": "Continuous improvement requires continuous learning.",
+  "quote17": "Effective teams invest in preserving understanding.",
+  "quote18": "The ability to revise ideas is a strength, not a weakness.",
+  "quote19": "Innovation thrives where information remains accessible.",
+  "quote20": "Collaboration transforms individual expertise into lasting progress."
+}

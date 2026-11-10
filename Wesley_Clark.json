@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Wesley Clark",
+
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wesley_A._Clark.jpg",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Wesley_A._Clark.jpg",
+  "imageLicense": "CC BY-SA 3.0",
+  "imageAttribution": "Wikimedia Commons Contributor",
+
+  "indexLetter": "W",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Computer Engineer, Computing Pioneer",
+
+  "school": "Computer Science, Computer Engineering, Interactive Computing",
+
+  "born": "10 April 1927",
+
+  "died": "22 February 2016",
+
+  "knownFor1": "LINC Computer",
+  "knownFor2": "Interactive Computing",
+  "knownFor3": "Laboratory Computer Systems",
+  "knownFor4": "Personal Computing Concepts",
+  "knownFor5": "Computer Architecture",
+  "knownFor6": "Human-Computer Interaction",
+  "knownFor7": "Medical Computing Applications",
+  "knownFor8": "Early Computer Innovation",
+
+  "legacy": "Wesley Clark helped move computing away from large centrally controlled machines toward systems that individual researchers could directly operate. His work encouraged a more personal and interactive relationship between humans and computers. By advocating accessibility and practical usability, he influenced future generations of engineers who would eventually develop personal computers and modern workstation environments.",
+
+  "earlyLife": "From a young age, Clark displayed a strong interest in mathematics, electronics, and problem solving. During an era when computers were rare and highly specialized, he became fascinated by their potential beyond large governmental and institutional applications. His education and early technical experiences developed his belief that computing resources should be placed directly in the hands of scientists, researchers, and everyday users.",
+
+  "scientificField": "Computer Science, Computer Engineering, Interactive Computing, Computer Architecture",
+
+  "majorContribution": "Clark's most significant contribution was helping pioneer interactive computing systems, particularly through the development of the LINC computer. Unlike many large systems of its era, the LINC was designed to be directly operated by researchers within laboratories. This approach demonstrated that computers could become practical personal tools rather than distant shared resources, foreshadowing many concepts later associated with personal computing.",
+
+  "laterLife": "Throughout his later years, Clark continued participating in technology-related projects and discussions concerning computer design and innovation. He remained interested in expanding access to computing and exploring how computational tools could improve scientific research, medicine, and education. His influence continued through the engineers and innovators who adopted ideas first demonstrated by his pioneering systems.",
+
+  "whyImportant": "Many features that people now associate with personal computing originated from ideas promoted by pioneers such as Clark. His vision emphasized accessibility, direct interaction, and practical usefulness at a time when computers were often viewed as remote institutional machines. By bringing computing closer to individual users, he helped establish principles that continue to shape modern computer systems.",
+
+  "quote1": "Technology reaches its full potential when individuals can use it directly.",
+  "quote2": "Computers become more valuable when they are accessible.",
+  "quote3": "Innovation often begins with challenging established assumptions.",
+  "quote4": "A useful machine should adapt to its users.",
+  "quote5": "Interactive systems encourage discovery and experimentation.",
+  "quote6": "Engineering advances when practicality guides design.",
+  "quote7": "Computing should expand human capability.",
+  "quote8": "The best tools simplify difficult tasks.",
+  "quote9": "Scientific progress benefits from accessible technology.",
+  "quote10": "A computer is most useful when it supports curiosity.",
+  "quote11": "Design should prioritize how people actually work.",
+  "quote12": "Technical complexity should remain behind the interface.",
+  "quote13": "New ideas often begin as unconventional proposals.",
+  "quote14": "Research advances faster when tools are readily available.",
+  "quote15": "Direct interaction produces deeper understanding.",
+  "quote16": "Better systems emerge from continuous experimentation.",
+  "quote17": "Innovation requires both imagination and execution.",
+  "quote18": "Technology should empower exploration.",
+  "quote19": "Progress depends on expanding access to knowledge.",
+  "quote20": "Computing achieves its greatest value when it serves human creativity."
+}

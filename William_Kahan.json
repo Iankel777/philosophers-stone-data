@@ -1,0 +1,63 @@
+{
+  "thinkerName": "William Kahan",
+
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/8/89/William_Kahan.jpg",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:William_Kahan.jpg",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageAttribution": "Wikimedia Commons Contributor",
+
+  "indexLetter": "W",
+
+  "nationality": "Canadian-American",
+
+  "occupation": "Computer Scientist, Mathematician, Numerical Analyst",
+
+  "school": "Numerical Analysis, Computer Science, Floating-Point Arithmetic",
+
+  "born": "5 June 1933",
+
+  "died": "",
+
+  "knownFor1": "IEEE 754 Floating-Point Standard",
+  "knownFor2": "Numerical Analysis",
+  "knownFor3": "Floating-Point Computation",
+  "knownFor4": "Scientific Computing",
+  "knownFor5": "Computer Arithmetic",
+  "knownFor6": "Numerical Software Reliability",
+  "knownFor7": "Computer Mathematics",
+  "knownFor8": "Turing Award",
+
+  "legacy": "William Kahan fundamentally improved the reliability of numerical computation by promoting standards that reduced errors in computer arithmetic. His work helped make scientific software, engineering simulations, financial calculations, and countless other computational systems more dependable. Many calculations performed daily by computers benefit from principles he championed regarding precision, accuracy, and numerical stability.",
+
+  "earlyLife": "Kahan demonstrated strong interests in mathematics and logical reasoning from an early age. As computers emerged as powerful scientific tools, he became fascinated by the challenge of performing accurate calculations within machines that possess finite precision. This curiosity led him toward numerical analysis, where he sought practical solutions to problems that often produced hidden computational errors.",
+
+  "scientificField": "Numerical Analysis, Computer Science, Scientific Computing, Applied Mathematics",
+
+  "majorContribution": "Kahan's most influential contribution was his leadership in the development of floating-point arithmetic standards that eventually became the IEEE 754 standard. These rules provided consistent methods for handling numerical calculations across different computer systems. His work significantly improved the accuracy, predictability, and portability of computational results, helping establish a foundation for modern scientific and engineering software.",
+
+  "laterLife": "Throughout the later stages of his career, Kahan continued advocating for numerical correctness, better software engineering practices, and greater awareness of computational accuracy. He frequently educated programmers, engineers, and researchers about the dangers of hidden numerical errors and the importance of careful mathematical thinking in software development.",
+
+  "whyImportant": "Modern civilization depends heavily on numerical computation. From aircraft design to medical imaging and financial modeling, computer calculations must be reliable. Kahan's work provided standards and techniques that improved trust in digital computation. His influence can be found in programming languages, processors, scientific applications, and engineering systems used around the world.",
+
+  "quote1": "Accuracy is not a luxury in computation; it is a necessity.",
+  "quote2": "Small numerical errors can grow into large consequences.",
+  "quote3": "Reliable software begins with reliable mathematics.",
+  "quote4": "Understanding limitations is the first step toward improvement.",
+  "quote5": "Precision matters most when complexity increases.",
+  "quote6": "A computer can only be as trustworthy as its calculations.",
+  "quote7": "Careful computation protects against hidden mistakes.",
+  "quote8": "Mathematics provides structure to technological progress.",
+  "quote9": "Precision without understanding can still produce errors.",
+  "quote10": "Scientific computing demands intellectual discipline.",
+  "quote11": "Better standards create better systems.",
+  "quote12": "Every calculation carries assumptions.",
+  "quote13": "Software quality depends on attention to detail.",
+  "quote14": "Numerical stability should never be overlooked.",
+  "quote15": "Good engineering is built upon measurable reliability.",
+  "quote16": "Computers amplify both correctness and mistakes.",
+  "quote17": "The pursuit of accuracy is a continual process.",
+  "quote18": "Strong foundations enable ambitious innovation.",
+  "quote19": "Mathematical rigor remains one of technology's greatest strengths.",
+  "quote20": "Trustworthy results require trustworthy methods."
+}

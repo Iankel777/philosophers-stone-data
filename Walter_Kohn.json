@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Walter Kohn",
+
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Walter_Kohn_2012.jpg",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Walter_Kohn_2012.jpg",
+  "imageLicense": "CC BY-SA 3.0",
+  "imageAttribution": "Wikimedia Commons Contributor",
+
+  "indexLetter": "W",
+
+  "nationality": "Austrian-American",
+
+  "occupation": "Physicist, Theoretical Physicist, Educator",
+
+  "school": "Quantum Physics, Condensed Matter Physics, Computational Physics",
+
+  "born": "9 March 1923",
+
+  "died": "19 April 2016",
+
+  "knownFor1": "Density Functional Theory",
+  "knownFor2": "Computational Physics",
+  "knownFor3": "Electronic Structure Theory",
+  "knownFor4": "Quantum Many-Body Systems",
+  "knownFor5": "Condensed Matter Physics",
+  "knownFor6": "Materials Modeling",
+  "knownFor7": "Theoretical Chemistry Foundations",
+  "knownFor8": "Nobel Prize in Chemistry",
+
+  "legacy": "Walter Kohn transformed the study of matter by helping create practical methods for calculating the electronic structure of atoms, molecules, and materials. His work made it possible for scientists to investigate complex physical systems using computational approaches that were previously considered too difficult or impossible to handle. Through these contributions, he helped bridge physics, chemistry, materials science, and computational research, influencing countless scientific and technological advances.",
+
+  "earlyLife": "Kohn developed an early interest in mathematics, science, and problem solving. His education exposed him to the rapidly evolving world of theoretical physics, where researchers were striving to understand the behavior of matter at the atomic level. These interests guided him toward mathematical approaches capable of explaining the complex interactions occurring within physical systems.",
+
+  "scientificField": "Theoretical Physics, Quantum Mechanics, Condensed Matter Physics, Computational Science",
+
+  "majorContribution": "Kohn's most influential contribution was the development of Density Functional Theory, a mathematical framework that allows scientists to study the electronic properties of matter with remarkable efficiency. This approach provided researchers with practical tools for predicting the behavior of atoms, molecules, crystals, and advanced materials. The method became one of the most widely used computational techniques in physics, chemistry, nanotechnology, and materials engineering.",
+
+  "laterLife": "Throughout the later decades of his career, Kohn continued contributing to theoretical physics, scientific collaboration, and education. His work inspired advances in computational modeling and encouraged closer cooperation between physicists, chemists, and engineers. He remained an important voice in scientific research while supporting efforts to apply theoretical knowledge to practical technological challenges.",
+
+  "whyImportant": "Modern materials science, semiconductor design, battery research, nanotechnology, and pharmaceutical development frequently rely upon computational techniques derived from Kohn's work. Density Functional Theory allows researchers to explore materials and molecular systems before building them experimentally, saving enormous amounts of time and resources. His contributions fundamentally changed how scientists investigate the microscopic structure of matter.",
+
+  "quote1": "Understanding matter begins with understanding its smallest components.",
+  "quote2": "Mathematics allows us to explore realities beyond direct observation.",
+  "quote3": "Scientific progress depends on connecting theory with application.",
+  "quote4": "Complex systems often reveal elegant underlying patterns.",
+  "quote5": "Computation expands the reach of scientific inquiry.",
+  "quote6": "Knowledge advances through both imagination and precision.",
+  "quote7": "Theoretical models provide windows into the unseen world.",
+  "quote8": "Discovery often emerges from simplifying complexity.",
+  "quote9": "Science grows stronger when disciplines collaborate.",
+  "quote10": "Understanding requires both evidence and explanation.",
+  "quote11": "Curiosity drives innovation.",
+  "quote12": "The microscopic world shapes the macroscopic one.",
+  "quote13": "Scientific tools evolve through persistent refinement.",
+  "quote14": "Progress often follows improvements in method.",
+  "quote15": "Computation transforms possibility into investigation.",
+  "quote16": "Nature rewards careful analysis.",
+  "quote17": "The study of matter reveals the foundations of technology.",
+  "quote18": "Research flourishes where creativity meets rigor.",
+  "quote19": "Every new method opens new frontiers of understanding.",
+  "quote20": "The pursuit of knowledge enriches both science and society."
+}
