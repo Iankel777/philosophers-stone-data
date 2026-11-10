@@ -938,7 +938,7 @@
 {"id":"william_jevons","name":"William Stanley Jevons","letter":"W","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/William_Stanley_Jevons_portrait_extract.jpg/960px-William_Stanley_Jevons_portrait_extract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Jevons.json"},
 {"id":"william_kahan","name":"William Kahan","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2012-06-15_William_Kahan.jpg/960px-2012-06-15_William_Kahan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Kahan.json"},
 
-{"id":"william_menninger","name":"William Menninger","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"William_Menninger.json"},
+
 {"id":"william_of_ockham","name":"William of Ockham","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"William_of_Ockham.json"},
 {"id":"william_osler","name":"William Osler","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"William_Osler.json"},
  
