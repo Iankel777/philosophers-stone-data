@@ -910,8 +910,8 @@
   
   
 
-{"id":"ward_cunningham","name":"Ward Cunningham","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"","jsonFile":"Ward_Cunningham.json"},
-{"id":"ward_goodenough","name":"Ward Goodenough","letter":"W","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Ward_Goodenough.json"},
+{"id":"ward_cunningham","name":"Ward Cunningham","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ward_Cunningham.jpg/960px-Ward_Cunningham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Ward_Cunningham.json"},
+
 {"id":"wendelin_werner","name":"Wendelin Werner","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Wendelin_Werner.json"},
 {"id":"wendell_furry","name":"Wendell Furry","letter":"W","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Wendell_Furry.json"},
 {"id":"wendell_johnson","name":"Wendell Johnson","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Wendell_Johnson.json"},
