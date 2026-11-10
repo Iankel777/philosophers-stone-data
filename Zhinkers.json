@@ -918,7 +918,7 @@
 {"id":"werner_heisenberg","name":"Werner Heisenberg","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg/960px-Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Werner_Heisenberg.json"},
 {"id":"wesley_clark","name":"Wesley A. Clark","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Wesley_A_Clark_2002.jpg/960px-Wesley_A_Clark_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wesley_Clark.json"},
 
-{"id":"weston_labarre","name":"Weston La Barre","letter":"W","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Weston_LaBarre.json"},
+
 {"id":"whitfield_diffie","name":"Whitfield Diffie","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Whitfield_Diffie.json"},
 {"id":"wietse_venema","name":"Wietse Venema","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"","jsonFile":"Wietse_Venema.json"},
 {"id":"wil_shipley","name":"Wil Shipley","letter":"W","category":"Software Engineering","legend":true,"visible":true,"image":"","jsonFile":"Wil_Shipley.json"},
