@@ -917,7 +917,7 @@
 
 {"id":"wendy_hall","name":"Wendy Hall","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wendy_hall_2011.jpg/960px-Wendy_hall_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wendy_Hall.json"},
 
-{"id":"werner_forssmann","name":"Werner Forssmann","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Werner_Forssmann.json"},
+{"id":"werner_forssmann","name":"Werner Forssmann","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Werner_Forssmann_nobel.jpg/960px-Werner_Forssmann_nobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Werner_Forssmann.json"},
   
   
 {"id":"werner_heisenberg","name":"Werner Heisenberg","letter":"W","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Werner_Heisenberg.json"},
