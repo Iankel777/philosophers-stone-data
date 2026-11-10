@@ -915,8 +915,8 @@
 {"id":"wendelin_werner","name":"Wendelin Werner","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Wendelin_Werner.jpg/960px-Wendelin_Werner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wendelin_Werner.json"},
 {"id":"wendell_furry","name":"Wendell Furry","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Wendell_Furry.jpg/960px-Wendell_Furry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wendell_Furry.json"},
 
-{"id":"wendy_hall","name":"Wendy Hall","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Wendy_Hall.json"},
-{"id":"wendy_wood","name":"Wendy Wood","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Wendy_Wood.json"},
+{"id":"wendy_hall","name":"Wendy Hall","letter":"W","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wendy_hall_2011.jpg/960px-Wendy_hall_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wendy_Hall.json"},
+
 {"id":"werner_forssmann","name":"Werner Forssmann","letter":"W","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Werner_Forssmann.json"},
   
   
