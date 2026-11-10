@@ -939,8 +939,8 @@
   
 {"id":"william_sargant","name":"William Sargant","letter":"W","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/William_Walters_Sargant_1947b.jpg/960px-William_Walters_Sargant_1947b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Sargant.json"},
 
-{"id":"william_thomson","name":"William Thomson","letter":"W","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"William_Thomson.json"},
-{"id":"william_thurston","name":"William Thurston","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"William_Thurston.json"},
+{"id":"william_thomson","name":"William Thomson","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sir_William_Thomson%2C_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg/960px-Sir_William_Thomson%2C_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Thomson.json"},
+
 {"id":"william_vickrey","name":"William Vickrey","letter":"W","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"William_Vickrey.json"},
 {"id":"william_wheeler","name":"William Morton Wheeler","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Wheeler.json"},
 {"id":"wolfgang_pauli","name":"Wolfgang Pauli","letter":"W","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Wolfgang_Pauli.json"},
