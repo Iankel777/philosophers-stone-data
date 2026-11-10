@@ -928,8 +928,8 @@
 
   
   
-{"id":"william_burnside","name":"William Burnside","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"William_Burnside.json"},
-{"id":"william_lane_craig","name":"William Lane Craig","letter":"W","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"William_Craig.json"},
+{"id":"william_burnside","name":"William Burnside","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Burnside_2.jpeg/960px-Burnside_2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Burnside.json"},
+
 {"id":"william_damon","name":"William Damon","letter":"W","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"William_Damon.json"},
 {"id":"william_eberhard","name":"William Eberhard","letter":"W","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"William_Eberhard.json"},
 {"id":"william_feller","name":"William Feller","letter":"W","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"William_Feller.json"},
