@@ -937,9 +937,34 @@
   {"id":"william_thomson","name":"William Thomson","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sir_William_Thomson%2C_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg/960px-Sir_William_Thomson%2C_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"William_Thomson.json"},
   {"id":"wolfgang_pauli","name":"Wolfgang Pauli","letter":"W","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wolfgang_Pauli.gif/960px-Wolfgang_Pauli.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wolfgang_Pauli.json"},
   {"id":"wynne_godley","name":"Wynne Godley","letter":"W","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wynne_Godley.png/960px-Wynne_Godley.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wynne_Godley.json"},
-  {"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wassily_Leontief_1973.jpg/960px-Wassily_Leontief_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wassily_Leontief.json"}
+  {"id":"wassily_leontief","name":"Wassily Leontief","letter":"V","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wassily_Leontief_1973.jpg/960px-Wassily_Leontief_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Wassily_Leontief.json"},
 
 
+
+
+{"id":"xavier_bichat","name":"Xavier Bichat","letter":"X","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pierre-Maximilien_Delafontaine_-_Portrait_of_Marie_Fran%C3%A7ois_Xavier_Bichat.jpg/960px-Pierre-Maximilien_Delafontaine_-_Portrait_of_Marie_Fran%C3%A7ois_Xavier_Bichat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xavier_Bichat.json"},
+
+{"id":"xavier_jouven","name":"Xavier Jouven","letter":"X","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Xavier_Jouven.json"},
+{"id":"xavier_leroy","name":"Xavier Leroy","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xavier_Leroy.json"},
+{"id":"xavier_vives","name":"Xavier Vives","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xavier_Vives.json"},
+{"id":"xenophanes","name":"Xenophanes","letter":"X","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Xenophanes.json"},
+{"id":"xia_gang_wen","name":"Xia-Gang Wen","letter":"X","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Xia_Gang_Wen.json"},
+
+  
+{"id":"xiangdong_ji","name":"Xiangdong Ji","letter":"X","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Xiangdong_Ji.json"},
+{"id":"xiangyu_zhang","name":"Xiangyu Zhang","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xiangyu_Zhang.json"},
+{"id":"xiao_geng","name":"Xiao Geng","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xiao_Geng.json"},
+{"id":"xiaodong_wang","name":"Xiaodong Wang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xiaodong_Wang.json"},
+{"id":"xiaowei_zhuang","name":"Xiaowei Zhuang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xiaowei_Zhuang.json"},
+
+  
+{"id":"xiaoyun_wang","name":"Xiaoyun Wang","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xiaoyun_Wang.json"},
+{"id":"xie_xide","name":"Xie Xide","letter":"X","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Xie_Xide.json"},
+{"id":"xu_bin","name":"Xu Bin","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xu_Bin.json"},
+{"id":"xu_chenggang","name":"Xu Chenggang","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xu_Chenggang.json"},
+{"id":"xuedong_huang","name":"Xuedong Huang","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xuedong_Huang.json"},
+{"id":"xuhua_xia","name":"Xuhua Xia","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xuhua_Xia.json"}
+  
   
 ]
 
