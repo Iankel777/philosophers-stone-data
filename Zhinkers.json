@@ -946,8 +946,6 @@
 {"id":"xavier_leroy","name":"Xavier Leroy","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Xavier_Leroy.jpg/960px-Xavier_Leroy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xavier_Leroy.json"},
 {"id":"xenophanes","name":"Xenophanes","letter":"X","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Xenophanes_in_Thomas_Stanley_History_of_Philosophy.jpg/960px-Xenophanes_in_Thomas_Stanley_History_of_Philosophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xenophanes.json"},
 
-
-{"id":"xiao_geng","name":"Xiao Geng","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xiao_Geng.json"},
 {"id":"xiaodong_wang","name":"Xiaodong Wang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xiaodong_Wang.json"},
 {"id":"xiaowei_zhuang","name":"Xiaowei Zhuang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xiaowei_Zhuang.json"},
 
