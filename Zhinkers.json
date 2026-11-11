@@ -948,8 +948,8 @@
 {"id":"xiaodong_wang","name":"Xiaodong Wang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Xiaodong_Wang.jpg/960px-Xiaodong_Wang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xiaodong_Wang.json"},
 
 
-{"id":"xie_xide","name":"Xie Xide","letter":"X","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Xie_Xide.json"},
-{"id":"xu_bin","name":"Xu Bin","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xu_Bin.json"},
+{"id":"xie_xide","name":"Xie Xide","letter":"X","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Xie_Xide-19980630.jpg/960px-Xie_Xide-19980630.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xie_Xide.json"},
+
 {"id":"xu_chenggang","name":"Xu Chenggang","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xu_Chenggang.json"},
 {"id":"xuedong_huang","name":"Xuedong Huang","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xuedong_Huang.json"},
 {"id":"xuhua_xia","name":"Xuhua Xia","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xuhua_Xia.json"}
