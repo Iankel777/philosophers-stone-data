@@ -944,7 +944,6 @@
 
 {"id":"xavier_bichat","name":"Xavier Bichat","letter":"X","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pierre-Maximilien_Delafontaine_-_Portrait_of_Marie_Fran%C3%A7ois_Xavier_Bichat.jpg/960px-Pierre-Maximilien_Delafontaine_-_Portrait_of_Marie_Fran%C3%A7ois_Xavier_Bichat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xavier_Bichat.json"},
 
-{"id":"xavier_jouven","name":"Xavier Jouven","letter":"X","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Xavier_Jouven.json"},
 {"id":"xavier_leroy","name":"Xavier Leroy","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xavier_Leroy.json"},
 {"id":"xavier_vives","name":"Xavier Vives","letter":"X","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Xavier_Vives.json"},
 {"id":"xenophanes","name":"Xenophanes","letter":"X","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Xenophanes.json"},
