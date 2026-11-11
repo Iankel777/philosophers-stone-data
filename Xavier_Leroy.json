@@ -1,0 +1,67 @@
+{
+  "thinkerName": "Xavier Leroy",
+
+  "thinkerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Xavier_Leroy.jpg",
+
+  "imageSource": "Wikimedia Commons",
+
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Xavier_Leroy.jpg",
+
+  "imageLicense": "Creative Commons Attribution-Share Alike 3.0",
+
+  "imageAttribution": "Xavier Leroy photograph uploaded to Wikimedia Commons by original contributor; licensed under CC BY-SA 3.0",
+
+  "indexLetter": "X",
+
+  "nationality": "French",
+
+  "occupation": "Computer Scientist, Programming Language Researcher, Software Engineer",
+
+  "school": "Programming Languages, Formal Verification, Compiler Design, Functional Programming",
+
+  "born": "1968",
+
+  "died": "",
+
+  "knownFor1": "OCaml Language Development",
+  "knownFor2": "CompCert Verified Compiler",
+  "knownFor3": "Formal Methods in Software Engineering",
+  "knownFor4": "Programming Language Semantics",
+  "knownFor5": "Compiler Verification",
+  "knownFor6": "Functional Programming Research",
+  "knownFor7": "Type Systems",
+  "knownFor8": "Reliable Software Construction",
+
+  "legacy": "Xavier Leroy demonstrated that mathematically verified software can move beyond theory into practical engineering. His research helped establish formal verification as a powerful tool for building trustworthy software systems, influencing both academic research and industrial approaches to software reliability.",
+
+  "earlyLife": "Leroy developed strong interests in mathematics, logic, and computing during his education in France. Exposure to algorithmic problem solving and software design led him toward computer science research. His early academic work gradually evolved into a focus on programming language theory and the mathematical foundations of dependable software.",
+
+  "scientificField": "Computer Science, Programming Languages, Formal Verification, Compiler Design, Software Engineering",
+
+  "majorContributions": "Leroy played a leading role in the development of the OCaml programming language, helping shape one of the most influential functional programming environments. He later directed the CompCert project, which provided one of the first widely recognized examples of a formally verified compiler. His work advanced compiler correctness, language semantics, proof-assisted software development, and the practical application of formal methods to real-world computing systems.",
+
+  "laterLife": "In later stages of his career, Leroy continued advancing research in verified software and formal reasoning. His work encouraged broader adoption of mathematically rigorous techniques within computer science, demonstrating that reliability and practicality can coexist in large software projects.",
+
+  "whyImportant": "Modern safety-critical and high-assurance software increasingly relies on techniques that Leroy helped popularize. His contributions showed that compiler behavior can be proven correct with mathematical precision, reducing classes of software errors that were once considered unavoidable.",
+
+  "quote1": "Reliable software begins with precise reasoning.",
+  "quote2": "Verification transforms confidence into evidence.",
+  "quote3": "Correctness is a feature that can be engineered.",
+  "quote4": "Mathematical rigor strengthens practical systems.",
+  "quote5": "A trusted compiler is a foundation for trusted software.",
+  "quote6": "Proof and implementation can advance together.",
+  "quote7": "Programming languages shape how people think about software.",
+  "quote8": "Careful design prevents costly uncertainty.",
+  "quote9": "Dependability grows from explicit guarantees.",
+  "quote10": "Formal methods turn assumptions into obligations.",
+  "quote11": "Software quality benefits from verifiable foundations.",
+  "quote12": "Precision is invaluable in complex systems.",
+  "quote13": "Robust tools enable reliable innovation.",
+  "quote14": "Theoretical insight gains value through application.",
+  "quote15": "Trustworthy computation requires trustworthy infrastructure.",
+  "quote16": "Engineering discipline and mathematical proof are complementary.",
+  "quote17": "Correctness deserves the same attention as performance.",
+  "quote18": "Verification scales through careful abstraction.",
+  "quote19": "Dependable systems emerge from dependable components.",
+  "quote20": "Software reliability is best built systematically."
+}

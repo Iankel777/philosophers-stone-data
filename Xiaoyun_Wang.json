@@ -1,0 +1,67 @@
+{
+  "thinkerName": "Xiaoyun Wang",
+
+  "thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Xiaoyun_Wang.jpg/960px-Xiaoyun_Wang.jpg",
+
+  "imageSource": "Wikimedia Commons",
+
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Xiaoyun_Wang.jpg",
+
+  "imageLicense": "Creative Commons Attribution-Share Alike 4.0",
+
+  "imageAttribution": "Ssuchena, Wikimedia Commons",
+
+  "indexLetter": "X",
+
+  "nationality": "Chinese",
+
+  "occupation": "Cryptographer, Computer Scientist, Academic",
+
+  "school": "Cryptography, Information Security, Applied Mathematics, Computer Science",
+
+  "born": "1966",
+
+  "died": "",
+
+  "knownFor1": "Cryptanalysis of MD5",
+  "knownFor2": "Cryptanalysis of SHA-0",
+  "knownFor3": "Cryptanalysis of SHA-1",
+  "knownFor4": "Hash Function Security Research",
+  "knownFor5": "Collision Attacks",
+  "knownFor6": "Modern Cryptography",
+  "knownFor7": "Applied Cryptanalysis",
+  "knownFor8": "Information Security Research",
+
+  "legacy": "Xiaoyun Wang transformed the field of cryptography by demonstrating that several widely trusted cryptographic hash functions possessed vulnerabilities that had been underestimated by the security community. Her work encouraged the development of stronger security standards and reshaped how cryptographers evaluate the long-term reliability of cryptographic algorithms.",
+
+  "earlyLife": "Wang developed strong interests in mathematics and analytical problem-solving at an early age. During her academic training she became increasingly drawn to the mathematical foundations of information security. Her research interests gradually shifted toward cryptography, where she combined theoretical insight with practical attack methodologies.",
+
+  "scientificField": "Cryptography, Computer Science, Information Security, Applied Mathematics",
+
+  "majorContributions": "Wang became internationally recognized for developing practical techniques that exposed weaknesses in several important cryptographic hash functions, including MD5, SHA-0, and SHA-1. Her research demonstrated that collisions could be constructed far more efficiently than previously believed. These breakthroughs forced the security industry to re-evaluate existing standards and accelerated the adoption of stronger cryptographic primitives. Her work remains influential in both academic cryptography and real-world cybersecurity.",
+
+  "laterLife": "Later in her career, Wang continued contributing to cryptographic research, education, and the advancement of secure computing technologies. Her influence extended beyond specific discoveries, helping shape research priorities in cryptanalysis and information security worldwide.",
+
+  "whyImportant": "Modern cybersecurity depends on trustworthy cryptographic algorithms. By revealing weaknesses in heavily used hash functions, Wang improved global digital security and demonstrated the importance of continuously testing and challenging accepted cryptographic assumptions.",
+
+  "quote1": "Security grows stronger when assumptions are tested.",
+  "quote2": "A trusted algorithm must withstand persistent scrutiny.",
+  "quote3": "Cryptography advances through both construction and analysis.",
+  "quote4": "Hidden weaknesses often reveal valuable lessons.",
+  "quote5": "Mathematical rigor strengthens digital security.",
+  "quote6": "Verification is essential to confidence.",
+  "quote7": "Research progresses by challenging accepted ideas.",
+  "quote8": "Security systems deserve continuous evaluation.",
+  "quote9": "A discovered flaw can inspire stronger designs.",
+  "quote10": "Careful analysis reveals unseen vulnerabilities.",
+  "quote11": "Reliable protection is built on evidence.",
+  "quote12": "Innovation depends on understanding limitations.",
+  "quote13": "Cryptanalysis is a driver of cryptographic progress.",
+  "quote14": "Strong defenses emerge from strong examination.",
+  "quote15": "Mathematics provides the language of security.",
+  "quote16": "Questioning assumptions improves technology.",
+  "quote17": "Progress often begins with discovering weaknesses.",
+  "quote18": "Security must evolve alongside knowledge.",
+  "quote19": "Rigorous testing strengthens trust.",
+  "quote20": "Understanding failure leads to better protection."
+}

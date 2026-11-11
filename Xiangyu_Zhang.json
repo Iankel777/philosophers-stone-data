@@ -1,0 +1,67 @@
+{
+  "thinkerName": "Xiangyu Zhang",
+
+  "thinkerImage": "",
+
+  "imageSource": "",
+
+  "imageSourceUrl": "",
+
+  "imageLicense": "",
+
+  "imageAttribution": "",
+
+  "indexLetter": "X",
+
+  "nationality": "Chinese-American",
+
+  "occupation": "Computer Scientist, Software Engineering Researcher, Academic",
+
+  "school": "Software Engineering, Program Analysis, Software Security, Compiler Technology",
+
+  "born": "1975",
+
+  "died": "",
+
+  "knownFor1": "Program Analysis Research",
+  "knownFor2": "Software Security",
+  "knownFor3": "Automatic Vulnerability Detection",
+  "knownFor4": "Binary Analysis",
+  "knownFor5": "Dynamic Program Analysis",
+  "knownFor6": "Compiler-Based Security Techniques",
+  "knownFor7": "Malware Analysis Methods",
+  "knownFor8": "Software Reliability Research",
+
+  "legacy": "Xiangyu Zhang helped advance the scientific study of software behavior by creating methods that allow researchers and engineers to analyze complex programs more effectively. His work strengthened the connection between software engineering research and practical cybersecurity, enabling better detection of vulnerabilities and more robust software systems.",
+
+  "earlyLife": "Zhang developed an early interest in mathematics, logical reasoning, and computing. As his academic career progressed, he became increasingly focused on understanding how large software systems behave under real-world conditions. This interest led him toward research in program analysis, software security, and automated methods for improving software quality.",
+
+  "scientificField": "Computer Science, Software Engineering, Software Security, Program Analysis",
+
+  "majorContributions": "Zhang contributed to the development of advanced techniques for analyzing software behavior, detecting vulnerabilities, and understanding complex program execution patterns. His research explored static and dynamic program analysis, binary code examination, malware investigation, and automated software verification. These contributions improved the ability of researchers and practitioners to identify security flaws and enhance software dependability.",
+
+  "laterLife": "In later stages of his career, Zhang continued expanding research on software security and engineering methodologies. His work supported the development of tools capable of examining increasingly complex software ecosystems and contributed to the training of new generations of researchers in software analysis and cybersecurity.",
+
+  "whyImportant": "Modern software systems are exceptionally large and difficult to analyze manually. Zhang's research provided techniques that make it easier to locate bugs, discover vulnerabilities, and understand program behavior, helping improve the security and reliability of digital infrastructure used worldwide.",
+
+  "quote1": "Understanding software behavior is the foundation of software improvement.",
+  "quote2": "Reliable systems emerge from careful analysis.",
+  "quote3": "Security begins with understanding complexity.",
+  "quote4": "Automation enables deeper software inspection.",
+  "quote5": "Every vulnerability teaches a lesson about system design.",
+  "quote6": "Program analysis transforms uncertainty into knowledge.",
+  "quote7": "Software quality depends on evidence, not assumptions.",
+  "quote8": "Careful observation often reveals hidden flaws.",
+  "quote9": "Complex systems require systematic examination.",
+  "quote10": "Security research advances through persistent investigation.",
+  "quote11": "Robust software is built through continuous refinement.",
+  "quote12": "Technology benefits from transparent evaluation.",
+  "quote13": "Reliable tools empower reliable development.",
+  "quote14": "Program behavior often contains unexpected patterns.",
+  "quote15": "Scientific rigor improves engineering outcomes.",
+  "quote16": "Software security is an ongoing process rather than a final state.",
+  "quote17": "Data-driven analysis strengthens technical decisions.",
+  "quote18": "Large systems become understandable through effective abstraction.",
+  "quote19": "Discovery begins with asking precise questions.",
+  "quote20": "Progress in software engineering depends on deeper understanding."
+}
