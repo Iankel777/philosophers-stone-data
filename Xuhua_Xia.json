@@ -1,28 +1,25 @@
 {
 "thinkerName": "Xuhua Xia",
- 
-"thinkerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Xuhua_Xia.jpg/960px-Xuhua_Xia.jpg",
- 
+
+
+"thinkerImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Xia_in_office.jpg/960px-Xia_in_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 "imageSource": "Wikimedia Commons",
- 
-"imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Xuhua_Xia.jpg",
- 
+"imageSourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Xia_in_office.jpg/960px-Xia_in_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 "imageLicense": "Creative Commons Attribution-Share Alike 4.0",
- 
-"imageAttribution": "Xuhua Xia / Wikimedia Commons contributor",
- 
+"imageAttribution": "XuhuaXia",
+
 "indexLetter": "X",
- 
+
 "nationality": "Chinese-Canadian",
- 
+
 "occupation": "Evolutionary Biologist, Bioinformatician, Professor",
- 
+
 "school": "Evolutionary Biology, Bioinformatics, Molecular Evolution, Computational Biology",
- 
+
 "born": "1962",
- 
+
 "died": "",
- 
+
 "knownFor1": "Molecular Evolution Research",
 "knownFor2": "Bioinformatics Methods",
 "knownFor3": "DAMBE Software",
@@ -31,19 +28,19 @@
 "knownFor6": "Evolutionary Genetics",
 "knownFor7": "Comparative Genomics",
 "knownFor8": "Computational Biology Education",
- 
+
 "legacy": "Xuhua Xia helped make computational approaches more accessible to biologists by developing analytical tools and educational resources that bridge evolutionary theory with practical data analysis. His work enabled researchers to examine genetic information more effectively and contributed to a deeper understanding of molecular evolution across diverse organisms.",
- 
+
 "earlyLife": "Xia developed a strong interest in biology, mathematics, and scientific reasoning during his education. As computing technologies became increasingly important in biological research, he recognized the potential of quantitative methods to answer evolutionary questions. This combination of interests guided him toward molecular evolution and bioinformatics.",
- 
+
 "scientificField": "Evolutionary Biology, Bioinformatics, Molecular Evolution, Genetics, Computational Biology",
- 
+
 "majorContributions": "Xia contributed extensively to the development of computational methods used in evolutionary biology. He is particularly known for creating software resources that assist researchers in sequence analysis, phylogenetics, codon usage studies, and molecular evolution research. His publications helped clarify evolutionary mechanisms at the genetic level and provided practical frameworks for analyzing biological data in a rigorous and accessible manner.",
- 
+
 "laterLife": "Later in his career, Xia continued advancing bioinformatics education and methodological research. Through scientific publications, software development, and teaching, he helped train researchers in the effective use of computational tools for studying evolution, genetics, and comparative biology.",
- 
+
 "whyImportant": "Modern biology generates enormous volumes of genetic data that require sophisticated analytical approaches. Xia's work provided researchers with practical tools and theoretical insights that improved the study of evolutionary relationships, genome organization, and molecular adaptation across living organisms.",
- 
+
 "quote1": "Evolution becomes clearer when biological data are examined systematically.",
 "quote2": "Genomes preserve records of life's history.",
 "quote3": "Computational tools expand the reach of biological inquiry.",
