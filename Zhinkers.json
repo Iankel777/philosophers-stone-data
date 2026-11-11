@@ -945,9 +945,8 @@
 {"id":"xavier_bichat","name":"Xavier Bichat","letter":"X","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pierre-Maximilien_Delafontaine_-_Portrait_of_Marie_Fran%C3%A7ois_Xavier_Bichat.jpg/960px-Pierre-Maximilien_Delafontaine_-_Portrait_of_Marie_Fran%C3%A7ois_Xavier_Bichat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xavier_Bichat.json"},
 {"id":"xavier_leroy","name":"Xavier Leroy","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Xavier_Leroy.jpg/960px-Xavier_Leroy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xavier_Leroy.json"},
 {"id":"xenophanes","name":"Xenophanes","letter":"X","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Xenophanes_in_Thomas_Stanley_History_of_Philosophy.jpg/960px-Xenophanes_in_Thomas_Stanley_History_of_Philosophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xenophanes.json"},
+{"id":"xiaodong_wang","name":"Xiaodong Wang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Xiaodong_Wang.jpg/960px-Xiaodong_Wang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Xiaodong_Wang.json"},
 
-{"id":"xiaodong_wang","name":"Xiaodong Wang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xiaodong_Wang.json"},
-{"id":"xiaowei_zhuang","name":"Xiaowei Zhuang","letter":"X","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Xiaowei_Zhuang.json"},
 
   
 {"id":"xiaoyun_wang","name":"Xiaoyun Wang","letter":"X","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Xiaoyun_Wang.json"},
