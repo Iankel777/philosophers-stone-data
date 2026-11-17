@@ -982,9 +982,9 @@
 {"id":"yoshiki_sasai","name":"Yoshiki Sasai","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Yoshiki_Sasai%2C_circa_2012.jpg/960px-Yoshiki_Sasai%2C_circa_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiki_Sasai.json"},
 
 
-{"id":"yoshinori_ohsumi","name":"Yoshinori Ohsumi","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yoshinori_Ohsumi.json"},
-{"id":"yoshiro_nakamatsu","name":"Yoshiro Nakamatsu","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Yoshiro_Nakamatsu.json"},
-{"id":"yoshiro_okada","name":"Yoshiro Okada","letter":"Y","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Yoshiro_Okada.json"},
+{"id":"yoshinori_ohsumi","name":"Yoshinori Ohsumi","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ohsumi_0.jpg/960px-Ohsumi_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshinori_Ohsumi.json"},
+{"id":"yoshiro_nakamatsu","name":"Yoshiro Nakamatsu","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nakamatsu.jpg/960px-Nakamatsu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiro_Nakamatsu.json"},
+
 {"id":"yoshua_bengio","name":"Yoshua Bengio","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yoshua_Bengio.json"},
 {"id":"yossi_matias","name":"Yossi Matias","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yossi_Matias.json"},
 {"id":"young_back_choi","name":"Young Back Choi","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Young_Back_Choi.json"},
