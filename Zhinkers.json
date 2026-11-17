@@ -974,7 +974,7 @@
   
   
 
-{"id":"yngve_sundblad","name":"Yngve Sundblad","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yngve_Sundblad.json"},
+
 {"id":"yoichiro_nambu","name":"Yoichiro Nambu","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Yoichiro_Nambu.json"},
 {"id":"yolanda_moses","name":"Yolanda Moses","letter":"Y","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Yolanda_Moses.json"},
 {"id":"yoram_weiss","name":"Yoram Weiss","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yoram_Weiss.json"},
