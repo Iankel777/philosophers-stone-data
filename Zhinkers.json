@@ -993,8 +993,6 @@
 {"id":"yuval_noah_harari","name":"Yuval Noah Harari","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg/960px-MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuval_Noah_Harari.json"},
 
   
-
-{"id":"yvon_lafrance","name":"Yvon Lafrance","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Yvon_Lafrance.json"},
 {"id":"yvonne_barr","name":"Yvonne Barr","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yvonne_Barr.json"},
 {"id":"yvonne_choquet_bruhat","name":"Yvonne Choquet-Bruhat","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yvonne_Choquet_Bruhat.json"},
 {"id":"yvonne_maldonado","name":"Yvonne Maldonado","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Yvonne_Maldonado.json"}
