@@ -982,8 +982,7 @@
 
 
   
-  
-{"id":"yuan_chang","name":"Yuan Chang","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yuan_Chang.json"},
+
 {"id":"yuan_tseh_lee","name":"Yuan Tseh Lee","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yuan_Tseh_Lee.json"},
 {"id":"yuh_nung_jan","name":"Yuh Nung Jan","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yuh_Nung_Jan.json"},
 {"id":"yujin_nagasawa","name":"Yujin Nagasawa","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Yujin_Nagasawa.json"},
