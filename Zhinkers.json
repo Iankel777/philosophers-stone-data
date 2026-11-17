@@ -955,7 +955,6 @@
 
 
 
-{"id":"yadin_dudai","name":"Yadin Dudai","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yadin_Dudai.json"},
 {"id":"yair_bar_haim","name":"Yair Bar-Haim","letter":"Y","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Yair_Bar_Haim.json"},
 {"id":"yair_mundlak","name":"Yair Mundlak","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yair_Mundlak.json"},
 {"id":"yakir_aharonov","name":"Yakir Aharonov","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Yakir_Aharonov.json"},
