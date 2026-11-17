@@ -965,7 +965,7 @@
 {"id":"yanis_varoufakis","name":"Yanis Varoufakis","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Yanis-Varoufakis-Berlin-2015-02-05.jpg/960px-Yanis-Varoufakis-Berlin-2015-02-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yanis_Varoufakis.json"},
 
 
-{"id":"yasumasa_kanada","name":"Yasumasa Kanada","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yasumasa_Kanada.json"},
+
 {"id":"yasunori_nomura","name":"Yasunori Nomura","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Yasunori_Nomura.json"},
 {"id":"yehezkel_ben_ari","name":"Yehezkel Ben-Ari","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yehezkel_Ben_Ari.json"},
 
