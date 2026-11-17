@@ -981,7 +981,7 @@
   
 {"id":"yoshiki_sasai","name":"Yoshiki Sasai","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Yoshiki_Sasai%2C_circa_2012.jpg/960px-Yoshiki_Sasai%2C_circa_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiki_Sasai.json"},
 
-{"id":"yoshiko_matsumoto","name":"Yoshiko Matsumoto","letter":"Y","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Yoshiko_Matsumoto.json"},
+
 {"id":"yoshinori_ohsumi","name":"Yoshinori Ohsumi","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yoshinori_Ohsumi.json"},
 {"id":"yoshiro_nakamatsu","name":"Yoshiro Nakamatsu","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Yoshiro_Nakamatsu.json"},
 {"id":"yoshiro_okada","name":"Yoshiro Okada","letter":"Y","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Yoshiro_Okada.json"},
