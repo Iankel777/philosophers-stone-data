@@ -974,16 +974,10 @@
   {"id":"yosef_shaul","name":"Yosef Shaul","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Shaul_Yosef.jpg/960px-Shaul_Yosef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yosef_Shaul.json"},
   {"id":"yoseph_imry","name":"Yoseph Imry","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Yoseph_Imry_1996.jpg/960px-Yoseph_Imry_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoseph_Imry.json"},
   {"id":"yoshihide_kozai","name":"Yoshihide Kozai","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Yoshihide_Kozai_19801212_color.jpg/960px-Yoshihide_Kozai_19801212_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshihide_Kozai.json"},
-
-
-
-  
-  
-{"id":"yoshiki_sasai","name":"Yoshiki Sasai","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Yoshiki_Sasai%2C_circa_2012.jpg/960px-Yoshiki_Sasai%2C_circa_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiki_Sasai.json"},
-{"id":"yoshinori_ohsumi","name":"Yoshinori Ohsumi","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ohsumi_0.jpg/960px-Ohsumi_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshinori_Ohsumi.json"},
-{"id":"yoshiro_nakamatsu","name":"Yoshiro Nakamatsu","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nakamatsu.jpg/960px-Nakamatsu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiro_Nakamatsu.json"},
-{"id":"yoshua_bengio","name":"Yoshua Bengio","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Yoshua_Bengio_2019_cropped.jpg/960px-Yoshua_Bengio_2019_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshua_Bengio.json"},
-
+  {"id":"yoshiki_sasai","name":"Yoshiki Sasai","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Yoshiki_Sasai%2C_circa_2012.jpg/960px-Yoshiki_Sasai%2C_circa_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiki_Sasai.json"},
+  {"id":"yoshinori_ohsumi","name":"Yoshinori Ohsumi","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ohsumi_0.jpg/960px-Ohsumi_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshinori_Ohsumi.json"},
+  {"id":"yoshiro_nakamatsu","name":"Yoshiro Nakamatsu","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nakamatsu.jpg/960px-Nakamatsu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshiro_Nakamatsu.json"},
+  {"id":"yoshua_bengio","name":"Yoshua Bengio","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Yoshua_Bengio_2019_cropped.jpg/960px-Yoshua_Bengio_2019_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshua_Bengio.json"},
 
 
 
@@ -999,9 +993,10 @@
 {"id":"yulia_gippenreiter","name":"Yulia Gippenreiter","letter":"Y","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Yulia_Gippenreiter.json"},
 {"id":"yulii_nesterov","name":"Yulii Nesterov","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yulii_Nesterov.json"},
 
+
   
   
-{"id":"yung_chul_park","name":"Yung Chul Park","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yung_Chul_Park.json"},
+
 {"id":"yuri_gurevich","name":"Yuri Gurevich","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yuri_Gurevich.json"},
 {"id":"yuri_manin","name":"Yuri Manin","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yuri_Manin.json"},
 {"id":"yuri_matiyasevich","name":"Yuri Matiyasevich","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yuri_Matiyasevich.json"},
