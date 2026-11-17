@@ -976,11 +976,10 @@
 
 
 {"id":"yoichiro_nambu","name":"Yoichiro Nambu","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Yoichiro_Nambu_1965.jpg/960px-Yoichiro_Nambu_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoichiro_Nambu.json"},
-
-{"id":"yoram_yovell","name":"Yoram Yovell","letter":"Y","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Yoram_Yovell.json"},
-{"id":"yosef_shaul","name":"Yosef Shaul","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yosef_Shaul.json"},
-{"id":"yoseph_imry","name":"Yoseph Imry","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Yoseph_Imry.json"},
-{"id":"yoshihide_kozai","name":"Yoshihide Kozai","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yoshihide_Kozai.json"},
+{"id":"yoram_yovell","name":"Yoram Yovell","letter":"Y","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%D7%A4%D7%A8%D7%95%D7%A4%27_%D7%99%D7%95%D7%A8%D7%9D_%D7%99%D7%95%D7%91%D7%9C_%D7%91%D7%95%D7%95%D7%A2%D7%99%D7%93%D7%AA_%D7%A1%D7%9C%D7%AA%22%D7%90_2022.jpg/960px-%D7%A4%D7%A8%D7%95%D7%A4%27_%D7%99%D7%95%D7%A8%D7%9D_%D7%99%D7%95%D7%91%D7%9C_%D7%91%D7%95%D7%95%D7%A2%D7%99%D7%93%D7%AA_%D7%A1%D7%9C%D7%AA%22%D7%90_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoram_Yovell.json"},
+{"id":"yosef_shaul","name":"Yosef Shaul","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Shaul_Yosef.jpg/960px-Shaul_Yosef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yosef_Shaul.json"},
+{"id":"yoseph_imry","name":"Yoseph Imry","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Yoseph_Imry_1996.jpg/960px-Yoseph_Imry_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoseph_Imry.json"},
+{"id":"yoshihide_kozai","name":"Yoshihide Kozai","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Yoshihide_Kozai_19801212_color.jpg/960px-Yoshihide_Kozai_19801212_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoshihide_Kozai.json"},
 
   
   
