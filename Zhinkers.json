@@ -975,8 +975,8 @@
   
 
 
-{"id":"yoichiro_nambu","name":"Yoichiro Nambu","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Yoichiro_Nambu.json"},
-{"id":"yolanda_moses","name":"Yolanda Moses","letter":"Y","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Yolanda_Moses.json"},
+{"id":"yoichiro_nambu","name":"Yoichiro Nambu","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Yoichiro_Nambu_1965.jpg/960px-Yoichiro_Nambu_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yoichiro_Nambu.json"},
+
 {"id":"yoram_weiss","name":"Yoram Weiss","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yoram_Weiss.json"},
 {"id":"yoram_yovell","name":"Yoram Yovell","letter":"Y","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Yoram_Yovell.json"},
 {"id":"yosef_shaul","name":"Yosef Shaul","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yosef_Shaul.json"},
