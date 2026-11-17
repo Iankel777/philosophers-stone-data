@@ -957,7 +957,6 @@
   
 
   
-{"id":"yaacov_petri","name":"Yaacov Petri","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yaacov_Petri.json"},
 {"id":"yacov_tsur","name":"Yacov Tsur","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yacov_Tsur.json"},
 {"id":"yadin_dudai","name":"Yadin Dudai","letter":"Y","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Yadin_Dudai.json"},
 {"id":"yair_bar_haim","name":"Yair Bar-Haim","letter":"Y","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Yair_Bar_Haim.json"},
