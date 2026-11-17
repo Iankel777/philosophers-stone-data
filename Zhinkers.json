@@ -990,8 +990,8 @@
   
 
 
-{"id":"yuval_noah_harari","name":"Yuval Noah Harari","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Yuval_Noah_Harari.json"},
-{"id":"yvan_breton","name":"Yvan Breton","letter":"Y","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Yvan_Breton.json"},
+{"id":"yuval_noah_harari","name":"Yuval Noah Harari","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg/960px-MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuval_Noah_Harari.json"},
+
 {"id":"yves_balasko","name":"Yves Balasko","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yves_Balasko.json"},
 {"id":"yves_zenou","name":"Yves Zenou","letter":"Y","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Yves_Zenou.json"},
 
