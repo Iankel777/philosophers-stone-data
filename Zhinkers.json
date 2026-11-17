@@ -985,13 +985,8 @@
   {"id":"yuri_matiyasevich","name":"Yuri Matiyasevich","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/MatiyasevichYuri_MFO9358.jpg/960px-MatiyasevichYuri_MFO9358.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuri_Matiyasevich.json"},
   {"id":"yury_gogotsi","name":"Yury Gogotsi","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Yury-Gogotsi.jpg/960px-Yury-Gogotsi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yury_Gogotsi.json"},
   {"id":"yutaka_matsuo","name":"Yutaka Matsuo","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Yutaka_Matsuo_cropped_2_Sanae_Takaichi_Fumio_Kishida_and_Yutaka_Matsuo_20231221.jpg/960px-Yutaka_Matsuo_cropped_2_Sanae_Takaichi_Fumio_Kishida_and_Yutaka_Matsuo_20231221.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yutaka_Matsuo.json"},
-
-
-  
-
-
-{"id":"yuval_noah_harari","name":"Yuval Noah Harari","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg/960px-MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuval_Noah_Harari.json"},
-{"id":"yvonne_choquet_bruhat","name":"Yvonne Choquet-Bruhat","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yvonne_Choquet_1974_%28photo_A%3B_re-scanned%2C_portioned%29.jpg/960px-Yvonne_Choquet_1974_%28photo_A%3B_re-scanned%2C_portioned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yvonne_Choquet_Bruhat.json"},
+  {"id":"yuval_noah_harari","name":"Yuval Noah Harari","letter":"Y","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg/960px-MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuval_Noah_Harari.json"},
+  {"id":"yvonne_bruhat","name":"Yvonne Bruhat","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yvonne_Choquet_1974_%28photo_A%3B_re-scanned%2C_portioned%29.jpg/960px-Yvonne_Choquet_1974_%28photo_A%3B_re-scanned%2C_portioned%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yvonne_Bruhat.json"}
 
 
   
