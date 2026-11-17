@@ -1,0 +1,63 @@
+{
+  "thinkerName":"Yaoqi Zhou",
+
+  "thinkerImage":"",
+  "imageSource":"Wikimedia Commons",
+  "imageSourceUrl":"",
+  "imageLicense":"",
+  "imageAttribution":"",
+
+  "indexLetter":"Y",
+
+  "nationality":"Chinese-American",
+
+  "occupation":"Computer Scientist, Computational Biologist, Bioinformatics Researcher",
+
+  "school":"Bioinformatics, Computational Biology, Machine Learning, Protein Science",
+
+  "born":"1966",
+
+  "died":"",
+
+  "knownFor1":"Protein Structure Prediction",
+  "knownFor2":"Computational Biology",
+  "knownFor3":"Bioinformatics Research",
+  "knownFor4":"Machine Learning Applications",
+  "knownFor5":"Protein Function Analysis",
+  "knownFor6":"Molecular Modeling",
+  "knownFor7":"Biological Data Science",
+  "knownFor8":"Structural Bioinformatics",
+
+  "legacy":"Yaoqi Zhou helped strengthen the connection between computer science and modern biology by developing computational methods for analyzing complex biological data. His research contributed to understanding protein structure, function, and interactions through the use of algorithms, statistical models, and machine learning techniques. His work has supported advances in biological research, drug discovery, and computational life sciences.",
+
+  "earlyLife":"Zhou developed strong interests in mathematics, physics, and biological sciences during his education. As computing technology became increasingly important in scientific research, he became fascinated by the challenge of applying computational methods to biological problems. This interest eventually led him toward bioinformatics and computational biology, fields that combine scientific discovery with advanced computing.",
+
+  "scientificField":"Computer Science, Bioinformatics, Computational Biology, Protein Science",
+
+  "majorContributions":"Zhou contributed to the development of computational tools for predicting protein structures, understanding molecular interactions, and analyzing biological datasets. His research explored how machine learning and statistical methods can improve understanding of complex biological systems. By creating models capable of extracting useful information from genetic and protein data, he helped advance the ability of researchers to study biological mechanisms at the molecular level.",
+
+  "laterLife":"During the later stages of his career, Zhou continued investigating biological systems through computational approaches while supporting interdisciplinary collaboration among computer scientists, biologists, and medical researchers. His work remained focused on improving predictive models and expanding the role of data-driven methods within life science research.",
+
+  "whyImportant":"Modern biology generates enormous quantities of data that cannot be effectively analyzed through traditional methods alone. Zhou's contributions helped provide researchers with computational tools capable of uncovering patterns, structures, and relationships within biological systems. His work demonstrates how computing can accelerate scientific discovery in the life sciences.",
+
+  "quote1":"Biological complexity often becomes understandable through computation.",
+  "quote2":"Data reveals its value when transformed into knowledge.",
+  "quote3":"Prediction allows science to explore new possibilities.",
+  "quote4":"Computing expands the reach of biological research.",
+  "quote5":"Patterns hidden within data can reveal fundamental principles.",
+  "quote6":"Scientific progress benefits from interdisciplinary thinking.",
+  "quote7":"Algorithms can help uncover structures invisible to direct observation.",
+  "quote8":"Discovery frequently emerges from the combination of different fields.",
+  "quote9":"Good models help explain complex phenomena.",
+  "quote10":"Machine learning expands our ability to interpret biological information.",
+  "quote11":"Research thrives where curiosity meets methodology.",
+  "quote12":"Biology and computation strengthen one another.",
+  "quote13":"Understanding proteins helps illuminate the foundations of life.",
+  "quote14":"Data-driven science depends on careful interpretation.",
+  "quote15":"Scientific knowledge advances through continual refinement.",
+  "quote16":"Prediction and explanation are complementary goals.",
+  "quote17":"Innovation often occurs at the boundaries between disciplines.",
+  "quote18":"Computational tools amplify scientific capability.",
+  "quote19":"Complex systems can reveal simple underlying patterns.",
+  "quote20":"Knowledge grows when information is organized and understood."
+}

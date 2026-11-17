@@ -1,0 +1,63 @@
+{
+  "thinkerName":"Yejin Choi",
+
+  "thinkerImage":"",
+  "imageSource":"Wikimedia Commons",
+  "imageSourceUrl":"",
+  "imageLicense":"",
+  "imageAttribution":"",
+
+  "indexLetter":"Y",
+
+  "nationality":"South Korean-American",
+
+  "occupation":"Computer Scientist, Artificial Intelligence Researcher, Professor",
+
+  "school":"Artificial Intelligence, Natural Language Processing, Machine Learning, Computational Commonsense",
+
+  "born":"1975",
+
+  "died":"",
+
+  "knownFor1":"Natural Language Processing",
+  "knownFor2":"Commonsense Reasoning",
+  "knownFor3":"AI Language Models",
+  "knownFor4":"Machine Learning Research",
+  "knownFor5":"Knowledge Representation",
+  "knownFor6":"Computational Creativity",
+  "knownFor7":"Ethical Artificial Intelligence",
+  "knownFor8":"Human-Centered AI",
+
+  "legacy":"Yejin Choi helped expand artificial intelligence beyond pattern recognition by emphasizing the importance of commonsense understanding. Her research contributed to the development of systems capable of interpreting language, context, and everyday human knowledge more effectively. By addressing aspects of reasoning that humans often take for granted, she influenced the direction of modern AI research and encouraged the creation of more useful and responsible intelligent technologies.",
+
+  "earlyLife":"Choi developed strong interests in science, mathematics, and language from an early age. Her curiosity about how people communicate and make sense of the world eventually merged with an interest in computing. Through academic study and research, she became increasingly focused on the challenge of giving machines a deeper understanding of human language and everyday reasoning.",
+
+  "scientificField":"Computer Science, Artificial Intelligence, Natural Language Processing, Machine Learning",
+
+  "majorContributions":"Choi contributed to advances in natural language processing, machine learning, and computational commonsense reasoning. Her research explored ways of enabling intelligent systems to better understand context, infer unstated information, and interact more effectively with human users. She helped develop influential datasets, benchmarks, and methodologies that improved how researchers evaluate artificial intelligence systems. Her work also promoted greater attention to ethics, safety, and societal impact within AI development.",
+
+  "laterLife":"During the later stages of her career, Choi continued leading research on language intelligence, reasoning systems, and trustworthy artificial intelligence. She became a prominent advocate for developing AI systems that are not only capable but also aligned with human values, transparency, and social responsibility.",
+
+  "whyImportant":"Many artificial intelligence systems can recognize patterns, but understanding context and commonsense remains a difficult challenge. Choi's work helped address this gap by advancing methods that bring machine reasoning closer to practical human communication and understanding. Her contributions have influenced both research and real-world AI applications.",
+
+  "quote1":"Intelligence becomes more useful when it understands context.",
+  "quote2":"Language carries meaning beyond individual words.",
+  "quote3":"Commonsense knowledge connects information to understanding.",
+  "quote4":"Artificial intelligence advances when machines learn to reason as well as predict.",
+  "quote5":"Technology should reflect human values as well as technical capability.",
+  "quote6":"Complex problems often require interdisciplinary thinking.",
+  "quote7":"Understanding language means understanding the world behind it.",
+  "quote8":"Research thrives on curiosity and careful experimentation.",
+  "quote9":"Data gains value when it reveals deeper insights.",
+  "quote10":"Human communication contains layers of implicit meaning.",
+  "quote11":"Innovation requires questioning existing assumptions.",
+  "quote12":"Responsible AI begins with thoughtful design.",
+  "quote13":"Knowledge and reasoning are powerful partners.",
+  "quote14":"The best technologies help people understand one another.",
+  "quote15":"Scientific progress benefits from diverse perspectives.",
+  "quote16":"Learning systems should be evaluated by what they truly understand.",
+  "quote17":"Context transforms information into meaning.",
+  "quote18":"Artificial intelligence remains a journey of discovery.",
+  "quote19":"Understanding is deeper than recognition alone.",
+  "quote20":"The future of AI depends on both wisdom and capability."
+}

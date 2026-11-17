@@ -1,0 +1,63 @@
+{
+  "thinkerName":"Yoshua Bengio",
+
+  "thinkerImage":"",
+  "imageSource":"Wikimedia Commons",
+  "imageSourceUrl":"",
+  "imageLicense":"",
+  "imageAttribution":"",
+
+  "indexLetter":"Y",
+
+  "nationality":"Canadian",
+
+  "occupation":"Computer Scientist, Artificial Intelligence Researcher, Professor",
+
+  "school":"Machine Learning, Deep Learning, Artificial Intelligence, Neural Networks",
+
+  "born":"1964",
+
+  "died":"",
+
+  "knownFor1":"Deep Learning",
+  "knownFor2":"Artificial Neural Networks",
+  "knownFor3":"Representation Learning",
+  "knownFor4":"Machine Learning Research",
+  "knownFor5":"Turing Award",
+  "knownFor6":"AI Safety Advocacy",
+  "knownFor7":"Probabilistic Models",
+  "knownFor8":"Modern Artificial Intelligence",
+
+  "legacy":"Yoshua Bengio helped transform artificial intelligence from a specialized research field into a foundational technology used across science, industry, and everyday life. His contributions to machine learning enabled computers to learn complex patterns from data, accelerating advances in language technologies, image analysis, scientific modeling, and intelligent systems. His influence extends beyond technical breakthroughs through his commitment to promoting responsible and beneficial development of artificial intelligence.",
+
+  "earlyLife":"Bengio developed strong interests in mathematics, logic, and computing from an early age. As computer technology advanced, he became fascinated by the possibility of creating systems that could improve through experience rather than relying entirely on hand-crafted instructions. This fascination led him toward computer science and eventually to a research career focused on how machines learn and represent knowledge.",
+
+  "scientificField":"Computer Science, Artificial Intelligence, Machine Learning, Deep Learning",
+
+  "majorContributions":"Bengio played a central role in developing many of the ideas that helped establish deep learning as one of the most successful approaches in modern artificial intelligence. His research advanced representation learning, neural network architectures, probabilistic modeling, and learning algorithms capable of extracting meaningful structure from large datasets. Through decades of scientific leadership, education, and innovation, he contributed to a technological revolution that changed how intelligent systems are built and deployed.",
+
+  "laterLife":"During the later stages of his career, Bengio continued expanding the frontiers of artificial intelligence while becoming an influential voice in discussions concerning AI safety, transparency, and governance. In addition to leading research initiatives, he encouraged international cooperation aimed at ensuring that increasingly capable AI systems remain aligned with human values and societal well-being.",
+
+  "whyImportant":"Many of today's most capable artificial intelligence systems rely on concepts and approaches that Bengio helped pioneer. His work accelerated progress across numerous scientific and technological domains while also encouraging careful consideration of how powerful intelligent technologies should be developed and utilized for the benefit of society.",
+
+  "quote1":"Learning systems become useful when they uncover structure hidden within complexity.",
+  "quote2":"Artificial intelligence advances through understanding rather than memorization.",
+  "quote3":"Scientific progress often starts by questioning accepted limits.",
+  "quote4":"Powerful technologies require equally strong responsibility.",
+  "quote5":"Knowledge emerges when patterns become meaningful.",
+  "quote6":"Curiosity remains one of the most effective research tools.",
+  "quote7":"Machine learning succeeds when data becomes understanding.",
+  "quote8":"Innovation flourishes where experimentation is encouraged.",
+  "quote9":"Intelligence is closely connected to the ability to learn.",
+  "quote10":"Research transforms ideas into practical possibilities.",
+  "quote11":"Understanding complexity requires discovering good representations.",
+  "quote12":"Technology should serve humanity's long-term interests.",
+  "quote13":"Progress in AI depends upon both creativity and evidence.",
+  "quote14":"The best discoveries often create entirely new questions.",
+  "quote15":"Scientific knowledge grows through continuous refinement.",
+  "quote16":"Powerful systems deserve thoughtful oversight.",
+  "quote17":"Learning is often more valuable than predetermined rules.",
+  "quote18":"Responsible innovation creates lasting impact.",
+  "quote19":"Understanding remains deeper than prediction alone.",
+  "quote20":"The study of intelligence remains one of humanity's greatest scientific challenges."
+}

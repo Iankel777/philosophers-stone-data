@@ -1,0 +1,63 @@
+{
+  "thinkerName":"Yuri Gurevich",
+
+  "thinkerImage":"",
+  "imageSource":"Wikimedia Commons",
+  "imageSourceUrl":"",
+  "imageLicense":"",
+  "imageAttribution":"",
+
+  "indexLetter":"Y",
+
+  "nationality":"American",
+
+  "occupation":"Computer Scientist, Mathematician, Researcher",
+
+  "school":"Theoretical Computer Science, Logic, Algorithms, Formal Methods",
+
+  "born":"1940",
+
+  "died":"",
+
+  "knownFor1":"Abstract State Machines",
+  "knownFor2":"Theoretical Computer Science",
+  "knownFor3":"Computational Logic",
+  "knownFor4":"Algorithm Theory",
+  "knownFor5":"Formal Verification",
+  "knownFor6":"Finite Model Theory",
+  "knownFor7":"Distributed Computing",
+  "knownFor8":"Foundations of Computation",
+
+  "legacy":"Yuri Gurevich helped bridge the gap between abstract mathematical theories and practical computer systems. His research provided clear frameworks for describing how algorithms operate and how complex computational processes can be represented with precision. His influence extends across theoretical computer science, software verification, and the formal analysis of modern computing systems.",
+
+  "earlyLife":"Gurevich developed strong interests in mathematics, logical reasoning, and abstract problem-solving. During his academic training he became fascinated by fundamental questions regarding computation, knowledge representation, and formal systems. These interests led him toward research at the intersection of mathematics and computer science, where he explored the principles underlying algorithmic processes.",
+
+  "scientificField":"Computer Science, Mathematical Logic, Theoretical Computer Science, Formal Methods",
+
+  "majorContributions":"Gurevich is widely known for the development of Abstract State Machines, a framework designed to model algorithms and computational systems at varying levels of abstraction while preserving their essential behavior. His work contributed to computational logic, finite model theory, algorithm specification, and system verification. By creating rigorous but practical methods for describing computation, he helped strengthen the foundations upon which modern software engineering and computer science research are built.",
+
+  "laterLife":"During the later stages of his career, Gurevich continued contributing to both academic research and industrial applications of formal methods. His work influenced the design of verification tools, computational models, and reasoning frameworks used to analyze increasingly sophisticated software and hardware systems.",
+
+  "whyImportant":"Modern computing depends upon reliable methods for understanding and verifying complex systems. Gurevich's contributions provided researchers and engineers with conceptual tools that improve the precision, reliability, and transparency of computational models. His work continues to influence both theoretical investigations and practical system design.",
+
+  "quote1":"Clear models reveal the essence of complex systems.",
+  "quote2":"Abstraction allows understanding without losing precision.",
+  "quote3":"Algorithms are best understood through their structure and behavior.",
+  "quote4":"Logic provides a foundation for reliable reasoning.",
+  "quote5":"Complexity becomes manageable when represented carefully.",
+  "quote6":"Mathematics and computation strengthen one another.",
+  "quote7":"A useful theory connects elegance with application.",
+  "quote8":"Understanding begins with accurate representation.",
+  "quote9":"Formal reasoning reduces uncertainty in complex systems.",
+  "quote10":"Good models highlight what truly matters.",
+  "quote11":"Scientific progress depends on conceptual clarity.",
+  "quote12":"Reliable systems require reliable descriptions.",
+  "quote13":"Abstraction is a tool for insight rather than simplification alone.",
+  "quote14":"Logic helps transform intuition into knowledge.",
+  "quote15":"The study of computation reveals patterns of organization.",
+  "quote16":"Precision enables deeper understanding.",
+  "quote17":"Theory becomes valuable when it illuminates practice.",
+  "quote18":"Systems can be understood at multiple levels simultaneously.",
+  "quote19":"Careful reasoning uncovers hidden structure.",
+  "quote20":"Foundational ideas often outlast specific technologies."
+}

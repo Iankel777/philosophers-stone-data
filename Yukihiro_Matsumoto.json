@@ -1,0 +1,63 @@
+{
+  "thinkerName":"Yukihiro Matsumoto",
+
+  "thinkerImage":"",
+  "imageSource":"Wikimedia Commons",
+  "imageSourceUrl":"",
+  "imageLicense":"",
+  "imageAttribution":"",
+
+  "indexLetter":"Y",
+
+  "nationality":"Japanese",
+
+  "occupation":"Programmer, Software Engineer, Programming Language Designer",
+
+  "school":"Programming Languages, Software Engineering, Object-Oriented Programming, Computer Science",
+
+  "born":"1965",
+
+  "died":"",
+
+  "knownFor1":"Ruby Programming Language",
+  "knownFor2":"Programming Language Design",
+  "knownFor3":"Object-Oriented Programming",
+  "knownFor4":"Developer Productivity",
+  "knownFor5":"Software Craftsmanship",
+  "knownFor6":"Programming Language Innovation",
+  "knownFor7":"Open Source Software",
+  "knownFor8":"Human-Centered Computing",
+
+  "legacy":"Yukihiro Matsumoto transformed software development through the creation of Ruby, a programming language designed to prioritize developer happiness and productivity. His philosophy challenged the assumption that programming languages should primarily serve machines, arguing instead that they should first serve the people who write and maintain software. His influence can be seen in modern programming language design, web development, and software engineering culture worldwide.",
+
+  "earlyLife":"Matsumoto developed an interest in mathematics, logic, literature, and computing from an early age. Fascinated by both technology and human creativity, he became interested in the relationship between programming languages and human expression. This perspective eventually guided him toward designing systems that make programming more intuitive, enjoyable, and productive.",
+
+  "scientificField":"Computer Science, Programming Languages, Software Engineering",
+
+  "majorContributions":"Matsumoto is best known for creating the Ruby programming language, which combines object-oriented design, expressive syntax, and practical flexibility. Ruby introduced an approach to programming that emphasizes readability and developer experience. The language became widely adopted for web development, automation, and application design, inspiring frameworks, tools, and communities across the software industry. His work influenced a generation of programmers and encouraged language designers to consider the human side of software creation.",
+
+  "laterLife":"During the later stages of his career, Matsumoto continued refining Ruby, supporting the global developer community, and promoting thoughtful approaches to software design. Through speaking, mentoring, and ongoing technical leadership, he remained an influential advocate for programming tools that empower creativity and reduce unnecessary complexity.",
+
+  "whyImportant":"Many modern developers have been influenced by the idea that programming languages should optimize human understanding rather than merely machine execution. Matsumoto helped popularize this perspective through Ruby, demonstrating that productivity, elegance, and enjoyment can coexist within powerful engineering tools.",
+
+  "quote1":"Programming languages should help people think more clearly.",
+  "quote2":"Technology is most valuable when it empowers creativity.",
+  "quote3":"Software should serve humans before machines.",
+  "quote4":"Simplicity is often the result of thoughtful design.",
+  "quote5":"Good tools allow ideas to flourish.",
+  "quote6":"Programming is both engineering and expression.",
+  "quote7":"Developer productivity begins with developer understanding.",
+  "quote8":"Elegant solutions are often easier to maintain.",
+  "quote9":"Innovation thrives when experimentation is encouraged.",
+  "quote10":"Code should communicate intent as clearly as possible.",
+  "quote11":"The best technologies feel natural to use.",
+  "quote12":"Creativity and discipline strengthen one another.",
+  "quote13":"Readable code creates long-term value.",
+  "quote14":"Software design is fundamentally about people.",
+  "quote15":"Useful abstractions reduce complexity without hiding meaning.",
+  "quote16":"Learning becomes easier when tools are approachable.",
+  "quote17":"Programming languages shape how developers solve problems.",
+  "quote18":"Productivity grows from clarity rather than speed alone.",
+  "quote19":"Technology should make difficult tasks more accessible.",
+  "quote20":"Well-designed systems encourage both understanding and innovation."
+}
