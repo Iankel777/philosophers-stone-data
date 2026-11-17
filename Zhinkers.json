@@ -989,11 +989,11 @@
 
 
 
-{"id":"yuri_gurevich","name":"Yuri Gurevich","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yuri_Gurevich.json"},
-{"id":"yuri_manin","name":"Yuri Manin","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yuri_Manin.json"},
-{"id":"yuri_matiyasevich","name":"Yuri Matiyasevich","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Yuri_Matiyasevich.json"},
-{"id":"yury_gogotsi","name":"Yury Gogotsi","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Yury_Gogotsi.json"},
-{"id":"yury_voronoy","name":"Yury Voronoy","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Yury_Voronoy.json"},
+{"id":"yuri_gurevich","name":"Yuri Gurevich","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Yuri_Gurevich_ETH_Zurich_cropped.JPG/960px-Yuri_Gurevich_ETH_Zurich_cropped.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuri_Gurevich.json"},
+{"id":"yuri_manin","name":"Yuri Manin","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Yuri_I._Manin.jpg/960px-Yuri_I._Manin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuri_Manin.json"},
+{"id":"yuri_matiyasevich","name":"Yuri Matiyasevich","letter":"Y","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/MatiyasevichYuri_MFO9358.jpg/960px-MatiyasevichYuri_MFO9358.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yuri_Matiyasevich.json"},
+{"id":"yury_gogotsi","name":"Yury Gogotsi","letter":"Y","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Yury-Gogotsi.jpg/960px-Yury-Gogotsi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Yury_Gogotsi.json"},
+
 {"id":"yutaka_matsuo","name":"Yutaka Matsuo","letter":"Y","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Yutaka_Matsuo.json"},
 {"id":"yutaka_takahashi","name":"Yutaka Takahashi","letter":"Y","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Yutaka_Takahashi.json"},
 
