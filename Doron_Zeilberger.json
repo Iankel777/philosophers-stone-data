@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Doron Zeilberger",
+
+  "thinkerImage": "",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "Z",
+
+  "nationality": "Israeli-American",
+
+  "occupation": "Mathematician, Combinatorialist, Mathematical Researcher",
+
+  "school": "Combinatorics, Discrete Mathematics, Computer-Assisted Mathematics",
+
+  "born": "2 July 1950",
+
+  "died": "",
+
+  "knownFor1": "Enumerative Combinatorics",
+  "knownFor2": "Computer-Assisted Proofs",
+  "knownFor3": "Discrete Mathematics",
+  "knownFor4": "Hypergeometric Identities",
+  "knownFor5": "Algorithmic Mathematics",
+  "knownFor6": "Wilf-Zeilberger Theory",
+  "knownFor7": "Symbolic Computation",
+  "knownFor8": "Experimental Mathematics",
+
+  "legacy": "Doron Zeilberger became one of the most influential advocates of computer-assisted mathematics, demonstrating that computers can play an active role in discovering and verifying mathematical results. His work challenged traditional assumptions about mathematical practice and helped establish new approaches that combine human insight with computational power. His contributions encouraged mathematicians to view computation as a partner in mathematical discovery rather than merely a calculation tool.",
+
+  "earlyLife": "Zeilberger developed a strong interest in mathematics during his early education and was attracted to problems involving patterns, logic, and abstract structures. His academic training exposed him to combinatorics and discrete mathematics, fields that would later become central to his research. From an early stage, he showed a willingness to explore unconventional approaches to mathematical investigation.",
+
+  "scientificField": "Mathematics, Combinatorics, Discrete Mathematics, Symbolic Computation",
+
+  "majorContributions": "Zeilberger made important contributions to combinatorics, algorithmic proof techniques, and symbolic computation. He helped develop methods that allow computers to assist in proving mathematical identities and solving complex combinatorial problems. His work on automated reasoning and experimental mathematics demonstrated how computational tools could accelerate discovery and provide new perspectives on longstanding mathematical questions.",
+
+  "laterLife": "As his influence grew, Zeilberger became a prominent voice in discussions about the future of mathematics and the role of technology in research. Through publications, lectures, and software development, he continued promoting computational approaches that expanded the capabilities of mathematical investigation. His later work further explored the relationship between creativity, proof, and computation.",
+
+  "whyImportant": "Modern mathematics increasingly relies upon computational tools to explore large datasets, test conjectures, and verify complex results. Zeilberger's work helped establish many of the conceptual foundations for this approach. His contributions strengthened the connection between mathematics and computer science while opening new possibilities for mathematical discovery.",
+
+  "quote1": "Computers expand the reach of mathematical imagination.",
+  "quote2": "Patterns become clearer when explored systematically.",
+  "quote3": "Discovery often begins with experimentation.",
+  "quote4": "Mathematics evolves alongside its tools.",
+  "quote5": "A good algorithm can reveal hidden structure.",
+  "quote6": "Curiosity drives both proof and exploration.",
+  "quote7": "Computation creates new opportunities for insight.",
+  "quote8": "Every theorem begins as a question.",
+  "quote9": "Mathematical progress rewards creativity and rigor.",
+  "quote10": "Experimentation can guide formal understanding.",
+  "quote11": "Complex problems often yield to systematic methods.",
+  "quote12": "Technology expands the horizons of research.",
+  "quote13": "Patterns connect seemingly distant ideas.",
+  "quote14": "Knowledge advances through both proof and exploration.",
+  "quote15": "Algorithms are powerful partners in discovery.",
+  "quote16": "Mathematics thrives on new perspectives.",
+  "quote17": "Innovation emerges when traditions are reexamined.",
+  "quote18": "The search for structure drives mathematical inquiry.",
+  "quote19": "Every solved problem reveals deeper questions.",
+  "quote20": "The future of mathematics includes both minds and machines."
+}

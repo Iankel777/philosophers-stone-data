@@ -1,0 +1,63 @@
+{
+  "thinkerName": "Zachary Tatlock",
+
+  "thinkerImage": "",
+  "imageSource": "Wikimedia Commons",
+  "imageSourceUrl": "",
+  "imageLicense": "",
+  "imageAttribution": "",
+
+  "indexLetter": "Z",
+
+  "nationality": "American",
+
+  "occupation": "Computer Scientist, Programming Languages Researcher, Software Reliability Researcher",
+
+  "school": "Programming Languages, Verified Computing, Software Correctness",
+
+  "born": "1980s",
+
+  "died": "",
+
+  "knownFor1": "Programming Languages",
+  "knownFor2": "Verified Computing",
+  "knownFor3": "Software Reliability",
+  "knownFor4": "Formal Verification",
+  "knownFor5": "Computer Systems Research",
+  "knownFor6": "Compiler Technology",
+  "knownFor7": "Correctness Testing",
+  "knownFor8": "Dependable Software",
+
+  "legacy": "Zachary Tatlock is known for advancing methods that make software systems more trustworthy and easier to verify. His work has emphasized the importance of building computational tools that can be proven to behave correctly, helping bridge the gap between theoretical computer science and practical software engineering.",
+
+  "earlyLife": "Tatlock developed interests in mathematics, logic, and computing during his early education. Fascinated by both how software is created and how mistakes emerge in complex systems, he pursued studies that combined rigorous reasoning with real-world computing challenges.",
+
+  "scientificField": "Computer Science, Programming Languages, Software Verification, Computer Systems",
+
+  "majorContributions": "Tatlock has contributed to research focused on improving software correctness, developing verification techniques, and designing systems that help programmers identify errors before deployment. His work explores ways to increase confidence in software behavior while maintaining efficiency and usability. He has also supported the development of tools that combine automated analysis with practical programming workflows.",
+
+  "laterLife": "As his research career matured, Tatlock became recognized as an advocate for stronger guarantees in software development. Through teaching, mentorship, and collaborative research projects, he helped promote approaches that encourage reliability, transparency, and scientific rigor in computing systems.",
+
+  "whyImportant": "Modern infrastructure depends on software that must function reliably under demanding conditions. Tatlock's research contributes to techniques that reduce the likelihood of critical errors and improve confidence in computational systems. His work supports the broader goal of creating software that is both powerful and dependable.",
+
+  "quote1": "Reliable software begins long before a program is executed.",
+  "quote2": "Every verification step adds confidence to a system.",
+  "quote3": "Correctness is an investment in the future of technology.",
+  "quote4": "A better understanding of code leads to better outcomes.",
+  "quote5": "Complex systems reward careful design.",
+  "quote6": "Trustworthy computing depends on disciplined engineering.",
+  "quote7": "Automation is strongest when paired with clear reasoning.",
+  "quote8": "Software quality grows from continuous examination.",
+  "quote9": "A precise specification guides meaningful progress.",
+  "quote10": "Dependability is a feature, not an afterthought.",
+  "quote11": "Verification transforms assumptions into evidence.",
+  "quote12": "Well-designed tools amplify human capability.",
+  "quote13": "Innovation succeeds when reliability grows alongside complexity.",
+  "quote14": "Understanding failures is a path toward improvement.",
+  "quote15": "Careful analysis uncovers hidden opportunities.",
+  "quote16": "Computing advances through both theory and practice.",
+  "quote17": "Strong foundations support resilient technologies.",
+  "quote18": "Clear reasoning helps manage difficult systems.",
+  "quote19": "Progress is built upon tested ideas.",
+  "quote20": "Trusted software enables trusted societies."
+}
