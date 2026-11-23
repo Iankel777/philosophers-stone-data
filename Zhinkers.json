@@ -995,13 +995,11 @@
 
 {"id":"zbigniew_brzezinski","name":"Zbigniew Brzezinski","letter":"Z","category":"Political Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Zbigniew_Brzezinski%2C_1977.jpg/960px-Zbigniew_Brzezinski%2C_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zbigniew_Brzezinski.json"},
 {"id":"zbigniew_lipowski","name":"Zbigniew Lipowski","letter":"Z","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Zbigniewlipowski.gif/960px-Zbigniewlipowski.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zbigniew_Lipowski.json"},
+{"id":"zdenek_frolik","name":"Zdenek Frolik","letter":"Z","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Zbyn%C4%9Bk_Frol%C3%ADk.jpg/960px-Zbyn%C4%9Bk_Frol%C3%ADk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zdenek_Frolik.json"},
 
 
 
   
-  
-{"id":"zdenek_frolik","name":"Zdenek Frolik","letter":"Z","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Zdenek_Frolik.json"},
-{"id":"zdenek_salzmann","name":"Zdenek Salzmann","letter":"Z","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Zdenek_Salzmann.json"},
 {"id":"zecharia_sitchin","name":"Zecharia Sitchin","letter":"Z","category":"History","legend":true,"visible":true,"image":"","jsonFile":"Zecharia_Sitchin.json"},
 {"id":"zeev_kain","name":"Zeev Kain","letter":"Z","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Zeev_Kain.json"},
 {"id":"zehra_arat","name":"Zehra Arat","letter":"Z","category":"Political Science","legend":true,"visible":true,"image":"","jsonFile":"Zehra_Arat.json"},
