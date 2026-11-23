@@ -1007,7 +1007,6 @@
   
 {"id":"zhores_alferov","name":"Zhores Alferov","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Zhores_Alferov_April_2016.jpg/960px-Zhores_Alferov_April_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zhores_Alferov.json"},
 
-{"id":"zhu_han","name":"Zhu Han","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Zhu_Han.json"},
 {"id":"zhuangzi","name":"Zhuangzi","letter":"Z","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Zhuangzi.json"},
 
   
