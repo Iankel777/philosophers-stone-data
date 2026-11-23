@@ -1005,7 +1005,7 @@
 
 
   
-{"id":"zhengdao_lee","name":"Zhengdao Lee","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Zhengdao_Lee.json"},
+
 {"id":"zhijian_chen","name":"Zhijian Chen","letter":"Z","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Zhijian_Chen.json"},
 {"id":"zhores_alferov","name":"Zhores Alferov","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"","jsonFile":"Zhores_Alferov.json"},
 {"id":"zhou_qiren","name":"Zhou Qiren","letter":"Z","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Zhou_Qiren.json"},
