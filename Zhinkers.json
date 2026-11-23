@@ -1002,7 +1002,7 @@
   {"id":"zhang_shoucheng","name":"Zhang Shoucheng","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/SC_Zhang_%28cropped%29.jpg/960px-SC_Zhang_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zhang_Shoucheng.json"},
   {"id":"zhang_weiying","name":"Zhang Weiying","letter":"Z","category":"Economics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Zhang%2C_Weiying.jpg/960px-Zhang%2C_Weiying.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zhang_Weiying.json"},
   {"id":"zhores_alferov","name":"Zhores Alferov","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Zhores_Alferov_April_2016.jpg/960px-Zhores_Alferov_April_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zhores_Alferov.json"},
-  {"id":"zvi_galil","name":"Zvi Galil","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Zvi_Galil.png/960px-Zvi_Galil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zvi_Galil.json"},
+  {"id":"zvi_galil","name":"Zvi Galil","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Zvi_Galil.png/960px-Zvi_Galil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zvi_Galil.json"}
 
 
   
