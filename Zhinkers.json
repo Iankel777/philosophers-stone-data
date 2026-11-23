@@ -997,13 +997,10 @@
 {"id":"zbigniew_lipowski","name":"Zbigniew Lipowski","letter":"Z","category":"Psychiatry","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Zbigniewlipowski.gif/960px-Zbigniewlipowski.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zbigniew_Lipowski.json"},
 {"id":"zdenek_frolik","name":"Zdenek Frolik","letter":"Z","category":"Mathematics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Zbyn%C4%9Bk_Frol%C3%ADk.jpg/960px-Zbyn%C4%9Bk_Frol%C3%ADk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zdenek_Frolik.json"},
 {"id":"zecharia_sitchin","name":"Zecharia Sitchin","letter":"Z","category":"History","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Zecharia_Sitchin.webp/960px-Zecharia_Sitchin.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zecharia_Sitchin.json"},
-
-
-  
-
-{"id":"zeno_of_citium","name":"Zeno of Citium","letter":"Z","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Zeno_of_Citium.json"},
+{"id":"zeno_of_citium","name":"Zeno of Citium","letter":"Z","category":"Philosophy","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ilustracion_de_Zenon_de_Citio.jpg/960px-Ilustracion_de_Zenon_de_Citio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zeno_of_Citium.json"},
 
   
+
   
 {"id":"zeno_of_elea","name":"Zeno of Elea","letter":"Z","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Zeno_of_Elea.json"},
 {"id":"zeshan_ahmed","name":"Zeshan Ahmed","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Zeshan_Ahmed.json"},
