@@ -1002,8 +1002,7 @@
   
 {"id":"zecharia_sitchin","name":"Zecharia Sitchin","letter":"Z","category":"History","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Zecharia_Sitchin.webp/960px-Zecharia_Sitchin.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zecharia_Sitchin.json"},
 
-  
-{"id":"zehra_arat","name":"Zehra Arat","letter":"Z","category":"Political Science","legend":true,"visible":true,"image":"","jsonFile":"Zehra_Arat.json"},
+
 {"id":"zeinab_bahrani","name":"Zeinab Bahrani","letter":"Z","category":"Archaeology","legend":true,"visible":true,"image":"","jsonFile":"Zeinab_Bahrani.json"},
 {"id":"zelia_nuttall","name":"Zelia Nuttall","letter":"Z","category":"Anthropology","legend":true,"visible":true,"image":"","jsonFile":"Zelia_Nuttall.json"},
 {"id":"zeno_of_citium","name":"Zeno of Citium","letter":"Z","category":"Philosophy","legend":true,"visible":true,"image":"","jsonFile":"Zeno_of_Citium.json"},
