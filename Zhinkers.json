@@ -1009,9 +1009,7 @@
 
 
 
-  
-  
-{"id":"ziad_memish","name":"Ziad Memish","letter":"Z","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Ziad_Memish.json"},
+
 {"id":"ziva_kunda","name":"Ziva Kunda","letter":"Z","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Ziva_Kunda.json"},
 {"id":"zofia_kielan_jaworowska","name":"Zofia Kielan-Jaworowska","letter":"Z","category":"Biology","legend":true,"visible":true,"image":"","jsonFile":"Zofia_Kielan_Jaworowska.json"},
 {"id":"zohar_argov","name":"Zohar Argov","letter":"Z","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Zohar_Argov.json"},
