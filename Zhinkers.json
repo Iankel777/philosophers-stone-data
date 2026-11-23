@@ -1008,9 +1008,6 @@
 {"id":"zhores_alferov","name":"Zhores Alferov","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Zhores_Alferov_April_2016.jpg/960px-Zhores_Alferov_April_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zhores_Alferov.json"},
 
 
-{"id":"zohar_manna","name":"Zohar Manna","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Zohar_Manna.json"},
-
-  
   
 {"id":"zoltan_dienes","name":"Zoltan Dienes","letter":"Z","category":"Psychology","legend":true,"visible":true,"image":"","jsonFile":"Zoltan_Dienes.json"},
 {"id":"zoltan_vamos","name":"Zoltan Vamos","letter":"Z","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Zoltan_Vamos.json"},
