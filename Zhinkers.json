@@ -1008,7 +1008,6 @@
 {"id":"zhores_alferov","name":"Zhores Alferov","letter":"Z","category":"Physics","legend":true,"visible":true,"image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Zhores_Alferov_April_2016.jpg/960px-Zhores_Alferov_April_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","jsonFile":"Zhores_Alferov.json"},
 
 
-{"id":"zul_merali","name":"Zul Merali","letter":"Z","category":"Psychiatry","legend":true,"visible":true,"image":"","jsonFile":"Zul_Merali.json"},
 {"id":"zvi_ben_dor_benite","name":"Zvi Ben-Dor Benite","letter":"Z","category":"History","legend":true,"visible":true,"image":"","jsonFile":"Zvi_Ben_Dor_Benite.json"},
 {"id":"zvi_galil","name":"Zvi Galil","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Zvi_Galil.json"},
 {"id":"zvi_griliches","name":"Zvi Griliches","letter":"Z","category":"Economics","legend":true,"visible":true,"image":"","jsonFile":"Zvi_Griliches.json"}
