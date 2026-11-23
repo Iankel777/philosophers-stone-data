@@ -993,8 +993,6 @@
 
   
 
-
-{"id":"oscar_zariski","name":"Oscar Zariski","letter":"Z","category":"Mathematics","legend":true,"visible":true,"image":"","jsonFile":"Oscar_Zariski.json"},
 {"id":"zachary_tatlock","name":"Zachary Tatlock","letter":"Z","category":"Computer Science","legend":true,"visible":true,"image":"","jsonFile":"Zachary_Tatlock.json"},
 {"id":"zane_cohen","name":"Zane Cohen","letter":"Z","category":"Medicine","legend":true,"visible":true,"image":"","jsonFile":"Zane_Cohen.json"},
 {"id":"zbigniew_brzezinski","name":"Zbigniew Brzezinski","letter":"Z","category":"Political Science","legend":true,"visible":true,"image":"","jsonFile":"Zbigniew_Brzezinski.json"},
